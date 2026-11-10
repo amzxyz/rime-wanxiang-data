@@ -96745,7 +96745,7 @@ sort: by_weight
 军中得勇名	jūn zhōng dé yǒng míng	10
 郡中登眺处	jùn zhōng dēng tiào chù	10
 郡中多山水	jùn zhōng duō shān shuǐ	10
-军中多宴乐	jūn zhōng duō yàn lè	10
+军中多宴乐	jūn zhōng duō yàn yuè	10
 军中二十日	jūn zhōng èr shí rì	10
 军中日无事	jūn zhōng rì wú shì	10
 军中始吹角	jūn zhōng shǐ chuī jiǎo	10
@@ -104812,7 +104812,7 @@ sort: by_weight
 良辰难再追	liáng chén nán zài zhuī	10
 良辰岂复追	liáng chén qǐ fù zhuī	10
 良辰且欢悦	liáng chén qiě huān yuè	10
-良辰且燕乐	liáng chén qiě yàn lè	10
+良辰且燕乐	liáng chén qiě yàn yuè	10
 良辰倾四美	liáng chén qīng sì měi	10
 良辰日夜去	liáng chén rì yè qù	10
 梁尘随歌飞	liáng chén suí gē fēi	10
@@ -167557,7 +167557,7 @@ sort: by_weight
 退朝还公府	tuì cháo hái gōng fǔ	10
 退朝花底散	tuì cháo huā dǐ sàn	10
 退朝鸣玉会	tuì cháo míng yù huì	10
-退朝追宴乐	tuì cháo zhuī yàn lè	10
+退朝追宴乐	tuì cháo zhuī yàn yuè	10
 推车转天轮	tuī chē zhuǎn tiān lún	10
 推诚奠一卮	tuī chéng diàn yī zhī	10
 推诚废钩距	tuī chéng fèi gōu jù	10
@@ -191122,7 +191122,7 @@ sort: by_weight
 熊虎杂龙蛇	xióng hǔ zá lóng shé	10
 胸怀府万物	xiōng huái fǔ wàn wù	10
 胸怀豁清夜	xiōng huái huō qīng yè	10
-胸怀郁垒块	xiōng huái yù lěi kuài	10
+胸怀郁垒块	xiōng huái yù lǜ kuài	10
 雄黄假名石	xióng huáng jiǎ míng shí	10
 雄浑李陵诗	xióng hún lǐ líng shī	10
 雄鸡叫东白	xióng jī jiào dōng bái	10
@@ -192140,7 +192140,7 @@ sort: by_weight
 需云遍枯槁	xū yún biàn kū gǎo	10
 嘘云吐雾雨	xū yún tǔ wù yǔ	10
 徐郓兄弟国	xú yùn xiōng dì guó	10
-需云宴乐初	xū yún yàn lè chū	10
+需云宴乐初	xū yún yàn yuè chū	10
 勖哉沧洲心	xù zāi cāng zhōu xīn	10
 虚栽五株柳	xū zāi wǔ zhū liǔ	10
 吁哉蒸人苦	xū zāi zhēng rén kǔ	10
@@ -194514,7 +194514,6 @@ sort: by_weight
 岩廊惟眷顾	yán láng wéi juàn gù	10
 岩廊挹大猷	yán láng yì dà yóu	10
 严郎置兹楼	yán láng zhì zī lóu	10
-宴乐方嘤鸣	yàn lè fāng yīng míng	10
 掩泪悲千古	yǎn lèi bēi qiān gǔ	10
 掩泪别乡里	yǎn lèi bié xiāng lǐ	10
 掩泪出故房	yǎn lèi chū gù fáng	10
@@ -195608,6 +195607,7 @@ sort: by_weight
 炎月北窗下	yán yuè běi chuāng xià	10
 烟月唱清绵	yān yuè chàng qīng mián	10
 炎月得凉夜	yán yuè dé liáng yè	10
+宴乐方嘤鸣	yàn yuè fāng yīng míng	10
 沿月沸笙竽	yán yuè fèi shēng yú	10
 烟月共苍苍	yān yuè gòng cāng cāng	10
 烟月古隋城	yān yuè gǔ suí chéng	10
@@ -202824,7 +202824,7 @@ sort: by_weight
 遗佚而不怨	yí yì ér bú yuàn	10
 一一芳心插	yī yī fāng xīn chā	10
 一一非常才	yī yī fēi cháng cái	10
-亦以废燕乐	yì yǐ fèi yàn lè	10
+亦以废燕乐	yì yǐ fèi yàn yuè	10
 一一风轮转	yī yī fēng lún zhuǎn	10
 翼翼奉先规	yì yì fèng xiān guī	10
 已矣复何见	yǐ yǐ fù hé jiàn	10
@@ -209401,7 +209401,7 @@ sort: by_weight
 犹言惜旧年	yóu yán xī jiù nián	10
 幽岩仙桂满	yōu yán xiān guì mǎn	10
 有渰兴南岑	yǒu yǎn xīng nán cén	10
-犹言宴乐少	yóu yán yàn lè shǎo	10
+犹言宴乐少	yóu yán yàn yuè shǎo	10
 犹言意如故	yóu yán yì rú gù	10
 游宴以为恒	yóu yàn yǐ wéi héng	10
 游衍益相思	yóu yǎn yì xiāng sī	10
@@ -225752,7 +225752,7 @@ sort: by_weight
 舟虚小洞房	zhōu xū xiǎo dòng fáng	10
 周旋本师训	zhōu xuán běn shī xùn	10
 周旋必邹鲁	zhōu xuán bì zōu lǔ	10
-周旋多燕乐	zhōu xuán duō yàn lè	10
+周旋多燕乐	zhōu xuán duō yàn yuè	10
 周旋梁宋间	zhōu xuán liáng sòng jiān	10
 周旋涉涂潦	zhōu xuán shè tú lǎo	10
 周旋溲勃间	zhōu xuán sōu bó jiān	10
@@ -227363,6 +227363,7 @@ sort: by_weight
 专城复任贤	zhuān chéng fù rèn xián	10
 专城未四十	zhuān chéng wèi sì shí	10
 篆垂朝露滴	zhuàn chuí zhāo lù dī	10
+赚得羊车来	zhuàn de yáng chē lái	10
 转调二郎神	zhuǎn diào èr láng shén	10
 转调踏莎行	zhuǎn diào tà suō xíng	10
 转斗黄河北	zhuǎn dòu huáng hé běi	10
@@ -230215,7 +230216,6 @@ sort: by_weight
 祖宗玄泽远	zǔ zong xuán zé yuǎn	10
 卒卒周姬旦	zú zú zhōu jī dàn	10
 阻作南楼客	zǔ zuò nán lóu kè	10
-赚得羊车来	zuàn de yáng chē lái	10
 钻龟得雨卦	zuān guī dé yǔ guà	10
 钻火见樵人	zuàn huǒ jiàn qiáo rén	10
 纂圣德重光	zuǎn shèng dé chóng guāng	10
@@ -239263,6 +239263,7 @@ sort: by_weight
 祝予心兮何欲	zhù yǔ xīn xī hé yù	10
 祝予心之无涯	zhù yǔ xīn zhī wú yá	10
 竹竹披山连谷	zhú zhú pī shān lián gǔ	10
+赚得小鸿眉黛	zhuàn de xiǎo hóng méi dài	10
 转教人忆春山	zhuǎn jiāo rén yì chūn shān	10
 转徙於江湖间	zhuǎn xǐ yú jiāng hú jiān	10
 庄暴见孟子曰	zhuāng bào jiàn mèng zǐ yuē	10
@@ -239384,7 +239385,6 @@ sort: by_weight
 足踏天庭鼓舞	zú tà tiān tíng gǔ wǔ	10
 足扬光于载籍	zú yáng guāng yú zài jí	10
 阻雨未遂驰贺	zǔ yǔ wèi suì chí hè	10
-赚得小鸿眉黛	zuàn de xiǎo hóng méi dài	10
 醉后呈崔大夫	zuì hòu chéng cuī dài fū	10
 醉后却寄元九	zuì hòu què jì yuán jiǔ	10
 醉后重赠晦叔	zuì hòu zhòng zèng huì shū	10
@@ -270605,7 +270605,7 @@ sort: by_weight
 今日行年将七十	jīn rì xíng nián jiāng qī shí	10
 尽日行行荆棘里	jìn rì xíng xíng jīng jí lǐ	10
 今日宣城读书客	jīn rì xuān chéng dú shū kè	10
-今日悬弧宴乐酣	jīn rì xuán hú yàn lè hān	10
+今日悬弧宴乐酣	jīn rì xuán hú yàn yuè hān	10
 今日寻师始一来	jīn rì xún shī shǐ yì lái	10
 今日掩留君按节	jīn rì yǎn liú jūn àn jié	10
 今日阳春一妙曲	jīn rì yáng chūn yī miào qǔ	10
@@ -295816,7 +295816,7 @@ sort: by_weight
 声早鸡先知夜短	shēng zǎo jī xiān zhī yè duǎn	10
 圣藻凌云裁柏赋	shèng zǎo líng yún cái bǎi fù	10
 圣泽曾随笔下多	shèng zé céng suí bǐ xià duō	10
-圣泽阳和宜宴乐	shèng zé yáng hé yí yàn lè	10
+圣泽阳和宜宴乐	shèng zé yáng hé yí yàn yuè	10
 生憎久闭金铺暗	shēng zēng jiǔ bì jīn pū àn	10
 生憎柳絮白于绵	shēng zēng liǔ xù bái yú mián	10
 生憎燕子千般语	shēng zēng yàn zi qiān bān yǔ	10
@@ -304904,7 +304904,7 @@ sort: by_weight
 未尝终日不思颍	wèi cháng zhōng rì bù sī yǐng	10
 未掣鲸鱼碧海中	wèi chè jīng yú bì hǎi zhōng	10
 微臣抃舞咏康哉	wēi chén biàn wǔ yǒng kāng zāi	10
-微臣此时承宴乐	wēi chén cǐ shí chéng yàn lè	10
+微臣此时承宴乐	wēi chén cǐ shí chéng yàn yuè	10
 惟臣附於大邑周	wéi chén fù yú dà yì zhōu	10
 微臣窃抃预闻韶	wēi chén qiè biàn yù wén sháo	10
 微臣昔忝方明御	wēi chén xī tiǎn fāng míng yù	10
@@ -307661,7 +307661,7 @@ sort: by_weight
 乌府先生铁作肝	wū fǔ xiān shēng tiě zuò gān	10
 无复新诗题壁上	wú fù xīn shī tí bì shàng	10
 无复新妆艳红粉	wú fù xīn zhuāng yàn hóng fěn	10
-无复瑶池宴乐心	wú fù yáo chí yàn lè xīn	10
+无复瑶池宴乐心	wú fù yáo chí yàn yuè xīn	10
 乌府一抛霜简去	wū fǔ yì pāo shuāng jiǎn qù	10
 无复追缘往事心	wú fù zhuī yuán wǎng shì xīn	10
 物感人情有浅深	wù gǎn rén qíng yǒu qiǎn shēn	10
@@ -312700,7 +312700,7 @@ sort: by_weight
 新年时候梦残妆	xīn nián shí hou mèng cán zhuāng	10
 新年桃李为谁开	xīn nián táo lǐ wèi shuí kāi	10
 心念我皇多嗜欲	xīn niàn wǒ huáng duō shì yù	10
-新年宴乐坐东朝	xīn nián yàn lè zuò dōng cháo	10
+新年宴乐坐东朝	xīn nián yàn yuè zuò dōng cháo	10
 新年已赐黄封酒	xīn nián yǐ cì huáng fēng jiǔ	10
 新年尤觉此语悲	xīn nián yóu jué cǐ yǔ bēi	10
 新年雨雪少晴时	xīn nián yǔ xuě shǎo qíng shí	10
@@ -314880,8 +314880,6 @@ sort: by_weight
 眼眶泪滴深两眸	yǎn kuàng lèi dī shēn liǎng móu	10
 淹烂庭花不肯休	yān làn tíng huā bù kěn xiū	10
 严老呼为一串珠	yán lǎo hū wéi yí chuàn zhū	10
-宴乐宁知白日短	yàn lè níng zhī bái rì duǎn	10
-宴乐已深鱼藻咏	yàn lè yǐ shēn yú zǎo yǒng	10
 烟里挥毫对青阁	yān lǐ huī háo duì qīng gé	10
 眼力少将寻案牍	yǎn lì shào jiàng xún àn dú	10
 崦里桃花逢女冠	yān lǐ táo huā féng nǚ guān	10
@@ -315213,6 +315211,8 @@ sort: by_weight
 颜渊问乎仲尼曰	yán yuān wèn hū zhòng ní yuē	10
 颜渊问于仲尼曰	yán yuān wèn yú zhòng ní yuē	10
 烟月苍苍风瑟瑟	yān yuè cāng cāng fēng sè sè	10
+宴乐宁知白日短	yàn yuè níng zhī bái rì duǎn	10
+宴乐已深鱼藻咏	yàn yuè yǐ shēn yú zǎo yǒng	10
 烟云好处无多子	yān yún hǎo chù wú duō zǐ	10
 烟云厚薄皆可爱	yān yún hòu bó jiē kě ài	10
 眼晕见花真是病	yǎn yùn jiàn huā zhēn shì bìng	10
@@ -318852,7 +318852,6 @@ sort: by_weight
 一言和同解千结	yì yán hé tóng jiě qiān jié	10
 已厌交欢怜枕席	yǐ yàn jiāo huān lián zhěn xí	10
 一雁近从沙觜落	yī yàn jìn cóng shā zī luò	10
-以燕乐嘉宾之心	yǐ yàn lè jiā bīn zhī xīn	10
 倚岩楼上挂朱栊	yǐ yán lóu shàng guà zhū lóng	10
 一雁南飞动客心	yī yàn nán fēi dòng kè xīn	10
 一雁能传寄远书	yī yàn néng chuán jì yuǎn shū	10
@@ -318863,6 +318862,7 @@ sort: by_weight
 已厌微官忆旧游	yǐ yàn wēi guān yì jiù yóu	10
 一言为重百金轻	yī yán wéi zhòng bǎi jīn qīng	10
 一言一笑玉墀上	yī yán yí xiào yù chí shàng	10
+以燕乐嘉宾之心	yǐ yàn yuè jiā bīn zhī xīn	10
 一言置我二刘间	yì yán zhì wǒ èr liú jiān	10
 一样悲欢逐逝波	yí yàng bēi huān zhú shì bō	10
 宜阳城下草萋萋	yí yáng chéng xià cǎo qī qī	10

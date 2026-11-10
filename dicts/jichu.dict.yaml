@@ -26287,9 +26287,9 @@ sort: by_weight
 都存	dōu cún	223
 都错	dōu cuò	182
 都打	dōu dǎ	1802
-斗大	dǒu dà	1419
-都大	dōu dà	1135
-豆大	dòu dà	1063
+都大	dōu dà	1419
+豆大	dòu dà	1135
+斗大	dǒu dà	1063
 都带	dōu dài	1523
 豆袋	dòu dài	1447
 斗胆	dǒu dǎn	1922
@@ -29971,6 +29971,7 @@ sort: by_weight
 阀盘	fá pán	198
 发胖	fā pàng	1586
 发泡	fā pào	926
+罚跑	fá pǎo	288
 发炮	fā pào	150
 法袍	fǎ páo	120
 发配	fā pèi	528
@@ -32386,7 +32387,7 @@ sort: by_weight
 分居	fēn jū	1095
 分句	fēn jù	602
 分卷	fēn juǎn	289
-芬军	fēn jūn	580
+分均	fēn jūn	580
 分开	fēn kāi	21534
 愤慨	fèn kǎi	1290
 分科	fēn kē	816
@@ -32483,8 +32484,8 @@ sort: by_weight
 分频	fēn pín	311
 分屏	fēn píng	1815
 粉扑	fěn pū	132
-分歧	fēn qí	6537
-分期	fēn qī	6367
+分期	fēn qī	6567
+分歧	fēn qí	5537
 奋起	fèn qǐ	2207
 纷起	fēn qǐ	901
 分岐	fēn qí	528
@@ -44184,8 +44185,9 @@ sort: by_weight
 豪生	háo shēng	282
 号声	hào shēng	225
 好事	hǎo shì	8261
-耗时	hào shí	8088
-好使	hǎo shǐ	2157
+好使	hǎo shǐ	8088
+耗时	hào shí	2157
+好是	hǎo shì	829
 好时	hǎo shí	430
 好食	hǎo shí	344
 好湿	hǎo shī	275
@@ -49187,7 +49189,8 @@ sort: by_weight
 换台	huàn tái	744
 换胎	huàn tāi	709
 环台	huán tái	603
-桓台	huán tái	543
+欢太	huān tài	543
+桓台	huán tái	482
 环肽	huán tài	312
 换汤	huàn tāng	38
 换套	huàn tào	796
@@ -71723,6 +71726,7 @@ sort: by_weight
 林间	lín jiān	776
 临建	lín jiàn	737
 临检	lín jiǎn	698
+临键	lín jiàn	201
 临槛	lín jiàn	12
 临江	lín jiāng	386
 临界	lín jiè	1526
@@ -108398,6 +108402,7 @@ sort: by_weight
 输了	shū le	16620
 熟了	shú le	4003
 数了	shù le	1400
+署乐	shǔ lè	252
 疏勒	shū lè	244
 舒了	shū le	128
 梳了	shū le	102
@@ -124103,6 +124108,7 @@ sort: by_weight
 未准	wèi zhǔn	801
 围桌	wéi zhuō	31
 位子	wèi zi	3294
+位姿	wèi zī	593
 薇姿	wēi zī	511
 为子	wéi zǐ	157
 微子	wēi zǐ	125
@@ -131328,6 +131334,7 @@ sort: by_weight
 校董	xiào dǒng	112
 小豆	xiǎo dòu	214
 消痘	xiāo dòu	193
+消抖	xiāo dǒu	80
 消毒	xiāo dú	6575
 小度	xiǎo dù	354
 小杜	xiǎo dù	326
@@ -138206,9 +138213,7 @@ sort: by_weight
 淹烂	yān làn	62
 演了	yǎn le	3200
 咽了	yàn le	681
-宴乐	yàn lè	489
 淹了	yān le	244
-燕乐	yàn lè	226
 严了	yán le	180
 阉了	yān le	144
 延了	yán le	115
@@ -138705,6 +138710,8 @@ sort: by_weight
 盐源	yán yuán	120
 颜渊	yán yuān	96
 颜元	yán yuán	76
+宴乐	yàn yuè	489
+燕乐	yàn yuè	226
 颜悦	yán yuè	179
 偃月	yǎn yuè	170
 研阅	yán yuè	145
@@ -149807,6 +149814,7 @@ sort: by_weight
 云家	yún jiā	585
 孕检	yùn jiǎn	433
 云间	yún jiān	257
+云肩	yún jiān	42
 云江	yún jiāng	734
 匀浆	yún jiāng	384
 韵脚	yùn jiǎo	995
@@ -159738,6 +159746,7 @@ sort: by_weight
 转的	zhuǎn de	13103
 赚的	zhuàn de	4345
 砖的	zhuān de	2147
+赚得	zhuàn de	1238
 转得	zhuǎn de	540
 专登	zhuān dēng	634
 专递	zhuān dì	60
@@ -159992,6 +160001,7 @@ sort: by_weight
 转送	zhuǎn sòng	932
 转速	zhuàn sù	7655
 转他	zhuǎn tā	1068
+赚他	zhuàn tā	182
 转塔	zhuàn tǎ	138
 砖塔	zhuān tǎ	36
 转台	zhuàn tái	144
@@ -160030,6 +160040,7 @@ sort: by_weight
 篆文	zhuàn wén	135
 砖文	zhuān wén	108
 转我	zhuǎn wǒ	1022
+赚我	zhuàn wǒ	61
 专务	zhuān wù	88
 专武	zhuān wǔ	84
 转系	zhuǎn xì	449
@@ -162269,7 +162280,6 @@ sort: by_weight
 钻床	zuàn chuáng	44
 钻锤	zuān chuí	220
 钻到	zuān dào	1027
-赚得	zuàn de	1238
 钻的	zuān de	916
 钻地	zuān dì	220
 钻铤	zuān dìng	202
@@ -292059,6 +292069,7 @@ sort: by_weight
 分期购	fēn qī gòu	810
 分歧管	fēn qí guǎn	346
 奋起湖	fèn qǐ hú	540
+分期卡	fēn qī kǎ	80
 分气块	fēn qì kuài	4
 分起来	fēn qǐ lái	630
 分歧群	fēn qí qún	45
@@ -294273,6 +294284,7 @@ sort: by_weight
 封印者	fēng yìn zhě	41
 封印住	fēng yìn zhù	526
 风影盾	fēng yǐng dùn	297
+逢迎我	féng yíng wǒ	31
 封永久	fēng yǒng jiǔ	310
 风又大	fēng yòu dà	28
 风油精	fēng yóu jīng	895
@@ -332269,6 +332281,7 @@ sort: by_weight
 和及时	hé jí shí	972
 合计数	hé jì shù	855
 核技术	hé jì shù	722
+喝肌酸	hē jī suān	20
 喝鸡汤	hē jī tāng	257
 核集团	hé jí tuán	9
 合计为	hé jì wéi	201
@@ -360283,6 +360296,7 @@ sort: by_weight
 会赚到	huì zhuàn dào	680
 会转到	huì zhuǎn dào	513
 回转刀	huí zhuǎn dāo	57
+会赚得	huì zhuàn de	450
 会转动	huì zhuàn dòng	558
 会转而	huì zhuǎn ér	657
 会转发	huì zhuǎn fā	657
@@ -360503,7 +360517,6 @@ sort: by_weight
 会诅咒	huì zǔ zhòu	482
 会组装	huì zǔ zhuāng	400
 会钻到	huì zuān dào	436
-会赚得	huì zuàn de	450
 会钻进	huì zuān jìn	554
 会嘴馋	huì zuǐ chán	436
 会最大	huì zuì dà	900
@@ -438540,6 +438553,7 @@ sort: by_weight
 旅团长	lǚ tuán zhǎng	680
 驴推磨	lǘ tuī mò	243
 绿脱石	lǜ tuō shí	144
+铝坨坨	lǚ tuó tuó	52
 铝外壳	lǚ wài ké	432
 绿围巾	lǜ wéi jīn	297
 吕纬路	lǚ wěi lù	238
@@ -481823,6 +481837,7 @@ sort: by_weight
 你赚到	nǐ zhuàn dào	657
 你转到	nǐ zhuǎn dào	433
 你转的	nǐ zhuǎn de	544
+你赚得	nǐ zhuàn de	486
 逆转点	nì zhuǎn diǎn	234
 你转动	nǐ zhuàn dòng	369
 你转发	nǐ zhuǎn fā	724
@@ -482107,7 +482122,6 @@ sort: by_weight
 你组装	nǐ zǔ zhuāng	346
 你祖宗	nǐ zǔ zong	662
 你足足	nǐ zú zú	302
-你赚得	nǐ zuàn de	486
 你钻进	nǐ zuān jìn	382
 你钻了	nǐ zuān le	261
 你钻石	nǐ zuàn shí	342
@@ -507217,6 +507231,7 @@ sort: by_weight
 清水江	qīng shuǐ jiāng	3
 清水街	qīng shuǐ jiē	405
 请水军	qǐng shuǐ jūn	621
+清水壳	qīng shuǐ ké	38
 清水坑	qīng shuǐ kēng	333
 清水口	qīng shuǐ kǒu	292
 清水来	qīng shuǐ lái	464
@@ -523600,8 +523615,8 @@ sort: by_weight
 三分多	sān fēn duō	495
 三分二	sān fēn èr	585
 三分法	sān fēn fǎ	386
-三分话	sān fēn huà	62
-三分化	sān fēn huà	55
+三分化	sān fēn huà	62
+三分话	sān fēn huà	55
 三分会	sān fēn huì	364
 三分建	sān fēn jiàn	338
 三分局	sān fēn jú	472
@@ -547280,6 +547295,7 @@ sort: by_weight
 石柱子	shí zhù zi	144
 是抓来	shì zhuā lái	346
 是赚到	shì zhuàn dào	43
+是赚得	shì zhuàn de	572
 史专家	shǐ zhuān jiā	824
 市专家	shì zhuān jiā	509
 时赚了	shí zhuàn le	477
@@ -547563,7 +547579,6 @@ sort: by_weight
 失足者	shī zú zhě	333
 市组织	shì zǔ zhī	824
 氏族志	shì zú zhì	338
-是赚得	shì zuàn de	572
 石钻子	shí zuān zi	4
 是最多	shì zuì duō	1138
 事最多	shì zuì duō	551
@@ -564472,7 +564487,8 @@ sort: by_weight
 随便撩	suí biàn liāo	353
 随便领	suí biàn lǐng	360
 随便撸	suí biàn lū	346
-随便骂	suí biàn mà	608
+随便吗	suí biàn ma	608
+随便骂	suí biàn mà	107
 随便买	suí biàn mǎi	1130
 随便卖	suí biàn mài	490
 随便蒙	suí biàn méng	35
@@ -582920,6 +582936,7 @@ sort: by_weight
 他赚到	tā zhuàn dào	621
 他转到	tā zhuǎn dào	418
 他转的	tā zhuǎn de	585
+他赚得	tā zhuàn de	414
 他赚的	tā zhuàn de	350
 他转动	tā zhuàn dòng	446
 他转而	tā zhuǎn ér	634
@@ -583259,7 +583276,6 @@ sort: by_weight
 他足足	tā zú zú	522
 他钻出	tā zuān chū	284
 他钻到	tā zuān dào	297
-他赚得	tā zuàn de	414
 他攥紧	tā zuàn jǐn	504
 他钻进	tā zuān jìn	407
 他钻了	tā zuān le	324
@@ -631337,6 +631353,7 @@ sort: by_weight
 我转到	wǒ zhuǎn dào	626
 我赚到	wǒ zhuàn dào	505
 我转的	wǒ zhuǎn de	576
+我赚得	wǒ zhuàn de	418
 我赚点	wǒ zhuàn diǎn	310
 我转动	wǒ zhuàn dòng	351
 我转而	wǒ zhuǎn ér	405
@@ -631657,7 +631674,6 @@ sort: by_weight
 我组装	wǒ zǔ zhuāng	468
 我祖宗	wǒ zǔ zong	549
 我足足	wǒ zú zú	693
-我赚得	wǒ zuàn de	418
 我攥紧	wǒ zuàn jǐn	482
 我钻进	wǒ zuān jìn	289
 我钻石	wǒ zuàn shí	346
@@ -678404,6 +678420,7 @@ sort: by_weight
 也不认	yě bú rèn	154
 也不如	yě bù rú	3765
 也不上	yě bú shàng	918
+也补上	yě bǔ shàng	211
 也不少	yě bù shǎo	11232
 也不深	yě bù shēn	711
 也不剩	yě bú shèng	675
@@ -679209,6 +679226,7 @@ sort: by_weight
 冶里组	yě lǐ zǔ	45
 爷俩儿	yé liǎ ér	6
 冶炼厂	yě liàn chǎng	138
+也练得	yě liàn de	18
 冶炼工	yě liàn gōng	459
 冶炼焦	yě liàn jiāo	117
 也练了	yě liàn le	482
@@ -740261,10 +740279,15 @@ sort: by_weight
 赚到手	zhuàn dào shǒu	598
 赚的吧	zhuàn de ba	392
 转的吧	zhuǎn de ba	224
+赚得比	zhuàn de bǐ	544
 转得比	zhuǎn de bǐ	126
+赚得到	zhuàn de dào	495
+赚得多	zhuàn de duō	842
 转得快	zhuǎn de kuài	594
+赚得了	zhuàn dé le	540
 转的呢	zhuǎn de ne	364
 赚的钱	zhuàn de qián	1179
+赚得少	zhuàn de shǎo	558
 转登记	zhuǎn dēng jì	454
 转递给	zhuǎn dì gěi	306
 转地铁	zhuǎn dì tiě	97
@@ -747916,11 +747939,6 @@ sort: by_weight
 钻出了	zuān chū le	580
 钻出去	zuān chū qù	69
 钻到了	zuān dào le	639
-赚得比	zuàn de bǐ	544
-赚得到	zuàn de dào	495
-赚得多	zuàn de duō	842
-赚得了	zuàn dé le	540
-赚得少	zuàn de shǎo	558
 钻地弹	zuān dì dàn	41
 钻地洞	zuān dì dòng	19
 钻地缝	zuān dì fèng	28
@@ -911893,6 +911911,7 @@ sort: by_weight
 耗时两年	hào shí liǎng nián	549
 好事临头	hǎo shì lín tóu	117
 好时髦的	hǎo shí máo de	225
+好是期待	hǎo shì qī dài	91
 耗时三年	hào shí sān nián	454
 好事实事	hǎo shì shí shì	468
 耗时太长	hào shí tài cháng	97
@@ -913438,6 +913457,7 @@ sort: by_weight
 合金戒指	hé jīn jiè zhǐ	194
 合金锯片	hé jīn jù piàn	4
 和进口货	hé jìn kǒu huò	297
+合进来了	hé jìn lái le	18
 合金鳞甲	hé jīn lín jiǎ	117
 合金轮毂	hé jīn lún gǔ	904
 合金铝板	hé jīn lǚ bǎn	230
@@ -977320,7 +977340,7 @@ sort: by_weight
 军车号牌	jūn chē hào pái	410
 君臣共治	jūn chén gòng zhì	234
 君臣关系	jūn chén guān xì	308
-君臣宴乐	jūn chén yàn lè	4
+君臣宴乐	jūn chén yàn yuè	4
 君臣一梦	jūn chén yí mèng	284
 君臣有义	jūn chén yǒu yì	360
 君臣鱼水	jūn chén yú shuǐ	162
@@ -1105879,6 +1105899,8 @@ sort: by_weight
 蛇人之后	shé rén zhī hòu	270
 舌肉芽肿	shé ròu yá zhǒng	45
 舍入规则	shě rù guī zé	99
+摄入计算	shè rù jì suàn	47
+摄入肌酸	shè rù jī suān	12
 奢入俭难	shē rù jiǎn nán	6
 摄入酒精	shè rù jiǔ jīng	486
 摄入食物	shè rù shí wù	720
@@ -1109443,6 +1109465,7 @@ sort: by_weight
 神树果实	shén shù guǒ shí	189
 申赎基金	shēn shú jī jīn	153
 申述立场	shēn shù lì chǎng	4
+神荼郁垒	shén shū yù lǜ	446
 申赎资金	shēn shú zī jīn	130
 神衰欲寐	shén shuāi yù mèi	4
 肾水不足	shèn shuǐ bù zú	360
@@ -1109721,7 +1109744,6 @@ sort: by_weight
 渗透作用	shèn tòu zuò yòng	82
 身土不二	shēn tǔ bú èr	47
 申徒嘉曰	shēn tú jiā yuē	45
-神荼郁垒	shén tú yù lěi	446
 深图远算	shēn tú yuǎn suàn	50
 申屠致远	shēn tú zhì yuǎn	180
 伸腿瞪眼	shēn tuǐ dèng yǎn	310
@@ -1146943,7 +1146965,7 @@ sort: by_weight
 随堂练习	suí táng liàn xí	50
 隋唐盛世	suí táng shèng shì	31
 随堂听课	suí táng tīng kè	297
-隋唐燕乐	suí táng yàn lè	130
+隋唐燕乐	suí táng yàn yuè	130
 隋唐遗址	suí táng yí zhǐ	270
 隋唐英烈	suí táng yīng liè	4
 隋唐英雄	suí táng yīng xióng	688
@@ -1276706,7 +1276728,6 @@ sort: by_weight
 鱼雷快艇	yú léi kuài tǐng	13
 鱼类列表	yú lèi liè biǎo	346
 鱼类区系	yú lèi qū xì	162
-郁垒神荼	yù lěi shén tú	207
 鱼类学家	yú lèi xué jiā	576
 鱼类专题	yú lèi zhuān tí	50
 遇冷热酸	yù lěng rè suān	297
@@ -1276879,6 +1276900,7 @@ sort: by_weight
 雨落心底	yǔ luò xīn dǐ	45
 雨落之前	yǔ luò zhī qián	4
 雨绿灌丛	yǔ lǜ guàn cóng	90
+郁垒神荼	yù lǜ shén shū	207
 伛偻提携	yǔ lǚ tí xié	220
 玉马朝周	yù mǎ cháo zhōu	76
 预埋钢板	yù mái gāng bǎn	162
@@ -1323588,12 +1323610,16 @@ sort: by_weight
 赚到手软	zhuàn dào shǒu ruǎn	378
 转导因子	zhuǎn dǎo yīn zǐ	45
 转导作用	zhuǎn dǎo zuò yòng	130
+赚得不少	zhuàn de bù shǎo	52
 转得飞快	zhuǎn de fēi kuài	35
+赚得更多	zhuàn de gèng duō	603
+赚得更少	zhuàn de gèng shǎo	52
 赚的钱多	zhuàn de qián duō	518
 赚的人气	zhuàn de rén qì	50
 赚的外快	zhuàn de wài kuài	19
 转的弯儿	zhuǎn de wān er	4
 转的文章	zhuǎn de wén zhāng	405
+赚得最少	zhuàn de zuì shǎo	52
 转递函数	zhuǎn dì hán shù	90
 专递课堂	zhuān dì kè táng	279
 赚点外快	zhuàn diǎn wài kuài	327
@@ -1333839,11 +1333865,7 @@ sort: by_weight
 攥成拳头	zuàn chéng quán tou	504
 钻出一只	zuān chū yì zhī	9
 钻穿效应	zuān chuān xiào yìng	333
-赚得不少	zuàn de bù shǎo	52
-赚得更多	zuàn de gèng duō	603
-赚得更少	zuàn de gèng shǎo	52
 钻的空子	zuān de kòng zi	57
-赚得最少	zuàn de zuì shǎo	52
 钻地小子	zuān dì xiǎo zi	76
 钻洞动物	zuān dòng dòng wù	45
 钻缝避险	zuān fèng bì xiǎn	62
@@ -1333887,6 +1333909,7 @@ sort: by_weight
 钻井一哥	zuàn jǐng yī gē	45
 钻井装置	zuàn jǐng zhuāng zhì	162
 钻具组合	zuàn jù zǔ hé	130
+赚开城门	zuàn kāi chéng mén	5
 钻孔编号	zuān kǒng biān hào	4
 钻孔布置	zuān kǒng bù zhì	99
 钻孔测量	zuān kǒng cè liáng	130
@@ -1333932,6 +1333955,7 @@ sort: by_weight
 钻皮出羽	zuān pí chū yǔ	45
 攥起拳头	zuàn qǐ quán tou	414
 钻钱眼里	zuān qián yǎn lǐ	52
+赚上梁山	zuàn shàng liáng shān	3
 钻石百合	zuàn shí bǎi hé	144
 钻石宝箱	zuàn shí bǎo xiāng	6
 钻石冰室	zuàn shí bīng shì	4
@@ -1389332,7 +1389356,6 @@ sort: by_weight
 权能布道法	quán néng bù dào fǎ	10
 全能型艺人	quán néng xíng yì rén	10
 全盘西化论	quán pán xī huà lùn	10
-全抛一片心	quán pāo yí piàn xīn	10
 全频扬声器	quán pín yáng shēng qì	10
 全凭一张嘴	quán píng yì zhāng zuǐ	10
 全期收益率	quán qī shōu yì lǜ	10
@@ -1390738,6 +1390761,7 @@ sort: by_weight
 如来所说法	rú lái suǒ shuō fǎ	10
 茹里夫西基	rú lǐ fū xī jī	10
 茹利亚方向	rú lì yà fāng xiàng	10
+入料泵护板	rù liào bèng hù bǎn	10
 如露亦如电	rú lù yì rú diàn	10
 儒略前历法	rú lüè qián lì fǎ	10
 如芒刺在背	rú máng cì zài bèi	10
@@ -1420914,6 +1420938,7 @@ sort: by_weight
 炸鸡和啤酒	zhá jī hé pí jiǔ	10
 炸鸡配啤酒	zhá jī pèi pí jiǔ	10
 乍见翻疑梦	zhà jiàn fān yí mèng	10
+渣浆泵护板	zhā jiāng bèng hù bǎn	10
 扎来普隆片	zhā lái pǔ lóng piàn	10
 眨了一下眼	zhǎ le yí xià yǎn	10
 扎里斯基环	zhā lǐ sī jī huán	10
@@ -1489365,7 +1489390,7 @@ sort: by_weight
 人人尽说江南好	rén rén jìn shuō jiāng nán hǎo	10
 任人宰割的羔羊	rèn rén zǎi gē de gāo yáng	10
 人如风后入江云	rén rú fēng hòu rù jiāng yún	10
-人若赚得全世界	rén ruò zuàn de quán shì jiè	10
+人若赚得全世界	rén ruò zhuàn de quán shì jiè	10
 人山纷赞阵容阔	rén shān fēn zàn zhèn róng kuò	10
 人善人欺天不欺	rén shàn rén qī tiān bù qī	10
 人参甘草术干姜	rén shēn gān cǎo shù gān jiāng	10
@@ -1490535,6 +1490560,7 @@ sort: by_weight
 为君持酒劝斜阳	wèi jūn chí jiǔ quàn xié yáng	10
 为君谈笑静胡沙	wèi jūn tán xiào jìng hú shā	10
 未刻本叶氏医案	wèi kè běn yè shì yī àn	10
+未可全抛一片心	wèi kě quán pāo yí piàn xīn	10
 伪科学幻想小说	wěi kē xué huàn xiǎng xiǎo shuō	10
 微孔表面股骨柄	wēi kǒng biǎo miàn gǔ gǔ bǐng	10
 微孔生物型髋臼	wēi kǒng shēng wù xíng kuān jiù	10
