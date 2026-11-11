@@ -310,6 +310,7 @@ sort: by_weight
 哀兵	āi bīng	44
 爱兵	ài bīng	40
 艾饼	ài bǐng	36
+爱步	ài bù	81
 爱财	ài cái	311
 爱才	ài cái	238
 爱菜	ài cài	190
@@ -1029,6 +1030,7 @@ sort: by_weight
 俺先	ǎn xiān	1490
 岸线	àn xiàn	109
 暗线	àn xiàn	87
+按弦	àn xián	72
 安闲	ān xián	69
 安县	ān xiàn	55
 安详	ān xiáng	1391
@@ -2916,6 +2918,7 @@ sort: by_weight
 班科	bān kē	194
 半空	bàn kōng	647
 搬空	bān kōng	194
+半孔	bàn kǒng	72
 半口	bàn kǒu	163
 扮酷	bàn kù	122
 板块	bǎn kuài	20768
@@ -3310,6 +3313,7 @@ sort: by_weight
 棒的	bàng de	103
 绑得	bǎng de	82
 邦迪	bāng dí	182
+梆笛	bāng dí	72
 帮点	bāng diǎn	698
 绑定	bǎng dìng	14183
 帮定	bāng dìng	698
@@ -3347,6 +3351,7 @@ sort: by_weight
 帮教	bāng jiào	990
 邦交	bāng jiāo	940
 绑脚	bǎng jiǎo	263
+帮脚	bāng jiǎo	81
 绑紧	bǎng jǐn	148
 绑筋	bǎng jīn	76
 绑卡	bǎng kǎ	355
@@ -3364,6 +3369,7 @@ sort: by_weight
 帮买	bāng mǎi	760
 绑蔓	bǎng màn	129
 帮忙	bāng máng	31205
+帮面	bāng miàn	81
 榜末	bǎng mò	612
 帮拿	bāng ná	19
 帮内	bāng nèi	57
@@ -3676,6 +3682,7 @@ sort: by_weight
 爆个	bào gè	64
 报给	bào gěi	487
 包给	bāo gěi	222
+包跟	bāo gēn	81
 包工	bāo gōng	182
 保工	bǎo gōng	164
 胞宫	bāo gōng	133
@@ -3785,6 +3792,8 @@ sort: by_weight
 胞浆	bāo jiāng	232
 保教	bǎo jiào	97
 堡礁	bǎo jiāo	87
+包脚	bāo jiǎo	81
+薄脚	báo jiǎo	81
 包胶	bāo jiāo	78
 包角	bāo jiǎo	53
 保洁	bǎo jié	1498
@@ -5264,6 +5273,7 @@ sort: by_weight
 被逐	bèi zhú	512
 贝柱	bèi zhù	444
 贝珠	bèi zhū	77
+背柱	bèi zhù	72
 被抓	bèi zhuā	6302
 被拽	bèi zhuāi	166
 被撞	bèi zhuàng	3492
@@ -5629,6 +5639,7 @@ sort: by_weight
 本尊	běn zūn	1441
 本座	běn zuò	14133
 本作	běn zuò	361
+绷帮	bēng bāng	81
 泵宝	bèng bǎo	631
 蹦蹦	bèng bèng	236
 嘣嘣	bēng bēng	212
@@ -5696,8 +5707,11 @@ sort: by_weight
 泵体	bèng tǐ	137
 蹦跳	bèng tiào	411
 泵头	bèng tóu	531
+绷头	bēng tóu	81
+绷弦	bēng xián	72
 崩线	bēng xiàn	43
 甭想	béng xiǎng	349
+绷楦	bēng xuàn	81
 泵血	bèng xuè	693
 泵压	bèng yā	558
 泵业	bèng yè	19
@@ -5749,6 +5763,7 @@ sort: by_weight
 碧草	bì cǎo	72
 必测	bì cè	518
 必查	bì chá	765
+闭镲	bì chǎ	72
 必尝	bì cháng	1026
 比长	bǐ cháng	975
 臂长	bì cháng	923
@@ -6652,6 +6667,7 @@ sort: by_weight
 编集	biān jí	140
 便即	biàn jí	112
 苄基	biàn jī	89
+边击	biān jī	72
 鞭击	biān jī	71
 变价	biàn jià	223
 扁家	biǎn jiā	201
@@ -6779,6 +6795,7 @@ sort: by_weight
 扁平	biǎn píng	3457
 变平	biàn píng	244
 边坡	biān pō	860
+编谱	biān pǔ	72
 便器	biàn qì	88
 边卡	biān qiǎ	16
 便签	biàn qiān	4318
@@ -8346,6 +8363,7 @@ sort: by_weight
 伯克	bó kè	734
 波科	bō kē	244
 搏克	bó kè	182
+博肯	bó kěn	81
 播控	bō kòng	693
 驳口	bó kǒu	43
 博库	bó kù	666
@@ -8681,6 +8699,7 @@ sort: by_weight
 不查	bù chá	197
 不察	bù chá	157
 布查	bù chá	125
+补镲	bǔ chǎ	72
 不拆	bù chāi	534
 不柴	bù chái	481
 不馋	bù chán	389
@@ -8909,6 +8928,7 @@ sort: by_weight
 不割	bù gē	130
 不给	bù gěi	20740
 不跟	bù gēn	2154
+补跟	bǔ gēn	81
 补根	bǔ gēn	67
 不更	bù gēng	650
 不公	bù gōng	3906
@@ -9320,6 +9340,7 @@ sort: by_weight
 不批	bù pī	597
 布匹	bù pǐ	540
 补脾	bǔ pí	537
+补皮	bǔ pí	81
 不皮	bù pí	73
 不骗	bú piàn	1215
 不偏	bù piān	1154
@@ -9885,6 +9906,7 @@ sort: by_weight
 补枝	bǔ zhī	129
 补植	bǔ zhí	118
 布制	bù zhì	94
+补脂	bǔ zhī	81
 步骘	bù zhì	75
 不中	bù zhōng	2280
 不重	bú zhòng	1748
@@ -10057,6 +10079,7 @@ sort: by_weight
 才穿	cái chuān	110
 彩船	cǎi chuán	104
 裁床	cái chuáng	43
+踩槌	cǎi chuí	72
 猜词	cāi cí	891
 彩瓷	cǎi cí	846
 才从	cái cóng	1702
@@ -10147,6 +10170,7 @@ sort: by_weight
 才给	cái gěi	1510
 才跟	cái gēn	239
 菜根	cài gēn	227
+踩跟	cǎi gēn	81
 才更	cái gèng	1350
 菜梗	cài gěng	1282
 菜羹	cài gēng	1215
@@ -11315,6 +11339,7 @@ sort: by_weight
 侧击	cè jī	937
 侧键	cè jiàn	698
 侧脚	cè jiǎo	666
+测脚	cè jiǎo	81
 侧近	cè jìn	25
 测井	cè jǐng	680
 测径	cè jìng	247
@@ -11727,6 +11752,7 @@ sort: by_weight
 搽剂	chá jì	246
 茶季	chá jì	57
 差价	chā jià	6936
+镲架	chǎ jià	72
 茶夹	chá jiā	57
 插件	chā jiàn	29811
 茶碱	chá jiǎn	232
@@ -11813,6 +11839,7 @@ sort: by_weight
 茶马	chá mǎ	618
 查码	chá mǎ	441
 插满	chā mǎn	559
+镲帽	chǎ mào	72
 茶梅	chá méi	540
 茶苗	chá miáo	13
 查明	chá míng	1573
@@ -11831,6 +11858,7 @@ sort: by_weight
 茶泡	chá pào	47
 茶棚	chá péng	47
 插片	chā piàn	598
+镲片	chǎ piàn	72
 查片	chá piàn	43
 查票	chá piào	192
 茶品	chá pǐn	1714
@@ -12214,6 +12242,7 @@ sort: by_weight
 产妇	chǎn fù	2138
 搀扶	chān fú	514
 缠缚	chán fù	407
+颤弓	chàn gōng	72
 蟾宫	chán gōng	69
 馋狗	chán gǒu	62
 馋鬼	chán guǐ	38
@@ -12341,6 +12370,7 @@ sort: by_weight
 产线	chǎn xiàn	1309
 产险	chǎn xiǎn	1244
 馋涎	chán xián	601
+缠弦	chán xián	72
 产销	chǎn xiāo	449
 禅心	chán xīn	57
 铲形	chǎn xíng	62
@@ -12384,6 +12414,7 @@ sort: by_weight
 产证	chǎn zhèng	1552
 产值	chǎn zhí	2980
 缠枝	chán zhī	760
+颤指	chàn zhǐ	72
 缠住	chán zhù	920
 产状	chǎn zhuàng	963
 产自	chǎn zì	2126
@@ -13194,6 +13225,7 @@ sort: by_weight
 潮虫	cháo chóng	62
 超出	chāo chū	15424
 炒出	chǎo chū	549
+超吹	chāo chuī	72
 潮吹	cháo chuī	35
 超纯	chāo chún	729
 超蠢	chāo chǔn	73
@@ -13430,6 +13462,7 @@ sort: by_weight
 潮品	cháo pǐn	801
 超拼	chāo pīn	73
 超平	chāo píng	1264
+抄谱	chāo pǔ	72
 抄起	chāo qǐ	1294
 潮气	cháo qì	332
 超期	chāo qī	298
@@ -13558,6 +13591,7 @@ sort: by_weight
 朝西	cháo xī	260
 超细	chāo xì	150
 朝曦	cháo xī	120
+超吸	chāo xī	72
 抄下	chāo xià	1291
 朝下	cháo xià	213
 朝鲜	cháo xiǎn	10676
@@ -14717,6 +14751,7 @@ sort: by_weight
 成校	chéng xiào	727
 诚谢	chéng xiè	792
 称谢	chēng xiè	752
+撑鞋	chēng xié	81
 诚信	chéng xìn	3865
 诚心	chéng xīn	2694
 澄心	chéng xīn	1852
@@ -14980,6 +15015,7 @@ sort: by_weight
 翅根	chì gēn	860
 齿根	chǐ gēn	817
 吃根	chī gēn	511
+持弓	chí gōng	72
 吃够	chī gòu	838
 齿垢	chǐ gòu	62
 持股	chí gǔ	6365
@@ -15797,6 +15833,7 @@ sort: by_weight
 充装	chōng zhuāng	609
 冲桩	chōng zhuāng	160
 虫子	chóng zi	5608
+冲子	chòng zi	81
 冲走	chōng zǒu	600
 重奏	chóng zòu	430
 重走	chóng zǒu	292
@@ -16318,6 +16355,7 @@ sort: by_weight
 出户	chū hù	1260
 初花	chū huā	801
 出换	chū huàn	918
+除黄	chú huáng	81
 初回	chū huí	1238
 初会	chū huì	1176
 初婚	chū hūn	176
@@ -17570,6 +17608,8 @@ sort: by_weight
 吹进	chuī jìn	270
 炊具	chuī jù	816
 吹开	chuī kāi	100
+吹孔	chuī kǒng	72
+吹口	chuī kǒu	72
 吹来	chuī lái	779
 垂老	chuí lǎo	91
 吹了	chuī le	3250
@@ -19709,6 +19749,7 @@ sort: by_weight
 大葱	dà cōng	1589
 打从	dǎ cóng	326
 大促	dà cù	2729
+打粗	dǎ cū	81
 大村	dà cūn	1017
 打错	dǎ cuò	1108
 大错	dà cuò	734
@@ -20757,6 +20798,7 @@ sort: by_weight
 大选	dà xuǎn	1507
 打旋	dǎ xuán	765
 打券	dǎ xuàn	382
+打楦	dǎ xuàn	81
 大学	dà xué	166291
 大雪	dà xuě	2672
 大穴	dà xué	643
@@ -20818,6 +20860,7 @@ sort: by_weight
 大音	dà yīn	128
 大隐	dà yǐn	94
 大印	dà yìn	75
+达音	dá yīn	72
 打银	dǎ yín	62
 答应	dā yìng	9668
 打赢	dǎ yíng	3943
@@ -21541,6 +21584,7 @@ sort: by_weight
 淡菜	dàn cài	126
 淡彩	dàn cǎi	120
 单采	dān cǎi	113
+单踩	dān cǎi	72
 弹仓	dàn cāng	170
 弹舱	dàn cāng	162
 淡仓	dàn cāng	153
@@ -22010,6 +22054,7 @@ sort: by_weight
 蛋头	dàn tóu	296
 单图	dān tú	392
 丹徒	dān tú	372
+单吐	dān tǔ	72
 单推	dān tuī	1004
 单腿	dān tuǐ	954
 弹丸	dàn wán	1044
@@ -22545,6 +22590,7 @@ sort: by_weight
 到点	dào diǎn	2085
 到店	dào diàn	1689
 导电	dǎo diàn	1504
+刀垫	dāo diàn	81
 倒掉	dào diào	2434
 到顶	dào dǐng	1008
 道钉	dào dīng	500
@@ -22762,6 +22808,7 @@ sort: by_weight
 盗名	dào míng	406
 倒模	dǎo mó	113
 倒膜	dào mó	102
+刀模	dāo mó	81
 盗墓	dào mù	1818
 倒幕	dǎo mù	113
 倒木	dào mù	62
@@ -22961,6 +23008,7 @@ sort: by_weight
 导引	dǎo yǐn	1363
 导因	dǎo yīn	945
 盗印	dào yìn	508
+导音	dǎo yīn	72
 倒影	dào yǐng	2258
 倒映	dào yìng	455
 盗用	dào yòng	1978
@@ -23630,6 +23678,7 @@ sort: by_weight
 第八	dì bā	3812
 堤坝	dī bà	1011
 迪吧	dí ba	630
+低把	dī bǎ	72
 迪拜	dí bài	2179
 滴白	dī bái	702
 底摆	dǐ bǎi	43
@@ -23814,6 +23863,7 @@ sort: by_weight
 低格	dī gé	367
 迪哥	dí gē	172
 狄哥	dí gē	103
+底革	dǐ gé	81
 翟哥	dí gē	47
 递给	dì gěi	3567
 低跟	dī gēn	981
@@ -24238,8 +24288,11 @@ sort: by_weight
 谛听	dì tīng	125
 低通	dī tōng	1044
 地痛	dì tòng	695
+地嗵	dì tōng	72
+地通	dì tōng	72
 低头	dī tóu	9329
 地头	dì tóu	354
+笛头	dí tóu	72
 地图	dì tú	48472
 底图	dǐ tú	759
 底涂	dǐ tú	575
@@ -24923,6 +24976,7 @@ sort: by_weight
 电线	diàn xiàn	7439
 癫痫	diān xián	4782
 点线	diǎn xiàn	222
+点弦	diǎn xián	72
 点香	diǎn xiāng	1192
 电箱	diàn xiāng	1132
 点镶	diǎn xiāng	77
@@ -25092,6 +25146,7 @@ sort: by_weight
 吊得	diào de	135
 吊灯	diào dēng	1617
 掉凳	diào dèng	234
+掉底	diào dǐ	81
 掉地	diào dì	72
 钓底	diào dǐ	14
 掉电	diào diàn	584
@@ -25126,10 +25181,12 @@ sort: by_weight
 掉格	diào gé	1045
 钓个	diào gè	813
 刁哥	diāo gē	338
+掉跟	diào gēn	81
 雕工	diāo gōng	138
 雕弓	diāo gōng	124
 钓钩	diào gōu	78
 吊钩	diào gōu	74
+调鼓	diào gǔ	72
 吊古	diào gǔ	22
 吊挂	diào guà	170
 掉光	diào guāng	270
@@ -25307,6 +25364,7 @@ sort: by_weight
 吊桶	diào tǒng	119
 掉头	diào tóu	3090
 调头	diào tóu	1149
+调弯	diào wān	72
 调往	diào wǎng	688
 凋亡	diāo wáng	496
 调为	diào wéi	1206
@@ -25324,6 +25382,7 @@ sort: by_weight
 吊线	diào xiàn	702
 钓线	diào xiàn	571
 吊鲜	diào xiān	514
+掉弦	diào xián	72
 雕像	diāo xiàng	5150
 调相	diào xiāng	741
 钓箱	diào xiāng	551
@@ -25350,6 +25409,7 @@ sort: by_weight
 调用	diào yòng	15568
 钓友	diào yǒu	1658
 雕有	diāo yǒu	216
+貂油	diāo yóu	81
 钓游	diào yóu	62
 钓鱼	diào yú	7734
 鲷鱼	diāo yú	244
@@ -25605,6 +25665,7 @@ sort: by_weight
 订得	dìng de	598
 顶灯	dǐng dēng	358
 顶底	dǐng dǐ	788
+钉底	dīng dǐ	81
 顶点	dǐng diǎn	5774
 定点	dìng diǎn	3724
 丁点	dīng diǎn	420
@@ -25713,6 +25774,7 @@ sort: by_weight
 定将	dìng jiāng	113
 定焦	dìng jiāo	2465
 顶角	dǐng jiǎo	216
+顶脚	dǐng jiǎo	81
 丁姐	dīng jiě	1300
 定界	dìng jiè	1235
 定结	dìng jié	1079
@@ -25916,6 +25978,7 @@ sort: by_weight
 定刑	dìng xíng	80
 丁姓	dīng xìng	64
 定序	dìng xù	28
+定楦	dìng xuàn	81
 顶芽	dǐng yá	88
 定压	dìng yā	84
 钉眼	dīng yǎn	66
@@ -25972,6 +26035,7 @@ sort: by_weight
 定志	dìng zhì	133
 顶枝	dǐng zhī	129
 鼎峙	dǐng zhì	90
+顶趾	dǐng zhǐ	81
 定中	dìng zhōng	1494
 丁中	dīng zhōng	1419
 鼎中	dǐng zhōng	1345
@@ -27734,6 +27798,7 @@ sort: by_weight
 断得	duàn de	82
 短得	duǎn de	65
 短笛	duǎn dí	5690
+断底	duàn dǐ	81
 断电	duàn diàn	3350
 断点	duàn diǎn	1799
 端点	duān diǎn	806
@@ -27779,6 +27844,7 @@ sort: by_weight
 端锅	duān guō	1185
 断过	duàn guò	1022
 锻焊	duàn hàn	315
+断焊	duàn hàn	72
 断航	duàn háng	38
 短号	duǎn hào	85
 段号	duàn hào	76
@@ -28437,6 +28503,7 @@ sort: by_weight
 顿服	dùn fú	85
 顿感	dùn gǎn	402
 蹲个	dūn gè	621
+顿弓	dùn gōng	72
 盾构	dùn gòu	82
 蹲过	dūn guò	361
 炖锅	dùn guō	169
@@ -30701,6 +30768,7 @@ sort: by_weight
 发紫	fā zǐ	464
 筏子	fá zi	194
 发字	fā zì	155
+法兹	fǎ zī	72
 发走	fā zǒu	1030
 阀组	fá zǔ	38
 法嘴	fǎ zuǐ	135
@@ -30798,6 +30866,7 @@ sort: by_weight
 饭袋	fàn dài	119
 反代	fǎn dài	79
 翻袋	fān dài	62
+翻弹	fān dàn	72
 反党	fǎn dǎng	154
 反倒	fǎn dào	9847
 翻到	fān dào	5617
@@ -30850,6 +30919,8 @@ sort: by_weight
 翻飞	fān fēi	320
 饭费	fàn fèi	182
 反讽	fǎn fěng	1557
+反缝	fǎn fèng	81
+翻缝	fān fèng	81
 饭否	fàn fǒu	273
 反复	fǎn fù	60586
 反腐	fǎn fǔ	3243
@@ -30933,6 +31004,7 @@ sort: by_weight
 泛画	fàn huà	45
 返还	fǎn huán	6581
 泛黄	fàn huáng	1212
+返黄	fǎn huáng	81
 返回	fǎn huí	23754
 反悔	fǎn huǐ	2219
 翻回	fān huí	701
@@ -30997,6 +31069,7 @@ sort: by_weight
 反恐	fǎn kǒng	672
 反控	fǎn kòng	603
 翻空	fān kōng	504
+翻口	fān kǒu	81
 饭口	fàn kǒu	66
 反扣	fǎn kòu	63
 反口	fǎn kǒu	59
@@ -31300,6 +31373,7 @@ sort: by_weight
 繁衍	fán yǎn	3960
 反演	fǎn yǎn	1014
 犯颜	fàn yán	437
+返盐	fǎn yán	81
 反咬	fǎn yǎo	245
 反要	fǎn yào	220
 翻页	fān yè	3548
@@ -32665,6 +32739,7 @@ sort: by_weight
 废止	fèi zhǐ	995
 飞至	fēi zhì	116
 废置	fèi zhì	103
+飞织	fēi zhī	81
 肺中	fèi zhōng	711
 非洲	fēi zhōu	16347
 飞舟	fēi zhōu	15530
@@ -32829,6 +32904,7 @@ sort: by_weight
 分给	fēn gěi	5140
 分羹	fēn gēng	576
 分工	fēn gōng	8170
+分弓	fēn gōng	72
 分股	fēn gǔ	41
 分管	fēn guǎn	1664
 分馆	fēn guǎn	109
@@ -32954,6 +33030,7 @@ sort: by_weight
 分轮	fēn lún	48
 分率	fēn lǜ	236
 粉绿	fěn lǜ	188
+分律	fēn lǜ	72
 焚掠	fén lüè	482
 粉毛	fěn máo	598
 粉煤	fěn méi	734
@@ -32999,6 +33076,7 @@ sort: by_weight
 分频	fēn pín	311
 分屏	fēn píng	1815
 粉扑	fěn pū	132
+分谱	fēn pǔ	72
 分期	fēn qī	6567
 分歧	fēn qí	5537
 奋起	fèn qǐ	2207
@@ -33333,6 +33411,7 @@ sort: by_weight
 封底	fēng dǐ	461
 风笛	fēng dí	310
 锋镝	fēng dī	248
+缝底	fèng dǐ	81
 风电	fēng diàn	1523
 疯癫	fēng diān	1475
 峰巅	fēng diān	533
@@ -33664,6 +33743,7 @@ sort: by_weight
 封三	fēng sān	13
 风骚	fēng sāo	1652
 冯嫂	féng sǎo	324
+封色	fēng sè	81
 风色	fēng sè	13
 封杀	fēng shā	3206
 风沙	fēng shā	1139
@@ -34683,6 +34763,7 @@ sort: by_weight
 浮郄	fú qiè	50
 父亲	fù qīn	89757
 抚琴	fǔ qín	307
+扶琴	fú qín	72
 付清	fù qīng	750
 福清	fú qīng	238
 福庆	fú qìng	190
@@ -34718,6 +34799,7 @@ sort: by_weight
 富荣	fù róng	655
 腐肉	fǔ ròu	653
 腹肉	fù ròu	588
+复鞣	fù róu	81
 腐乳	fǔ rǔ	628
 副乳	fù rǔ	408
 妇孺	fù rú	323
@@ -35278,6 +35360,7 @@ sort: by_weight
 拂子	fú zi	66
 副总	fù zǒng	2590
 傅总	fù zǒng	2460
+复奏	fù zòu	72
 富足	fù zú	2245
 腹足	fù zú	958
 父祖	fù zǔ	722
@@ -35536,6 +35619,7 @@ sort: by_weight
 该考	gāi kǎo	1539
 改考	gǎi kǎo	1462
 该科	gāi kē	945
+盖孔	gài kǒng	72
 改口	gǎi kǒu	992
 该库	gāi kù	652
 改裤	gǎi kù	43
@@ -36233,6 +36317,7 @@ sort: by_weight
 干甚	gàn shèn	62
 竿身	gān shēn	54
 感生	gǎn shēng	220
+干声	gàn shēng	72
 干事	gàn shì	1598
 干湿	gān shī	985
 干尸	gān shī	775
@@ -36748,6 +36833,7 @@ sort: by_weight
 刚下	gāng xià	1024
 岗厦	gǎng xià	973
 钢线	gāng xiàn	82
+钢弦	gāng xián	72
 刚想	gāng xiǎng	933
 港校	gǎng xiào	2292
 刚写	gāng xiě	606
@@ -36816,6 +36902,7 @@ sort: by_weight
 搞吧	gǎo ba	644
 高坝	gāo bà	612
 糕粑	gāo bā	234
+高把	gāo bǎ	72
 告白	gào bái	4471
 高白	gāo bái	860
 高坂	gāo bǎn	918
@@ -37557,6 +37644,7 @@ sort: by_weight
 各地	gè dì	21041
 割地	gē dì	555
 哥弟	gē dì	444
+革底	gé dǐ	81
 个点	gè diǎn	6462
 各点	gè diǎn	863
 格点	gé diǎn	345
@@ -37836,6 +37924,7 @@ sort: by_weight
 隔日	gé rì	367
 割肉	gē ròu	2732
 鸽肉	gē ròu	765
+铬鞣	gè róu	81
 葛瑞	gé ruì	1053
 格瑞	gé ruì	1000
 格桑	gé sāng	954
@@ -38120,6 +38209,7 @@ sort: by_weight
 跟从	gēn cóng	0
 跟打	gēn dǎ	122
 跟单	gēn dān	851
+跟弹	gēn dàn	72
 跟到	gēn dào	994
 跟得	gēn de	1583
 根的	gēn de	103
@@ -38711,6 +38801,7 @@ sort: by_weight
 贡嘎	gòng gā	471
 公干	gōng gàn	116
 共感	gòng gǎn	110
+弓杆	gōng gān	72
 贡柑	gòng gān	62
 供港	gōng gǎng	688
 公告	gōng gào	12494
@@ -38720,6 +38811,7 @@ sort: by_weight
 拱高	gǒng gāo	105
 宫格	gōng gé	1053
 龚哥	gōng gē	171
+弓根	gōng gēn	72
 躬耕	gōng gēng	273
 公共	gōng gòng	9257
 公公	gōng gong	2826
@@ -38798,6 +38890,7 @@ sort: by_weight
 公建	gōng jiàn	300
 工间	gōng jiān	240
 弓剑	gōng jiàn	97
+弓尖	gōng jiān	72
 工匠	gōng jiàng	4650
 贡江	gòng jiāng	486
 公交	gōng jiāo	6578
@@ -38897,6 +38990,7 @@ sort: by_weight
 共买	gòng mǎi	6
 公猫	gōng māo	273
 工贸	gōng mào	122
+弓毛	gōng máo	72
 工美	gōng měi	850
 贡眉	gòng méi	808
 拱门	gǒng mén	1130
@@ -38938,6 +39032,7 @@ sort: by_weight
 公判	gōng pàn	595
 宫旁	gōng páng	720
 工棚	gōng péng	245
+弓皮	gōng pí	72
 弓片	gōng piàn	544
 工票	gōng piào	43
 贡品	gòng pǐn	882
@@ -39295,6 +39390,7 @@ sort: by_weight
 公众	gōng zhòng	12554
 工种	gōng zhǒng	3297
 宫中	gōng zhōng	3224
+弓中	gōng zhōng	72
 共轴	gòng zhóu	107
 公州	gōng zhōu	102
 公主	gōng zhǔ	25202
@@ -39618,6 +39714,7 @@ sort: by_weight
 够咸	gòu xián	685
 构陷	gòu xiàn	449
 勾线	gōu xiàn	359
+勾弦	gōu xián	72
 构想	gòu xiǎng	3900
 够香	gòu xiāng	756
 构象	gòu xiàng	743
@@ -39805,6 +39902,7 @@ sort: by_weight
 雇的	gù de	73
 鼓的	gǔ de	73
 孤灯	gū dēng	129
+鼓凳	gǔ dèng	72
 谷底	gǔ dǐ	2201
 谷地	gǔ dì	1039
 故地	gù dì	904
@@ -39838,6 +39936,7 @@ sort: by_weight
 孤儿	gū ér	6321
 故而	gù ér	3686
 股二	gǔ èr	100
+鼓耳	gǔ ěr	72
 古法	gǔ fǎ	936
 骨法	gǔ fǎ	652
 孤帆	gū fān	166
@@ -39916,6 +40015,7 @@ sort: by_weight
 骨化	gǔ huà	282
 古画	gǔ huà	222
 古华	gǔ huá	177
+鼓花	gǔ huā	72
 钴华	gǔ huá	61
 古槐	gǔ huái	50
 固黄	gù huáng	324
@@ -39947,6 +40047,7 @@ sort: by_weight
 骨痂	gǔ jiā	273
 孤家	gū jiā	218
 故家	gù jiā	142
+鼓架	gǔ jià	72
 固件	gù jiàn	1962
 古剑	gǔ jiàn	1830
 古建	gǔ jiàn	580
@@ -40133,6 +40234,7 @@ sort: by_weight
 顾前	gù qián	158
 古墙	gǔ qiáng	666
 古羌	gǔ qiāng	633
+鼓腔	gǔ qiāng	72
 古桥	gǔ qiáo	248
 姑且	gū qiě	8381
 古琴	gǔ qín	1884
@@ -40147,6 +40249,7 @@ sort: by_weight
 股权	gǔ quán	21060
 顾全	gù quán	219
 古泉	gǔ quán	175
+鼓圈	gǔ quān	72
 固然	gù rán	13467
 谷饶	gǔ ráo	436
 古人	gǔ rén	21038
@@ -40224,6 +40327,7 @@ sort: by_weight
 鼓书	gǔ shū	66
 古属	gǔ shǔ	58
 古戍	gǔ shù	34
+鼓刷	gǔ shuā	72
 谷水	gǔ shuǐ	35
 故说	gù shuō	770
 古寺	gǔ sì	358
@@ -40238,6 +40342,7 @@ sort: by_weight
 骨髓	gǔ suǐ	2302
 谷穗	gǔ suì	572
 估损	gū sǔn	60
+鼓锁	gǔ suǒ	72
 古塔	gǔ tǎ	236
 骨塔	gǔ tǎ	212
 固态	gù tài	3837
@@ -42233,6 +42338,7 @@ sort: by_weight
 归因	guī yīn	2484
 归隐	guī yǐn	1020
 归音	guī yīn	550
+鬼音	guǐ yīn	72
 鬼影	guǐ yǐng	1002
 桂英	guì yīng	902
 诡影	guǐ yǐng	567
@@ -42373,10 +42479,12 @@ sort: by_weight
 滚条	gǔn tiáo	43
 滚筒	gǔn tǒng	936
 辊筒	gǔn tǒng	513
+辊涂	gǔn tú	81
 滚涂	gǔn tú	63
 滚网	gǔn wǎng	396
 滚下	gǔn xià	204
 滚向	gǔn xiàng	57
+辊压	gǔn yā	81
 滚压	gǔn yā	78
 滚油	gǔn yóu	657
 滚远	gǔn yuǎn	796
@@ -42461,6 +42569,7 @@ sort: by_weight
 过处	guò chù	99
 过船	guò chuán	1206
 国创	guó chuàng	1350
+过吹	guò chuī	72
 国瓷	guó cí	9
 果醋	guǒ cù	129
 过粗	guò cū	116
@@ -44587,6 +44696,7 @@ sort: by_weight
 好乖	hǎo guāi	100
 好管	hǎo guǎn	236
 好官	hǎo guān	212
+号管	hào guǎn	72
 耗光	hào guāng	562
 毫光	háo guāng	135
 好贵	hǎo guì	754
@@ -45089,6 +45199,7 @@ sort: by_weight
 好走	hǎo zǒu	355
 薅走	hāo zǒu	337
 豪族	háo zú	1743
+号嘴	hào zuǐ	72
 好做	hǎo zuò	1008
 和蔼	hé ǎi	1878
 合艾	hé ài	666
@@ -45212,6 +45323,7 @@ sort: by_weight
 河底	hé dǐ	332
 和帝	hé dì	265
 盒底	hé dǐ	212
+合底	hé dǐ	81
 喝点	hē diǎn	2032
 核电	hé diàn	1551
 贺电	hè diàn	97
@@ -46522,6 +46634,7 @@ sort: by_weight
 很作	hěn zuò	116
 很左	hěn zuǒ	104
 恒安	héng ān	122
+横按	héng àn	72
 横把	héng bǎ	135
 横摆	héng bǎi	135
 横版	héng bǎn	1030
@@ -47286,6 +47399,7 @@ sort: by_weight
 虹咲	hóng xiào	554
 红鞋	hóng xié	374
 红蟹	hóng xiè	106
+烘鞋	hōng xié	81
 红蝎	hóng xiē	62
 红心	hóng xīn	1303
 宏信	hóng xìn	613
@@ -47421,6 +47535,7 @@ sort: by_weight
 后半	hòu bàn	747
 厚板	hòu bǎn	100
 后板	hòu bǎn	80
+后帮	hòu bāng	81
 后报	hòu bào	1238
 后背	hòu bèi	7731
 后备	hòu bèi	4411
@@ -48748,6 +48863,7 @@ sort: by_weight
 华冠	huá guān	441
 画馆	huà guǎn	397
 滑罐	huá guàn	357
+滑管	huá guǎn	72
 花光	huā guāng	870
 划归	huà guī	1642
 华贵	huá guì	935
@@ -49126,6 +49242,7 @@ sort: by_weight
 划设	huà shè	1269
 花蛇	huā shé	434
 画社	huà shè	312
+花舌	huā shé	72
 化身	huà shēn	8013
 化神	huà shén	530
 花神	huā shén	424
@@ -49583,6 +49700,7 @@ sort: by_weight
 坏笑	huài xiào	465
 坏心	huài xīn	163
 怀袖	huái xiù	446
+踝靴	huái xuē	81
 坏牙	huài yá	126
 淮盐	huái yán	742
 淮扬	huái yáng	1148
@@ -49720,9 +49838,11 @@ sort: by_weight
 环割	huán gē	62
 还给	huán gěi	10431
 换给	huàn gěi	106
+换跟	huàn gēn	81
 环工	huán gōng	1264
 桓公	huán gōng	1201
 换工	huàn gōng	939
+换弓	huàn gōng	72
 换购	huàn gòu	631
 环顾	huán gù	779
 换股	huàn gǔ	584
@@ -50010,6 +50130,7 @@ sort: by_weight
 缓下	huǎn xià	914
 环线	huán xiàn	870
 换线	huàn xiàn	245
+换弦	huàn xián	72
 幻想	huàn xiǎng	27855
 幻象	huàn xiàng	2942
 还乡	huán xiāng	549
@@ -50087,6 +50208,7 @@ sort: by_weight
 换张	huàn zhāng	185
 还账	huán zhàng	116
 焕章	huàn zhāng	92
+换掌	huàn zhǎng	81
 患者	huàn zhě	108468
 换着	huàn zhe	1557
 唤着	huàn zhe	109
@@ -50943,6 +51065,7 @@ sort: by_weight
 挥剑	huī jiàn	653
 回见	huí jiàn	273
 回剪	huí jiǎn	129
+回键	huí jiàn	72
 会将	huì jiāng	7304
 会讲	huì jiǎng	2643
 会奖	huì jiǎng	254
@@ -52352,6 +52475,7 @@ sort: by_weight
 激变	jī biàn	116
 机变	jī biàn	92
 挤扁	jǐ biǎn	73
+击边	jī biān	72
 急变	jí biàn	58
 极边	jí biān	46
 缉边	jī biān	43
@@ -54451,6 +54575,7 @@ sort: by_weight
 家姑	jiā gū	1029
 胛骨	jiǎ gǔ	926
 颊骨	jiá gǔ	396
+架鼓	jià gǔ	72
 加挂	jiā guà	85
 加官	jiā guān	160
 加冠	jiā guān	106
@@ -55030,6 +55155,7 @@ sort: by_weight
 加线	jiā xiàn	147
 甲仙	jiǎ xiān	132
 夹馅	jiā xiàn	119
+夹线	jiā xiàn	81
 家乡	jiā xiāng	10607
 假象	jiǎ xiàng	5202
 假想	jiǎ xiǎng	3306
@@ -55399,6 +55525,7 @@ sort: by_weight
 舰船	jiàn chuán	992
 剑川	jiàn chuān	774
 槛窗	jiàn chuāng	436
+键床	jiàn chuáng	72
 简醇	jiǎn chún	806
 简纯	jiǎn chún	766
 建春	jiàn chūn	725
@@ -55466,6 +55593,7 @@ sort: by_weight
 减点	jiǎn diǎn	121
 煎点	jiān diǎn	109
 肩垫	jiān diàn	98
+键垫	jiàn diàn	72
 剪掉	jiǎn diào	2798
 减掉	jiǎn diào	1733
 检调	jiǎn diào	651
@@ -55541,13 +55669,16 @@ sort: by_weight
 减幅	jiǎn fú	155
 建福	jiàn fú	124
 奸夫	jiān fū	99
+键盖	jiàn gài	72
 渐感	jiàn gǎn	355
 箭杆	jiàn gān	337
+键杆	jiàn gān	72
 建刚	jiàn gāng	35
 建港	jiàn gǎng	32
 建钢	jiàn gāng	29
 肩高	jiān gāo	778
 渐高	jiàn gāo	619
+键高	jiàn gāo	72
 见个	jiàn gè	1714
 间隔	jiàn gé	1356
 建个	jiàn gè	540
@@ -56054,6 +56185,7 @@ sort: by_weight
 渐深	jiàn shēn	113
 监审	jiān shěn	90
 箭神	jiàn shén	72
+键深	jiàn shēn	72
 剑圣	jiàn shèng	3523
 监生	jiàn shēng	200
 尖声	jiān shēng	188
@@ -56274,6 +56406,7 @@ sort: by_weight
 建校	jiàn xiào	128
 渐消	jiàn xiāo	102
 贱笑	jiàn xiào	81
+键销	jiàn xiāo	72
 尖削	jiān xiāo	64
 渐小	jiàn xiǎo	51
 尖笑	jiān xiào	40
@@ -56440,6 +56573,7 @@ sort: by_weight
 建站	jiàn zhàn	3485
 建盏	jiàn zhǎn	3311
 监斩	jiān zhǎn	3136
+键毡	jiàn zhān	72
 舰长	jiàn zhǎng	2716
 简章	jiǎn zhāng	1965
 肩章	jiān zhāng	430
@@ -56498,6 +56632,7 @@ sort: by_weight
 简中	jiǎn zhōng	219
 剑冢	jiàn zhǒng	100
 舰种	jiàn zhǒng	80
+键重	jiàn zhòng	72
 贱种	jiàn zhǒng	64
 肩周	jiān zhōu	367
 建州	jiàn zhōu	349
@@ -56510,6 +56645,7 @@ sort: by_weight
 见诸	jiàn zhū	131
 箭竹	jiàn zhú	104
 笺注	jiān zhù	83
+键柱	jiàn zhù	72
 间柱	jiān zhù	66
 见状	jiàn zhuàng	1702
 健壮	jiàn zhuàng	1070
@@ -56538,6 +56674,7 @@ sort: by_weight
 减组	jiǎn zǔ	100
 谏阻	jiàn zǔ	99
 箭镞	jiàn zú	94
+键阻	jiàn zǔ	72
 尖嘴	jiān zuǐ	179
 兼做	jiān zuò	311
 间作	jiàn zuò	103
@@ -57415,6 +57552,7 @@ sort: by_weight
 缴款	jiǎo kuǎn	829
 较宽	jiào kuān	825
 交款	jiāo kuǎn	109
+脚宽	jiǎo kuān	81
 骄狂	jiāo kuáng	50
 交困	jiāo kùn	9
 较辣	jiào là	1062
@@ -57759,6 +57897,7 @@ sort: by_weight
 教委	jiào wěi	543
 交委	jiāo wěi	125
 焦味	jiāo wèi	100
+脚围	jiǎo wéi	81
 交尾	jiāo wěi	80
 脚位	jiǎo wèi	64
 焦尾	jiāo wěi	51
@@ -59354,6 +59493,7 @@ sort: by_weight
 金辉	jīn huī	1368
 金汇	jīn huì	108
 尽毁	jìn huǐ	86
+浸灰	jìn huī	81
 浸会	jìn huì	68
 金晖	jīn huī	54
 仅会	jǐn huì	43
@@ -59958,6 +60098,7 @@ sort: by_weight
 尽现	jìn xiàn	141
 进贤	jìn xián	112
 金县	jīn xiàn	89
+紧弦	jǐn xián	72
 近线	jìn xiàn	71
 紧线	jǐn xiàn	54
 锦县	jǐn xiàn	51
@@ -63590,6 +63731,7 @@ sort: by_weight
 卡得	kǎ de	615
 卡点	kǎ diǎn	1196
 卡掉	kǎ diào	742
+卡钉	kǎ dīng	72
 卡顿	kǎ dùn	5055
 卡饭	kǎ fàn	608
 卡方	kǎ fāng	1048
@@ -63611,6 +63753,8 @@ sort: by_weight
 咔叽	kǎ jī	103
 卡佳	kǎ jiā	91
 卡件	kǎ jiàn	364
+卡键	kǎ jiàn	72
+卡脚	kǎ jiǎo	81
 卡紧	kǎ jǐn	35
 咔咔	kā kā	1001
 卡口	kǎ kǒu	945
@@ -63734,6 +63878,7 @@ sort: by_weight
 开测	kāi cè	100
 开叉	kāi chā	236
 开衩	kāi chǎ	100
+开镲	kāi chǎ	72
 开拆	kāi chāi	648
 开场	kāi chǎng	11678
 开唱	kāi chàng	527
@@ -64089,6 +64234,7 @@ sort: by_weight
 开胸	kāi xiōng	468
 凯旋	kǎi xuán	1112
 开轩	kāi xuān	536
+开楦	kāi xuàn	81
 开学	kāi xué	11263
 开训	kāi xùn	9
 开呀	kāi ya	364
@@ -65581,6 +65727,7 @@ sort: by_weight
 可因	kě yīn	157
 可饮	kě yǐn	125
 渴饮	kě yǐn	100
+科音	kē yīn	72
 可赢	kě yíng	28
 可用	kě yòng	19038
 克用	kè yòng	185
@@ -66203,6 +66350,7 @@ sort: by_weight
 口红	kǒu hóng	5344
 口呼	kǒu hū	1012
 扣划	kòu huà	163
+扣坏	kòu huài	81
 扣环	kòu huán	35
 扣回	kòu huí	88
 口惠	kǒu huì	84
@@ -66865,6 +67013,7 @@ sort: by_weight
 块垒	kuài lěi	122
 快哩	kuài lī	256
 快联	kuài lián	891
+快练	kuài liàn	72
 块量	kuài liàng	688
 块料	kuài liào	41
 快龙	kuài lóng	173
@@ -67028,6 +67177,7 @@ sort: by_weight
 宽基	kuān jī	631
 髋肌	kuān jī	382
 宽肩	kuān jiān	166
+宽脚	kuān jiǎo	81
 宽解	kuān jiě	132
 宽街	kuān jiē	125
 宽景	kuān jǐng	428
@@ -67068,6 +67218,7 @@ sort: by_weight
 宽心	kuān xīn	276
 款型	kuǎn xíng	556
 宽袖	kuān xiù	41
+宽楦	kuān xuàn	81
 宽严	kuān yán	688
 款爷	kuǎn yé	38
 宽叶	kuān yè	34
@@ -67601,6 +67752,7 @@ sort: by_weight
 廓线	kuò xiàn	62
 扩香	kuò xiāng	84
 扩写	kuò xiě	458
+扩鞋	kuò xié	81
 廓形	kuò xíng	981
 廓型	kuò xíng	589
 扩胸	kuò xiōng	144
@@ -67813,6 +67965,7 @@ sort: by_weight
 腊肉	là ròu	1221
 辣肉	là ròu	1099
 拉入	lā rù	1105
+拉软	lā ruǎn	81
 拉瑞	lā ruì	891
 拉萨	lā sà	2399
 拉撒	lā sā	1040
@@ -67860,6 +68013,7 @@ sort: by_weight
 辣虾	là xiā	1196
 拉线	lā xiàn	666
 辣鲜	là xiān	599
+拉弦	lā xián	72
 蜡线	là xiàn	43
 蜡像	là xiàng	405
 拉响	lā xiǎng	292
@@ -67874,6 +68028,7 @@ sort: by_weight
 拉雅	lā yǎ	186
 辣眼	là yǎn	220
 拉烟	lā yān	209
+蜡养	là yǎng	81
 腊叶	là yè	62
 辣意	là yì	544
 辣油	là yóu	355
@@ -69463,6 +69618,7 @@ sort: by_weight
 乐扣	lè kòu	248
 勒口	lè kǒu	223
 乐酷	lè kù	688
+乐兰	lè lán	72
 乐浪	lè làng	806
 乐乐	lè lè	1479
 乐了	lè le	1120
@@ -69951,6 +70107,7 @@ sort: by_weight
 冷榨	lěng zhà	576
 冷战	lěng zhàn	4041
 冷颤	lěng zhan	3839
+冷粘	lěng zhān	81
 愣着	lèng zhe	210
 冷着	lěng zhe	200
 愣怔	lèng zheng	85
@@ -71113,6 +71270,7 @@ sort: by_weight
 连攻	lián gōng	150
 连供	lián gōng	120
 连拱	lián gǒng	96
+连弓	lián gōng	72
 练鼓	liàn gǔ	531
 炼蛊	liàn gǔ	62
 连贯	lián guàn	4864
@@ -71417,6 +71575,7 @@ sort: by_weight
 炼铜	liàn tóng	238
 连投	lián tóu	97
 联投	lián tóu	92
+连吐	lián tǔ	72
 莲团	lián tuán	392
 练腿	liàn tuǐ	738
 练臀	liàn tún	62
@@ -71882,6 +72041,7 @@ sort: by_weight
 两脚	liǎng jiǎo	1790
 两角	liǎng jiǎo	354
 两教	liǎng jiào	283
+量脚	liàng jiǎo	81
 谅解	liàng jiě	2948
 两届	liǎng jiè	2006
 两节	liǎng jié	1846
@@ -72650,6 +72810,7 @@ sort: by_weight
 猎聘	liè pìn	2217
 劣品	liè pǐn	594
 猎奇	liè qí	3514
+裂漆	liè qī	72
 猎枪	liè qiāng	3146
 列强	liè qiáng	810
 趔趄	liè qie	342
@@ -73312,6 +73473,7 @@ sort: by_weight
 另辟	lìng pì	236
 领票	lǐng piào	144
 另聘	lìng pìn	459
+零品	líng pǐn	72
 灵婆	líng pó	585
 灵气	líng qì	3058
 令其	lìng qí	1698
@@ -74818,6 +74980,7 @@ sort: by_weight
 楼间	lóu jiān	164
 搂肩	lǒu jiān	62
 漏件	lòu jiàn	10
+漏胶	lòu jiāo	81
 漏缴	lòu jiǎo	72
 漏交	lòu jiāo	68
 楼角	lóu jiǎo	65
@@ -75685,6 +75848,7 @@ sort: by_weight
 伦比	lún bǐ	69
 论辩	lùn biàn	308
 轮播	lún bō	750
+轮拨	lún bō	72
 轮唱	lún chàng	214
 伦常	lún cháng	203
 轮齿	lún chǐ	22
@@ -75718,6 +75882,7 @@ sort: by_weight
 论个	lùn gè	57
 论功	lùn gōng	122
 轮毂	lún gǔ	2298
+轮鼓	lún gǔ	72
 轮轨	lún guǐ	693
 论过	lùn guò	63
 论衡	lùn héng	204
@@ -75730,6 +75895,7 @@ sort: by_weight
 轮机	lún jī	653
 论集	lùn jí	147
 论迹	lùn jì	117
+轮击	lún jī	72
 论价	lùn jià	232
 轮奸	lún jiān	688
 论剑	lùn jiàn	298
@@ -75868,6 +76034,7 @@ sort: by_weight
 落单	luò dān	1020
 落到	luò dào	5888
 落得	luò de	2669
+罗德	luó dé	72
 落地	luò dì	20784
 落第	luò dì	232
 裸底	luǒ dǐ	100
@@ -75982,6 +76149,7 @@ sort: by_weight
 落来	luò lái	1116
 罗莱	luó lái	1060
 洛兰	luò lán	720
+罗兰	luó lán	72
 骆老	luò lǎo	38
 罗勒	luó lè	1733
 落泪	luò lèi	3266
@@ -76162,6 +76330,7 @@ sort: by_weight
 螺线	luó xiàn	185
 裸线	luǒ xiàn	135
 罗县	luó xiàn	108
+裸弦	luǒ xián	72
 落向	luò xiàng	752
 罗新	luó xīn	760
 罗星	luó xīng	774
@@ -77067,6 +77236,7 @@ sort: by_weight
 麻涌	má yǒng	910
 麻油	má yóu	678
 麻友	má yǒu	610
+马油	mǎ yóu	81
 马鱼	mǎ yú	711
 麻圆	má yuán	408
 麻园	má yuán	208
@@ -77323,6 +77493,7 @@ sort: by_weight
 卖了	mài le	14663
 埋了	mái le	2176
 迈了	mài le	175
+迈乐	mài lè	81
 埋雷	mái léi	323
 麦类	mài lèi	307
 卖力	mài lì	1752
@@ -78912,6 +79083,7 @@ sort: by_weight
 美吗	měi ma	198
 美妈	měi mā	97
 没嘛	méi ma	94
+美码	měi mǎ	81
 没骂	méi mà	75
 没妈	méi mā	60
 美嘛	měi ma	48
@@ -79611,6 +79783,7 @@ sort: by_weight
 闷肉	mèn ròu	580
 门萨	mén sà	842
 闷骚	mèn sāo	1178
+闷扫	mèn sǎo	72
 闷杀	mèn shā	36
 门扇	mén shàn	179
 门上	mén shàng	2135
@@ -81837,6 +82010,7 @@ sort: by_weight
 沫儿	mò er	626
 末儿	mò er	563
 魔耳	mó ěr	298
+摩尔	mó ěr	72
 魔法	mó fǎ	20200
 膜法	mó fǎ	900
 魔发	mó fā	806
@@ -81867,6 +82041,7 @@ sort: by_weight
 莫敢	mò gǎn	585
 摸高	mō gāo	292
 莫高	mò gāo	277
+磨跟	mó gēn	81
 魔攻	mó gōng	66
 魔宫	mó gōng	63
 墨工	mò gōng	62
@@ -82197,6 +82372,7 @@ sort: by_weight
 摩天	mó tiān	132
 魔天	mó tiān	119
 墨田	mò tián	107
+抹挑	mǒ tiāo	72
 魔铁	mó tiě	544
 摹帖	mó tiē	289
 莫听	mò tīng	612
@@ -82253,6 +82429,7 @@ sort: by_weight
 魔血	mó xiě	131
 摹写	mó xiě	104
 魔蝎	mó xiē	83
+磨鞋	mó xié	81
 模写	mó xiě	66
 磨血	mó xiě	52
 魔心	mó xīn	662
@@ -82585,6 +82762,7 @@ sort: by_weight
 墓地	mù dì	3589
 亩地	mǔ dì	102
 母弟	mǔ dì	81
+木底	mù dǐ	81
 牧笛	mù dí	64
 牧地	mù dì	51
 木笛	mù dí	32
@@ -84497,6 +84675,7 @@ sort: by_weight
 呢哇	ne wa	572
 呢样	ne yàng	675
 哪吒	né zhā	4487
+呢毡	ne zhān	72
 内凹	nèi āo	226
 内八	nèi bā	855
 内板	nèi bǎn	91
@@ -85585,6 +85764,7 @@ sort: by_weight
 呢子	ní zi	263
 妮子	nī zi	175
 逆子	nì zǐ	100
+泥渍	ní zì	81
 你总	nǐ zǒng	1485
 匿踪	nì zōng	1411
 你走	nǐ zǒu	1281
@@ -85681,6 +85861,7 @@ sort: by_weight
 年检	nián jiǎn	11141
 年间	nián jiān	1180
 年鉴	nián jiàn	857
+黏键	nián jiàn	72
 年奖	nián jiǎng	972
 黏胶	nián jiāo	78
 粘胶	nián jiāo	74
@@ -87338,6 +87519,7 @@ sort: by_weight
 怕羞	pà xiū	50
 怕痒	pà yǎng	44
 怕要	pà yào	53
+琶音	pá yīn	72
 爬泳	pá yǒng	13
 怕有	pà yǒu	301
 爬越	pá yuè	16
@@ -87452,6 +87634,7 @@ sort: by_weight
 派给	pài gěi	138
 拍够	pāi gòu	464
 排骨	pái gǔ	4145
+排鼓	pái gǔ	72
 拍鼓	pāi gǔ	62
 排卦	pái guà	504
 排管	pái guǎn	688
@@ -87650,6 +87833,7 @@ sort: by_weight
 排线	pái xiàn	1281
 派现	pài xiàn	270
 排险	pái xiǎn	216
+拍弦	pāi xián	72
 派馅	pài xiàn	61
 拍向	pāi xiàng	47
 拍响	pāi xiǎng	45
@@ -87694,6 +87878,7 @@ sort: by_weight
 牌照	pái zhào	5457
 拍着	pāi zhe	2204
 排着	pái zhe	496
+排针	pái zhēn	72
 排阵	pái zhèn	69
 牌阵	pái zhèn	66
 牌证	pái zhèng	28
@@ -87736,6 +87921,7 @@ sort: by_weight
 盘错	pán cuò	33
 判错	pàn cuò	19
 盘带	pán dài	2113
+攀带	pān dài	72
 袢带	pàn dài	43
 盘档	pán dàng	644
 叛党	pàn dǎng	612
@@ -88126,6 +88312,7 @@ sort: by_weight
 袍哥	páo gē	226
 抛给	pāo gěi	794
 刨根	páo gēn	57
+抛弓	pāo gōng	72
 跑够	pǎo gòu	144
 匏瓜	páo guā	132
 炮管	pào guǎn	474
@@ -88295,6 +88482,7 @@ sort: by_weight
 炮眼	pào yǎn	28
 抛秧	pāo yāng	62
 泡药	pào yào	62
+跑音	pǎo yīn	72
 跑赢	pǎo yíng	2974
 泡影	pào yǐng	722
 炮友	pào yǒu	769
@@ -88493,6 +88681,7 @@ sort: by_weight
 配齐	pèi qí	1259
 配气	pèi qì	1077
 佩琪	pèi qí	150
+配器	pèi qì	72
 赔钱	péi qián	8783
 配枪	pèi qiāng	430
 配强	pèi qiáng	408
@@ -88620,6 +88809,7 @@ sort: by_weight
 配做	pèi zuò	976
 陪坐	péi zuò	927
 喷鼻	pēn bí	138
+喷笔	pēn bǐ	81
 喷薄	pēn bó	217
 喷播	pēn bō	195
 盆菜	pén cài	35
@@ -88974,6 +89164,7 @@ sort: by_weight
 批成	pī chéng	156
 皮尺	pí chǐ	270
 蜱虫	pí chóng	217
+皮冲	pí chōng	81
 批臭	pī chòu	62
 批出	pī chū	100
 辟出	pì chū	95
@@ -89001,6 +89192,7 @@ sort: by_weight
 匹敌	pǐ dí	1928
 辟地	pì dì	918
 批地	pī dì	811
+皮底	pí dǐ	81
 屁颠	pì diān	1300
 批点	pī diǎn	562
 皮店	pí diàn	348
@@ -89029,6 +89221,7 @@ sort: by_weight
 皮哥	pí gē	1431
 皮革	pí gé	1359
 披个	pī gè	255
+坯革	pī gé	81
 批给	pī gěi	88
 屁股	pì gu	17619
 皮鼓	pí gǔ	734
@@ -89138,6 +89331,7 @@ sort: by_weight
 批判	pī pàn	23798
 皮袍	pí páo	3
 匹配	pǐ pèi	39906
+皮胚	pí pēi	81
 皮皮	pí pí	1086
 屁屁	pì pì	898
 噼噼	pī pī	655
@@ -89221,6 +89415,7 @@ sort: by_weight
 郫县	pí xiàn	157
 丕显	pī xiǎn	141
 邳县	pī xiàn	127
+皮线	pí xiàn	81
 皮箱	pí xiāng	528
 皮相	pí xiàng	326
 劈向	pī xiàng	260
@@ -89424,6 +89619,7 @@ sort: by_weight
 片名	piàn míng	2506
 篇名	piān míng	213
 篇末	piān mò	82
+偏磨	piān mó	81
 篇目	piān mù	1039
 偏南	piān nán	691
 偏难	piān nán	257
@@ -89807,6 +90003,7 @@ sort: by_weight
 频点	pín diǎn	1004
 拼点	pīn diǎn	498
 品甸	pǐn diān	122
+品点	pǐn diǎn	72
 拼爹	pīn diē	597
 拼豆	pīn dòu	377
 拼斗	pīn dòu	82
@@ -89846,6 +90043,7 @@ sort: by_weight
 拼回	pīn huí	38
 贫瘠	pín jí	1385
 品级	pǐn jí	769
+品记	pǐn jì	72
 拼假	pīn jiǎ	688
 贫家	pín jiā	654
 品鉴	pǐn jiàn	3234
@@ -89927,6 +90125,7 @@ sort: by_weight
 聘书	pìn shū	298
 频数	pín shù	235
 拼死	pīn sǐ	1444
+品丝	pǐn sī	72
 拼台	pīn tái	62
 品汤	pǐn tāng	702
 品题	pǐn tí	25
@@ -92543,6 +92742,7 @@ sort: by_weight
 前板	qián bǎn	396
 铅板	qiān bǎn	316
 铅棒	qiān bàng	207
+前帮	qián bāng	81
 钱包	qián bāo	10390
 钱宝	qián bǎo	1278
 前保	qián bǎo	1121
@@ -93918,6 +94118,7 @@ sort: by_weight
 桥板	qiáo bǎn	139
 侨办	qiáo bàn	128
 巧拌	qiǎo bàn	101
+敲板	qiāo bǎn	72
 撬棒	qiào bàng	35
 侨胞	qiáo bāo	50
 侨报	qiáo bào	48
@@ -94377,6 +94578,7 @@ sort: by_weight
 亲爸	qīn bà	298
 亲吧	qīn ba	268
 钦邦	qīn bāng	680
+琴包	qín bāo	72
 钦北	qīn běi	31
 亲本	qīn běn	220
 亲笔	qīn bǐ	666
@@ -94413,6 +94615,7 @@ sort: by_weight
 琴调	qín diào	13
 亲爹	qīn diē	2663
 钦定	qīn dìng	2179
+琴钉	qín dīng	72
 亲睹	qīn dǔ	53
 勤读	qín dú	43
 侵夺	qīn duó	173
@@ -94426,6 +94629,8 @@ sort: by_weight
 亲父	qīn fù	188
 亲赴	qīn fù	150
 亲夫	qīn fū	120
+琴腹	qín fù	72
+琴盖	qín gài	72
 琴杆	qín gān	464
 亲哥	qīn gē	411
 亲个	qīn gè	370
@@ -94456,6 +94661,7 @@ sort: by_weight
 侵华	qīn huá	449
 亲华	qīn huá	204
 勤换	qín huàn	990
+琴徽	qín huī	72
 擒获	qín huò	578
 琴技	qín jì	267
 侵及	qīn jí	254
@@ -94470,7 +94676,10 @@ sort: by_weight
 琴键	qín jiàn	260
 亲见	qīn jiàn	208
 琴剑	qín jiàn	166
+琴肩	qín jiān	72
 秦艽	qín jiāo	138
+琴脚	qín jiǎo	72
+琴角	qín jiǎo	72
 亲姐	qīn jiě	1066
 琴姐	qín jiě	1013
 秦姐	qín jiě	536
@@ -94498,6 +94707,7 @@ sort: by_weight
 亲了	qīn le	1046
 禽类	qín lèi	637
 噙泪	qín lèi	459
+琴肋	qín lèi	72
 亲历	qīn lì	1551
 亲力	qīn lì	1080
 勤力	qín lì	626
@@ -94511,6 +94721,7 @@ sort: by_weight
 侵凌	qīn líng	116
 禽龙	qín lóng	697
 擒龙	qín lóng	661
+琴轮	qín lún	72
 秦律	qín lǜ	616
 侵略	qīn lüè	1652
 侵掠	qīn lüè	464
@@ -94629,6 +94840,7 @@ sort: by_weight
 溱潼	qín tóng	688
 琴筒	qín tǒng	652
 琴头	qín tóu	757
+琴腿	qín tuǐ	72
 侵吞	qīn tūn	669
 琴晚	qín wǎn	729
 亲王	qīn wáng	4531
@@ -94668,6 +94880,7 @@ sort: by_weight
 琴学	qín xué	255
 亲眼	qīn yǎn	1407
 沁阳	qìn yáng	63
+琴腰	qín yāo	72
 勤业	qín yè	621
 禽业	qín yè	590
 琴艺	qín yì	185
@@ -94688,6 +94901,8 @@ sort: by_weight
 擒贼	qín zéi	53
 侵占	qīn zhàn	2575
 噙着	qín zhe	192
+琴枕	qín zhěn	72
+琴轸	qín zhěn	72
 亲征	qīn zhēng	681
 勤政	qín zhèng	675
 亲政	qīn zhèng	301
@@ -95049,6 +95264,7 @@ sort: by_weight
 清减	qīng jiǎn	144
 轻剑	qīng jiàn	130
 轻剪	qīng jiǎn	129
+轻键	qīng jiàn	72
 请将	qǐng jiāng	945
 请讲	qǐng jiǎng	157
 清江	qīng jiāng	153
@@ -96347,6 +96563,7 @@ sort: by_weight
 娶得	qǔ de	373
 曲登	qǔ dēng	16
 取缔	qǔ dì	1259
+曲笛	qǔ dí	72
 去点	qù diǎn	1413
 取电	qǔ diàn	1342
 去电	qù diàn	1272
@@ -96415,6 +96632,7 @@ sort: by_weight
 去逛	qù guàng	1196
 屈光	qū guāng	675
 趋光	qū guāng	106
+去光	qù guāng	81
 驱鬼	qū guǐ	232
 曲棍	qū gùn	9
 去过	qù guò	11781
@@ -96626,6 +96844,7 @@ sort: by_weight
 去任	qù rèn	847
 去日	qù rì	1570
 取肉	qǔ ròu	716
+去肉	qù ròu	81
 屈辱	qū rǔ	2496
 趋弱	qū ruò	693
 去撒	qù sā	28
@@ -96854,6 +97073,7 @@ sort: by_weight
 去籽	qù zǐ	254
 取字	qǔ zì	178
 屈子	qū zǐ	142
+去渍	qù zì	81
 取走	qǔ zǒu	1058
 驱走	qū zǒu	163
 区组	qū zǔ	1202
@@ -99492,6 +99712,7 @@ sort: by_weight
 揉揉	róu róu	543
 柔柔	róu róu	213
 柔软	róu ruǎn	9649
+揉软	róu ruǎn	81
 柔润	róu rùn	279
 柔弱	róu ruò	1554
 肉臊	ròu sāo	756
@@ -99532,6 +99753,7 @@ sort: by_weight
 肉馅	ròu xiàn	1262
 肉鲜	ròu xiān	1136
 肉陷	ròu xiàn	622
+揉弦	róu xián	72
 肉香	ròu xiāng	835
 肉蟹	ròu xiè	958
 柔性	róu xìng	1721
@@ -100197,6 +100419,7 @@ sort: by_weight
 软铺	ruǎn pù	62
 软铅	ruǎn qiān	310
 软桥	ruǎn qiáo	387
+阮琴	ruǎn qín	72
 软驱	ruǎn qū	308
 软韧	ruǎn rèn	594
 软肉	ruǎn ròu	770
@@ -100211,6 +100434,7 @@ sort: by_weight
 软石	ruǎn shí	759
 软熟	ruǎn shú	662
 阮叔	ruǎn shū	304
+软刷	ruǎn shuā	81
 软水	ruǎn shuǐ	327
 软塑	ruǎn sù	562
 软酸	ruǎn suān	436
@@ -100410,6 +100634,7 @@ sort: by_weight
 润明	rùn míng	3
 润楠	rùn nán	598
 闰年	rùn nián	2057
+润皮	rùn pí	81
 闰日	rùn rì	160
 润润	rùn rùn	336
 润色	rùn sè	2886
@@ -100491,8 +100716,10 @@ sort: by_weight
 若你	ruò nǐ	3131
 若您	ruò nín	499
 弱女	ruò nǚ	990
+弱拍	ruò pāi	72
 若琪	ruò qí	896
 若其	ruò qí	851
+弱起	ruò qǐ	72
 若羌	ruò qiāng	38
 若求	ruò qiú	585
 若然	ruò rán	104
@@ -100769,6 +100996,7 @@ sort: by_weight
 塞体	sāi tǐ	410
 赛艇	sài tǐng	562
 噻酮	sāi tóng	252
+腮托	sāi tuō	72
 塞外	sài wài	750
 塞完	sāi wán	526
 赛文	sài wén	3310
@@ -101415,6 +101643,7 @@ sort: by_weight
 三统	sān tǒng	185
 三头	sān tóu	1108
 三途	sān tú	639
+三吐	sān tǔ	72
 三团	sān tuán	116
 散团	sàn tuán	110
 三退	sān tuì	626
@@ -101712,6 +101941,7 @@ sort: by_weight
 骚包	sāo bāo	242
 骚逼	sāo bī	6
 扫边	sǎo biān	54
+扫拨	sǎo bō	72
 扫场	sǎo chǎng	558
 扫车	sǎo chē	711
 扫尘	sǎo chén	576
@@ -101997,6 +102227,7 @@ sort: by_weight
 煞笔	shā bǐ	1023
 傻屄	shǎ bī	185
 沙币	shā bì	148
+砂边	shā biān	81
 沙冰	shā bīng	1184
 啥病	shá bìng	581
 纱布	shā bù	2917
@@ -102154,6 +102385,7 @@ sort: by_weight
 煞科	shā kē	972
 杀科	shā kē	268
 沙坑	shā kēng	399
+砂块	shā kuài	81
 砂矿	shā kuàng	626
 沙拉	shā lā	4255
 莎拉	shā lā	998
@@ -102220,6 +102452,7 @@ sort: by_weight
 沙面	shā miàn	122
 杀灭	shā miè	1485
 沙漠	shā mò	9448
+砂磨	shā mó	81
 杉木	shā mù	631
 莎木	shā mù	178
 纱幕	shā mù	142
@@ -103071,6 +103304,7 @@ sort: by_weight
 上榜	shàng bǎng	3332
 商帮	shāng bāng	864
 上邦	shàng bāng	584
+绱帮	shàng bāng	81
 上报	shàng bào	4625
 商报	shāng bào	160
 商保	shāng bǎo	128
@@ -103094,6 +103328,7 @@ sort: by_weight
 伤兵	shāng bīng	514
 上冰	shàng bīng	411
 上博	shàng bó	958
+上拨	shàng bō	72
 上不	shàng bù	2726
 上部	shàng bù	1770
 尚不	shàng bù	292
@@ -103185,6 +103420,7 @@ sort: by_weight
 上地	shàng dì	1431
 上底	shàng dǐ	798
 伤敌	shāng dí	718
+绱底	shàng dǐ	81
 商店	shāng diàn	11690
 上点	shàng diǎn	1764
 上电	shàng diàn	1161
@@ -103253,6 +103489,7 @@ sort: by_weight
 上告	shàng gào	351
 商稿	shāng gǎo	125
 尚高	shàng gāo	100
+上膏	shàng gāo	81
 上个	shàng gè	8751
 上格	shàng gé	386
 尚哥	shàng gē	308
@@ -103569,6 +103806,7 @@ sort: by_weight
 上人	shàng rén	615
 上忍	shàng rěn	492
 上肉	shàng ròu	50
+上乳	shàng rǔ	81
 商赛	shāng sài	477
 上三	shàng sān	1624
 上色	shàng sè	5448
@@ -103726,6 +103964,7 @@ sort: by_weight
 商校	shāng xiào	266
 上写	shàng xiě	3218
 上邪	shàng xié	3057
+绱鞋	shàng xié	81
 伤心	shāng xīn	7147
 上心	shàng xīn	2194
 上新	shàng xīn	2160
@@ -107721,6 +107960,7 @@ sort: by_weight
 侍寝	shì qǐn	590
 事亲	shì qīn	531
 世亲	shì qīn	478
+试琴	shì qín	72
 事情	shì qíng	61236
 实情	shí qíng	1824
 诗情	shī qíng	364
@@ -107863,6 +108103,7 @@ sort: by_weight
 实生	shí shēng	135
 诗圣	shī shèng	108
 始生	shǐ shēng	86
+湿声	shī shēng	72
 石生	shí shēng	68
 湿生	shī shēng	54
 适生	shì shēng	43
@@ -107929,6 +108170,7 @@ sort: by_weight
 示数	shì shù	15
 士庶	shì shù	7
 世叔	shì shū	4
+湿刷	shī shuā	81
 十双	shí shuāng	186
 是爽	shì shuǎng	91
 是双	shì shuāng	90
@@ -108272,6 +108514,7 @@ sort: by_weight
 失序	shī xù	236
 诗序	shī xù	188
 诗选	shī xuǎn	392
+试楦	shì xuàn	81
 史学	shǐ xué	5024
 失血	shī xuè	1623
 嗜血	shì xuè	985
@@ -108568,6 +108811,7 @@ sort: by_weight
 师侄	shī zhí	131
 市制	shì zhì	97
 实值	shí zhí	78
+时值	shí zhí	72
 石制	shí zhì	63
 时滞	shí zhì	57
 施治	shī zhì	51
@@ -108651,6 +108895,7 @@ sort: by_weight
 狮鬃	shī zōng	62
 视奏	shì zòu	823
 师走	shī zǒu	688
+试奏	shì zòu	72
 十足	shí zú	8977
 失足	shī zú	3626
 始祖	shǐ zǔ	2992
@@ -109869,6 +110114,7 @@ sort: by_weight
 孰高	shú gāo	647
 数个	shù gè	3178
 薯格	shǔ gé	100
+熟革	shú gé	81
 书阁	shū gé	80
 属格	shǔ gé	64
 输给	shū gěi	6707
@@ -110494,6 +110740,7 @@ sort: by_weight
 书异	shū yì	1
 树荫	shù yīn	484
 树阴	shù yīn	436
+属音	shǔ yīn	72
 输赢	shū yíng	3561
 树影	shù yǐng	370
 疏影	shū yǐng	219
@@ -110646,6 +110893,7 @@ sort: by_weight
 刷的	shuā de	1598
 耍得	shuǎ de	669
 唰地	shuā de	51
+刷底	shuā dǐ	81
 刷点	shuā diǎn	810
 耍点	shuǎ diǎn	540
 刷掉	shuā diào	1900
@@ -110717,6 +110965,7 @@ sort: by_weight
 耍我	shuǎ wǒ	148
 刷洗	shuā xǐ	333
 刷下	shuā xià	295
+刷弦	shuā xián	72
 刷鞋	shuā xié	192
 刷写	shuā xiě	182
 刷血	shuā xiě	156
@@ -110828,6 +111077,7 @@ sort: by_weight
 帅旗	shuài qí	531
 甩枪	shuǎi qiāng	151
 衰人	shuāi rén	50
+摔软	shuāi ruǎn	81
 衰弱	shuāi ruò	2185
 摔伤	shuāi shāng	1165
 衰神	shuāi shén	107
@@ -110936,6 +111186,7 @@ sort: by_weight
 爽不	shuǎng bù	69
 双补	shuāng bǔ	66
 双采	shuāng cǎi	603
+双踩	shuāng cǎi	72
 双掺	shuāng càn	62
 双槽	shuāng cáo	305
 双侧	shuāng cè	1448
@@ -111275,11 +111526,13 @@ sort: by_weight
 爽甜	shuǎng tián	698
 霜天	shuāng tiān	663
 双条	shuāng tiáo	626
+双跳	shuāng tiào	72
 双萜	shuāng tiē	202
 双通	shuāng tōng	1012
 双筒	shuāng tǒng	339
 双瞳	shuāng tóng	271
 双头	shuāng tóu	763
+双吐	shuāng tǔ	72
 双腿	shuāng tuǐ	4964
 爽完	shuǎng wán	652
 双王	shuāng wáng	342
@@ -111421,6 +111674,7 @@ sort: by_weight
 谁曾	shuí céng	267
 水层	shuǐ céng	254
 水插	shuǐ chā	129
+水镲	shuǐ chǎ	72
 水产	shuǐ chǎn	1385
 水潺	shuǐ chán	914
 水厂	shuǐ chǎng	791
@@ -112098,6 +112352,7 @@ sort: by_weight
 顺服	shùn fú	113
 顺杆	shùn gān	25
 舜耕	shùn gēng	443
+顺弓	shùn gōng	72
 顺拐	shùn guǎi	482
 顺光	shùn guāng	693
 顺和	shùn hé	82
@@ -113625,6 +113880,7 @@ sort: by_weight
 送戏	sòng xì	45
 松下	sōng xià	7819
 送下	sòng xià	1008
+松弦	sōng xián	72
 松线	sōng xiàn	54
 松香	sōng xiāng	458
 松懈	sōng xiè	2418
@@ -114437,6 +114693,7 @@ sort: by_weight
 遂告	suì gào	756
 岁贡	suì gòng	716
 隋宫	suí gōng	680
+碎弓	suì gōng	72
 碎骨	suì gǔ	493
 碎股	suì gǔ	468
 虽贵	suī guì	711
@@ -114859,6 +115116,7 @@ sort: by_weight
 锁扣	suǒ kòu	411
 缩口	suō kǒu	390
 所扣	suǒ kòu	333
+锁口	suǒ kǒu	81
 锁库	suǒ kù	234
 所困	suǒ kùn	578
 所来	suǒ lái	13
@@ -115239,6 +115497,7 @@ sort: by_weight
 她给	tā gěi	1042
 他跟	tā gēn	4861
 她跟	tā gēn	1921
+塌跟	tā gēn	81
 他更	tā gèng	1784
 她更	tā gèng	395
 塔公	tǎ gōng	22
@@ -116736,6 +116995,7 @@ sort: by_weight
 汤杯	tāng bēi	47
 唐碑	táng bēi	42
 唐备	táng bèi	38
+烫边	tàng biān	81
 塘边	táng biān	22
 烫标	tàng biāo	43
 唐彬	táng bīn	35
@@ -117517,6 +117777,7 @@ sort: by_weight
 桃形	táo xíng	40
 套袖	tào xiù	47
 淘选	táo xuǎn	364
+套楦	tào xuàn	81
 逃学	táo xué	436
 套压	tào yā	477
 讨厌	tǎo yàn	22413
@@ -119258,6 +119519,7 @@ sort: by_weight
 挑个	tiāo gè	1118
 跳个	tiào gè	628
 调羹	tiáo gēng	229
+跳弓	tiào gōng	72
 条狗	tiáo gǒu	904
 调光	tiáo guāng	1083
 跳轨	tiào guǐ	1534
@@ -119580,6 +119842,7 @@ sort: by_weight
 贴膏	tiē gāo	729
 铁镐	tiě gǎo	693
 贴个	tiē gè	3115
+铁跟	tiě gēn	81
 铁工	tiě gōng	44
 铁钩	tiě gōu	132
 铁骨	tiě gǔ	75
@@ -119775,6 +120038,7 @@ sort: by_weight
 铁雄	tiě xióng	756
 铁锈	tiě xiù	550
 铁铉	tiě xuàn	634
+贴楦	tiē xuàn	81
 铁血	tiě xuè	3178
 帖学	tiē xué	518
 铁盐	tiě yán	549
@@ -119793,6 +120057,7 @@ sort: by_weight
 铁栅	tiě zhà	62
 铁掌	tiě zhǎng	711
 铁杖	tiě zhàng	675
+贴掌	tiē zhǎng	81
 贴着	tiē zhe	4776
 铁砧	tiě zhēn	210
 铁证	tiě zhèng	1064
@@ -120497,6 +120762,7 @@ sort: by_weight
 铜鼓	tóng gǔ	200
 通鼓	tōng gǔ	170
 通谷	tōng gǔ	153
+嗵鼓	tōng gǔ	72
 筒骨	tǒng gǔ	62
 通关	tōng guān	12346
 铜管	tóng guǎn	1419
@@ -122395,6 +122661,7 @@ sort: by_weight
 退坡	tuì pō	135
 推普	tuī pǔ	615
 推起	tuī qǐ	1093
+褪漆	tuì qī	81
 退钱	tuì qián	1941
 推前	tuī qián	878
 褪浅	tuì qiǎn	67
@@ -122692,6 +122959,7 @@ sort: by_weight
 脱掉	tuō diào	1727
 拖吊	tuō diào	450
 拖钓	tuō diào	328
+脱钉	tuō dīng	81
 拖动	tuō dòng	2716
 拓东	tuò dōng	648
 拖斗	tuō dǒu	41
@@ -122811,6 +123079,7 @@ sort: by_weight
 唾沫	tuò mò	509
 脱模	tuō mó	484
 脱膜	tuō mó	53
+托木	tuō mù	72
 驼奶	tuó nǎi	594
 鸵鸟	tuó niǎo	1030
 托您	tuō nín	648
@@ -122822,6 +123091,7 @@ sort: by_weight
 托盘	tuō pán	1284
 脱盆	tuō pén	129
 脱皮	tuō pí	1199
+托劈	tuō pī	72
 脱贫	tuō pín	722
 拓扑	tuò pū	4946
 托普	tuō pǔ	172
@@ -122915,6 +123185,7 @@ sort: by_weight
 脱嗅	tuō xiù	180
 脱溴	tuō xiù	110
 脱序	tuō xù	19
+脱楦	tuō xuàn	81
 脱靴	tuō xuē	94
 托娅	tuō yà	621
 拖延	tuō yán	6974
@@ -123116,6 +123387,7 @@ sort: by_weight
 挖药	wā yào	62
 瓦窑	wǎ yáo	44
 袜业	wà yè	41
+哇音	wa yīn	72
 蛙泳	wā yǒng	622
 蛙鱼	wā yú	16
 瓦泽	wǎ zé	3
@@ -123965,6 +124237,7 @@ sort: by_weight
 玩死	wán sǐ	135
 宛似	wǎn sì	108
 万死	wàn sǐ	86
+万斯	wàn sī	81
 万松	wàn sōng	28
 万艘	wàn sōu	572
 晚宿	wǎn sù	616
@@ -125547,6 +125820,7 @@ sort: by_weight
 委身	wěi shēn	345
 未深	wèi shēn	94
 惟审	wéi shěn	88
+位深	wèi shēn	72
 卫生	wèi shēng	6660
 尾声	wěi shēng	3956
 为生	wéi shēng	3058
@@ -125554,6 +125828,7 @@ sort: by_weight
 为胜	wéi shèng	141
 未生	wèi shēng	112
 微升	wēi shēng	89
+尾绳	wěi shéng	72
 未胜	wèi shèng	71
 威盛	wēi shèng	56
 伪声	wěi shēng	44
@@ -126826,6 +127101,7 @@ sort: by_weight
 我儿	wǒ ér	2402
 窝儿	wō er	405
 我发	wǒ fā	2550
+握法	wò fǎ	72
 我烦	wǒ fán	936
 我方	wǒ fāng	7144
 卧房	wò fáng	1497
@@ -126855,6 +127131,7 @@ sort: by_weight
 我跟	wǒ gēn	14036
 我更	wǒ gèng	10733
 窝工	wō gōng	248
+握弓	wò gōng	72
 窝沟	wō gōu	774
 卧钩	wò gōu	228
 我姑	wǒ gū	1472
@@ -130249,6 +130526,7 @@ sort: by_weight
 下工	xià gōng	95
 下宫	xià gōng	81
 厦工	xià gōng	73
+下弓	xià gōng	72
 下钩	xià gōu	742
 下沟	xià gōu	521
 峡谷	xiá gǔ	3316
@@ -130877,6 +131155,8 @@ sort: by_weight
 舷窗	xián chuāng	512
 先吹	xiān chuī	760
 线垂	xiàn chuí	722
+弦槌	xián chuí	72
+弦锤	xián chuí	72
 鲜醇	xiān chún	75
 咸淳	xián chún	71
 限次	xiàn cì	50
@@ -130957,6 +131237,7 @@ sort: by_weight
 限定	xiàn dìng	11326
 先定	xiān dìng	1233
 先订	xiān dìng	878
+弦钉	xián dīng	72
 先动	xiān dòng	1058
 掀动	xiān dòng	1005
 仙洞	xiān dòng	680
@@ -131157,6 +131438,7 @@ sort: by_weight
 现煎	xiàn jiān	113
 线间	xiàn jiān	90
 先剪	xiān jiǎn	72
+弦剪	xián jiǎn	72
 线剪	xiàn jiǎn	43
 先将	xiān jiāng	3545
 鲜姜	xiān jiāng	2458
@@ -131210,6 +131492,7 @@ sort: by_weight
 闲居	xián jū	188
 县局	xiàn jú	94
 险局	xiǎn jú	75
+弦距	xián jù	72
 线距	xiàn jù	62
 鲜桔	xiān jú	60
 线锯	xiàn jù	48
@@ -131294,6 +131577,7 @@ sort: by_weight
 先烈	xiān liè	506
 线列	xiàn liè	474
 先列	xiān liè	410
+弦列	xián liè	72
 仙林	xiān lín	248
 闲林	xián lín	223
 显灵	xiǎn líng	1746
@@ -131328,6 +131612,7 @@ sort: by_weight
 仙履	xiān lǚ	583
 先码	xiān mǎ	330
 洗马	xiǎn mǎ	314
+弦码	xián mǎ	72
 先买	xiān mǎi	1501
 现买	xiàn mǎi	138
 现卖	xiàn mài	110
@@ -131387,6 +131672,7 @@ sort: by_weight
 现酿	xiàn niàng	594
 酰脲	xiān niào	536
 咸宁	xián níng	141
+弦钮	xián niǔ	72
 先弄	xiān nòng	976
 鲜浓	xiān nóng	927
 先农	xiān nóng	424
@@ -131873,6 +132159,7 @@ sort: by_weight
 显脏	xiǎn zāng	486
 鲜枣	xiān zǎo	154
 险遭	xiǎn zāo	146
+弦噪	xián zào	72
 鲜榨	xiān zhà	490
 现炸	xiàn zhá	441
 现榨	xiàn zhà	397
@@ -131903,6 +132190,7 @@ sort: by_weight
 县镇	xiàn zhèn	279
 陷阵	xiàn zhèn	94
 仙镇	xiān zhèn	75
+弦枕	xián zhěn	72
 先轸	xiān zhěn	60
 仙阵	xiān zhèn	48
 现正	xiàn zhèng	647
@@ -132236,6 +132524,7 @@ sort: by_weight
 香菇	xiāng gū	2926
 相顾	xiāng gù	241
 香谷	xiāng gǔ	192
+箱鼓	xiāng gǔ	72
 香瓜	xiāng guā	229
 相关	xiāng guān	167764
 相馆	xiāng guǎn	1035
@@ -132789,6 +133078,7 @@ sort: by_weight
 像头	xiàng tóu	113
 想头	xiǎng tou	90
 响头	xiǎng tóu	72
+箱头	xiāng tóu	72
 象头	xiàng tóu	57
 香头	xiāng tóu	45
 巷头	xiàng tóu	36
@@ -134462,6 +134752,7 @@ sort: by_weight
 小阴	xiǎo yīn	122
 消隐	xiāo yǐn	97
 小隐	xiǎo yǐn	77
+校音	xiào yīn	72
 小饮	xiǎo yǐn	61
 小银	xiǎo yín	48
 小尹	xiǎo yǐn	38
@@ -134653,6 +134944,7 @@ sort: by_weight
 写本	xiě běn	440
 斜边	xié biān	377
 协变	xié biàn	109
+鞋边	xié biān	81
 鞋标	xié biāo	562
 谢病	xiè bìng	47
 谐波	xié bō	675
@@ -134667,12 +134959,14 @@ sort: by_weight
 鞋厂	xié chǎng	427
 谢场	xiè chǎng	180
 卸车	xiè chē	126
+鞋衬	xié chèn	81
 写成	xiě chéng	14592
 携程	xié chéng	1000
 协程	xié chéng	543
 协成	xié chéng	434
 鞋城	xié chéng	347
 斜撑	xié chēng	112
+鞋撑	xié chēng	81
 挟持	xié chí	1083
 胁持	xié chí	213
 解池	xiè chí	170
@@ -134694,6 +134988,7 @@ sort: by_weight
 懈怠	xiè dài	2461
 鞋带	xié dài	1428
 挟带	xié dài	157
+鞋袋	xié dài	81
 写单	xiě dān	922
 写到	xiě dào	17637
 歇到	xiē dào	1864
@@ -134741,14 +135036,17 @@ sort: by_weight
 蟹粉	xiè fěn	1187
 泄愤	xiè fèn	153
 写份	xiě fèn	122
+鞋粉	xié fěn	81
 写封	xiě fēng	837
 邪风	xié fēng	333
 鞋服	xié fú	349
 斜杆	xié gǎn	204
+鞋感	xié gǎn	81
 斜杠	xié gàng	719
 写稿	xiě gǎo	1338
 蟹膏	xiè gāo	1271
 斜高	xié gāo	361
+鞋膏	xié gāo	81
 写个	xiě gè	9599
 些个	xiē gè	5086
 写歌	xiě gē	178
@@ -134759,7 +135057,9 @@ sort: by_weight
 斜拱	xié gǒng	15
 歇够	xiē gòu	472
 斜钩	xié gōu	448
+鞋钩	xié gōu	81
 斜谷	xié gǔ	418
+鞋骨	xié gǔ	81
 协管	xié guǎn	11979
 斜管	xié guǎn	482
 楔管	xiē guǎn	84
@@ -134806,6 +135106,8 @@ sort: by_weight
 斜肩	xié jiān	832
 邪剑	xié jiàn	631
 邪见	xié jiàn	504
+鞋剪	xié jiǎn	81
+鞋尖	xié jiān	81
 斜剪	xié jiǎn	67
 鞋匠	xié jiàng	2700
 邪教	xié jiào	3140
@@ -134834,6 +135136,8 @@ sort: by_weight
 谢客	xiè kè	104
 蝎科	xiē kē	80
 鞋控	xié kòng	567
+鞋孔	xié kǒng	81
+鞋扣	xié kòu	81
 鞋口	xié kǒu	57
 斜口	xié kǒu	54
 卸扣	xiè kòu	46
@@ -134843,6 +135147,7 @@ sort: by_weight
 携款	xié kuǎn	752
 谢啦	xiè la	129
 斜拉	xié lā	123
+鞋蜡	xié là	81
 写来	xiě lái	330
 谢老	xiè lǎo	1269
 偕老	xié lǎo	1206
@@ -134868,6 +135173,7 @@ sort: by_weight
 卸料	xiè liào	616
 邪灵	xié líng	424
 协领	xié lǐng	382
+鞋领	xié lǐng	81
 蟹柳	xiè liǔ	1919
 斜流	xié liú	594
 泄流	xiè liú	102
@@ -134910,6 +135216,7 @@ sort: by_weight
 谢女	xiè nǚ	400
 邪派	xié pài	204
 协拍	xié pāi	184
+鞋襻	xié pàn	81
 写篇	xiě piān	750
 卸片	xiè piàn	23
 写票	xiě piào	450
@@ -134944,6 +135251,7 @@ sort: by_weight
 蟹肉	xiè ròu	3391
 写入	xiě rù	6217
 楔入	xiē rù	500
+鞋乳	xié rǔ	81
 写啥	xiě shá	929
 斜筛	xié shāi	4
 歇山	xiē shān	927
@@ -135001,6 +135309,7 @@ sort: by_weight
 携同	xié tóng	668
 胁痛	xié tòng	600
 协统	xié tǒng	301
+鞋筒	xié tǒng	81
 鞋头	xié tóu	531
 蟹腿	xiè tuǐ	972
 鞋袜	xié wà	493
@@ -135038,6 +135347,7 @@ sort: by_weight
 写心	xiě xīn	764
 协鑫	xié xīn	550
 邪心	xié xīn	283
+鞋芯	xié xīn	81
 协心	xié xīn	62
 谐星	xié xīng	6183
 楔形	xiē xíng	2044
@@ -135063,11 +135373,14 @@ sort: by_weight
 斜眼	xié yǎn	691
 邪眼	xié yǎn	621
 泻盐	xiè yán	348
+鞋沿	xié yán	81
+鞋眼	xié yǎn	81
 斜阳	xié yáng	1341
 鞋样	xié yàng	1080
 写样	xiě yàng	62
 谢邀	xiè yāo	64923
 泻药	xiè yào	11526
+鞋腰	xié yāo	81
 歇业	xiē yè	24432
 鞋业	xié yè	361
 楔叶	xiē yè	100
@@ -135117,6 +135430,7 @@ sort: by_weight
 卸妆	xiè zhuāng	1190
 卸装	xiè zhuāng	675
 斜桩	xié zhuāng	134
+鞋锥	xié zhuī	81
 鞋子	xié zi	19358
 写字	xiě zì	10861
 蝎子	xiē zi	1171
@@ -137407,6 +137721,7 @@ sort: by_weight
 修墙	xiū qiáng	706
 修桥	xiū qiáo	254
 羞怯	xiū qiè	392
+修琴	xiū qín	72
 秀芹	xiù qín	63
 秀琴	xiù qín	60
 秀卿	xiù qīng	16
@@ -137486,6 +137801,7 @@ sort: by_weight
 修仙	xiū xiān	2857
 修宪	xiū xiàn	150
 绣线	xiù xiàn	120
+锈弦	xiù xián	72
 休想	xiū xiǎng	581
 绣像	xiù xiàng	131
 修鞋	xiū xié	119
@@ -138000,6 +138316,7 @@ sort: by_weight
 宣德	xuān dé	398
 选登	xuǎn dēng	31
 玄帝	xuán dì	562
+楦底	xuàn dǐ	81
 旋底	xuán dǐ	48
 选点	xuǎn diǎn	320
 选调	xuǎn diào	2452
@@ -138118,6 +138435,7 @@ sort: by_weight
 悬孔	xuán kǒng	4
 炫酷	xuàn kù	4047
 选款	xuǎn kuǎn	556
+楦宽	xuàn kuān	81
 选框	xuǎn kuàng	144
 选矿	xuǎn kuàng	119
 选来	xuǎn lái	958
@@ -138248,6 +138566,7 @@ sort: by_weight
 悬停	xuán tíng	1448
 宣统	xuān tǒng	179
 玄通	xuán tōng	161
+楦头	xuàn tóu	81
 选图	xuǎn tú	819
 玄菟	xuán tú	778
 旋挖	xuán wā	459
@@ -138256,6 +138575,7 @@ sort: by_weight
 宣王	xuān wáng	810
 选为	xuǎn wéi	769
 宣威	xuān wēi	100
+楦围	xuàn wéi	81
 选委	xuǎn wěi	80
 选位	xuǎn wèi	64
 宣慰	xuān wèi	51
@@ -138278,7 +138598,9 @@ sort: by_weight
 玄霄	xuán xiāo	1478
 宣泄	xuān xiè	3683
 选些	xuǎn xiē	666
+楦鞋	xuàn xié	81
 选型	xuǎn xíng	1400
+楦型	xuàn xíng	81
 选秀	xuǎn xiù	5175
 选修	xuǎn xiū	4973
 玄虚	xuán xū	188
@@ -139737,6 +140059,7 @@ sort: by_weight
 押下	yā xià	828
 牙线	yá xiàn	2421
 压线	yā xiàn	1761
+压弦	yā xián	72
 压箱	yā xiāng	1026
 压向	yā xiàng	642
 鸭心	yā xīn	60
@@ -140620,6 +140943,7 @@ sort: by_weight
 炎天	yán tiān	100
 雁田	yàn tián	80
 砚田	yàn tián	64
+沿条	yán tiáo	81
 眼跳	yǎn tiào	16
 眼贴	yǎn tiē	474
 盐铁	yán tiě	329
@@ -140871,6 +141195,7 @@ sort: by_weight
 烟柱	yān zhù	165
 檐柱	yán zhù	132
 岩柱	yán zhù	105
+雁柱	yàn zhù	72
 阉猪	yān zhū	62
 盐砖	yán zhuān	62
 眼妆	yǎn zhuāng	864
@@ -141226,6 +141551,7 @@ sort: by_weight
 养胖	yǎng pàng	66
 洋炮	yáng pào	608
 羊皮	yáng pí	622
+养皮	yǎng pí	81
 样片	yàng piàn	1454
 洋片	yáng piàn	590
 央票	yāng piào	724
@@ -142255,6 +142581,7 @@ sort: by_weight
 要知	yào zhī	113
 药汁	yào zhī	90
 遥指	yáo zhǐ	72
+摇指	yáo zhǐ	72
 要治	yào zhì	57
 遥知	yáo zhī	45
 窑址	yáo zhǐ	36
@@ -143763,6 +144090,7 @@ sort: by_weight
 彝家	yí jiā	98
 衣夹	yī jiā	88
 移家	yí jiā	79
+义甲	yì jiǎ	72
 衣甲	yī jiǎ	71
 亿嘉	yì jiā	64
 意见	yì jiàn	38010
@@ -145126,6 +145454,7 @@ sort: by_weight
 疑因	yí yīn	926
 译音	yì yīn	90
 遗音	yí yīn	72
+倚音	yǐ yīn	72
 已因	yǐ yīn	57
 异音	yì yīn	45
 一饮	yì yǐn	36
@@ -145736,6 +146065,7 @@ sort: by_weight
 音击	yīn jī	137
 银基	yín jī	109
 隐迹	yǐn jì	87
+音级	yīn jí	72
 阴姬	yīn jī	69
 音基	yīn jī	55
 银价	yín jià	1504
@@ -145836,6 +146166,7 @@ sort: by_weight
 银两	yín liǎng	678
 印量	yìn liàng	182
 银亮	yín liàng	145
+音梁	yīn liáng	72
 饮料	yǐn liào	15119
 隐裂	yǐn liè	549
 银鳞	yín lín	456
@@ -146715,6 +147046,7 @@ sort: by_weight
 璎珞	yīng luò	276
 赢麻	yíng má	151
 赢吗	yíng ma	128
+英码	yīng mǎ	81
 英迈	yīng mài	576
 盈满	yíng mǎn	267
 硬毛	yìng máo	138
@@ -146870,6 +147202,7 @@ sort: by_weight
 赢输	yíng shū	235
 英属	yīng shǔ	218
 樱树	yīng shù	174
+硬刷	yìng shuā	81
 应税	yīng shuì	769
 硬水	yìng shuǐ	219
 迎水	yíng shuǐ	175
@@ -148864,6 +149197,7 @@ sort: by_weight
 又痒	yòu yǎng	855
 酉阳	yǒu yáng	434
 有恙	yǒu yàng	206
+油养	yóu yǎng	81
 又要	yòu yào	27117
 有药	yǒu yào	235
 右腰	yòu yāo	73
@@ -152145,6 +152479,7 @@ sort: by_weight
 云商	yún shāng	1646
 云尚	yún shàng	1560
 运上	yùn shàng	920
+运舌	yùn shé	72
 云深	yún shēn	1152
 殒身	yǔn shēn	1094
 运盛	yùn shèng	652
@@ -154255,6 +154590,7 @@ sort: by_weight
 债基	zhài jī	1292
 摘记	zhāi jì	462
 宅家	zhái jiā	644
+窄脚	zhǎi jiǎo	81
 斋醮	zhāi jiào	28
 斋教	zhāi jiào	25
 斋戒	zhāi jiè	276
@@ -154313,6 +154649,7 @@ sort: by_weight
 债信	zhài xìn	29
 摘星	zhāi xīng	261
 摘选	zhāi xuǎn	289
+窄楦	zhǎi xuàn	81
 摘芽	zhāi yá	129
 摘要	zhāi yào	6092
 摘叶	zhāi yè	62
@@ -156056,6 +156393,7 @@ sort: by_weight
 震波	zhèn bō	170
 真不	zhēn bù	870
 枕部	zhěn bù	826
+针补	zhēn bǔ	81
 真菜	zhēn cài	144
 真彩	zhēn cǎi	137
 真才	zhēn cái	130
@@ -156064,6 +156402,7 @@ sort: by_weight
 震仓	zhèn cāng	778
 贞操	zhēn cāo	471
 真草	zhēn cǎo	424
+枕槽	zhěn cáo	72
 侦测	zhēn cè	744
 侦查	zhēn chá	3705
 侦察	zhēn chá	1419
@@ -156081,6 +156420,7 @@ sort: by_weight
 真钞	zhēn chāo	602
 真扯	zhēn chě	747
 真车	zhēn chē	710
+针车	zhēn chē	81
 真沉	zhēn chén	13
 真诚	zhēn chéng	8761
 真澄	zhēn chéng	756
@@ -156848,6 +157188,7 @@ sort: by_weight
 争点	zhēng diǎn	69
 征调	zhēng diào	396
 正钓	zhèng diào	130
+整调	zhěng diào	72
 整碟	zhěng dié	450
 正定	zhèng dìng	276
 征订	zhēng dìng	109
@@ -157434,6 +157775,7 @@ sort: by_weight
 正印	zhèng yìn	527
 正音	zhèng yīn	147
 征引	zhēng yǐn	94
+整音	zhěng yīn	72
 正应	zhèng yīng	1017
 正营	zhèng yíng	966
 正用	zhèng yòng	826
@@ -158319,6 +158661,7 @@ sort: by_weight
 置空	zhì kōng	157
 只恐	zhǐ kǒng	94
 制空	zhì kōng	75
+指孔	zhǐ kǒng	72
 滞空	zhì kōng	60
 之口	zhī kǒu	2923
 止口	zhǐ kǒu	43
@@ -158723,6 +159066,7 @@ sort: by_weight
 只容	zhǐ róng	97
 至柔	zhì róu	711
 之肉	zhī ròu	589
+植鞣	zhí róu	81
 植入	zhí rù	6754
 置入	zhì rù	1190
 直入	zhí rù	590
@@ -159166,6 +159510,7 @@ sort: by_weight
 之选	zhī xuǎn	135
 智选	zhì xuǎn	108
 只选	zhǐ xuǎn	86
+制楦	zhì xuàn	81
 知玄	zhī xuán	68
 止血	zhǐ xuè	2901
 治学	zhì xué	1799
@@ -159563,6 +159908,7 @@ sort: by_weight
 终版	zhōng bǎn	32
 重磅	zhòng bàng	1947
 中邦	zhōng bāng	711
+中帮	zhōng bāng	81
 众包	zhòng bāo	907
 中报	zhōng bào	288
 重宝	zhòng bǎo	116
@@ -159890,6 +160236,7 @@ sort: by_weight
 重剪	zhòng jiǎn	129
 仲间	zhòng jiān	108
 忠奸	zhōng jiān	86
+重键	zhòng jiàn	72
 中剑	zhōng jiàn	68
 重鉴	zhòng jiàn	62
 终检	zhōng jiǎn	54
@@ -162110,6 +162457,7 @@ sort: by_weight
 转法	zhuǎn fǎ	756
 专发	zhuān fā	470
 篆法	zhuàn fǎ	408
+转阀	zhuǎn fá	72
 赚翻	zhuàn fān	151
 专访	zhuān fǎng	2330
 砖房	zhuān fáng	150
@@ -162466,6 +162814,7 @@ sort: by_weight
 转制	zhuǎn zhì	741
 专指	zhuān zhǐ	420
 转置	zhuǎn zhì	200
+转指	zhuǎn zhǐ	72
 转轴	zhuǎn zhóu	798
 专注	zhuān zhù	30204
 专著	zhuān zhù	3008
@@ -162962,6 +163311,7 @@ sort: by_weight
 坠胀	zhuì zhàng	786
 追着	zhuī zhe	6066
 坠着	zhuì zhe	626
+锥针	zhuī zhēn	81
 追针	zhuī zhēn	48
 追征	zhuī zhēng	41
 追至	zhuī zhì	864
@@ -166219,6 +166569,7 @@ sort: by_weight
 爱可视	ài kě shì	3
 爱克斯	ài kè sī	474
 埃克斯	āi kè sī	122
+艾克斯	ài kè sī	72
 爱科学	ài kē xué	66
 爱可以	ài kě yǐ	1030
 爱肯拿	ài kěn ná	261
@@ -170910,6 +171261,7 @@ sort: by_weight
 把定金	bǎ dìng jīn	428
 八丁堀	bā dīng kū	43
 把定期	bǎ dìng qī	338
+拔钉钳	bá dīng qián	81
 巴丁人	bā dīng rén	50
 把定位	bǎ dìng wèi	567
 把定义	bǎ dìng yì	526
@@ -170977,6 +171329,7 @@ sort: by_weight
 八渡笋	bā dù sǔn	41
 把毒药	bǎ dú yào	508
 把读音	bǎ dú yīn	356
+八度音	bā dù yīn	72
 把读者	bǎ dú zhě	684
 把赌注	bǎ dǔ zhù	549
 把肚子	bǎ dù zi	810
@@ -175373,6 +175726,7 @@ sort: by_weight
 把送到	bǎ sòng dào	428
 把送的	bǎ sòng de	531
 把送给	bǎ sòng gěi	446
+巴松管	bā sōng guǎn	72
 把送了	bǎ sòng le	382
 八艘船	bā sōu chuán	310
 把搜集	bǎ sōu jí	360
@@ -180091,6 +180445,7 @@ sort: by_weight
 白石港	bái shí gǎng	274
 百事高	bǎi shì gāo	3
 百十个	bǎi shí gè	580
+白湿革	bái shī gé	81
 百十号	bǎi shí hào	107
 白石河	bái shí hé	346
 白石湖	bái shí hú	360
@@ -180562,6 +180917,7 @@ sort: by_weight
 白晓宇	bái xiǎo yǔ	4
 白校长	bái xiào zhǎng	3
 白鞋带	bái xié dài	144
+白鞋粉	bái xié fěn	81
 白屑风	bái xiè fēng	117
 拜谢了	bài xiè le	580
 白写了	bái xiě le	130
@@ -181622,6 +181978,7 @@ sort: by_weight
 半监督	bàn jiān dū	1148
 半腱肌	bàn jiàn jī	107
 办件量	bàn jiàn liàng	234
+半减七	bàn jiǎn qī	72
 颁奖吧	bān jiǎng ba	194
 颁奖词	bān jiǎng cí	289
 颁奖会	bān jiǎng huì	6
@@ -181681,6 +182038,7 @@ sort: by_weight
 半斤装	bàn jīn zhuāng	450
 半径比	bàn jìng bǐ	544
 半精度	bàn jīng dù	43
+半径规	bàn jìng guī	72
 坂井久	bǎn jǐng jiǔ	338
 半精灵	bàn jīng líng	612
 板井路	bǎn jǐng lù	279
@@ -182721,6 +183079,7 @@ sort: by_weight
 搬走时	bān zǒu shí	382
 伴奏时	bàn zòu shí	304
 伴奏网	bàn zòu wǎng	238
+伴奏型	bàn zòu xíng	72
 伴奏者	bàn zòu zhě	22
 班组长	bān zǔ zhǎng	210
 拌嘴了	bàn zuǐ le	364
@@ -182840,6 +183199,7 @@ sort: by_weight
 帮扶中	bāng fú zhōng	747
 帮扶组	bāng fú zǔ	405
 绑钢筋	bǎng gāng jīn	297
+邦戈鼓	bāng gē gǔ	72
 榜葛剌	bǎng gé lá	19
 帮个忙	bāng gè máng	468
 帮哥们	bāng gē men	580
@@ -185723,6 +186083,7 @@ sort: by_weight
 报销型	bào xiāo xíng	446
 暴泻病	bào xiè bìng	45
 褒斜道	bāo xié dào	248
+薄鞋垫	báo xié diàn	81
 豹澥湖	bào xiè hú	171
 包协议	bāo xié yì	504
 包心菜	bāo xīn cài	113
@@ -186982,12 +187343,14 @@ sort: by_weight
 被代表	bèi dài biǎo	693
 被逮捕	bèi dǎi bǔ	955
 被逮到	bèi dǎi dào	567
+背带钉	bēi dài dīng	72
 被带动	bèi dài dòng	634
 被带飞	bèi dài fēi	297
 北戴河	běi dài hé	358
 被带坏	bèi dài huài	558
 被带回	bèi dài huí	837
 被带火	bèi dài huǒ	252
+背带扣	bēi dài kòu	72
 背带裤	bēi dài kù	188
 被贷款	bèi dài kuǎn	554
 被逮了	bèi dǎi le	644
@@ -187599,6 +187962,7 @@ sort: by_weight
 被高薪	bèi gāo xīn	436
 北高雄	běi gāo xióng	630
 被告一	bèi gào yī	675
+倍高音	bèi gāo yīn	72
 北高营	běi gāo yíng	364
 被搞砸	bèi gǎo zá	396
 被告知	bèi gào zhī	3511
@@ -191186,6 +191550,7 @@ sort: by_weight
 被作者	bèi zuò zhě	882
 本阿里	běn ā lǐ	666
 苯胺点	běn àn diǎn	76
+苯胺革	běn àn gé	81
 苯胺类	běn àn lèi	410
 本案例	běn àn lì	706
 苯胺萘	běn àn nài	117
@@ -195159,6 +195524,7 @@ sort: by_weight
 边去了	biān qù le	779
 便取了	biàn qǔ le	286
 便娶了	biàn qǔ le	199
+编曲器	biān qǔ qì	72
 编曲人	biān qǔ rén	534
 边区人	biān qū rén	396
 编曲时	biān qǔ shí	28
@@ -197370,6 +197736,7 @@ sort: by_weight
 别依赖	bié yī lài	644
 别亦难	bié yì nán	13
 别以为	bié yǐ wéi	3423
+别音器	bié yīn qì	72
 别因为	bié yīn wèi	647
 别硬撑	bié yìng chēng	28
 别硬刚	bié yìng gāng	52
@@ -201506,6 +201873,7 @@ sort: by_weight
 不抵抗	bù dǐ kàng	612
 不抵扣	bù dǐ kòu	19
 不低了	bù dī le	720
+补底片	bǔ dǐ piàn	81
 不滴水	bù dī shuǐ	518
 不低俗	bù dī sú	675
 不低头	bù dī tóu	217
@@ -206361,6 +206729,7 @@ sort: by_weight
 不扫描	bù sǎo miáo	328
 不扫墓	bù sǎo mù	248
 不骚扰	bù sāo rǎo	513
+补色膏	bǔ sè gāo	81
 补色光	bǔ sè guāng	117
 补色器	bǔ sè qì	90
 不傻啊	bù shǎ a	518
@@ -208408,6 +208777,7 @@ sort: by_weight
 不懈地	bú xiè de	273
 不屑地	bú xiè de	163
 不屑弟	bú xiè dì	351
+补鞋底	bǔ xié dǐ	81
 不协调	bù xié diào	1188
 不邪恶	bù xié è	19
 不谢方	bú xiè fāng	43
@@ -210380,6 +210750,7 @@ sort: by_weight
 擦下去	cā xià qù	3
 擦线过	cā xiàn guò	75
 擦香香	cā xiāng xiāng	13
+擦鞋布	cā xié bù	81
 擦鞋店	cā xié diàn	279
 擦鞋垫	cā xié diàn	224
 擦鞋机	cā xié jī	6
@@ -211548,6 +211919,7 @@ sort: by_weight
 菜泡饭	cài pào fàn	3
 才跑了	cái pǎo le	562
 彩喷纸	cǎi pēn zhǐ	3
+裁皮刀	cái pí dāo	81
 采枇杷	cǎi pí pá	284
 彩票啊	cǎi piào a	396
 彩票吧	cǎi piào ba	450
@@ -213540,6 +213912,7 @@ sort: by_weight
 侧柏叶	cè bǎi yè	78
 测摆仪	cè bǎi yí	48
 侧板式	cè bǎn shì	117
+侧帮片	cè bāng piàn	81
 侧包围	cè bāo wéi	351
 测爆仪	cè bào yí	117
 测报员	cè bào yuán	212
@@ -219323,6 +219696,7 @@ sort: by_weight
 朝鲜吧	cháo xiǎn ba	328
 超显白	chāo xiǎn bái	6
 朝鲜版	cháo xiǎn bǎn	9
+超纤布	chāo xiān bù	81
 超限车	chāo xiàn chē	522
 超线程	chāo xiàn chéng	154
 超现代	chāo xiàn dài	585
@@ -219817,6 +220191,7 @@ sort: by_weight
 车费吧	chē fèi ba	328
 车费用	chē fèi yòng	972
 车分期	chē fēn qī	536
+车缝机	chē fèng jī	81
 车缝线	chē fèng xiàn	418
 车盖亭	chē gài tíng	279
 车改装	chē gǎi zhuāng	999
@@ -224582,6 +224957,7 @@ sort: by_weight
 吃走了	chī zǒu le	428
 赤足的	chì zú de	52
 吃足了	chī zú le	504
+赤足鞋	chì zú xié	81
 吃最好	chī zuì hǎo	981
 吃醉了	chī zuì le	468
 吃嘴子	chī zuǐ zi	52
@@ -226941,6 +227317,7 @@ sort: by_weight
 出家者	chū jiā zhě	446
 初见啊	chū jiàn a	450
 出碱槽	chū jiǎn cáo	45
+触键感	chù jiàn gǎn	72
 初见面	chū jiàn miàn	580
 初见你	chū jiàn nǐ	464
 初见杀	chū jiàn shā	267
@@ -228877,6 +229254,7 @@ sort: by_weight
 传达员	chuán dá yuán	3
 传达者	chuán dá zhě	38
 穿戴好	chuān dài hǎo	706
+穿带孔	chuān dài kǒng	81
 穿戴了	chuān dài le	472
 穿戴式	chuān dài shì	796
 穿戴时	chuān dài shí	395
@@ -230697,6 +231075,7 @@ sort: by_weight
 纯爱片	chún ài piàn	382
 纯艾条	chún ài tiáo	212
 蠢爸爸	chǔn bà ba	31
+纯八度	chún bā dù	72
 纯白的	chún bái de	584
 纯白底	chún bái dǐ	159
 纯白色	chún bái sè	747
@@ -231190,6 +231569,7 @@ sort: by_weight
 蠢问题	chǔn wèn tí	612
 纯文学	chún wén xué	810
 纯文字	chún wén zì	911
+纯五度	chún wǔ dù	72
 纯物理	chún wù lǐ	666
 春武里	chūn wǔ lǐ	467
 春戊寅	chūn wù yín	76
@@ -242450,6 +242830,7 @@ sort: by_weight
 大坑尾	dà kēng wěi	284
 大坑西	dà kēng xī	477
 大坑中	dà kēng zhōng	428
+打孔板	dǎ kǒng bǎn	81
 大恐怖	dà kǒng bù	684
 大孔布	dà kǒng bù	65
 打空调	dǎ kōng diào	423
@@ -242594,6 +242975,7 @@ sort: by_weight
 耷拉了	dā la le	594
 大喇嘛	dà lǎ ma	35
 大拉皮	dà lā pí	1008
+打蜡皮	dǎ là pí	81
 大辣片	dà là piàn	9
 达拉然	dá lā rán	816
 达拉斯	dá lā sī	1196
@@ -243062,6 +243444,7 @@ sort: by_weight
 大玲子	dà líng zi	217
 大溜背	dà liù bèi	324
 大流动	dà liú dòng	716
+大六度	dà liù dù	72
 大刘儿	dà liú ér	50
 大流感	dà liú gǎn	531
 大刘海	dà liú hǎi	360
@@ -244398,6 +244781,7 @@ sort: by_weight
 大起底	dà qǐ dǐ	66
 大气点	dà qì diǎn	333
 大气垫	dà qì diàn	270
+大七度	dà qī dù	72
 大气度	dà qì dù	13
 大七对	dà qī duì	130
 打企鹅	dǎ qǐ é	9
@@ -247206,6 +247590,7 @@ sort: by_weight
 大岩湖	dà yán hú	71
 大演化	dà yǎn huà	414
 大宴会	dà yàn huì	13
+打眼机	dǎ yǎn jī	81
 大眼夹	dà yǎn jiā	238
 大眼角	dà yǎn jiǎo	9
 大岩礁	dà yán jiāo	8
@@ -254468,6 +254853,7 @@ sort: by_weight
 但亲眼	dàn qīn yǎn	450
 但亲友	dàn qīn yǒu	346
 但亲子	dàn qīn zǐ	360
+单擒纵	dān qín zòng	72
 但请把	dàn qǐng bǎ	346
 但请别	dàn qǐng bié	585
 但青菜	dàn qīng cài	351
@@ -266891,6 +267277,7 @@ sort: by_weight
 底土层	dǐ tǔ céng	153
 氐土貉	dī tǔ háo	3
 地图集	dì tú jí	273
+底涂剂	dǐ tú jì	81
 地图块	dì tú kuài	306
 地图了	dì tú le	706
 地吐了	dì tù le	570
@@ -267817,9 +268204,11 @@ sort: by_weight
 碲银矿	dì yín kuàng	144
 低引力	dī yǐn lì	248
 低音量	dī yīn liàng	716
+低音梁	dī yīn liáng	72
 低音炮	dī yīn pào	637
 低音区	dī yīn qū	630
 低音弦	dī yīn xián	126
+低音线	dī yīn xiàn	72
 低音箱	dī yīn xiāng	423
 地阴星	dì yīn xīng	288
 地隐星	dì yǐn xīng	186
@@ -270906,6 +271295,8 @@ sort: by_weight
 掉落物	diào luò wù	229
 凋落物	diāo luò wù	206
 掉落在	diào luò zài	355
+调律师	diào lǜ shī	72
+调律毡	diào lǜ zhān	72
 掉马甲	diào mǎ jiǎ	16
 掉马桶	diào mǎ tǒng	418
 吊马桩	diào mǎ zhuāng	189
@@ -271557,6 +271948,7 @@ sort: by_weight
 订掉了	dìng diào le	580
 定调子	dìng diào zi	69
 顶顶吧	dǐng dǐng ba	243
+叮叮镲	dīng dīng chǎ	72
 叮叮车	dīng dīng chē	698
 丁丁车	dīng dīng chē	43
 叮叮当	dīng dīng dāng	170
@@ -272167,6 +272559,7 @@ sort: by_weight
 定星镜	dìng xīng jìng	45
 定型了	dìng xíng le	756
 定性了	dìng xìng le	521
+定型器	dìng xíng qì	81
 定型时	dìng xíng shí	454
 定型图	dìng xíng tú	400
 定性为	dìng xìng wéi	1426
@@ -278351,6 +278744,7 @@ sort: by_weight
 锻炼出	duàn liàn chū	534
 锻炼到	duàn liàn dào	904
 锻炼的	duàn liàn de	1400
+断联点	duàn lián diǎn	72
 锻炼多	duàn liàn duō	765
 锻炼法	duàn liàn fǎ	94
 锻炼过	duàn liàn guò	828
@@ -286340,6 +286734,7 @@ sort: by_weight
 发泡板	fā pào bǎn	328
 发泡层	fā pào céng	315
 发炮弹	fā pào dàn	276
+发泡底	fā pào dǐ	81
 发泡管	fā pào guǎn	194
 发泡剂	fā pào jì	160
 发泡机	fā pào jī	144
@@ -290410,6 +290805,7 @@ sort: by_weight
 防磨脚	fáng mó jiǎo	16
 方嬷嬷	fāng mó mo	369
 防磨损	fáng mó sǔn	392
+防磨贴	fáng mó tiē	81
 方某某	fāng mǒu mǒu	9
 放牧场	fàng mù chǎng	9
 放牧点	fàng mù diǎn	230
@@ -291470,6 +291866,7 @@ sort: by_weight
 方圆脸	fāng yuán liǎn	261
 房源量	fáng yuán liàng	585
 房源数	fáng yuán shù	621
+方圆头	fāng yuán tóu	81
 方圆形	fāng yuán xíng	446
 放月假	fàng yuè jiǎ	28
 防晕车	fáng yùn chē	576
@@ -291525,6 +291922,7 @@ sort: by_weight
 仿真花	fǎng zhēn huā	53
 防震簧	fáng zhèn huáng	48
 仿真机	fǎng zhēn jī	526
+防震架	fáng zhèn jià	72
 仿真皮	fǎng zhēn pí	405
 仿真器	fǎng zhēn qì	119
 防震器	fáng zhèn qì	107
@@ -294264,6 +294662,7 @@ sort: by_weight
 分段符	fēn duàn fú	234
 分段号	fēn duàn hào	50
 分段甲	fēn duàn jiǎ	180
+分段练	fēn duàn liàn	72
 分段落	fēn duàn luò	47
 分段赛	fēn duàn sài	252
 分段式	fēn duàn shì	229
@@ -295888,9 +296287,11 @@ sort: by_weight
 丰德丽	fēng dé lì	360
 风地观	fēng dì guān	6
 封底焊	fēng dǐ hàn	45
+缝底机	fèng dǐ jī	81
 封地了	fēng dì le	284
 逢低买	féng dī mǎi	873
 风迪思	fēng dí sī	297
+缝底线	fèng dǐ xiàn	81
 风电场	fēng diàn chǎng	182
 风电厂	fēng diàn chǎng	164
 风电机	fēng diàn jī	706
@@ -297069,6 +297470,7 @@ sort: by_weight
 凤仙围	fèng xiān wéi	225
 风险五	fēng xiǎn wǔ	360
 风险小	fēng xiǎn xiǎo	889
+缝线鞋	féng xiàn xié	81
 风险性	fēng xiǎn xìng	1008
 奉献型	fèng xiàn xíng	418
 风险一	fēng xiǎn yī	900
@@ -298516,6 +298918,7 @@ sort: by_weight
 复合肽	fù hé tài	76
 复合糖	fù hé táng	436
 复合体	fù hé tǐ	543
+复合跳	fù hé tiào	72
 复合味	fù hé wèi	504
 复合物	fù hé wù	685
 负荷线	fù hè xiàn	256
@@ -299791,6 +300194,7 @@ sort: by_weight
 芙蓉嶂	fú róng zhàng	304
 芙蓉种	fú róng zhǒng	324
 浮容重	fú róng zhòng	38
+复鞣革	fù róu gé	81
 腐肉碱	fǔ ròu jiǎn	99
 腐乳饼	fǔ rǔ bǐng	13
 服乳法	fú rǔ fǎ	90
@@ -301335,6 +301739,7 @@ sort: by_weight
 负总责	fù zǒng zé	31
 副总长	fù zǒng zhǎng	6
 副宗主	fù zōng zhǔ	432
+复奏杆	fù zòu gān	72
 富足吧	fù zú ba	194
 副组分	fù zǔ fèn	45
 富足感	fù zú gǎn	342
@@ -305807,6 +306212,7 @@ sort: by_weight
 干生气	gān shēng qì	25
 干生意	gàn shēng yi	320
 干生元	gàn shēng yuán	364
+干湿比	gān shī bǐ	72
 干湿表	gān shī biǎo	130
 矸石仓	gān shí cāng	45
 矸石场	gān shí chǎng	117
@@ -306962,6 +307368,7 @@ sort: by_weight
 钢琴网	gāng qín wǎng	19
 钢琴系	gāng qín xì	452
 钢琴线	gāng qín xiàn	306
+钢琴弦	gāng qín xián	72
 钢球厂	gāng qiú chǎng	50
 刚去到	gāng qù dào	405
 港区的	gǎng qū de	756
@@ -309745,6 +310152,7 @@ sort: by_weight
 高音区	gāo yīn qū	823
 高音时	gāo yīn shí	572
 高音甜	gāo yīn tián	52
+高音弦	gāo yīn xián	72
 搞音乐	gǎo yīn yuè	766
 高音质	gāo yīn zhì	204
 高硬度	gāo yìng dù	195
@@ -311212,6 +311620,7 @@ sort: by_weight
 格日勒	gé rì lè	418
 割肉吧	gē ròu ba	266
 割肉刀	gē ròu dāo	266
+铬鞣革	gè róu gé	81
 割肉了	gē ròu le	518
 割肉盘	gē ròu pán	382
 歌瑞尔	gē ruì ěr	324
@@ -315959,6 +316368,7 @@ sort: by_weight
 公路中	gōng lù zhōng	756
 公路走	gōng lù zǒu	576
 攻螺孔	gōng luó kǒng	45
+弓螺丝	gōng luó sī	72
 攻螺纹	gōng luó wén	261
 功率比	gōng lǜ bǐ	778
 功率表	gōng lǜ biǎo	432
@@ -316479,6 +316889,7 @@ sort: by_weight
 公司中	gōng sī zhōng	1602
 公司走	gōng sī zǒu	864
 公司做	gōng sī zuò	1472
+弓松香	gōng sōng xiāng	72
 公诉处	gōng sù chù	396
 公诉词	gōng sù cí	288
 公诉方	gōng sù fāng	100
@@ -319898,6 +320309,7 @@ sort: by_weight
 骨髓肿	gǔ suǐ zhǒng	194
 骨损伤	gǔ sǔn shāng	634
 鼓索襞	gǔ suǒ bì	45
+鼓踏板	gǔ tà bǎn	72
 固态法	gù tài fǎ	414
 固态盘	gù tài pán	173
 固态氢	gù tài qīng	450
@@ -320058,6 +320470,7 @@ sort: by_weight
 古先生	gǔ xiān shēng	96
 骨纤维	gǔ xiān wéi	360
 古县衙	gǔ xiàn yá	16
+固弦锥	gù xián zhuī	72
 故乡啊	gù xiāng a	454
 故乡吧	gù xiāng ba	320
 古香吧	gǔ xiāng ba	198
@@ -320159,6 +320572,8 @@ sort: by_weight
 骨移植	gǔ yí zhí	102
 故意做	gù yì zuò	842
 古印度	gǔ yìn dù	741
+鼓音高	gǔ yīn gāo	72
+鼓音色	gǔ yīn sè	72
 孤阴煞	gū yīn shā	76
 古银杏	gǔ yín xìng	796
 古鹰号	gǔ yīng hào	346
@@ -323357,7 +323772,9 @@ sort: by_weight
 光媒体	guāng méi tǐ	504
 光密度	guāng mì dù	38
 光面板	guāng miàn bǎn	374
+光面革	guāng miàn gé	81
 光面辊	guāng miàn gǔn	45
+光面皮	guāng miàn pí	81
 逛庙会	guàng miào huì	44
 光敏感	guāng mǐn gǎn	688
 光敏化	guāng mǐn huà	225
@@ -325010,6 +325427,7 @@ sort: by_weight
 滚啊滚	gǔn a gǔn	468
 棍棒打	gùn bàng dǎ	490
 绲边儿	gǔn biān er	52
+滚边轮	gǔn biān lún	81
 滚不滚	gǔn bù gǔn	6
 滚彩蛋	gǔn cǎi dàn	3
 滚成了	gǔn chéng le	324
@@ -335423,6 +335841,7 @@ sort: by_weight
 喝姜汤	hē jiāng tāng	486
 合江亭	hé jiāng tíng	35
 合江墟	hé jiāng xū	45
+合脚度	hé jiǎo dù	81
 和交流	hé jiāo liú	1765
 何教授	hé jiào shòu	47
 和教授	hé jiào shòu	42
@@ -344610,6 +345029,7 @@ sort: by_weight
 洪晓蕾	hóng xiǎo lěi	288
 哄笑声	hōng xiào shēng	63
 红鞋儿	hóng xié ér	144
+烘鞋机	hōng xié jī	81
 烘鞋器	hōng xié qì	342
 红榍石	hóng xiè shí	45
 红鞋子	hóng xié zi	91
@@ -344922,11 +345342,13 @@ sort: by_weight
 后半叶	hòu bàn yè	395
 后半月	hòu bàn yuè	554
 后半周	hòu bàn zhōu	585
+后帮片	hòu bāng piàn	81
 猴宝宝	hóu bǎo bao	598
 吼爆弹	hǒu bào dàn	130
 后曝光	hòu bào guāng	536
 后报了	hòu bào le	630
 侯宝石	hóu bǎo shí	4
+后包头	hòu bāo tóu	81
 后包围	hòu bāo wéi	648
 侯宝垣	hóu bǎo yuán	288
 后鲍庄	hòu bào zhuāng	45
@@ -345180,8 +345602,12 @@ sort: by_weight
 后港湖	hòu gǎng hú	99
 后高潮	hòu gāo cháo	594
 后隔离	hòu gé lí	446
+后跟杯	hòu gēn bēi	81
+后跟衬	hòu gēn chèn	81
 后跟处	hòu gēn chù	500
+后跟垫	hòu gēn diàn	81
 厚根河	hòu gēn hé	4
+后跟片	hòu gēn piàn	81
 后跟帖	hòu gēn tiē	428
 后跟贴	hòu gēn tiē	262
 喉梗阻	hóu gěng zǔ	310
@@ -345934,6 +346360,7 @@ sort: by_weight
 后小朱	hòu xiǎo zhū	405
 后效酌	hòu xiào zhuó	90
 后写的	hòu xiě de	796
+厚鞋垫	hòu xié diàn	81
 后写了	hòu xiě le	788
 后信任	hòu xìn rèn	432
 后形成	hòu xíng chéng	1192
@@ -346232,6 +346659,7 @@ sort: by_weight
 护庇宫	hù bì gōng	374
 湖边上	hú biān shàng	873
 互变体	hù biàn tǐ	45
+护边条	hù biān tiáo	81
 互变性	hù biàn xìng	4
 护边员	hù biān yuán	6
 湖滨带	hú bīn dài	220
@@ -347051,6 +347479,7 @@ sort: by_weight
 糊墙纸	hú qiáng zhǐ	3
 互切点	hù qiē diǎn	90
 胡切河	hú qiè hé	50
+护琴油	hù qín yóu	72
 湖清路	hú qīng lù	270
 虎丘道	hǔ qiū dào	76
 虎丘路	hǔ qiū lù	9
@@ -347372,6 +347801,7 @@ sort: by_weight
 呼吸罩	hū xī zhào	292
 呼吸着	hū xī zhe	411
 呼吸中	hū xī zhōng	756
+护弦板	hù xián bǎn	72
 户县的	hù xiàn de	396
 狐仙洞	hú xiān dòng	248
 虎先锋	hǔ xiān fēng	220
@@ -349210,6 +349640,7 @@ sort: by_weight
 华亭路	huá tíng lù	396
 华庭路	huá tíng lù	224
 话挺密	huà tǐng mì	52
+话筒架	huà tǒng jià	72
 话筒前	huà tǒng qián	477
 话筒时	huà tǒng shí	774
 话同时	huà tóng shí	365
@@ -349345,6 +349776,7 @@ sort: by_weight
 划线机	huà xiàn jī	230
 划线价	huà xiàn jià	230
 化纤类	huà xiān lèi	531
+划线轮	huà xiàn lún	81
 花仙女	huā xiān nǚ	320
 划线漆	huà xiàn qī	4
 花先生	huā xiān shēng	981
@@ -350304,6 +350736,7 @@ sort: by_weight
 患艾滋	huàn ài zī	536
 环安部	huán ān bù	180
 换把头	huàn bǎ tóu	48
+换把位	huàn bǎ wèi	72
 换把芯	huàn bǎ xīn	48
 换摆轮	huàn bǎi lún	48
 换班儿	huàn bān er	144
@@ -351316,7 +351749,11 @@ sort: by_weight
 欢笑声	huān xiào shēng	135
 幻小说	huàn xiǎo shuō	1458
 欢笑中	huān xiào zhōng	580
+换鞋带	huàn xié dài	81
 换鞋凳	huàn xié dèng	504
+换鞋底	huàn xié dǐ	81
+换鞋垫	huàn xié diàn	81
+换鞋跟	huàn xié gēn	81
 换鞋盒	huàn xié hé	45
 缓泻剂	huǎn xiè jì	28
 换血了	huàn xiě le	428
@@ -351561,6 +351998,8 @@ sort: by_weight
 患者一	huàn zhě yī	1071
 换着用	huàn zhe yòng	122
 患者中	huàn zhě zhōng	1084
+缓震垫	huǎn zhèn diàn	81
+缓震感	huǎn zhèn gǎn	81
 环镇路	huán zhèn lù	279
 换真心	huàn zhēn xīn	549
 缓震性	huǎn zhèn xìng	41
@@ -360630,6 +361069,7 @@ sort: by_weight
 会坦诚	huì tǎn chéng	486
 会弹出	huì tán chū	942
 会谈到	huì tán dào	729
+回弹感	huí tán gǎn	81
 会谈后	huì tán hòu	752
 会瘫痪	huì tān huàn	567
 回弹角	huí tán jiǎo	238
@@ -364079,6 +364519,7 @@ sort: by_weight
 混染岩	hùn rǎn yán	45
 混日子	hùn rì zi	4101
 混溶隙	hùn róng xì	90
+混鞣革	hùn róu gé	81
 浑如此	hún rú cǐ	76
 混入了	hùn rù le	553
 婚丧假	hūn sàng jiǎ	418
@@ -370042,6 +370483,7 @@ sort: by_weight
 极限词	jí xiàn cí	441
 蓟县的	jì xiàn de	468
 吉县的	jí xiàn de	346
+击弦点	jī xián diǎn	72
 极限点	jí xiàn diǎn	57
 集贤殿	jí xián diàn	43
 极限法	jí xiàn fǎ	382
@@ -371196,6 +371638,7 @@ sort: by_weight
 基准台	jī zhǔn tái	189
 基准线	jī zhǔn xiàn	619
 基准刑	jī zhǔn xíng	418
+基准音	jī zhǔn yīn	72
 基准油	jī zhǔn yóu	428
 基准源	jī zhǔn yuán	252
 基准站	jī zhǔn zhàn	486
@@ -372115,6 +372558,7 @@ sort: by_weight
 假姑妈	jiǎ gū mā	225
 嫁姑娘	jià gū niang	418
 假骨盆	jiǎ gǔ pén	76
+加固片	jiā gù piàn	81
 加固墙	jiā gù qiáng	6
 加固圈	jiā gù quān	117
 夹谷山	jiā gǔ shān	171
@@ -376993,6 +377437,7 @@ sort: by_weight
 剪线机	jiǎn xiàn jī	207
 肩先露	jiān xiān lù	274
 剪线钳	jiǎn xiàn qián	238
+剪弦钳	jiǎn xián qián	72
 蹇先任	jiǎn xiān rèn	356
 简先生	jiǎn xiān shēng	414
 键线式	jiàn xiàn shì	387
@@ -384902,6 +385347,7 @@ sort: by_weight
 将县级	jiāng xiàn jí	342
 将现金	jiāng xiàn jīn	783
 将先进	jiāng xiān jìn	505
+降弦距	jiàng xián jù	72
 将显卡	jiāng xiǎn kǎ	508
 将掀开	jiāng xiān kāi	382
 将限量	jiāng xiàn liàng	410
@@ -386214,6 +386660,7 @@ sort: by_weight
 将造福	jiāng zào fú	432
 将早就	jiāng zǎo jiù	490
 将造就	jiāng zào jiù	346
+降噪门	jiàng zào mén	72
 将早上	jiāng zǎo shàng	432
 将噪声	jiāng zào shēng	572
 将遭受	jiāng zāo shòu	716
@@ -387068,6 +387515,7 @@ sort: by_weight
 交保险	jiāo bǎo xiǎn	688
 脚背高	jiǎo bèi gāo	405
 交杯酒	jiāo bēi jiǔ	69
+脚背宽	jiǎo bèi kuān	81
 脚本化	jiǎo běn huà	410
 校本化	jiào běn huà	327
 校本课	jiào běn kè	25
@@ -387547,7 +387995,9 @@ sort: by_weight
 交给她	jiāo gěi tā	395
 教给他	jiāo gěi tā	332
 交给我	jiāo gěi wǒ	1608
+脚跟垫	jiǎo gēn diàn	81
 脚跟脚	jiǎo gēn jiǎo	3
+脚跟贴	jiǎo gēn tiē	81
 脚跟痛	jiǎo gēn tòng	356
 叫工具	jiào gōng jù	292
 交功课	jiāo gōng kè	13
@@ -388242,6 +388692,7 @@ sort: by_weight
 胶粘剂	jiāo nián jì	52
 较年轻	jiào nián qīng	990
 胶黏石	jiāo nián shí	52
+胶粘鞋	jiāo nián xié	81
 胶黏性	jiāo nián xìng	153
 较年长	jiào nián zhǎng	9
 胶凝点	jiāo níng diǎn	45
@@ -389239,6 +389690,7 @@ sort: by_weight
 交战图	jiāo zhàn tú	202
 交战于	jiāo zhàn yú	441
 交战中	jiāo zhàn zhōng	774
+脚掌宽	jiǎo zhǎng kuān	81
 角张力	jiǎo zhāng lì	346
 脚掌上	jiǎo zhǎng shàng	22
 脚掌疼	jiǎo zhǎng téng	320
@@ -389319,6 +389771,7 @@ sort: by_weight
 脚趾头	jiǎo zhǐ tou	1212
 脚指头	jiǎo zhǐ tou	411
 交织图	jiāo zhī tú	50
+脚趾围	jiǎo zhǐ wéi	81
 教指委	jiào zhǐ wěi	66
 角质物	jiǎo zhì wù	436
 胶质物	jiāo zhì wù	304
@@ -390970,6 +391423,7 @@ sort: by_weight
 解偶联	jiě ǒu lián	328
 街拍吧	jiē pāi ba	382
 街拍范	jiē pāi fàn	450
+节拍感	jié pāi gǎn	72
 界牌关	jiè pái guān	288
 街拍客	jiē pāi kè	243
 接拍了	jiē pāi le	724
@@ -392063,6 +392517,7 @@ sort: by_weight
 节奏点	jié zòu diǎn	389
 节奏感	jié zòu gǎn	4399
 节奏好	jié zòu hǎo	608
+节奏机	jié zòu jī	72
 节奏快	jié zòu kuài	923
 借走了	jiè zǒu le	214
 接走了	jiē zǒu le	128
@@ -399526,6 +399981,7 @@ sort: by_weight
 就和他	jiù hé tā	524
 旧合同	jiù hé tong	364
 就和我	jiù hé wǒ	515
+九和弦	jiǔ hé xián	72
 九合一	jiǔ hé yī	742
 就黑了	jiù hēi le	824
 就黑屏	jiù hēi píng	702
@@ -403545,6 +404001,7 @@ sort: by_weight
 卷席筒	juàn xí tǒng	284
 卷匣门	juǎn xiá mén	4
 捐献了	juān xiàn le	711
+卷弦器	juǎn xián qì	72
 卷线器	juǎn xiàn qì	6
 捐献时	juān xiàn shí	364
 捐献者	juān xiàn zhě	499
@@ -404899,6 +405356,7 @@ sort: by_weight
 卡好了	kǎ hǎo le	450
 卡好呢	kǎ hǎo ne	292
 卡和卡	kǎ hé kǎ	675
+卡洪鼓	kǎ hóng gǔ	72
 卡华路	kǎ huá lù	302
 卡坏了	kǎ huài le	657
 卡簧钳	kǎ huáng qián	194
@@ -404963,10 +405421,12 @@ sort: by_weight
 卡里的	kǎ lǐ de	52
 卡利科	kǎ lì kē	52
 卡里亚	kǎ lǐ yà	752
+卡林巴	kǎ lín bā	72
 卡林顿	kǎ lín dùn	43
 卡鲁查	kǎ lǔ chá	43
 卡路里	kǎ lù lǐ	3338
 咖伦宾	kā lún bīn	45
+卡骆驰	kǎ luò chí	81
 卡萝尔	kǎ luó ěr	1137
 卡罗拉	kǎ luó lā	5131
 卡罗琳	kǎ luó lín	204
@@ -405109,6 +405569,7 @@ sort: by_weight
 喀土穆	kā tǔ mù	35
 佧佤山	kǎ wǎ shān	13
 卡哇伊	kǎ wā yī	1071
+卡瓦依	kǎ wǎ yī	72
 佧佤族	kǎ wǎ zú	3
 卡维丁	kǎ wéi dīng	90
 卡位赛	kǎ wèi sài	6
@@ -409342,6 +409803,7 @@ sort: by_weight
 康宁路	kāng níng lù	450
 抗凝血	kàng níng xuè	88
 抗凝药	kàng níng yào	69
+抗扭片	kàng niǔ piàn	81
 抗扭曲	kàng niǔ qū	297
 抗扭性	kàng niǔ xìng	28
 抗扭转	kàng niǔ zhuǎn	396
@@ -415450,6 +415912,7 @@ sort: by_weight
 口袋龙	kǒu dài lóng	351
 口袋绿	kǒu dài lǜ	162
 口袋迷	kǒu dài mí	284
+口袋琴	kǒu dài qín	72
 口袋式	kǒu dài shì	428
 口袋时	kǒu dài shí	243
 口袋书	kǒu dài shū	135
@@ -419927,6 +420390,7 @@ sort: by_weight
 拉链齿	lā liàn chǐ	43
 拉链处	lā liàn chù	392
 拉链袋	lā liàn dài	82
+拉链坏	lā liàn huài	81
 拉链款	lā liàn kuǎn	405
 拉链拉	lā liàn lā	680
 拉链门	lā liàn mén	495
@@ -420113,6 +420577,7 @@ sort: by_weight
 拉舌头	lā shé tou	338
 拉伸吧	lā shēn ba	243
 拉伸带	lā shēn dài	51
+拉伸度	lā shēn dù	81
 拉伸感	lā shēn gǎn	603
 拉伸后	lā shēn hòu	549
 拉伸机	lā shēn jī	207
@@ -420221,6 +420686,7 @@ sort: by_weight
 拉下水	lā xià shuǐ	386
 拉下台	lā xià tái	477
 拉下线	lā xià xiàn	495
+拉弦板	lā xián bǎn	72
 拉线盒	lā xiàn hé	171
 辣鲜露	là xiān lù	57
 拉线式	lā xiàn shì	315
@@ -422702,6 +423168,7 @@ sort: by_weight
 揽胜图	lǎn shèng tú	3
 揽生意	lǎn shēng yi	810
 烂事儿	làn shì er	450
+蓝湿革	lán shī gé	81
 兰石化	lán shí huà	266
 蓝石莲	lán shí lián	44
 烂石头	làn shí tóu	302
@@ -426548,6 +427015,7 @@ sort: by_weight
 冷得像	lěng de xiàng	44
 冷得直	lěng de zhí	3
 冷掉了	lěng diào le	918
+冷定型	lěng dìng xíng	81
 冷冻泵	lěng dòng bèng	189
 冷冻层	lěng dòng céng	518
 冷冻厂	lěng dòng chǎng	3
@@ -428162,6 +428630,7 @@ sort: by_weight
 里面掉	lǐ miàn diào	544
 里面都	lǐ miàn dōu	995
 里面儿	lǐ miàn er	28
+粒面革	lì miàn gé	81
 里面哈	lǐ miàn hā	522
 里面还	lǐ miàn hái	1706
 里面可	lǐ miàn kě	1220
@@ -429790,6 +430259,7 @@ sort: by_weight
 连电脑	lián diàn nǎo	729
 连点器	lián diǎn qì	66
 联动吧	lián dòng ba	212
+联动杆	lián dòng gān	72
 连动句	lián dòng jù	234
 联动时	lián dòng shí	414
 联动式	lián dòng shì	319
@@ -430799,6 +431269,7 @@ sort: by_weight
 联系到	lián xì dào	4135
 联系的	lián xì de	1467
 联系点	lián xì diǎn	72
+练习段	liàn xí duàn	72
 练习二	liàn xí èr	495
 练习法	liàn xí fǎ	644
 联系感	lián xì gǎn	41
@@ -431003,6 +431474,7 @@ sort: by_weight
 连银行	lián yín háng	63
 联姻了	lián yīn le	486
 连阴天	lián yīn tiān	6
+连音线	lián yīn xiàn	72
 连阴雨	lián yīn yǔ	22
 联营厂	lián yíng chǎng	279
 联营店	lián yíng diàn	292
@@ -432094,6 +432566,7 @@ sort: by_weight
 两面锯	liǎng miàn jù	45
 两面看	liǎng miàn kàn	472
 两面派	liǎng miàn pài	220
+亮面皮	liàng miàn pí	81
 两面坡	liǎng miàn pō	324
 两面墙	liǎng miàn qiáng	634
 两面人	liǎng miàn rén	126
@@ -439634,6 +440107,7 @@ sort: by_weight
 鹿特丹	lù tè dān	546
 路特阶	lù tè jiē	90
 路特期	lù tè qī	130
+鲁特琴	lǔ tè qín	72
 路特斯	lù tè sī	670
 鹿蹄草	lù tí cǎo	513
 鲁提辖	lǔ tí xiá	562
@@ -440594,6 +441068,7 @@ sort: by_weight
 论证会	lùn zhèng huì	53
 论证时	lùn zhèng shí	504
 论政治	lùn zhèng zhì	38
+轮指法	lún zhǐ fǎ	72
 论质量	lùn zhì liàng	702
 论智商	lùn zhì shāng	513
 轮中超	lún zhōng chāo	6
@@ -440964,6 +441439,7 @@ sort: by_weight
 落脚点	luò jiǎo diǎn	1394
 落脚了	luò jiǎo le	418
 罗教授	luó jiào shòu	69
+罗杰斯	luó jié sī	72
 落进了	luò jìn le	644
 落尽了	luò jìn le	285
 裸金属	luǒ jīn shǔ	324
@@ -442896,6 +443372,7 @@ sort: by_weight
 抹脸油	mā liǎn yóu	252
 骂两句	mà liǎng jù	693
 马嫽河	mǎ liáo hé	45
+马林巴	mǎ lín bā	72
 吗啉胍	mǎ lín guā	30
 马林斯	mǎ lín sī	52
 马蔺子	mǎ lìn zǐ	43
@@ -443050,6 +443527,7 @@ sort: by_weight
 妈妈坐	mā ma zuò	638
 妈买了	mā mǎi le	909
 妈卖批	mā mài pī	207
+马毛刷	mǎ máo shuā	81
 骂没骂	mà méi mà	52
 麻美子	má měi zǐ	680
 妈咪啊	mā mī a	482
@@ -443116,6 +443594,7 @@ sort: by_weight
 马前卒	mǎ qián zú	710
 马青路	mǎ qīng lù	428
 麻球烦	má qiú fán	46
+马球靴	mǎ qiú xuē	81
 骂去吧	mà qù ba	302
 妈去了	mā qù le	638
 马泉河	mǎ quán hé	3
@@ -443330,6 +443809,8 @@ sort: by_weight
 码头上	mǎ tóu shàng	232
 马头岩	mǎ tóu yán	57
 麻团饵	má tuán ěr	54
+马臀革	mǎ tún gé	81
+马臀皮	mǎ tún pí	81
 嘛玩儿	ma wán er	270
 妈湾港	mā wān gǎng	261
 骂完了	mà wán le	612
@@ -443370,6 +443851,7 @@ sort: by_weight
 马小姐	mǎ xiǎo jiě	28
 骂小三	mà xiǎo sān	423
 马校长	mǎ xiào zhǎng	22
+马歇尔	mǎ xiē ěr	72
 马辛米	mǎ xīn mǐ	13
 骂醒了	mà xǐng le	486
 骂醒你	mà xǐng nǐ	52
@@ -443503,6 +443985,7 @@ sort: by_weight
 麻子脸	má zi liǎn	428
 马子禄	mǎ zi lù	513
 麻子峪	má zi yù	99
+马鬃刷	mǎ zōng shuā	81
 马总统	mǎ zǒng tǒng	932
 妈走了	mā zǒu le	688
 骂走了	mà zǒu le	391
@@ -454997,6 +455480,7 @@ sort: by_weight
 孟克河	mèng kè hé	153
 盟可睐	méng kě lài	468
 蒙克莱	méng kè lái	308
+孟克鞋	mèng kè xié	81
 孟科长	mèng kē zhǎng	144
 猛坑石	měng kēng shí	130
 萌哭了	méng kū le	25
@@ -458924,6 +459408,7 @@ sort: by_weight
 抹鼻子	mǒ bí zi	68
 磨边机	mó biān jī	202
 摸遍了	mō biàn le	432
+磨边器	mó biān qì	81
 模表示	mó biǎo shì	396
 摩博会	mó bó huì	585
 磨玻璃	mó bō li	720
@@ -459741,6 +460226,7 @@ sort: by_weight
 莫米松	mò mǐ sōng	436
 抹面包	mò miàn bāo	53
 磨面粉	mò miàn fěn	477
+磨面革	mò miàn gé	81
 磨面机	mò miàn jī	279
 抹面机	mò miàn jī	38
 磨灭了	mó miè le	684
@@ -459967,6 +460453,7 @@ sort: by_weight
 默沙东	mò shā dōng	301
 磨砂感	mó shā gǎn	490
 磨砂膏	mó shā gāo	455
+磨砂革	mó shā gé	81
 莫沙河	mò shā hé	99
 磨砂黑	mó shā hēi	53
 磨砂机	mó shā jī	256
@@ -460848,6 +461335,7 @@ sort: by_weight
 墓碑前	mù bēi qián	783
 墓碑上	mù bēi shàng	571
 墓碑石	mù bēi shí	356
+木贝斯	mù bèi sī	72
 墓碑线	mù bēi xiàn	328
 姆贝亚	mǔ bèi yà	328
 姆本加	mǔ běn jiā	320
@@ -463279,6 +463767,7 @@ sort: by_weight
 纳帕谷	nà pà gǔ	192
 纳帕海	nà pà hǎi	135
 哪怕你	nǎ pà nǐ	1202
+纳帕皮	nà pà pí	81
 哪怕是	nǎ pà shì	31026
 那怕是	nǎ pà shì	379
 那盘菜	nà pán cài	540
@@ -464783,6 +465272,7 @@ sort: by_weight
 耐张塔	nài zhāng tǎ	225
 耐折度	nài zhé dù	43
 奈哲尔	nài zhé ěr	6
+耐折性	nài zhé xìng	81
 耐振动	nài zhèn dòng	189
 耐震性	nài zhèn xìng	342
 奶疹子	nǎi zhěn zi	45
@@ -467744,6 +468234,7 @@ sort: by_weight
 内老师	nèi lǎo shī	598
 内利奥	nèi lì ào	351
 内力的	nèi lì de	675
+内里革	nèi lǐ gé	81
 内力了	nèi lì le	374
 内里面	nèi lǐ miàn	508
 内利斯	nèi lì sī	558
@@ -487046,6 +487537,7 @@ sort: by_weight
 捏断了	niē duàn le	441
 捏耳朵	niē ěr duo	356
 聂尔龙	niè ěr lóng	52
+捏泛音	niē fàn yīn	72
 涅夫勒	niè fū lè	981
 镍坩埚	niè gān guō	50
 镍铬钢	niè gè gāng	99
@@ -487936,6 +488428,7 @@ sort: by_weight
 牛角湾	niú jiǎo wān	360
 牛角藓	niú jiǎo xiǎn	171
 牛角型	niú jiǎo xíng	153
+牛脚油	niú jiǎo yóu	81
 牛角寨	niú jiǎo zhài	274
 牛街河	niú jiē hé	212
 扭节理	niǔ jié lǐ	45
@@ -488599,6 +489092,7 @@ sort: by_weight
 农夫家	nóng fū jiā	477
 农夫们	nóng fū men	500
 农妇们	nóng fù men	346
+农夫鞋	nóng fū xié	81
 农副业	nóng fù yè	44
 农夫也	nóng fū yě	40
 弄复杂	nòng fù zá	50
@@ -489435,6 +489929,7 @@ sort: by_weight
 挪威杯	nuó wēi bēi	482
 挪威队	nuó wēi duì	119
 挪威枫	nuó wēi fēng	220
+挪威缝	nuó wēi fèng	81
 挪威馆	nuó wēi guǎn	261
 挪威海	nuó wēi hǎi	28
 挪威红	nuó wēi hóng	252
@@ -491956,6 +492451,7 @@ sort: by_weight
 拍立淘	pāi lì táo	369
 排练吧	pái liàn ba	288
 排练场	pái liàn chǎng	44
+排练带	pái liàn dài	72
 排练房	pái liàn fáng	364
 派连河	pài lián hé	162
 排练了	pái liàn le	639
@@ -495590,6 +496086,7 @@ sort: by_weight
 皮草吧	pí cǎo ba	180
 皮草城	pí cǎo chéng	342
 皮草行	pí cǎo xíng	346
+皮草靴	pí cǎo xuē	81
 皮草衣	pí cǎo yī	202
 皮层区	pí céng qū	486
 皮层下	pí céng xià	490
@@ -495636,6 +496133,7 @@ sort: by_weight
 劈到了	pī dào le	300
 皮的吧	pí de ba	364
 皮得很	pí de hěn	13
+皮底革	pí dǐ gé	81
 皮蒂宫	pí dì gōng	374
 匹敌者	pǐ dí zhě	22
 屁点大	pì diǎn dà	279
@@ -495733,8 +496231,13 @@ sort: by_weight
 劈个叉	pī gè chā	284
 皮革厂	pí gé chǎng	113
 皮革城	pí gé chéng	688
+皮革刀	pí gé dāo	81
 皮革调	pí gé diào	84
+皮革膏	pí gé gāo	81
+皮革蜡	pí gé là	81
 皮革类	pí gé lèi	333
+皮革漆	pí gé qī	81
+皮革乳	pí gé rǔ	81
 皮革商	pí gé shāng	6
 皮革味	pí gé wèi	446
 皮革胃	pí gé wèi	228
@@ -495742,6 +496245,8 @@ sort: by_weight
 皮格岩	pí gé yán	50
 辟个谣	pì gè yáo	166
 皮革业	pí gé yè	19
+皮革油	pí gé yóu	81
+皮革针	pí gé zhēn	81
 痞根穴	pǐ gēn xué	4
 屁股啊	pì gu a	38
 屁股吧	pì gu ba	423
@@ -496075,6 +496580,7 @@ sort: by_weight
 匹配吧	pǐ pèi ba	378
 匹配到	pǐ pèi dào	945
 匹配度	pǐ pèi dù	2967
+皮胚料	pí pēi liào	81
 匹配率	pǐ pèi lǜ	454
 匹配器	pǐ pèi qì	392
 匹配赛	pǐ pèi sài	351
@@ -497511,6 +498017,9 @@ sort: by_weight
 品书香	pǐn shū xiāng	248
 拼输赢	pīn shū yíng	225
 品水师	pǐn shuǐ shī	207
+品丝锉	pǐn sī cuò	72
+品丝钳	pǐn sī qián	72
+品丝油	pǐn sī yóu	72
 拼速度	pīn sù dù	195
 拼体力	pīn tǐ lì	567
 拼天赋	pīn tiān fù	711
@@ -497759,6 +498268,7 @@ sort: by_weight
 屏蔽了	píng bì le	1746
 屏蔽码	píng bì mǎ	189
 屏蔽门	píng bì mén	276
+屏蔽漆	píng bì qī	72
 屏蔽器	píng bì qì	63
 屏蔽其	píng bì qí	57
 屏蔽墙	píng bì qiáng	320
@@ -498746,6 +499256,7 @@ sort: by_weight
 平行板	píng xíng bǎn	382
 平行带	píng xíng dài	144
 平行的	píng xíng de	1094
+平行调	píng xíng diào	72
 平行度	píng xíng dù	35
 平型夫	píng xíng fū	200
 平型关	píng xíng guān	135
@@ -499386,6 +499897,7 @@ sort: by_weight
 破字令	pò zì lìng	4
 婆子妈	pó zi mā	342
 婆子们	pó zi men	603
+剖层革	pōu céng gé	81
 剖腹吧	pōu fù ba	194
 剖腹产	pōu fù chǎn	681
 剖腹腔	pōu fù qiāng	274
@@ -500791,6 +501303,7 @@ sort: by_weight
 气垫床	qì diàn chuáng	135
 起点的	qǐ diǎn de	963
 起点低	qǐ diǎn dī	702
+气垫底	qì diàn dǐ	81
 七点多	qī diǎn duō	963
 气垫粉	qì diàn fěn	698
 起点高	qǐ diǎn gāo	810
@@ -501912,6 +502425,7 @@ sort: by_weight
 其美吧	qí měi ba	180
 七美岛	qī měi dǎo	266
 七美德	qī měi dé	25
+齐美尔	qí měi ěr	72
 齐眉棍	qí méi gùn	31
 奇美拉	qí měi lā	720
 其没有	qí méi yǒu	968
@@ -503226,6 +503740,7 @@ sort: by_weight
 泣颜回	qì yán huí	220
 其研究	qí yán jiū	986
 七言句	qī yán jù	315
+气眼扣	qì yǎn kòu	81
 七言联	qī yán lián	410
 启颜录	qǐ yán lù	190
 七言律	qī yán lǜ	567
@@ -503577,6 +504092,7 @@ sort: by_weight
 气这样	qì zhè yàng	868
 起褶子	qǐ zhě zi	16
 启真湖	qǐ zhēn hú	266
+气震音	qì zhèn yīn	72
 起疹子	qǐ zhěn zi	576
 起征点	qǐ zhēng diǎn	867
 起争端	qǐ zhēng duān	19
@@ -503916,6 +504432,7 @@ sort: by_weight
 钱包内	qián bāo nèi	652
 钱包女	qián bāo nǚ	292
 嵌宝石	qiàn bǎo shí	626
+前包头	qián bāo tóu	81
 前包围	qián bāo wéi	531
 钱包中	qián bāo zhōng	716
 前鲍庄	qián bào zhuāng	45
@@ -506190,6 +506707,7 @@ sort: by_weight
 黔张常	qián zhāng cháng	418
 前掌大	qián zhǎng dà	288
 千帐灯	qiān zhàng dēng	382
+前掌垫	qián zhǎng diàn	81
 欠账多	qiàn zhàng duō	387
 钱掌柜	qián zhǎng guì	94
 千张结	qiān zhāng jié	414
@@ -507656,6 +508174,7 @@ sort: by_weight
 桥头碳	qiáo tóu tàn	256
 桥头围	qiáo tóu wéi	297
 桥头下	qiáo tóu xià	364
+翘头鞋	qiào tóu xié	81
 翘臀吧	qiào tún ba	189
 俏臀霜	qiào tún shuāng	45
 桥烷烃	qiáo wán tīng	45
@@ -508775,6 +509294,7 @@ sort: by_weight
 亲贤街	qīn xián jiē	338
 琴弦上	qín xián shàng	576
 秦咸阳	qín xián yáng	43
+琴弦油	qín xián yóu	72
 勤消毒	qín xiāo dú	50
 秦小姐	qín xiǎo jiě	801
 亲小人	qīn xiǎo rén	418
@@ -508906,6 +509426,7 @@ sort: by_weight
 擒纵摆	qín zòng bǎi	48
 擒纵叉	qín zòng chā	392
 擒纵齿	qín zòng chǐ	48
+擒纵点	qín zòng diǎn	72
 擒纵轮	qín zòng lún	405
 擒纵器	qín zòng qì	306
 勤走访	qín zǒu fǎng	212
@@ -510209,6 +510730,7 @@ sort: by_weight
 清凉处	qīng liáng chù	202
 轻量的	qīng liàng de	496
 清凉的	qīng liáng de	396
+轻量底	qīng liàng dǐ	81
 清凉店	qīng liáng diàn	162
 清凉洞	qīng liáng dòng	292
 清凉度	qīng liáng dù	16
@@ -514136,6 +514658,7 @@ sort: by_weight
 曲焕章	qǔ huàn zhāng	374
 去黄河	qù huáng hé	549
 去皇后	qù huáng hòu	567
+去黄剂	qù huáng jì	81
 取黄金	qǔ huáng jīn	526
 去皇马	qù huáng mǎ	504
 去黄气	qù huáng qì	374
@@ -514288,6 +514811,7 @@ sort: by_weight
 去交换	qù jiāo huàn	734
 去教会	qù jiào huì	598
 取交集	qǔ jiāo jí	369
+去胶剂	qù jiāo jì	81
 去叫了	qù jiào le	670
 去交了	qù jiāo le	437
 去交流	qù jiāo liú	778
@@ -515820,6 +516344,7 @@ sort: by_weight
 取样管	qǔ yàng guǎn	238
 去氧化	qù yǎng huà	346
 取样机	qǔ yàng jī	261
+去氧剂	qù yǎng jì	81
 取样口	qǔ yàng kǒu	202
 去养老	qù yǎng lǎo	720
 取样量	qǔ yàng liàng	238
@@ -519253,6 +519778,7 @@ sort: by_weight
 绕线机	rào xiàn jī	9
 绕线轮	rào xiàn lún	266
 绕线器	rào xiàn qì	486
+绕弦器	rào xián qì	72
 饶先生	ráo xiān shēng	35
 绕行吧	rào xíng ba	428
 绕掩护	rào yǎn hù	464
@@ -523149,6 +523675,7 @@ sort: by_weight
 榕门路	róng mén lù	374
 荣迷们	róng mí men	459
 绒面革	róng miàn gé	31
+绒面刷	róng miàn shuā	81
 容嬷嬷	róng mó mo	298
 榕木塘	róng mù táng	45
 榕木寨	róng mù zhài	45
@@ -525452,6 +525979,7 @@ sort: by_weight
 软化器	ruǎn huà qì	274
 软化水	ruǎn huà shuǐ	31
 软化灶	ruǎn huà zào	342
+软化针	ruǎn huà zhēn	72
 软化症	ruǎn huà zhèng	580
 软环境	ruǎn huán jìng	63
 软黄金	ruǎn huáng jīn	28
@@ -525565,12 +526093,14 @@ sort: by_weight
 软米饭	ruǎn mǐ fàn	490
 软密封	ruǎn mì fēng	194
 软面包	ruǎn miàn bāo	75
+软面革	ruǎn miàn gé	81
 软绵绵	ruǎn mián mián	1121
 软面团	ruǎn miàn tuán	364
 软膜粉	ruǎn mó fěn	261
 阮某某	ruǎn mǒu mǒu	414
 软木板	ruǎn mù bǎn	75
 软目标	ruǎn mù biāo	28
+软木底	ruǎn mù dǐ	81
 软木画	ruǎn mù huà	306
 软木塞	ruǎn mù sāi	371
 软木烷	ruǎn mù wán	4
@@ -526109,9 +526639,11 @@ sort: by_weight
 若一人	ruò yì rén	396
 若一日	ruò yí rì	342
 弱一些	ruò yì xiē	1240
+弱音杯	ruò yīn bēi	72
 弱音器	ruò yīn qì	66
 若饮食	ruò yǐn shí	446
 弱引用	ruò yǐn yòng	63
+弱音罩	ruò yīn zhào	72
 弱荧光	ruò yíng guāng	288
 若有了	ruò yǒu le	536
 若有情	ruò yǒu qíng	6
@@ -534059,6 +534591,7 @@ sort: by_weight
 上关穴	shàng guān xué	42
 上馆子	shàng guǎn zi	25
 上广播	shàng guǎng bō	634
+上光布	shàng guāng bù	81
 上广电	shàng guǎng diàn	9
 上广东	shàng guǎng dōng	734
 上广告	shàng guǎng gào	904
@@ -535956,6 +536489,7 @@ sort: by_weight
 上限位	shàng xiàn wèi	454
 上纤维	shàng xiān wéi	274
 上弦月	shàng xián yuè	104
+上弦枕	shàng xián zhěn	72
 上限值	shàng xiàn zhí	806
 上限制	shàng xiàn zhì	486
 上项目	shàng xiàng mù	1044
@@ -541444,6 +541978,7 @@ sort: by_weight
 生姜汁	shēng jiāng zhī	28
 升降柱	shēng jiàng zhù	130
 升降桌	shēng jiàng zhuō	427
+生胶底	shēng jiāo dǐ	81
 升交点	shēng jiāo diǎn	522
 圣教会	shèng jiào huì	504
 圣教军	shèng jiào jūn	369
@@ -542359,6 +542894,7 @@ sort: by_weight
 生鲜柜	shēng xiān guì	292
 升仙湖	shēng xiān hú	405
 生鲜件	shēng xiān jiàn	10
+升弦距	shēng xián jù	72
 生鲜类	shēng xiān lèi	608
 圣贤们	shèng xián men	405
 生鲜品	shēng xiān pǐn	554
@@ -542432,6 +542968,7 @@ sort: by_weight
 胜雄鹿	shèng xióng lù	414
 生锈的	shēng xiù de	886
 生锈了	shēng xiù le	276
+声序器	shēng xù qì	72
 升虚邑	shēng xū yì	248
 胜选后	shèng xuǎn hòu	9
 生宣纸	shēng xuān zhǐ	387
@@ -550413,6 +550950,7 @@ sort: by_weight
 十一组	shí yī zǔ	540
 是一座	shì yí zuò	2889
 十一座	shí yī zuò	504
+拾音棒	shí yīn bàng	72
 试饮杯	shì yǐn bēi	235
 石印本	shí yìn běn	540
 失音病	shī yīn bìng	50
@@ -551050,6 +551588,7 @@ sort: by_weight
 失真度	shī zhēn dù	78
 是针对	shì zhēn duì	6525
 事真多	shì zhēn duō	44
+失真感	shī zhēn gǎn	72
 湿疹膏	shī zhěn gāo	464
 是真好	shì zhēn hǎo	383
 施针了	shī zhēn le	288
@@ -552201,6 +552740,7 @@ sort: by_weight
 手工坊	shǒu gōng fāng	562
 手工费	shǒu gōng fèi	295
 手工粉	shǒu gōng fěn	446
+手工缝	shǒu gōng fèng	81
 手工贵	shǒu gōng guì	52
 手工焊	shǒu gōng hàn	19
 手工好	shǒu gōng hǎo	405
@@ -554798,6 +555338,7 @@ sort: by_weight
 数号码	shù hào mǎ	680
 数毫米	shù háo mǐ	436
 书和笔	shū hé bǐ	500
+属和弦	shǔ hé xián	72
 梳颌翼	shū hé yì	464
 输和赢	shū hé yíng	378
 数很大	shù hěn dà	43
@@ -555703,6 +556244,7 @@ sort: by_weight
 舒爽了	shū shuǎng le	468
 疏水泵	shū shuǐ bèng	162
 输水槽	shū shuǐ cáo	45
+疏水层	shū shuǐ céng	81
 输水道	shū shuǐ dào	338
 熟睡的	shú shuì de	1035
 疏水的	shū shuǐ de	422
@@ -556479,6 +557021,7 @@ sort: by_weight
 耍几天	shuǎ jǐ tiān	428
 刷机网	shuā jī wǎng	194
 刷机线	shuā jī xiàn	153
+刷胶机	shuā jiāo jī	81
 刷睫毛	shuā jié máo	603
 刷金币	shuā jīn bì	616
 刷经济	shuā jīng jì	297
@@ -557002,6 +557545,7 @@ sort: by_weight
 栓状核	shuān zhuàng hé	4
 双安全	shuāng ān quán	711
 双凹的	shuāng āo de	76
+双八度	shuāng bā dù	72
 双百分	shuāng bǎi fēn	19
 双柏忌	shuāng bǎi jì	432
 双百龙	shuāng bǎi lóng	130
@@ -557639,6 +558183,7 @@ sort: by_weight
 双桥子	shuāng qiáo zǐ	6
 双切线	shuāng qiē xiàn	117
 双琴侠	shuāng qín xiá	288
+双擒纵	shuāng qín zòng	72
 双氢胺	shuāng qīng àn	38
 双擎版	shuāng qíng bǎn	436
 双氢键	shuāng qīng jiàn	238
@@ -557920,6 +558465,7 @@ sort: by_weight
 双向流	shuāng xiàng liú	648
 双响炮	shuāng xiǎng pào	69
 双像素	shuāng xiàng sù	428
+双响筒	shuāng xiǎng tǒng	72
 双向性	shuāng xiàng xìng	72
 双相型	shuāng xiāng xíng	65
 双小腿	shuāng xiǎo tuǐ	428
@@ -558068,6 +558614,7 @@ sort: by_weight
 爽着呢	shuǎng zhe ne	13
 双折射	shuāng zhé shè	69
 双针车	shuāng zhēn chē	50
+双针法	shuāng zhēn fǎ	81
 双针机	shuāng zhēn jī	43
 双证班	shuāng zhèng bān	3
 双正交	shuāng zhèng jiāo	180
@@ -566825,6 +567372,7 @@ sort: by_weight
 送仙桥	sòng xiān qiáo	16
 宋先生	sòng xiān shēng	94
 松香草	sōng xiāng cǎo	310
+松香粉	sōng xiāng fěn	72
 松香黄	sōng xiāng huáng	194
 送项链	sòng xiàng liàn	396
 送香水	sòng xiāng shuǐ	459
@@ -569150,6 +569698,7 @@ sort: by_weight
 随意走	suí yì zǒu	788
 随意做	suí yì zuò	585
 随意坐	suí yì zuò	490
+碎音镲	suì yīn chǎ	72
 随音乐	suí yīn yuè	94
 碎银子	suì yín zi	742
 岁婴儿	suì yīng ér	590
@@ -569847,6 +570396,9 @@ sort: by_weight
 所下发	suǒ xià fā	423
 缩下去	suō xià qù	22
 所辖区	suǒ xiá qū	20
+锁弦钮	suǒ xián niǔ	72
+锁弦器	suǒ xián qì	72
+锁弦枕	suǒ xián zhěn	72
 锁鲜装	suǒ xiān zhuāng	13
 锁相法	suǒ xiāng fǎ	45
 锁相环	suǒ xiāng huán	53
@@ -570366,6 +570918,7 @@ sort: by_weight
 他半蹲	tā bàn dūn	400
 他颁发	tā bān fā	580
 他半分	tā bàn fēn	486
+踏板杆	tà bǎn gān	72
 他半个	tā bàn gè	626
 他办公	tā bàn gōng	864
 他半跪	tā bàn guì	333
@@ -589052,6 +589605,7 @@ sort: by_weight
 太牛逼	tài niú bī	283
 太牛叉	tài niú chā	25
 太牛了	tài niú le	672
+胎牛皮	tāi niú pí	81
 太扭曲	tài niǔ qū	52
 太浓稠	tài nóng chóu	38
 太浓了	tài nóng le	192
@@ -595028,6 +595582,7 @@ sort: by_weight
 提效益	tí xiào yì	428
 体效应	tǐ xiào yìng	724
 替硝唑	tì xiāo zuò	69
+提鞋带	tí xié dài	81
 体协队	tǐ xié duì	153
 提携过	tí xié guò	346
 提携角	tí xié jiǎo	4
@@ -595356,6 +595911,7 @@ sort: by_weight
 添把柴	tiān bǎ chái	13
 添把火	tiān bǎ huǒ	513
 甜白酒	tián bái jiǔ	454
+添柏岚	tiān bǎi lán	81
 天柏路	tiān bǎi lù	310
 天败星	tiān bài xīng	302
 甜白釉	tián bái yòu	428
@@ -595407,6 +595963,7 @@ sort: by_weight
 添布顿	tiān bù dùn	310
 天不负	tiān bú fù	122
 天不管	tiān bù guǎn	801
+填补剂	tián bǔ jì	81
 甜不辣	tián bú là	185
 天不老	tiān bù lǎo	44
 填补了	tián bǔ le	1410
@@ -598222,8 +598779,13 @@ sort: by_weight
 挑一些	tiāo yì xiē	826
 调一些	tiáo yí xiē	743
 跳一些	tiào yì xiē	323
+调音叉	tiáo yīn chā	72
+调音锤	tiáo yīn chuí	72
+调音管	tiáo yīn guǎn	72
 调音量	tiáo yīn liàng	72
+调音帽	tiáo yīn mào	72
 调音器	tiáo yīn qì	565
+调音塞	tiáo yīn sāi	72
 调音师	tiáo yīn shī	688
 调音台	tiáo yīn tái	427
 条鱼吧	tiáo yú ba	414
@@ -598452,6 +599014,7 @@ sort: by_weight
 贴的吧	tiē de ba	324
 铁底河	tiě dǐ hé	130
 贴地气	tiē dì qì	72
+贴底鞋	tiē dǐ xié	81
 贴地斩	tiē dì zhǎn	85
 贴地砖	tiē dì zhuān	41
 铁电池	tiě diàn chí	590
@@ -601630,6 +602193,7 @@ sort: by_weight
 捅死了	tǒng sǐ le	543
 捅死人	tǒng sǐ rén	52
 痛死人	tòng sǐ rén	52
+铜丝刷	tóng sī shuā	81
 铜丝网	tóng sī wǎng	261
 通俗吧	tōng sú ba	306
 通俗版	tōng sú bǎn	531
@@ -603186,6 +603750,7 @@ sort: by_weight
 透视机	tòu shì jī	43
 透视镜	tòu shì jìng	19
 透视力	tòu shì lì	6
+透湿膜	tòu shī mó	81
 头十年	tóu shí nián	608
 头饰品	tóu shì pǐn	297
 投石器	tóu shí qì	85
@@ -604511,6 +605076,7 @@ sort: by_weight
 土石方	tǔ shí fāng	91
 涂师傅	tú shī fu	310
 土石膏	tǔ shí gāo	261
+涂饰革	tú shì gé	81
 图什河	tú shí hé	194
 涂饰剂	tú shì jì	248
 土石流	tǔ shí liú	3
@@ -611940,6 +612506,7 @@ sort: by_weight
 未登陆	wèi dēng lù	139
 尾灯罩	wěi dēng zhào	9
 尾灯组	wěi dēng zǔ	788
+维底宝	wéi dǐ bǎo	81
 胃底部	wèi dǐ bù	292
 未抵达	wèi dǐ dá	558
 围堤道	wéi dī dào	3
@@ -613954,6 +614521,7 @@ sort: by_weight
 微调吧	wēi tiáo ba	180
 微调过	wēi tiáo guò	13
 为条件	wèi tiáo jiàn	493
+微调器	wēi tiáo qì	72
 微调时	wēi tiáo shí	418
 微调整	wēi tiáo zhěng	50
 未调整	wèi tiáo zhěng	45
@@ -636893,6 +637461,7 @@ sort: by_weight
 误读了	wù dú le	680
 武都路	wǔ dū lù	3
 五蠹篇	wǔ dù piān	130
+五度圈	wǔ dù quān	72
 无堵塞	wú dǔ sè	13
 无毒蛇	wú dú shé	522
 五毒兽	wǔ dú shòu	44
@@ -644689,6 +645258,7 @@ sort: by_weight
 西夏文	xī xià wén	154
 西霞院	xī xiá yuàn	207
 戏匣子	xì xiá zi	207
+系弦板	xì xián bǎn	72
 西线路	xī xiàn lù	518
 席先生	xí xiān shēng	1017
 夕线石	xī xiàn shí	279
@@ -647067,6 +647637,7 @@ sort: by_weight
 下限时	xià xiàn shí	369
 下限位	xià xiàn wèi	284
 下弦月	xià xián yuè	122
+下弦枕	xià xián zhěn	72
 下限值	xià xiàn zhí	495
 瞎想吧	xiā xiǎng ba	256
 遐想吧	xiá xiǎng ba	198
@@ -647862,7 +648433,11 @@ sort: by_weight
 先穿上	xiān chuān shàng	52
 先创建	xiān chuàng jiàn	100
 先创业	xiān chuàng yè	513
+弦槌柄	xián chuí bǐng	72
 腺垂体	xiàn chuí tǐ	53
+弦槌头	xián chuí tóu	72
+弦槌毡	xián chuí zhān	72
+弦槌针	xián chuí zhēn	72
 先春红	xiān chūn hóng	4
 先凑合	xiān còu he	612
 线粗细	xiàn cū xì	432
@@ -648210,6 +648785,7 @@ sort: by_weight
 岘港吧	xiàn gǎng ba	225
 线刚度	xiàn gāng dù	99
 掀高潮	xiān gāo cháo	536
+弦高尺	xián gāo chǐ	72
 先告辞	xiān gào cí	16
 先搞懂	xiān gǎo dǒng	540
 限高杆	xiàn gāo gān	500
@@ -648642,6 +649218,7 @@ sort: by_weight
 先就业	xiān jiù yè	129
 先救治	xiān jiù zhì	644
 现就职	xiàn jiù zhí	296
+弦距尺	xián jù chǐ	72
 仙居的	xiān jū de	490
 现居地	xiàn jū dì	38
 仙居顶	xiān jū dǐng	76
@@ -649654,6 +650231,7 @@ sort: by_weight
 显威风	xiǎn wēi fēng	428
 纤维感	xiān wéi gǎn	477
 纤维高	xiān wéi gāo	756
+纤维革	xiān wéi gé	81
 纤维管	xiān wéi guǎn	13
 纤维化	xiān wéi huà	848
 纤维环	xiān wéi huán	757
@@ -650325,6 +650903,7 @@ sort: by_weight
 献衷心	xiàn zhōng xīn	4
 县中学	xiàn zhōng xué	742
 显忠院	xiǎn zhōng yuàn	464
+弦轴板	xián zhóu bǎn	72
 县主啊	xiàn zhǔ a	261
 先住吧	xiān zhù ba	306
 显著吧	xiǎn zhù ba	163
@@ -651981,6 +652560,7 @@ sort: by_weight
 香蕉树	xiāng jiāo shù	666
 橡胶树	xiàng jiāo shù	494
 相交数	xiāng jiāo shù	187
+橡胶刷	xiàng jiāo shuā	81
 香蕉水	xiāng jiāo shuǐ	53
 香蕉酥	xiāng jiāo sū	3
 橡胶态	xiàng jiāo tài	189
@@ -662365,9 +662945,13 @@ sort: by_weight
 写板书	xiě bǎn shū	536
 协办员	xié bàn yuán	99
 协办者	xié bàn zhě	180
+鞋帮口	xié bāng kǒu	81
+鞋帮片	xié bāng piàn	81
+鞋包边	xié bāo biān	81
 卸包袱	xiè bāo fú	13
 写报告	xiě bào gào	968
 写保护	xiě bǎo hù	698
+鞋包头	xié bāo tóu	81
 蟹堡王	xiè bǎo wáng	47
 斜背包	xié bēi bāo	405
 写北京	xiě běi jīng	536
@@ -662426,6 +663010,7 @@ sort: by_weight
 携程吧	xié chéng ba	202
 写成歌	xiě chéng gē	82
 写成了	xiě chéng le	2248
+鞋撑器	xié chēng qì	81
 写成诗	xiě chéng shī	562
 写程式	xiě chéng shì	448
 携程网	xié chéng wǎng	210
@@ -662472,6 +663057,7 @@ sort: by_weight
 携带吧	xié dài ba	356
 携带版	xié dài bǎn	666
 鞋带绑	xié dài bǎng	346
+鞋带断	xié dài duàn	81
 鞋带儿	xié dài er	13
 懈怠过	xiè dài guò	369
 鞋带孔	xié dài kǒng	392
@@ -662537,9 +663123,15 @@ sort: by_weight
 写的有	xiě de yǒu	1004
 写的字	xiě de zì	961
 斜底板	xié dǐ bǎn	4
+鞋底钉	xié dǐ dīng	81
 鞋底儿	xié dǐ er	400
+鞋底滑	xié dǐ huá	81
+鞋底胶	xié dǐ jiāo	81
+鞋底片	xié dǐ piàn	81
 鞋底软	xié dǐ ruǎn	378
 些底事	xiē dǐ shì	76
+鞋底贴	xié dǐ tiē	81
+鞋底纹	xié dǐ wén	81
 写地址	xiě dì zhǐ	44
 鞋底子	xié dǐ zi	50
 写点吧	xiě diǎn ba	490
@@ -662552,6 +663144,7 @@ sort: by_weight
 鞋掉了	xié diào le	16
 卸掉了	xiè diào le	14
 协定价	xié dìng jià	279
+鞋钉孔	xié dīng kǒng	81
 协定时	xié dìng shí	400
 楔钉榫	xiē dīng sǔn	238
 写动物	xiě dòng wù	472
@@ -662658,6 +663251,8 @@ sort: by_weight
 写给谁	xiě gěi shuí	558
 写给她	xiě gěi tā	644
 鞋跟高	xié gēn gāo	572
+鞋跟片	xié gēn piàn	81
+鞋跟歪	xié gēn wāi	81
 蟹工船	xiè gōng chuán	52
 谢公祠	xiè gōng cí	153
 谢公墩	xiè gōng dūn	189
@@ -662845,8 +663440,10 @@ sort: by_weight
 蟹壳黄	xiè ké huáng	88
 蟹壳青	xiè ké qīng	13
 谢科长	xiè kē zhǎng	248
+鞋扣环	xié kòu huán	81
 歇口气	xiē kǒu qì	97
 斜口钳	xié kǒu qián	396
+鞋口沿	xié kǒu yán	81
 斜挎包	xié kuà bāo	349
 斜挎着	xié kuà zhe	28
 斜矿层	xié kuàng céng	45
@@ -662890,6 +663487,7 @@ sort: by_weight
 斜棱柱	xié léng zhù	248
 斜棱锥	xié léng zhuī	45
 协力车	xié lì chē	252
+鞋里革	xié lǐ gé	81
 谐里河	xié lǐ hé	130
 些利街	xiē lì jiē	43
 写历史	xiě lì shǐ	873
@@ -662915,6 +663513,7 @@ sort: by_weight
 血淋淋	xiě lín lín	1824
 斜鳞蛇	xié lín shé	333
 邪灵的	xié líng de	477
+鞋领口	xié lǐng kǒu	81
 邪灵龙	xié líng lóng	270
 斜刘海	xié liú hǎi	107
 写留言	xiě liú yán	1166
@@ -662958,6 +663557,9 @@ sort: by_weight
 泄密门	xiè mì mén	12
 泄密者	xiè mì zhě	50
 泄密罪	xiè mì zuì	3
+鞋面布	xié miàn bù	81
+鞋面革	xié miàn gé	81
+鞋面胶	xié miàn jiāo	81
 斜面梁	xié miàn liáng	45
 斜面上	xié miàn shàng	626
 斜面体	xié miàn tǐ	243
@@ -663018,6 +663620,7 @@ sort: by_weight
 楔前回	xiē qián huí	45
 写欠条	xiě qiàn tiáo	580
 楔前叶	xiē qián yè	356
+鞋前掌	xié qián zhǎng	81
 蟹钳子	xiè qián zi	418
 斜切面	xié qiē miàn	351
 写清楚	xiě qīng chǔ	2525
@@ -663084,8 +663687,11 @@ sort: by_weight
 协商下	xié shāng xià	69
 协商者	xié shāng zhě	274
 协商中	xié shāng zhōng	662
+鞋舌垫	xié shé diàn	81
 写社会	xiě shè huì	594
+鞋舌片	xié shé piàn	81
 鞋舌上	xié shé shàng	50
+鞋舌歪	xié shé wāi	81
 邪神剑	xié shén jiàn	6
 邪神教	xié shén jiào	306
 写什么	xiě shén me	8007
@@ -663168,6 +663774,7 @@ sort: by_weight
 歇台子	xiē tái zi	382
 鞋套机	xié tào jī	194
 泄题案	xiè tí àn	3
+鞋提带	xié tí dài	81
 谢提醒	xiè tí xǐng	9
 斜体字	xié tǐ zì	192
 协天宫	xié tiān gōng	477
@@ -663213,6 +663820,11 @@ sort: by_weight
 协同性	xié tóng xìng	179
 谢同学	xiè tóng xué	702
 协同学	xié tóng xué	407
+鞋头衬	xié tóu chèn	81
+鞋头盖	xié tóu gài	81
+鞋头皮	xié tóu pí	81
+鞋头贴	xié tóu tiē	81
+鞋头铁	xié tóu tiě	81
 斜投影	xié tóu yǐng	256
 斜土路	xié tǔ lù	41
 谢团长	xiè tuán zhǎng	35
@@ -663240,6 +663852,7 @@ sort: by_weight
 谢王爷	xiè wáng ye	675
 蟹味棒	xiè wèi bàng	52
 写微博	xiě wēi bó	698
+鞋尾带	xié wěi dài	81
 楔尾雕	xiē wěi diāo	266
 斜微分	xié wēi fēn	45
 蟹味菇	xiè wèi gū	72
@@ -663350,12 +663963,14 @@ sort: by_weight
 楔形式	xiē xíng shì	76
 楔形体	xiē xíng tǐ	230
 楔形物	xiē xíng wù	16
+楔形鞋	xiē xíng xié	81
 楔形印	xiē xíng yìn	45
 谢兄弟	xiè xiōng dì	706
 写休书	xiě xiū shū	410
 斜徐路	xié xú lù	315
 些许盐	xiē xǔ yán	454
 写序言	xiě xù yán	319
+鞋楦号	xié xuàn hào	81
 谐谑曲	xié xuè qǔ	283
 写血书	xiě xuè shū	508
 泄压阀	xiè yā fá	217
@@ -663364,6 +663979,7 @@ sort: by_weight
 泄压口	xiè yā kǒu	6
 些研究	xiē yán jiū	1287
 斜眼看	xié yǎn kàn	138
+鞋眼扣	xié yǎn kòu	81
 些颜色	xiē yán sè	1030
 斜眼笑	xié yǎn xiào	477
 卸眼妆	xiè yǎn zhuāng	482
@@ -663375,6 +663991,8 @@ sort: by_weight
 谢邀啊	xiè yāo a	327
 谢邀吧	xiè yāo ba	423
 泻药吧	xiè yào ba	251
+鞋腰部	xié yāo bù	81
+鞋腰铁	xié yāo tiě	81
 歇业吧	xiē yè ba	225
 歇业了	xiē yè le	666
 写意啊	xiě yì a	400
@@ -663458,8 +664076,10 @@ sort: by_weight
 写影评	xiě yǐng píng	747
 写英文	xiě yīng wén	873
 写英语	xiě yīng yǔ	878
+鞋用胶	xié yòng jiāo	81
 写游记	xiě yóu jì	724
 写邮件	xiě yóu jiàn	873
+鞋油刷	xié yóu shuā	81
 写游戏	xiě yóu xì	765
 卸游戏	xiè yóu xì	300
 谢裕大	xiè yù dà	57
@@ -663484,6 +664104,7 @@ sort: by_weight
 写在了	xiě zài le	846
 卸载时	xiè zài shí	459
 卸载周	xiè zài zhōu	51
+鞋掌片	xié zhǎng piàn	81
 斜张桥	xié zhāng qiáo	450
 写照啊	xiě zhào a	472
 写照吧	xiě zhào ba	441
@@ -664842,6 +665463,7 @@ sort: by_weight
 心好累	xīn hǎo lèi	932
 信号链	xìn hào liàn	364
 信号量	xìn hào liàng	612
+信号流	xìn hào liú	72
 信号楼	xìn hào lóu	428
 新号码	xīn hào mǎ	711
 信号门	xìn hào mén	364
@@ -669577,6 +670199,7 @@ sort: by_weight
 杏仁汤	xìng rén tāng	361
 杏仁体	xìng rén tǐ	396
 杏仁条	xìng rén tiáo	418
+杏仁头	xìng rén tóu	81
 杏仁味	xìng rén wèi	850
 杏仁香	xìng rén xiāng	57
 杏仁眼	xìng rén yǎn	35
@@ -670735,6 +671358,7 @@ sort: by_weight
 修边刀	xiū biān dāo	99
 修边幅	xiū biān fú	22
 修边机	xiū biān jī	9
+修边器	xiū biān qì	81
 嗅辨员	xiù biàn yuán	180
 休病假	xiū bìng jià	450
 修冰箱	xiū bīng xiāng	315
@@ -670748,6 +671372,7 @@ sort: by_weight
 嗅不到	xiù bú dào	450
 修不动	xiū bú dòng	16
 修补法	xiū bǔ fǎ	310
+修补膏	xiū bǔ gāo	81
 修不好	xiū bù hǎo	484
 修补好	xiū bǔ hǎo	436
 修补后	xiū bǔ hòu	513
@@ -671183,6 +671808,7 @@ sort: by_weight
 修密法	xiū mì fǎ	248
 休眠舱	xiū mián cāng	346
 休眠的	xiū mián de	684
+修面革	xiū miàn gé	81
 休眠后	xiū mián hòu	31
 休眠了	xiū mián le	513
 休眠卵	xiū mián luǎn	144
@@ -671490,8 +672116,12 @@ sort: by_weight
 休闲组	xiū xián zǔ	414
 秀香肩	xiù xiāng jiān	410
 嗅香纸	xiù xiāng zhǐ	84
+修鞋锤	xiū xié chuí	81
+修鞋刀	xiū xié dāo	81
 修鞋店	xiū xié diàn	320
+修鞋机	xiū xié jī	81
 修鞋匠	xiū xié jiàng	6
+修鞋钳	xiū xié qián	81
 修械所	xiū xiè suǒ	19
 修鞋摊	xiū xié tān	9
 修行啊	xiū xíng a	378
@@ -673508,6 +674138,7 @@ sort: by_weight
 学榜样	xué bǎng yàng	342
 雪宝宝	xuě bǎo bao	626
 血宝宝	xuè bǎo bao	342
+削薄刀	xuē báo dāo	81
 雪宝顶	xuě bǎo dǐng	60
 穴宝盖	xué bǎo gài	130
 血本啊	xuè běn a	459
@@ -673522,6 +674153,7 @@ sort: by_weight
 血吡咯	xuè bǐ gē	38
 学编程	xué biān chéng	1143
 学编导	xué biān dǎo	544
+削边器	xuē biān qì	81
 学标兵	xué biāo bīng	212
 学表演	xué biǎo yǎn	770
 学别人	xué bié rén	756
@@ -675666,6 +676298,7 @@ sort: by_weight
 压扁机	yā biǎn jī	26
 压扁了	yā biǎn le	729
 哑变量	yǎ biàn liàng	374
+压边轮	yā biān lún	81
 牙变色	yá biàn sè	324
 压边条	yā biān tiáo	189
 压边线	yā biān xiàn	238
@@ -675907,6 +676540,7 @@ sort: by_weight
 亚广联	yà guǎng lián	346
 哑光面	yǎ guāng miàn	382
 亚光面	yà guāng miàn	251
+哑光皮	yǎ guāng pí	81
 哑光漆	yǎ guāng qī	69
 亚光漆	yà guāng qī	62
 哑光色	yǎ guāng sè	387
@@ -675945,6 +676579,7 @@ sort: by_weight
 雅虎网	yǎ hǔ wǎng	508
 压花板	yā huā bǎn	171
 轧花厂	yà huā chǎng	513
+压花革	yā huā gé	81
 压花辊	yā huā gǔn	99
 轧花机	yà huā jī	346
 压花机	yā huā jī	163
@@ -676644,6 +677279,7 @@ sort: by_weight
 亚文哥	yà wén gē	220
 亚文化	yà wén huà	2465
 压纹机	yā wén jī	76
+压纹皮	yā wén pí	81
 亚稳态	yà wěn tài	132
 亚稳相	yà wěn xiāng	153
 雅文邑	yǎ wén yì	122
@@ -678575,7 +679211,10 @@ sort: by_weight
 盐田河	yán tián hé	288
 颜填料	yán tián liào	279
 宴天下	yàn tiān xià	292
+沿条缝	yán tiáo fèng	81
 盐调味	yán tiáo wèi	214
+沿条线	yán tiáo xiàn	81
+沿条鞋	yán tiáo xié	81
 沿铁路	yán tiě lù	513
 盐铁论	yán tiě lùn	148
 眼贴膜	yǎn tiē mó	400
@@ -678914,6 +679553,7 @@ sort: by_weight
 掩银屏	yǎn yín píng	207
 盐饮食	yán yǐn shí	900
 咽隐窝	yān yǐn wō	225
+延音线	yán yīn xiàn	72
 掩隐罪	yǎn yǐn zuì	31
 眼影吧	yǎn yǐng ba	252
 眼影棒	yǎn yǐng bàng	405
@@ -679645,6 +680285,7 @@ sort: by_weight
 养护所	yǎng hù suǒ	423
 养护箱	yǎng hù xiāng	117
 养护型	yǎng hù xíng	351
+养护油	yǎng hù yóu	81
 养护院	yǎng hù yuàn	396
 养护员	yǎng hù yuán	251
 洋湖垸	yáng hú yuàn	161
@@ -680732,6 +681373,7 @@ sort: by_weight
 要按着	yào àn zhe	598
 要把床	yào bǎ chuáng	387
 摇把子	yáo bà zi	9
+摇把座	yáo bà zuò	72
 摇摆吧	yáo bǎi ba	356
 要拜拜	yào bái bái	382
 摇摆车	yáo bǎi chē	315
@@ -685311,6 +685953,8 @@ sort: by_weight
 一般嘛	yì bān ma	675
 一般没	yì bān méi	1530
 一般美	yì bān měi	703
+伊班娜	yī bān nà	72
+依班娜	yī bān nà	72
 一般能	yì bān néng	1058
 已半年	yǐ bàn nián	540
 一半钱	yí bàn qián	626
@@ -687064,6 +687708,7 @@ sort: by_weight
 已调查	yǐ diào chá	720
 一调查	yí diào chá	445
 已调出	yǐ diào chū	234
+移调夹	yí diào jiā	72
 已调离	yǐ diào lí	400
 已调派	yǐ diào pài	338
 一吊钱	yí diào qián	25
@@ -699212,6 +699857,7 @@ sort: by_weight
 影迷们	yǐng mí men	512
 影密卫	yǐng mì wèi	50
 赢面大	yíng miàn dà	126
+硬面革	yìng miàn gé	81
 迎面骨	yíng miàn gǔ	360
 迎面来	yíng miàn lái	567
 赢面小	yíng miàn xiǎo	52
@@ -703693,6 +704339,7 @@ sort: by_weight
 有斤两	yǒu jīn liǎng	549
 有劲吗	yǒu jìn ma	423
 有劲么	yǒu jìn me	297
+油浸皮	yóu jìn pí	81
 游进去	yóu jìn qù	60
 有进去	yǒu jìn qù	54
 又进去	yòu jìn qù	49
@@ -704222,6 +704869,7 @@ sort: by_weight
 有灵犀	yǒu líng xī	954
 幽灵系	yōu líng xì	327
 有灵性	yǒu líng xìng	999
+幽灵音	yōu líng yīn	72
 优流程	yōu liú chéng	202
 有六个	yǒu liù gè	882
 有刘海	yǒu liú hǎi	801
@@ -705030,6 +705678,7 @@ sort: by_weight
 有肉吧	yǒu ròu ba	288
 有肉吃	yǒu ròu chī	458
 优柔的	yōu róu de	22
+油鞣革	yóu róu gé	81
 有肉了	yǒu ròu le	531
 又柔软	yòu róu ruǎn	616
 有如此	yǒu rú cǐ	1476
@@ -706427,6 +707076,7 @@ sort: by_weight
 油性好	yóu xìng hǎo	500
 有形化	yǒu xíng huà	19
 油性肌	yóu xìng jī	976
+油性胶	yóu xìng jiāo	81
 又醒了	yòu xǐng le	185
 又行了	yòu xíng le	113
 游行了	yóu xíng le	90
@@ -710202,6 +710852,7 @@ sort: by_weight
 与团圆	yǔ tuán yuán	315
 欲退出	yù tuì chū	382
 预推免	yù tuī miǎn	410
+预推弦	yù tuī xián	72
 宇拓路	yǔ tuò lù	324
 预脱贫	yù tuō pín	364
 预脱水	yù tuō shuǐ	4
@@ -711642,6 +712293,7 @@ sort: by_weight
 袁将军	yuán jiāng jūn	522
 元江路	yuán jiāng lù	338
 鸳江区	yuān jiāng qū	50
+圆角锉	yuán jiǎo cuò	72
 元角分	yuán jiǎo fēn	464
 圆角柜	yuán jiǎo guì	315
 原角龙	yuán jiǎo lóng	508
@@ -712294,6 +712946,7 @@ sort: by_weight
 源头水	yuán tóu shuǐ	454
 圆头鞋	yuán tóu xié	432
 源头性	yuán tóu xìng	382
+圆头靴	yuán tóu xuē	81
 鼋头渚	yuán tóu zhǔ	53
 原图吧	yuán tú ba	310
 原土地	yuán tǔ dì	6
@@ -713695,6 +714348,7 @@ sort: by_weight
 乐器类	yuè qì lèi	50
 乐器声	yuè qì shēng	66
 乐器网	yuè qì wǎng	238
+乐器线	yuè qì xiàn	72
 乐器行	yuè qì xíng	526
 越骑越	yuè qí yuè	47
 乐器展	yuè qì zhǎn	122
@@ -718455,6 +719109,7 @@ sort: by_weight
 再生稻	zài shēng dào	3
 再生的	zài shēng de	1048
 在圣地	zài shèng dì	774
+再生革	zài shēng gé	81
 再生核	zài shēng hé	292
 再升华	zài shēng huá	432
 在生活	zài shēng huó	1181
@@ -728696,6 +729351,7 @@ sort: by_weight
 珍藏了	zhēn cáng le	752
 珍藏品	zhēn cáng pǐn	41
 珍藏着	zhēn cáng zhe	126
+枕槽锉	zhěn cáo cuò	72
 贞操带	zhēn cāo dài	13
 真操蛋	zhēn cāo dàn	418
 贞操锁	zhēn cāo suǒ	346
@@ -729886,6 +730542,7 @@ sort: by_weight
 真女主	zhēn nǚ zhǔ	378
 真怕了	zhēn pà le	423
 真怕人	zhēn pà rén	320
+真旁通	zhēn páng tōng	72
 真跑了	zhēn pǎo le	356
 真佩服	zhēn pèi fú	239
 真配合	zhēn pèi hé	52
@@ -729900,6 +730557,7 @@ sort: by_weight
 真皮革	zhēn pí gé	310
 真皮毛	zhēn pí máo	364
 真皮套	zhēn pí tào	338
+真皮纹	zhēn pí wén	81
 真皮鞋	zhēn pí xié	454
 真片面	zhēn piàn miàn	76
 真便宜	zhēn pián yi	276
@@ -731069,6 +731727,7 @@ sort: by_weight
 正常相	zhèng cháng xiāng	460
 正常些	zhèng cháng xiē	454
 正常性	zhèng cháng xìng	19
+正常楦	zhèng cháng xuàn	81
 正常眼	zhèng cháng yǎn	22
 蒸鲳鱼	zhēng chāng yú	477
 正常者	zhèng cháng zhě	72
@@ -732722,6 +733381,7 @@ sort: by_weight
 政银企	zhèng yín qǐ	54
 正因数	zhèng yīn shù	432
 正因为	zhèng yīn wèi	11244
+整音针	zhěng yīn zhēn	72
 正应变	zhèng yìng biàn	144
 正应该	zhèng yīng gāi	22
 争赢了	zhēng yíng le	752
@@ -733138,6 +733798,7 @@ sort: by_weight
 纸板桶	zhǐ bǎn tǒng	9
 制半夏	zhì bàn xià	405
 纸板箱	zhǐ bǎn xiāng	53
+指板油	zhǐ bǎn yóu	72
 值班员	zhí bān yuán	104
 值班在	zhí bān zài	382
 值班长	zhí bān zhǎng	28
@@ -737184,12 +737845,14 @@ sort: by_weight
 直引号	zhí yǐn hào	52
 知音湖	zhī yīn hú	274
 直饮机	zhí yǐn jī	38
+止音夹	zhǐ yīn jiā	72
 知音卡	zhī yīn kǎ	338
 只印了	zhǐ yìn le	603
 指引了	zhǐ yǐn le	372
 只因你	zhǐ yīn nǐ	644
 指引牌	zhǐ yǐn pái	464
 制音器	zhì yīn qì	82
+止音器	zhǐ yīn qì	72
 知音桥	zhī yīn qiáo	418
 指引人	zhǐ yǐn rén	562
 知音人	zhī yīn rén	357
@@ -737202,9 +737865,11 @@ sort: by_weight
 知音网	zhī yīn wǎng	405
 只因为	zhǐ yīn wéi	2663
 指引下	zhǐ yǐn xià	1093
+止音楔	zhǐ yīn xiē	72
 指引性	zhǐ yǐn xìng	464
 至阴穴	zhì yīn xué	13
 指引一	zhǐ yǐn yī	634
+制音毡	zhì yīn zhān	72
 指引着	zhǐ yǐn zhe	556
 指引者	zhǐ yǐn zhě	468
 知音者	zhī yīn zhě	315
@@ -737845,6 +738510,7 @@ sort: by_weight
 中班椅	zhōng bān yǐ	45
 中邦队	zhōng bāng duì	248
 重磅级	zhòng bàng jí	60
+中帮鞋	zhōng bāng xié	81
 中榜眼	zhōng bǎng yǎn	52
 中保安	zhōng bǎo ān	396
 中包含	zhōng bāo hán	1544
@@ -738617,6 +739283,7 @@ sort: by_weight
 中国菜	zhōng guó cài	1074
 中国草	zhōng guó cǎo	598
 中国茶	zhōng guó chá	160
+中国镲	zhōng guó chǎ	72
 中国产	zhōng guó chǎn	427
 中国禅	zhōng guó chán	384
 中国潮	zhōng guó cháo	490
@@ -740073,6 +740740,7 @@ sort: by_weight
 中碎片	zhōng suì piàn	356
 中所给	zhōng suǒ gěi	60
 中所示	zhōng suǒ shì	107
+中踏板	zhōng tà bǎn	72
 中他们	zhōng tā men	1332
 重踏舞	zhòng tà wǔ	225
 中台办	zhōng tái bàn	230
@@ -741091,6 +741759,7 @@ sort: by_weight
 种植土	zhòng zhí tǔ	585
 种植物	zhòng zhí wù	1215
 中植系	zhōng zhí xì	176
+终止线	zhōng zhǐ xiàn	72
 种植箱	zhòng zhí xiāng	423
 中职校	zhōng zhí xiào	554
 中质协	zhōng zhì xié	194
@@ -742506,6 +743175,7 @@ sort: by_weight
 珠光白	zhū guāng bái	698
 主广场	zhǔ guǎng chǎng	670
 珠光粉	zhū guāng fěn	25
+珠光革	zhū guāng gé	81
 烛光里	zhú guāng lǐ	19
 珠光路	zhū guāng lù	360
 诸光路	zhū guāng lù	266
@@ -744461,6 +745131,7 @@ sort: by_weight
 猪鬃草	zhū zōng cǎo	50
 猪鬃毛	zhū zōng máo	360
 猪鬃梳	zhū zōng shū	67
+猪鬃刷	zhū zōng shuā	81
 煮粽子	zhǔ zòng zi	356
 驻足吧	zhù zú ba	230
 驻足了	zhù zú le	504
@@ -750790,6 +751461,7 @@ sort: by_weight
 棕榈垫	zōng lǘ diàn	238
 棕榈果	zōng lǘ guǒ	369
 棕榈精	zōng lǘ jīng	4
+棕榈蜡	zōng lǘ là	81
 棕榈林	zōng lǘ lín	346
 棕榈泉	zōng lǘ quán	702
 棕榈仁	zōng lǘ rén	52
@@ -751319,6 +751991,7 @@ sort: by_weight
 走保险	zǒu bǎo xiǎn	644
 邹北记	zōu běi jì	441
 走北京	zǒu běi jīng	500
+走贝斯	zǒu bèi sī	72
 走背运	zǒu bèi yùn	25
 走背字	zǒu bèi zì	9
 走边疆	zǒu biān jiāng	310
@@ -751414,6 +752087,7 @@ sort: by_weight
 走低时	zǒu dī shí	405
 走低速	zǒu dī sù	194
 走低碳	zǒu dī tàn	342
+走低音	zǒu dī yīn	72
 走电商	zǒu diàn shāng	396
 走点心	zǒu diǎn xīn	572
 走掉了	zǒu diào le	882
@@ -751770,6 +752444,7 @@ sort: by_weight
 走下山	zǒu xià shān	598
 走下台	zǒu xià tái	78
 走线架	zǒu xiàn jià	99
+走线轮	zǒu xiàn lún	81
 邹先生	zōu xiān shēng	69
 走咸鱼	zǒu xián yú	220
 奏响吧	zòu xiǎng ba	270
@@ -751957,6 +752632,7 @@ sort: by_weight
 组词语	zǔ cí yǔ	508
 祖大典	zǔ dà diǎn	630
 足代会	zú dài huì	22
+足袋鞋	zú dài xié	81
 组蛋白	zǔ dàn bái	176
 租单车	zū dān chē	454
 阻挡层	zǔ dǎng céng	302
@@ -762783,8 +763459,11 @@ sort: by_weight
 八都水库	bā dōu shuǐ kù	238
 八斗之才	bā dǒu zhī cái	19
 耙斗装载	bà dòu zhuāng zài	45
+八度调律	bā dù diào lǜ	72
 八度合音	bā dù hé yīn	76
 拔毒生肌	bá dú shēng jī	328
+八度双音	bā dù shuāng yīn	72
+八度音准	bā dù yīn zhǔn	72
 巴顿家族	bā dùn jiā zú	297
 巴顿奇事	bā dùn qí shì	562
 巴恩斯利	bā ēn sī lì	590
@@ -762882,6 +763561,7 @@ sort: by_weight
 八方支援	bā fāng zhī yuán	75
 八分村米	bā fēn cūn mǐ	50
 拔粪青年	bá fèn qīng nián	99
+八分休止	bā fēn xiū zhǐ	72
 八分音符	bā fēn yīn fú	575
 八分之五	bā fēn zhī wǔ	320
 八分之一	bā fēn zhī yī	480
@@ -767735,6 +768415,7 @@ sort: by_weight
 板报设计	bǎn bào shè jì	234
 半饱生活	bàn bǎo shēng huó	50
 半辈子架	bàn bèi zi jià	76
+半苯胺革	bàn běn àn gé	81
 版本编程	bǎn běn biān chéng	144
 版本编号	bǎn běn biān hào	558
 版本不同	bǎn běn bù tóng	792
@@ -768495,6 +769176,7 @@ sort: by_weight
 板壳理论	bǎn ké lǐ lùn	284
 板壳力学	bǎn ké lì xué	117
 半空金碧	bàn kōng jīn bì	4
+半空心琴	bàn kōng xīn qín	72
 坂口反应	bǎn kǒu fǎn yìng	50
 搬口弄舌	bān kǒu nòng shé	130
 半口义齿	bàn kǒu yì chǐ	45
@@ -769348,6 +770030,7 @@ sort: by_weight
 办银行卡	bàn yín háng kǎ	138
 半吟霜蕊	bàn yín shuāng ruǐ	50
 坂银通道	bǎn yín tōng dào	279
+半音推弦	bàn yīn tuī xián	72
 伴音信号	bàn yīn xìn hào	180
 半音音阶	bàn yīn yīn jiē	414
 伴音载波	bàn yīn zài bō	230
@@ -773936,6 +774619,7 @@ sort: by_weight
 被动免疫	bèi dòng miǎn yì	38
 被动凝集	bèi dòng níng jí	45
 被动伤害	bèi dòng shāng hài	338
+被动拾音	bèi dòng shí yīn	72
 被动收入	bèi dòng shōu rù	778
 被动体位	bèi dòng tǐ wèi	99
 被动投资	bèi dòng tóu zī	688
@@ -775797,6 +776481,7 @@ sort: by_weight
 贝森北路	bèi sēn běi lù	202
 贝森大道	bèi sēn dà dào	4
 贝森大院	bèi sēn dà yuàn	171
+贝森朵夫	bèi sēn duǒ fū	72
 贝莎机枪	bèi shā jī qiāng	274
 被杀了啊	bèi shā le a	52
 北纱帽街	běi shā mào jiē	171
@@ -775995,6 +776680,7 @@ sort: by_weight
 北四卫头	běi sì wèi tóu	4
 北四西路	běi sì xī lù	256
 贝斯笑话	bèi sī xiào hua	76
+贝斯音箱	bèi sī yīn xiāng	72
 被私有化	bèi sī yǒu huà	464
 北四中路	běi sì zhōng lù	45
 北宋初年	běi sòng chū nián	608
@@ -776249,6 +776935,7 @@ sort: by_weight
 贝希施坦	bèi xī shī tǎn	189
 被吸收了	bèi xī shōu le	608
 被戏耍了	bèi xì shuǎ le	310
+贝希斯坦	bèi xī sī tǎn	72
 北西五路	běi xī wǔ lù	50
 被吸引到	bèi xī yǐn dào	688
 被吸引了	bèi xī yǐn le	295
@@ -782507,6 +783194,7 @@ sort: by_weight
 标准依据	biāo zhǔn yī jù	518
 标准仪器	biāo zhǔn yí qì	212
 标准一致	biāo zhǔn yí zhì	78
+标准音叉	biāo zhǔn yīn chā	72
 标准映射	biāo zhǔn yìng shè	153
 标准硬水	biāo zhǔn yìng shuǐ	45
 标准英语	biāo zhǔn yīng yǔ	634
@@ -784967,6 +785655,7 @@ sort: by_weight
 伯丹步枪	bó dān bù qiāng	76
 博丹茨基	bó dān cí jī	279
 波胆推荐	bō dǎn tuī jiàn	171
+拨档开关	bō dàng kāi guān	72
 波荡起伏	bō dàng qǐ fú	351
 波荡运动	bō dàng yùn dòng	45
 波导波长	bō dǎo bō cháng	117
@@ -785697,6 +786386,7 @@ sort: by_weight
 剥皮小刀	bō pí xiǎo dāo	270
 剥皮楦草	bō pí xuàn cǎo	248
 剥皮揎草	bō pí xuān cǎo	110
+拨片角度	bō piàn jiǎo dù	72
 波平浪静	bō píng làng jìng	3
 波平如镜	bō píng rú jìng	428
 玻坡摸佛	bō pō mō fó	52
@@ -790791,6 +791481,7 @@ sort: by_weight
 不类今曲	bú lèi jīn qǔ	50
 布雷克尔	bù léi kè ěr	230
 布雷克斯	bù léi kè sī	297
+布雷克鞋	bù léi kè xié	81
 布雷洛克	bù léi luò kè	238
 布雷纳德	bù léi nà dé	405
 布雷潜艇	bù léi qián tǐng	585
@@ -791052,6 +791743,7 @@ sort: by_weight
 布鲁菌病	bù lǔ jūn bìng	171
 布鲁克朗	bù lǔ kè lǎng	99
 布鲁克曼	bù lǔ kè màn	243
+布鲁克斯	bù lǔ kè sī	81
 不露马脚	bú lù mǎ jiǎo	288
 布鲁明顿	bù lǔ míng dùn	554
 布卢明顿	bù lú míng dùn	399
@@ -797149,6 +797841,7 @@ sort: by_weight
 擦爽肤水	cā shuǎng fū shuǐ	364
 擦他妈的	cā tā mā de	162
 擦洗干净	cā xǐ gān jìng	63
+擦鞋海绵	cā xié hǎi mián	81
 擦眼抹泪	cā yǎn mǒ lèi	99
 擦掌磨拳	cā zhǎng mó quán	130
 擦着汗水	cā zhe hàn shuǐ	52
@@ -802692,6 +803385,7 @@ sort: by_weight
 产业组织	chǎn yè zǔ zhī	688
 蝉翼为重	chán yì wéi zhòng	3
 蝉翼玉露	chán yì yù lù	4
+颤音摇把	chàn yīn yáo bà	72
 产油大国	chǎn yóu dà guó	675
 阐幽发微	chǎn yōu fā wēi	52
 禅游科技	chán yóu kē jì	4
@@ -810975,6 +811669,8 @@ sort: by_weight
 吃麻辣烫	chī má là tàng	232
 吃马铃薯	chī mǎ líng shǔ	450
 吃嘛嘛香	chī ma ma xiāng	424
+尺码偏大	chǐ mǎ piān dà	81
+尺码偏小	chǐ mǎ piān xiǎo	81
 驰马试剑	chí mǎ shì jiàn	189
 持卖仓量	chí mài cāng liàng	144
 持买仓量	chí mǎi cāng liàng	84
@@ -821111,6 +821807,7 @@ sort: by_weight
 此中人语	cǐ zhōng rén yǔ	396
 此中三昧	cǐ zhōng sān mèi	130
 此种现象	cǐ zhǒng xiàn xiàng	580
+次中音号	cì zhōng yīn hào	72
 此中缘由	cǐ zhōng yuán yóu	207
 此中滋味	cǐ zhōng zī wèi	266
 慈舟法师	cí zhōu fǎ shī	180
@@ -823940,6 +824637,7 @@ sort: by_weight
 打打酱油	dǎ dǎ jiàng yóu	544
 达达快送	dá dá kuài sòng	50
 打打篮球	dǎ dǎ lán qiú	182
+达达里奥	dá dá lǐ ào	72
 鞑靼里亚	dá dá lǐ yà	14
 大大咧咧	dà dà liē liē	1513
 打打零工	dǎ dǎ líng gōng	432
@@ -824477,6 +825175,7 @@ sort: by_weight
 打吊瓶呢	dǎ diào píng ne	117
 打掉团伙	dǎ diào tuán huǒ	230
 大吊胃口	dà diào wèi kǒu	76
+大调音阶	dà diào yīn jiē	72
 大调乐曲	dà diào yuè qǔ	117
 打吊针呢	dǎ diào zhēn ne	99
 大调作品	dà diào zuò pǐn	364
@@ -827290,6 +827989,7 @@ sort: by_weight
 大气高雅	dà qì gāo yǎ	356
 打气鼓劲	dǎ qì gǔ jìn	3
 打起滚来	dǎ qǐ gǔn lái	13
+大七和弦	dà qī hé xián	72
 打起呼噜	dǎ qǐ hū lū	342
 大旗虎皮	dà qí hǔ pí	270
 大气环境	dà qì huán jìng	267
@@ -828231,6 +828931,7 @@ sort: by_weight
 大体描述	dà tǐ miáo shù	9
 答题模板	dá tí mú bǎn	1275
 大体平衡	dà tǐ píng héng	414
+大提琴盒	dà tí qín hé	72
 大提琴家	dà tí qín jiā	154
 大提琴手	dà tí qín shǒu	188
 大体情况	dà tǐ qíng kuàng	580
@@ -831703,6 +832404,7 @@ sort: by_weight
 单侧遗传	dān cè yí chuán	45
 单侧约束	dān cè yuē shù	4
 单层厂房	dān céng chǎng fáng	248
+单层鼓皮	dān céng gǔ pí	72
 单层建筑	dān céng jiàn zhù	508
 单层囊泡	dān céng náng pào	45
 单层培养	dān céng péi yǎng	99
@@ -831847,6 +832549,7 @@ sort: by_weight
 淡淡清香	dàn dàn qīng xiāng	50
 蛋蛋日记	dàn dàn rì jì	171
 淡淡如风	dàn dàn rú fēng	50
+单单拾音	dān dān shí yīn	72
 淡淡说道	dàn dàn shuō dào	828
 淡淡微风	dàn dàn wēi fēng	76
 淡淡微笑	dàn dàn wēi xiào	418
@@ -833247,6 +833950,7 @@ sort: by_weight
 弹药家族	dàn yào jiā zú	76
 丹药炼制	dān yào liàn zhì	351
 丹药配方	dān yào pèi fāng	189
+单摇琴桥	dān yáo qín qiáo	72
 弹药数量	dàn yào shù liàng	13
 弹药物资	dàn yào wù zī	6
 弹药消耗	dàn yào xiāo hào	22
@@ -834451,6 +835155,7 @@ sort: by_weight
 党委机关	dǎng wěi jī guān	504
 党委决定	dǎng wěi jué dìng	526
 挡位开关	dǎng wèi kāi guān	162
+档位开关	dàng wèi kāi guān	72
 党委领导	dǎng wěi lǐng dǎo	706
 党委秘书	dǎng wěi mì shū	477
 档位模型	dàng wèi mó xíng	45
@@ -844373,6 +845078,7 @@ sort: by_weight
 电容电路	diàn róng diàn lù	284
 店容店貌	diàn róng diàn mào	189
 电熔管件	diàn róng guǎn jiàn	45
+电容话筒	diàn róng huà tǒng	72
 电容回充	diàn róng huí chōng	189
 电熔连接	diàn róng lián jiē	130
 电容器厂	diàn róng qì chǎng	189
@@ -845184,6 +845890,7 @@ sort: by_weight
 电源风扇	diàn yuán fēng shàn	19
 电源负端	diàn yuán fù duān	76
 店员服务	diàn yuán fú wù	873
+电源供电	diàn yuán gōng diàn	72
 电源功率	diàn yuán gōng lǜ	639
 电源故障	diàn yuán gù zhàng	572
 电源管理	diàn yuán guǎn lǐ	292
@@ -845199,6 +845906,7 @@ sort: by_weight
 电源连接	diàn yuán lián jiē	554
 电源两端	diàn yuán liǎng duān	374
 电源两极	diàn yuán liǎng jí	220
+电源滤波	diàn yuán lǜ bō	72
 电源模块	diàn yuán mó kuài	94
 电源模式	diàn yuán mó shì	364
 电源内阻	diàn yuán nèi zǔ	324
@@ -845835,6 +846543,7 @@ sort: by_weight
 雕龙绣虎	diāo lóng xiù hǔ	4
 吊路灯了	diào lù dēng le	50
 掉落物品	diào luò wù pǐn	132
+调律扳手	diào lǜ bān shǒu	72
 刁蛮千金	diāo mán qiān jīn	279
 刁蛮任性	diāo mán rèn xìng	652
 貂毛大衣	diāo máo dà yī	189
@@ -849052,6 +849761,7 @@ sort: by_weight
 东区商场	dōng qū shāng chǎng	4
 东区浴室	dōng qū yù shì	153
 动圈耳机	dòng quān ěr jī	428
+动圈话筒	dòng quān huà tǒng	72
 冬泉火酒	dōng quán huǒ jiǔ	162
 东犬西吠	dōng quǎn xī fèi	162
 东人工岛	dōng rén gōng dǎo	436
@@ -863387,6 +864097,7 @@ sort: by_weight
 法诺因子	fǎ nuò yīn zǐ	45
 法派大厨	fǎ pài dà chú	130
 法派集团	fǎ pài jí tuán	117
+发泡材料	fā pào cái liào	81
 发泡成形	fā pào chéng xíng	45
 发疱疗法	fā pào liáo fǎ	45
 发泡橡胶	fā pào xiàng jiāo	297
@@ -865076,6 +865787,7 @@ sort: by_weight
 反复核实	fǎn fù hé shí	423
 反复横跳	fǎn fù héng tiào	958
 反复回忆	fǎn fù huí yì	472
+反复记号	fǎn fù jì hào	72
 反复记忆	fǎn fù jì yì	657
 反复检查	fǎn fù jiǎn chá	738
 反腐警示	fǎn fǔ jǐng shì	180
@@ -866371,6 +867083,7 @@ sort: by_weight
 反吟伏吟	fǎn yín fú yín	297
 反引号键	fǎn yǐn hào jiàn	4
 反印情绪	fǎn yìn qíng xù	117
+泛音奏法	fàn yīn zòu fǎ	72
 反应变量	fǎn yìng biàn liàng	162
 反应不一	fǎn yìng bù yī	662
 反应步骤	fǎn yìng bù zhòu	360
@@ -867401,6 +868114,7 @@ sort: by_weight
 防护面屏	fáng hù miàn píng	76
 枋湖南路	fāng hú nán lù	189
 防护能力	fáng hù néng lì	850
+防护喷雾	fáng hù pēn wù	81
 防护铅板	fáng hù qiān bǎn	234
 防护铅门	fáng hù qiān mén	266
 防护设备	fáng hù shè bèi	711
@@ -868337,6 +869051,7 @@ sort: by_weight
 防水矿柱	fáng shuǐ kuàng zhù	45
 防水拉链	fáng shuǐ lā liàn	43
 防水滤袋	fáng shuǐ lǜ dài	45
+防水喷雾	fáng shuǐ pēn wù	81
 防水皮胆	fáng shuǐ pí dǎn	4
 房水屏障	fáng shuǐ píng zhàng	50
 防水墙纸	fáng shuǐ qiáng zhǐ	144
@@ -872851,6 +873566,7 @@ sort: by_weight
 分光视差	fēn guāng shì chà	230
 分光双星	fēn guāng shuāng xīng	360
 分光旋计	fēn guāng xuán jì	90
+分轨录音	fēn guǐ lù yīn	72
 粉硅镁石	fěn guī měi shí	45
 分行布白	fēn háng bù bái	153
 分行党委	fēn háng dǎng wěi	9
@@ -872989,6 +873705,7 @@ sort: by_weight
 分解动作	fēn jiě dòng zuò	608
 分节符号	fēn jié fú hào	52
 分解公式	fēn jiě gōng shì	194
+分解和弦	fēn jiě hé xián	72
 分节基因	fēn jié jī yīn	76
 分解酒精	fēn jiě jiǔ jīng	540
 分接开关	fēn jiē kāi guān	3
@@ -874342,6 +875059,7 @@ sort: by_weight
 封闭宫室	fēng bì gōng shì	130
 封闭公司	fēng bì gōng sī	212
 封闭管理	fēng bì guǎn lǐ	477
+封闭和弦	fēng bì hé xián	72
 封闭花园	fēng bì huā yuán	76
 封闭环境	fēng bì huán jìng	634
 封闭回路	fēng bì huí lù	243
@@ -877498,6 +878216,7 @@ sort: by_weight
 浮动利率	fú dòng lì lǜ	792
 浮动密封	fú dòng mì fēng	45
 滏东排河	fǔ dōng pái hé	220
+浮动琴桥	fú dòng qín qiáo	72
 浮动球阀	fú dòng qiú fá	50
 副董事长	fù dǒng shì zhǎng	424
 浮动收益	fú dòng shōu yì	832
@@ -878664,6 +879383,7 @@ sort: by_weight
 妇科手术	fù kē shǒu shù	53
 覆壳手套	fù ké shǒu tào	153
 富克斯群	fù kè sī qún	171
+福克斯特	fú kè sī tè	72
 妇科体检	fù kē tǐ jiǎn	490
 妇科调经	fù kē tiáo jīng	288
 妇科通经	fù kē tōng jīng	130
@@ -887303,6 +888023,7 @@ sort: by_weight
 高频疲劳	gāo pín pí láo	117
 高频热词	gāo pín rè cí	212
 高频数据	gāo pín shù jù	214
+高频衰减	gāo pín shuāi jiǎn	72
 高频通气	gāo pín tōng qì	76
 高品位矿	gāo pǐn wèi kuàng	212
 高频响阀	gāo pín xiǎng fá	45
@@ -894571,6 +895292,7 @@ sort: by_weight
 共点力系	gòng diǎn lì xì	45
 宫殿楼阁	gōng diàn lóu gé	306
 供电煤耗	gōng diàn méi hào	446
+供电模块	gōng diàn mó kuài	72
 宫殿内部	gōng diàn nèi bù	459
 供电能力	gōng diàn néng lì	598
 供电企业	gōng diàn qǐ yè	50
@@ -895770,6 +896492,7 @@ sort: by_weight
 功率区间	gōng lǜ qū jiān	135
 功率曲线	gōng lǜ qū xiàn	135
 功率输出	gōng lǜ shū chū	819
+功率衰减	gōng lǜ shuāi jiǎn	72
 功率损失	gōng lǜ sǔn shī	441
 功率因数	gōng lǜ yīn shù	734
 功率因子	gōng lǜ yīn zǐ	162
@@ -899181,6 +899904,7 @@ sort: by_weight
 购物资讯	gòu wù zī xùn	392
 垢下腐蚀	gòu xià fǔ shí	76
 够吓人的	gòu xià rén de	490
+勾弦贝斯	gōu xián bèi sī	72
 狗掀门帘	gǒu xiān mén lián	202
 构象变化	gòu xiàng biàn huà	63
 构象分析	gòu xiàng fēn xī	22
@@ -899693,6 +900417,7 @@ sort: by_weight
 古典健美	gǔ diǎn jiàn měi	51
 古典建筑	gǔ diǎn jiàn zhù	113
 鼓点节奏	gǔ diǎn jié zòu	454
+鼓点律动	gǔ diǎn lǜ dòng	72
 古典魅力	gǔ diǎn mèi lì	333
 古典美人	gǔ diǎn měi rén	580
 古滇名城	gǔ diān míng chéng	202
@@ -899802,6 +900527,7 @@ sort: by_weight
 固定期限	gù dìng qī xiàn	864
 固定器械	gù dìng qì xiè	51
 固定卡扣	gù dìng qiǎ kòu	333
+固定琴桥	gù dìng qín qiáo	72
 固定日期	gù dìng rì qī	459
 固定沙丘	gù dìng shā qiū	436
 固定伤害	gù dìng shāng hài	526
@@ -901451,6 +902177,7 @@ sort: by_weight
 顾特卜塔	gù tè bo tǎ	238
 固特超声	gù tè chāo shēng	99
 固特五金	gù tè wǔ jīn	30
+固特异鞋	gù tè yì xié	81
 骨腾肉飞	gǔ téng ròu fēi	153
 古藤仙人	gǔ téng xiān rén	252
 固体单质	gù tǐ dān zhì	171
@@ -902201,6 +902928,7 @@ sort: by_weight
 寡恩薄义	guǎ ēn bó yì	45
 寡恩少义	guǎ ēn shǎo yì	4
 瓜儿豆片	guā ér dòu piàn	90
+挂二和弦	guà èr hé xián	72
 瓜尔佳氏	guā ěr jiā shì	16
 寡二少双	guǎ èr shǎo shuāng	117
 挂饵找底	guà ěr zhǎo dǐ	54
@@ -902343,6 +903071,7 @@ sort: by_weight
 瓜熟蒂落	guā shú dì luò	126
 挂帅出征	guà shuài chū zhēng	400
 挂霜丸子	guà shuāng wán zi	45
+挂四和弦	guà sì hé xián	72
 刮死我了	guā sǐ wǒ le	45
 寡宿孤眠	guǎ sù gū mián	45
 刮台风了	guā tái fēng le	194
@@ -904058,6 +904787,7 @@ sort: by_weight
 关系图像	guān xì tú xiàng	220
 关系妄想	guān xì wàng xiǎng	31
 关系问题	guān xì wèn tí	242
+关系小调	guān xì xiǎo diào	72
 关系研究	guān xì yán jiū	148
 关系演算	guān xì yǎn suàn	22
 关系一般	guān xì yì bān	239
@@ -906201,6 +906931,7 @@ sort: by_weight
 鬼岛岛民	guǐ dǎo dǎo mín	99
 轨道垫板	guǐ dào diàn bǎn	50
 轨道电子	guǐ dào diàn zǐ	110
+轨道冻结	guǐ dào dòng jié	72
 轨道飞行	guǐ dào fēi xíng	455
 轨道分析	guǐ dào fēn xī	252
 轨道改进	guǐ dào gǎi jìn	50
@@ -907737,6 +908468,7 @@ sort: by_weight
 过度敏感	guò dù mǐn gǎn	160
 过独木桥	guò dú mù qiáo	166
 过渡内阁	guò dù nèi gé	207
+过度内旋	guò dù nèi xuán	81
 过度溺爱	guò dù nì ài	25
 过度拟合	guò dù nǐ hé	355
 过渡配合	guò dù pèi hé	207
@@ -910531,6 +911263,8 @@ sort: by_weight
 过载模式	guò zài mó shì	171
 过载能力	guò zài néng lì	22
 过载试验	guò zài shì yàn	45
+过载失真	guò zài shī zhēn	72
+过载指示	guò zài zhǐ shì	72
 过早爆发	guò zǎo bào fā	117
 过早搏动	guò zǎo bó dòng	16
 过早不食	guò zǎo bù shí	225
@@ -919623,6 +920357,7 @@ sort: by_weight
 合盛硅业	hé shèng guī yè	31
 合盛国际	hé shèng guó jì	65
 和生活费	hé shēng huó fèi	896
+和声进行	hé shēng jìn xíng	72
 合胜科技	hé shèng kē jì	374
 和盛科技	hé shèng kē jì	4
 和省略号	hé shěng lüè hào	279
@@ -919631,6 +920366,7 @@ sort: by_weight
 合生世界	hé shēng shì jiè	202
 和盛食品	hé shèng shí pǐn	50
 和声细语	hé shēng xì yǔ	369
+和声小调	hé shēng xiǎo diào	72
 禾盛新材	hé shèng xīn cái	562
 合生心皮	hé shēng xīn pí	52
 核实报告	hé shí bào gào	369
@@ -920177,10 +920913,14 @@ sort: by_weight
 颌下腺炎	hé xià xiàn yán	171
 颌下痈病	hé xià yōng bìng	45
 颌下肿物	hé xià zhǒng wù	45
+和弦进行	hé xián jìn xíng	72
+和弦连接	hé xián lián jiē	72
 和弦铃音	hé xián líng yīn	76
 核线相关	hé xiàn xiāng guān	45
 和县政府	hé xiàn zhèng fǔ	454
 和县政协	hé xiàn zhèng xié	180
+和弦指型	hé xián zhǐ xíng	72
+和弦转位	hé xián zhuàn wèi	72
 禾祥东路	hé xiáng dōng lù	270
 禾祥首府	hé xiáng shǒu fǔ	162
 禾祥西路	hé xiáng xī lù	88
@@ -922738,6 +923478,7 @@ sort: by_weight
 很自觉的	hěn zì jué de	734
 很自然地	hěn zì rán de	1589
 恒爱行动	héng ài xíng dòng	212
+横按和弦	héng àn hé xián	72
 恒安嘉新	héng ān jiā xīn	202
 恒安纸业	héng ān zhǐ yè	153
 恒邦信大	héng bāng xìn dà	50
@@ -925236,6 +925977,8 @@ sort: by_weight
 后高句丽	hòu gāo gōu lí	9
 侯高俊杰	hóu gāo jùn jié	194
 后根动脉	hòu gēn dòng mài	45
+后跟加固	hòu gēn jiā gù	81
+后跟修复	hòu gēn xiū fù	81
 后庚三日	hòu gēng sān rì	50
 后宫妃嫔	hòu gōng fēi pín	580
 后宫佳丽	hòu gōng jiā lì	706
@@ -925925,6 +926668,7 @@ sort: by_weight
 厚泽深仁	hòu zé shēn rén	50
 后瞻断言	hòu zhān duàn yán	90
 后詹姆斯	hòu zhān mǔ sī	652
+后掌气垫	hòu zhǎng qì diàn	81
 后赵将军	hòu zhào jiāng jūn	202
 喉罩全麻	hóu zhào quán má	45
 厚着脸皮	hòu zhe liǎn pí	1787
@@ -932831,10 +933575,12 @@ sort: by_weight
 患者自付	huàn zhě zì fù	310
 患者自述	huàn zhě zì shù	436
 环镇北路	huán zhèn běi lù	351
+缓震材料	huǎn zhèn cái liào	81
 环镇东路	huán zhèn dōng lù	180
 寰枕关节	huán zhěn guān jié	22
 寰枕后膜	huán zhěn hòu mó	45
 环镇南路	huán zhèn nán lù	189
+缓震泡棉	huǎn zhèn pào mián	81
 缓震气垫	huǎn zhèn qì diàn	76
 寰枕前膜	huán zhěn qián mó	45
 环镇西路	huán zhèn xī lù	234
@@ -947437,11 +948183,13 @@ sort: by_weight
 肌纤维型	jī xiān wéi xíng	153
 极限位置	jí xiàn wèi zhì	72
 极限误差	jí xiàn wù chā	117
+击弦系统	jī xián xì tǒng	72
 集贤校理	jí xián xiào lǐ	405
 极限星等	jí xiàn xīng děng	378
 极限序数	jí xiàn xù shù	346
 极限循环	jí xiàn xún huán	50
 极限压力	jí xiàn yā lì	270
+击弦延迟	jī xián yán chí	72
 极限应力	jí xiàn yìng lì	144
 极限圆型	jí xiàn yuán xíng	90
 极限运动	jí xiàn yùn dòng	1061
@@ -947710,6 +948458,7 @@ sort: by_weight
 机械运输	jī xiè yùn shū	378
 机械杂质	jī xiè zá zhì	320
 机械载荷	jī xiè zài hè	230
+机械噪声	jī xiè zào shēng	72
 机械增压	jī xiè zēng yā	909
 机械战士	jī xiè zhàn shì	324
 机械振动	jī xiè zhèn dòng	245
@@ -947780,6 +948529,7 @@ sort: by_weight
 肌性动脉	jī xìng dòng mài	45
 急性毒力	jí xìng dú lì	212
 急性毒性	jí xìng dú xìng	122
+即兴独奏	jí xìng dú zòu	72
 机型对比	jī xíng duì bǐ	338
 畸形恶瘤	jī xíng è liú	50
 即兴发挥	jí xìng fā huī	418
@@ -949336,6 +950086,7 @@ sort: by_weight
 基准利率	jī zhǔn lì lǜ	1188
 基准温度	jī zhǔn wēn dù	266
 基准压力	jī zhǔn yā lì	45
+基准音组	jī zhǔn yīn zǔ	72
 既准又狠	jì zhǔn yòu hěn	130
 基准指数	jī zhǔn zhǐ shù	693
 激浊清扬	jī zhuó qīng yáng	50
@@ -955757,6 +956508,7 @@ sort: by_weight
 箭牌卫浴	jiàn pái wèi yù	392
 键盘按键	jiàn pán àn jiàn	69
 键盘布局	jiàn pán bù jú	201
+键盘不平	jiàn pán bù píng	72
 键盘操作	jiàn pán cāo zuò	129
 键盘超人	jiàn pán chāo rén	117
 键盘车神	jiàn pán chē shén	612
@@ -955766,6 +956518,7 @@ sort: by_weight
 键盘飞舞	jiàn pán fēi wǔ	50
 键盘监听	jiàn pán jiān tīng	234
 键盘配列	jiàn pán pèi liè	52
+键盘配重	jiàn pán pèi zhòng	72
 键盘事件	jiàn pán shì jiàn	25
 键盘手感	jiàn pán shǒu gǎn	819
 键盘鼠标	jiàn pán shǔ biāo	443
@@ -958956,6 +959709,7 @@ sort: by_weight
 僵在原地	jiāng zài yuán dì	75
 将在这里	jiāng zài zhè lǐ	806
 降噪插件	jiàng zào chā jiàn	320
+降噪处理	jiàng zào chǔ lǐ	72
 降噪耳机	jiàng zào ěr jī	1017
 降噪技术	jiàng zào jì shù	364
 姜枣祛寒	jiāng zǎo qū hán	45
@@ -960681,6 +961435,8 @@ sort: by_weight
 焦特布尔	jiāo tè bù ěr	500
 焦特浦尔	jiāo tè pǔ ěr	346
 脚疼砍脚	jiǎo téng kǎn jiǎo	76
+交替拨片	jiāo tì bō piàn	72
+交替拨弦	jiāo tì bō xián	72
 胶体沉淀	jiāo tǐ chén diàn	144
 胶体沉积	jiāo tǐ chén jī	99
 交替出现	jiāo tì chū xiàn	806
@@ -963845,6 +964601,7 @@ sort: by_weight
 街拍达人	jiē pāi dá rén	630
 揭牌典礼	jiē pái diǎn lǐ	324
 接拍广告	jiē pāi guǎng gào	450
+节拍网格	jié pāi wǎng gé	72
 揭牌仪式	jiē pái yí shì	50
 节拍音符	jié pāi yīn fú	171
 借炮使马	jiè pào shǐ mǎ	4
@@ -965120,6 +965877,7 @@ sort: by_weight
 节奏明快	jié zòu míng kuài	267
 节奏明显	jié zòu míng xiǎn	639
 节奏一致	jié zòu yí zhì	382
+节奏音轨	jié zòu yīn guǐ	72
 节足动物	jié zú dòng wù	6
 羯族军队	jié zú jūn duì	50
 捷足先得	jié zú xiān dé	243
@@ -972304,6 +973062,7 @@ sort: by_weight
 荆棘遍地	jīng jí biàn dì	28
 经济表现	jīng jì biǎo xiàn	860
 经济波动	jīng jì bō dòng	311
+经济拨弦	jīng jì bō xián	72
 惊悸不安	jīng jì bù ān	243
 经济补偿	jīng jì bǔ cháng	769
 经济不好	jīng jì bù hǎo	810
@@ -975170,6 +975929,7 @@ sort: by_weight
 精一执中	jīng yī zhí zhōng	180
 精益中学	jīng yì zhōng xué	220
 径一周三	jìng yī zhōu sān	207
+静音吉他	jìng yīn jí tā	72
 静音机箱	jìng yīn jī xiāng	302
 静音铃铛	jìng yīn líng dang	20
 静隐庐主	jìng yǐn lú zhǔ	130
@@ -979599,6 +980359,8 @@ sort: by_weight
 居安思危	jū ān sī wēi	578
 据俺所知	jù ǎn suǒ zhī	117
 居安忘危	jū ān wàng wēi	3
+聚氨酯底	jù ān zhǐ dǐ	81
+聚氨酯胶	jù ān zhǐ jiāo	81
 聚氨酯漆	jù ān zhǐ qī	410
 居安资深	jū ān zī shēn	50
 倨傲不恭	jù ào bù gōng	130
@@ -981896,6 +982658,7 @@ sort: by_weight
 橘子夏天	jú zi xià tiān	117
 桔子香精	jú zi xiāng jīng	117
 橘子香水	jú zi xiāng shuǐ	130
+橘子音箱	jú zi yīn xiāng	72
 橘子娱乐	jú zi yú lè	680
 橘子鱼子	jú zi yú zǐ	90
 橘子原汁	jú zi yuán zhī	45
@@ -982824,6 +983587,7 @@ sort: by_weight
 绝世好猫	jué shì hǎo māo	52
 绝世好面	jué shì hǎo miàn	171
 绝世好人	jué shì hǎo rén	207
+爵士吉他	jué shì jí tā	72
 绝世佳人	jué shì jiā rén	28
 绝世剑法	jué shì jiàn fǎ	212
 绝食减肥	jué shí jiǎn féi	410
@@ -982867,6 +983631,7 @@ sort: by_weight
 绝世凶器	jué shì xiōng qì	117
 绝世妖孽	jué shì yāo niè	153
 绝食一天	jué shí yì tiān	310
+爵士音阶	jué shì yīn jiē	72
 爵士音乐	jué shì yīn yuè	314
 绝世尤物	jué shì yóu wù	225
 爵士乐队	jué shì yuè duì	214
@@ -984505,6 +985270,7 @@ sort: by_weight
 开放共享	kāi fàng gòng xiǎng	954
 开放共赢	kāi fàng gòng yíng	554
 开放购买	kāi fàng gòu mǎi	720
+开放和弦	kāi fàng hé xián	72
 开放合作	kāi fàng hé zuò	900
 开放环岛	kāi fàng huán dǎo	279
 开放获取	kāi fàng huò qǔ	684
@@ -989973,6 +990739,7 @@ sort: by_weight
 颗粒粘结	kē lì nián jié	117
 颗粒漂浮	kē lì piāo fú	10
 科里氏病	kē lǐ shì bìng	45
+颗粒失真	kē lì shī zhēn	72
 可利斯安	kě lì sī ān	90
 克里斯蒂	kè lǐ sī dì	223
 颗粒饲料	kē lì sì liào	9
@@ -993614,6 +994381,7 @@ sort: by_weight
 空心竿稍	kōng xīn gān shāo	62
 空心隔墙	kōng xīn gé qiáng	4
 空心管子	kōng xīn guǎn zi	230
+空心吉他	kōng xīn jí tā	72
 空心胶囊	kōng xīn jiāo náng	9
 空心楼板	kōng xīn lóu bǎn	230
 空心芦苇	kōng xīn lú wěi	4
@@ -994083,6 +994851,7 @@ sort: by_weight
 口粪传播	kǒu fèn chuán bō	60
 扣分罚款	kòu fēn fá kuǎn	711
 口风很紧	kǒu fēng hěn jǐn	52
+口风角度	kǒu fēng jiǎo dù	72
 口风紧密	kǒu fēng jǐn mì	52
 口福不浅	kǒu fú bù qiǎn	306
 口服补液	kǒu fú bǔ yè	648
@@ -997657,6 +998426,7 @@ sort: by_weight
 拉伸变形	lā shēn biàn xíng	400
 拉伸成型	lā shēn chéng xíng	202
 拉伸成形	lā shēn chéng xíng	65
+拉伸调律	lā shēn diào lǜ	72
 拉伸断裂	lā shēn duàn liè	180
 拉伸刚度	lā shēn gāng dù	76
 拉伸构造	lā shēn gòu zào	76
@@ -1003049,6 +1003819,7 @@ sort: by_weight
 理都不理	lǐ dōu bù lǐ	239
 理都懒得	lǐ dōu lǎn de	369
 粒度变化	lì dù biàn huà	99
+力度变化	lì dù biàn huà	72
 粒度变异	lì dù biàn yì	4
 粒度表征	lì dù biǎo zhēng	117
 力度不大	lì dù bú dà	104
@@ -1008423,6 +1009194,7 @@ sort: by_weight
 连续曲线	lián xù qū xiàn	328
 连续三年	lián xù sān nián	1120
 连续三天	lián xù sān tiān	452
+连续扫拨	lián xù sǎo bō	72
 连续上涨	lián xù shàng zhǎng	981
 连续射击	lián xù shè jī	60
 连续射线	lián xù shè xiàn	117
@@ -1014357,6 +1015129,7 @@ sort: by_weight
 六斗尾庄	liù dòu wěi zhuāng	144
 六渡黄昏	liù dù huáng hūn	45
 六度集经	liù dù jí jīng	324
+六度双音	liù dù shuāng yīn	72
 六度万行	liù dù wàn xíng	387
 流毒影响	liú dú yǐng xiǎng	436
 六段回声	liù duàn huí shēng	90
@@ -1015931,6 +1016704,7 @@ sort: by_weight
 留下阴影	liú xià yīn yǐng	141
 留下影像	liú xià yǐng xiàng	436
 留下证据	liú xià zhèng jù	648
+六弦贝斯	liù xián bèi sī	72
 六线城市	liù xiàn chéng shì	572
 六险二金	liù xiǎn èr jīn	217
 流线构造	liú xiàn gòu zào	45
@@ -1018493,6 +1019267,7 @@ sort: by_weight
 录音电平	lù yīn diàn píng	230
 录音功能	lù yīn gōng néng	465
 录音接口	lù yīn jiē kǒu	117
+录音声卡	lù yīn shēng kǎ	72
 录音时间	lù yīn shí jiān	477
 录音事件	lù yīn shì jiàn	293
 鲁银投资	lǔ yín tóu zī	454
@@ -1019174,6 +1019949,7 @@ sort: by_weight
 论者以为	lùn zhě yǐ wéi	16
 论证方法	lùn zhèng fāng fǎ	421
 论证过程	lùn zhèng guò chéng	747
+轮指贝斯	lún zhǐ bèi sī	72
 轮制成型	lún zhì chéng xíng	52
 论知名度	lùn zhī míng dù	63
 轮值主席	lún zhí zhǔ xí	760
@@ -1021681,6 +1022457,7 @@ sort: by_weight
 麻粒岩的	má lì yán de	4
 麻粒岩相	má lì yán xiāng	194
 麻利一点	má lì yì diǎn	52
+玛丽珍鞋	mǎ lì zhēn xié	81
 马连道路	mǎ lián dào lù	243
 马料地街	mǎ liào dì jiē	76
 马列主义	mǎ liè zhǔ yì	424
@@ -1024037,6 +1024814,7 @@ sort: by_weight
 满水试验	mǎn shuǐ shì yàn	162
 漫撕男女	màn sī nán nǚ	117
 慢速滑行	màn sù huá xíng	62
+慢速练习	màn sù liàn xí	72
 慢速收线	màn sù shōu xiàn	54
 慢速行驶	màn sù xíng shǐ	41
 漫随天边	màn suí tiān biān	99
@@ -1049520,6 +1050298,7 @@ sort: by_weight
 尼龙拉链	ní lóng lā liàn	43
 尼龙托辊	ní lóng tuō gǔn	45
 尼龙拖链	ní lóng tuō liàn	45
+尼龙弦琴	ní lóng xián qín	72
 尼龙织带	ní lóng zhī dài	99
 你露出来	nǐ lòu chū lái	207
 尼鲁布虫	ní lǔ bù chóng	130
@@ -1057106,6 +1057885,7 @@ sort: by_weight
 派系之争	pài xì zhī zhēng	53
 拍下来了	pāi xià lái le	711
 拍下照片	pāi xià zhào piān	716
+拍弦贝斯	pāi xián bèi sī	72
 拍小视频	pāi xiǎo shì pín	477
 排泄不畅	pái xiè bú chàng	468
 排泄粪便	pái xiè fèn biàn	328
@@ -1059911,6 +1060691,7 @@ sort: by_weight
 皮槁毛拔	pí gǎo máo bá	45
 皮革包覆	pí gé bāo fù	360
 皮革包裹	pí gé bāo guǒ	572
+皮革边角	pí gé biān jiǎo	81
 皮革材质	pí gé cái zhì	616
 劈个叉吧	pī gè chā ba	144
 皮革大衣	pí gé dà yī	261
@@ -1059918,9 +1060699,15 @@ sort: by_weight
 皮革工房	pí gé gōng fáng	50
 批个假条	pī gè jià tiáo	4
 皮戈里尼	pí gē lǐ ní	52
+皮革染料	pí gé rǎn liào	81
+皮革碎料	pí gé suì liào	81
+皮革涂层	pí gé tú céng	81
+皮革纤维	pí gé xiān wéi	81
+皮革鞋垫	pí gé xié diàn	81
 皮革协会	pí gé xié huì	302
 皮革靴子	pí gé xuē zi	153
 皮革样化	pí gé yàng huà	6
+皮革原料	pí gé yuán liào	81
 皮革制品	pí gé zhì pǐn	78
 屁股蛋儿	pì gu dàn er	16
 屁股蛋子	pì gu dàn zi	31
@@ -1060485,6 +1061272,8 @@ sort: by_weight
 皮质腺瘤	pí zhì xiàn liú	84
 皮质显像	pí zhì xiǎn xiàng	45
 皮脂腺痣	pí zhī xiàn zhì	230
+皮质鞋底	pí zhì xié dǐ	81
+皮质沿条	pí zhì yán tiáo	81
 皮质腰带	pí zhì yāo dài	297
 皮制腰带	pí zhì yāo dài	4
 皮脂溢出	pí zhī yì chū	536
@@ -1061656,6 +1062445,7 @@ sort: by_weight
 贫水地区	pín shuǐ dì qū	130
 贫水国家	pín shuǐ guó jiā	189
 拼死抵抗	pīn sǐ dǐ kàng	598
+品丝磨平	pǐn sī mó píng	72
 拼死拼活	pīn sǐ pīn huó	901
 拼死突围	pīn sǐ tū wéi	266
 拼死一搏	pīn sǐ yì bó	210
@@ -1063898,6 +1064688,7 @@ sort: by_weight
 珀银彩晶	pò yín cǎi jīng	238
 破寅亥相	pò yín hài xiāng	130
 破音异读	pò yīn yì dú	4
+破音音色	pò yīn yīn sè	72
 破影而出	pò yǐng ér chū	396
 破用常住	pò yòng cháng zhù	117
 破蛹化蝶	pò yǒng huà dié	52
@@ -1070192,6 +1070983,7 @@ sort: by_weight
 七险二金	qī xiǎn èr jīn	28
 妻贤夫安	qī xián fū ān	230
 七弦古琴	qī xián gǔ qín	180
+七弦吉他	qī xián jí tā	72
 期现价差	qī xiàn jià chà	522
 期限较长	qī xiàn jiào cháng	144
 期限结构	qī xiàn jié gòu	738
@@ -1074466,6 +1075258,8 @@ sort: by_weight
 前瞻指引	qián zhān zhǐ yǐn	616
 牵张反射	qiān zhāng fǎn shè	91
 欠账还钱	qiàn zhàng huán qián	292
+前掌加固	qián zhǎng jiā gù	81
+前掌气垫	qián zhǎng qì diàn	81
 千章万句	qiān zhāng wàn jù	13
 欠账未还	qiàn zhàng wèi huán	4
 千丈幽谷	qiān zhàng yōu gǔ	266
@@ -1075102,6 +1075896,7 @@ sort: by_weight
 强力风湿	qiáng lì fēng shī	45
 强力感冒	qiáng lì gǎn mào	50
 强力攻坚	qiáng lì gōng jiān	306
+强力和弦	qiáng lì hé xián	72
 强力呼吸	qiáng lì hū xī	4
 强力回春	qiáng lì huí chūn	45
 强力践踏	qiáng lì jiàn tà	76
@@ -1075297,6 +1076092,7 @@ sort: by_weight
 强人政权	qiǎng rén zhèng quán	4
 强弱不一	qiáng ruò bù yī	346
 强弱电线	qiáng ruò diàn xiàn	342
+强弱对比	qiáng ruò duì bǐ	72
 强弱悬殊	qiáng ruò xuán shū	378
 强弱异势	qiáng ruò yì shì	50
 强森电影	qiáng sēn diàn yǐng	76
@@ -1076233,6 +1077029,7 @@ sort: by_weight
 切尔西跟	qiè ěr xī gēn	180
 切尔西靴	qiè ěr xī xuē	648
 怯防勇战	qiè fáng yǒng zhàn	45
+切分节奏	qiē fēn jié zòu	72
 切分碎盖	qiē fēn suì gài	45
 切分轧制	qiē fēn zhá zhì	50
 挈妇将雏	qiè fù jiāng chú	9
@@ -1076669,7 +1077466,9 @@ sort: by_weight
 勤加修炼	qín jiā xiū liàn	52
 勤加缘网	qín jiā yuán wǎng	180
 勤俭办社	qín jiǎn bàn shè	162
+琴键衬毡	qín jiàn chèn zhān	72
 勤俭持家	qín jiǎn chí jiā	414
+琴键导向	qín jiàn dǎo xiàng	72
 勤俭建国	qín jiǎn jiàn guó	292
 勤俭节约	qín jiǎn jié yuē	515
 勤俭耐劳	qín jiǎn nài láo	130
@@ -1076688,7 +1077487,9 @@ sort: by_weight
 秦晋之盟	qín jìn zhī méng	117
 亲近智者	qīn jìn zhì zhě	76
 亲近自然	qīn jìn zì rán	298
+琴颈钢筋	qín jǐng gāng jīn	72
 秦镜高悬	qín jìng gāo xuán	225
+琴颈弧度	qín jǐng hú dù	72
 钦敬之忱	qīn jìng zhī chén	117
 秦军攻魏	qín jūn gōng wèi	99
 亲看一下	qīn kàn yí xià	180
@@ -1076830,6 +1077631,7 @@ sort: by_weight
 秦腔剧目	qín qiāng jù mù	225
 秦腔曲牌	qín qiāng qǔ pái	99
 秦腔正宗	qín qiāng zhèng zōng	4
+琴桥弹簧	qín qiáo tán huáng	72
 亲切关怀	qīn qiè guān huái	16
 亲切交流	qīn qiè jiāo liú	608
 亲切交谈	qīn qiè jiāo tán	702
@@ -1077076,6 +1077878,7 @@ sort: by_weight
 秦庭之哭	qín tíng zhī kū	180
 亲痛仇快	qīn tòng chóu kuài	13
 亲铜元素	qīn tóng yuán sù	76
+琴头角度	qín tóu jiǎo dù	72
 沁透心脾	qìn tòu xīn pí	171
 亲土耳其	qīn tǔ ěr qí	256
 亲土种植	qīn tǔ zhǒng zhí	45
@@ -1077111,6 +1077914,8 @@ sort: by_weight
 亲贤礼士	qīn xián lǐ shì	50
 亲贤下士	qīn xián xià shì	144
 亲贤远佞	qīn xián yuǎn nìng	38
+琴弦张力	qín xián zhāng lì	72
+琴箱共鸣	qín xiāng gòng míng	72
 琴心剑胆	qín xīn jiàn dǎn	297
 琴心剑魄	qín xīn jiàn pò	387
 琴心三叠	qín xīn sān dié	212
@@ -1087041,6 +1087846,8 @@ sort: by_weight
 权宜之计	quán yí zhī jì	641
 权益资产	quán yì zī chǎn	603
 荃银高科	quán yín gāo kē	508
+全音推弦	quán yīn tuī xián	72
+全音音阶	quán yīn yīn jiē	72
 全优成绩	quán yōu chéng jì	338
 全友电脑	quán yǒu diàn nǎo	194
 全友家居	quán yǒu jiā jū	526
@@ -1090093,6 +1090900,7 @@ sort: by_weight
 人工冬眠	rén gōng dōng mián	19
 人工耳蜗	rén gōng ěr wō	796
 人工翻译	rén gōng fān yì	301
+人工泛音	rén gōng fàn yīn	72
 人工繁育	rén gōng fán yù	558
 人工繁殖	rén gōng fán zhí	132
 人工防雹	rén gōng fáng báo	346
@@ -1096639,6 +1097447,7 @@ sort: by_weight
 乳胶床垫	rǔ jiāo chuáng diàn	639
 如胶如漆	rú jiāo rú qī	6
 如胶似漆	rú jiāo sì qī	314
+乳胶鞋垫	rǔ jiāo xié diàn	81
 乳胶用品	rǔ jiāo yòng pǐn	117
 如解倒悬	rú jiě dào xuán	130
 如姐妹般	rú jiě mèi bān	52
@@ -1097789,6 +1098598,7 @@ sort: by_weight
 软磨硬泡	ruǎn mó yìng pào	716
 软木尘肺	ruǎn mù chén fèi	45
 软木墙板	ruǎn mù qiáng bǎn	225
+软木鞋垫	ruǎn mù xié diàn	81
 阮囊羞涩	ruǎn náng xiū sè	261
 软脑膜炎	ruǎn nǎo mó yán	153
 软嫩鲜香	ruǎn nèn xiān xiāng	450
@@ -1099456,6 +1100266,7 @@ sort: by_weight
 三度割线	sān dù gē xiàn	45
 三度龋齿	sān dù qǔ chǐ	50
 三督三察	sān dū sān chá	117
+三度双音	sān dù shuāng yīn	72
 三读通过	sān dú tōng guò	770
 三毒之火	sān dú zhī huǒ	76
 三段变化	sān duàn biàn huà	76
@@ -1109347,6 +1110158,7 @@ sort: by_weight
 上线仪式	shàng xiàn yí shì	549
 上线运行	shàng xiàn yùn xíng	82
 上线运营	shàng xiàn yùn yíng	814
+上弦枕槽	shàng xián zhěn cáo	72
 上线之初	shàng xiàn zhī chū	531
 上线至今	shàng xiàn zhì jīn	626
 上线之前	shàng xiàn zhī qián	662
@@ -1113246,6 +1114058,7 @@ sort: by_weight
 深度迷幻	shēn dù mí huàn	50
 深度剖析	shēn dù pōu xī	487
 深度嵌入	shēn dù qiàn rù	13
+深度清洁	shēn dù qīng jié	81
 深度清洗	shēn dù qīng xǐ	41
 深度求索	shēn dù qiú suǒ	4
 深度融合	shēn dù róng hé	559
@@ -1122612,6 +1123425,7 @@ sort: by_weight
 时而微笑	shí ér wēi xiào	297
 视而无见	shì ér wú jiàn	171
 十二线程	shí èr xiàn chéng	212
+十二弦琴	shí èr xián qín	72
 十二小劫	shí èr xiǎo jié	117
 十二小强	shí èr xiǎo qiáng	346
 十二小时	shí èr xiǎo shí	283
@@ -1128895,6 +1129709,7 @@ sort: by_weight
 十三个字	shí sān gè zì	387
 十三鬼穴	shí sān guǐ xué	144
 十三号街	shí sān hào jiē	324
+十三和弦	shí sān hé xián	72
 十三化建	shí sān huà jiàn	130
 十三皇子	shí sān huáng zǐ	590
 十三间房	shí sān jiān fáng	238
@@ -1132508,6 +1133323,7 @@ sort: by_weight
 十亿韩元	shí yì hán yuán	297
 十一号楼	shí yī hào lóu	19
 十一号路	shí yī hào lù	180
+十一和弦	shí yī hé xián	72
 诗意画卷	shī yì huà juàn	207
 适宜环境	shì yí huán jìng	446
 十一皇子	shí yī huáng zǐ	441
@@ -1134129,6 +1134945,7 @@ sort: by_weight
 十珍香附	shí zhēn xiāng fù	266
 是真虚伪	shì zhēn xū wěi	144
 湿疹样癌	shī zhěn yàng ái	324
+失真音色	shī zhēn yīn sè	72
 湿疹婴儿	shī zhěn yīng ér	207
 湿疹症状	shī zhěn zhèng zhuàng	387
 湿疹治疗	shī zhěn zhì liáo	396
@@ -1138205,6 +1139022,7 @@ sort: by_weight
 收支结余	shōu zhī jié yú	459
 守职尽责	shǒu zhí jìn zé	117
 收支控制	shōu zhī kòng zhì	130
+手指控制	shǒu zhǐ kòng zhì	72
 手指迷津	shǒu zhǐ mí jīn	45
 收支明细	shōu zhī míng xì	428
 收支逆差	shōu zhī nì chā	536
@@ -1138491,6 +1139309,7 @@ sort: by_weight
 疏齿饮子	shū chǐ yǐn zi	45
 书虫一枚	shū chóng yì méi	50
 输出爆表	shū chū bào biǎo	252
+输出插孔	shū chū chā kǒng	72
 输出的是	shū chū de shì	217
 输出电流	shū chū diàn liú	94
 输出电路	shū chū diàn lù	16
@@ -1139529,6 +1140348,7 @@ sort: by_weight
 数码电机	shù mǎ diàn jī	117
 数码电视	shù mǎ diàn shì	3
 数码防伪	shù mǎ fáng wěi	306
+数码钢琴	shù mǎ gāng qín	72
 舒马赫弯	shū mǎ hè wān	99
 数码机背	shù mǎ jī bèi	117
 数码技术	shù mǎ jì shù	85
@@ -1141422,6 +1142242,7 @@ sort: by_weight
 双层船壳	shuāng céng chuán ké	225
 双层复合	shuāng céng fù hé	248
 双层腹膜	shuāng céng fù mó	76
+双层鼓皮	shuāng céng gǔ pí	72
 双层管道	shuāng céng guǎn dào	4
 双层清洗	shuāng céng qīng xǐ	50
 双层双色	shuāng céng shuāng sè	76
@@ -1142154,6 +1142975,7 @@ sort: by_weight
 双双离世	shuāng shuāng lí shì	346
 双双去世	shuāng shuāng qù shì	446
 双双失利	shuāng shuāng shī lì	328
+双双拾音	shuāng shuāng shí yīn	72
 双双下跌	shuāng shuāng xià diē	580
 双双殉情	shuāng shuāng xùn qíng	387
 双双殒命	shuāng shuāng yǔn mìng	405
@@ -1142395,6 +1143217,7 @@ sort: by_weight
 双眼注视	shuāng yǎn zhù shì	450
 双氧护理	shuāng yǎng hù lǐ	53
 双扬声器	shuāng yáng shēng qì	644
+双摇琴桥	shuāng yáo qín qiáo	72
 双液淬火	shuāng yè cuì huǒ	99
 双页打印	shuāng yè dǎ yìn	45
 双叶家具	shuāng yè jiā jù	230
@@ -1146590,6 +1147413,7 @@ sort: by_weight
 丝带衬衫	sī dài chèn shān	76
 四袋弟子	sì dài dì zǐ	238
 丝黛芬妮	sī dài fēn nī	117
+丝带话筒	sī dài huà tǒng	72
 丝黛拉麦	sī dài lā mài	171
 丝黛罗普	sī dài luó pǔ	117
 四代战机	sì dài zhàn jī	558
@@ -1146937,6 +1147761,7 @@ sort: by_weight
 四分五落	sì fēn wǔ luò	3
 四纷五落	sì fēn wǔ luò	2
 四分五剖	sì fēn wǔ pōu	4
+四分休止	sì fēn xiū zhǐ	72
 四分音符	sì fēn yīn fú	754
 四分之一	sì fēn zhī yī	4883
 四风连打	sì fēng lián dǎ	225
@@ -1149830,6 +1150655,7 @@ sort: by_weight
 死下一片	sǐ xià yí piàn	45
 四下张望	sì xià zhāng wàng	100
 四线包缝	sì xiàn bāo fèng	43
+四弦贝斯	sì xián bèi sī	72
 司线裁判	sī xiàn cái pàn	202
 司宪大夫	sī xiàn dà fū	144
 四险二金	sì xiǎn èr jīn	45
@@ -1158334,6 +1159160,7 @@ sort: by_weight
 坦白交代	tǎn bái jiāo dài	38
 坦白情节	tǎn bái qíng jié	526
 碳半衰期	tàn bàn shuāi qī	117
+碳板鞋底	tàn bǎn xié dǐ	81
 摊薄成本	tān báo chéng běn	657
 探宝人员	tàn bǎo rén yuán	45
 摊薄证券	tān báo zhèng quàn	45
@@ -1158373,6 +1159200,7 @@ sort: by_weight
 探测仪器	tàn cè yí qì	82
 探测元件	tàn cè yuán jiàn	207
 探察线圈	tàn chá xiàn quān	45
+弹唱吉他	tán chàng jí tā	72
 谈场恋爱	tán chǎng liàn ài	558
 檀车侠影	tán chē xiá yǐng	117
 坦陈己见	tǎn chén jǐ jiàn	76
@@ -1159984,6 +1160812,7 @@ sort: by_weight
 桃花仙子	táo huā xiān zǐ	392
 桃花谢了	táo huā xiè le	19
 桃花芯木	táo huā xīn mù	356
+桃花心木	táo huā xīn mù	72
 桃花心情	táo huā xīn qíng	76
 桃花夭夭	táo huā yāo yāo	189
 桃花雨下	táo huā yǔ xià	50
@@ -1166951,6 +1167780,7 @@ sort: by_weight
 调节风门	tiáo jié fēng mén	207
 调节幅度	tiáo jié fú dù	53
 调解服务	tiáo jiě fú wù	9
+调节钢筋	tiáo jié gāng jīn	72
 调节功能	tiáo jié gōng néng	933
 调解工作	tiáo jiě gōng zuò	53
 调节过程	tiáo jié guò chéng	495
@@ -1167402,7 +1168232,9 @@ sort: by_weight
 跳一个舞	tiào yí gè wǔ	171
 挑一张吧	tiāo yì zhāng ba	4
 跳一支舞	tiào yì zhī wǔ	518
+调音曲线	tiáo yīn qū xiàn	72
 调音台的	tiáo yīn tái de	66
+调音弦轴	tiáo yīn xián zhóu	72
 调优操作	tiáo yōu cāo zuò	130
 蜩与学鸠	tiáo yǔ xué jiū	302
 跳跃传导	tiào yuè chuán dǎo	76
@@ -1167530,6 +1168362,7 @@ sort: by_weight
 调整液重	tiáo zhěng yè zhòng	10
 调整一遍	tiáo zhěng yí biàn	207
 调整一下	tiáo zhěng yí xià	1040
+调整音高	tiáo zhěng yīn gāo	72
 调整饮食	tiáo zhěng yǐn shí	361
 调整阴阳	tiáo zhěng yīn yáng	6
 调整泳层	tiáo zhěng yǒng céng	54
@@ -1169600,6 +1170433,7 @@ sort: by_weight
 铜斗铁尺	tóng dòu tiě chǐ	4
 铜都铜业	tóng dōu tóng yè	292
 通都大邑	tōng dū dà yì	3
+同度调律	tóng dù diào lǜ	72
 同度量的	tóng dù liàng de	76
 通读一遍	tōng dú yí biàn	710
 统独议题	tǒng dú yì tí	324
@@ -1172002,6 +1172836,7 @@ sort: by_weight
 同一作品	tóng yī zuò pǐn	477
 统一作战	tǒng yī zuò zhàn	6
 同一作者	tóng yī zuò zhě	616
+同音调律	tóng yīn diào lǜ	72
 痛饮高歌	tòng yǐn gāo gē	117
 同音共律	tóng yīn gòng lǜ	99
 铜银合金	tóng yín hé jīn	212
@@ -1176121,6 +1176956,7 @@ sort: by_weight
 推下山崖	tuī xià shān yá	382
 推下深渊	tuī xià shēn yuān	288
 推下悬崖	tuī xià xuán yá	513
+推弦回位	tuī xián huí wèi	72
 推贤荐材	tuī xián jiàn cái	99
 推贤进善	tuī xián jìn shàn	45
 推贤进士	tuī xián jìn shì	202
@@ -1178342,6 +1179178,7 @@ sort: by_weight
 外置光驱	wài zhì guāng qū	428
 外治疗法	wài zhì liáo fǎ	414
 外支气管	wài zhī qì guǎn	189
+外置声卡	wài zhì shēng kǎ	72
 外治武备	wài zhì wǔ bèi	99
 外治医说	wài zhì yī shuō	4
 外置硬盘	wài zhì yìng pán	63
@@ -1182086,6 +1182923,7 @@ sort: by_weight
 网盟推广	wǎng méng tuī guǎng	346
 网盟营销	wǎng méng yíng xiāo	76
 忘密码了	wàng mì mǎ le	202
+网面鼓皮	wǎng miàn gǔ pí	72
 网面平整	wǎng miàn píng zhěng	99
 网面透气	wǎng miàn tòu qì	266
 网面拖鞋	wǎng miàn tuō xié	45
@@ -1200476,6 +1201314,7 @@ sort: by_weight
 无偏无倚	wú piān wú yǐ	130
 无偏样本	wú piān yàng běn	180
 物品搬运	wù pǐn bān yùn	418
+无品贝斯	wú pǐn bèi sī	72
 五品才人	wǔ pǐn cái rén	328
 物品查找	wù pǐn chá zhǎo	144
 五品朝服	wǔ pǐn cháo fú	144
@@ -1202466,6 +1203305,7 @@ sort: by_weight
 五线包缝	wǔ xiàn bāo fèng	43
 无线报警	wú xiàn bào jǐng	230
 无线保真	wú xiàn bǎo zhēn	3
+五弦贝斯	wǔ xián bèi sī	72
 无线变速	wú xiàn biàn sù	135
 无线便携	wú xiàn biàn xié	410
 无限边形	wú xiàn biān xíng	580
@@ -1209794,6 +1210634,7 @@ sort: by_weight
 夏树苍翠	xià shù cāng cuì	189
 下属单位	xià shǔ dān wèi	267
 下属公司	xià shǔ gōng sī	210
+下属和弦	xià shǔ hé xián	72
 下属机构	xià shǔ jī gòu	185
 下述内容	xià shù nèi róng	31
 下属企业	xià shǔ qǐ yè	860
@@ -1209884,6 +1210725,7 @@ sort: by_weight
 下位替代	xià wèi tì dài	297
 下位学习	xià wèi xué xí	274
 夏威夷果	xià wēi yí guǒ	61
+夏威夷琴	xià wēi yí qín	72
 霞蔚云蒸	xiá wèi yún zhēng	194
 下位子房	xià wèi zi fáng	212
 狭温植物	xiá wēn zhí wù	45
@@ -1209953,6 +1210795,7 @@ sort: by_weight
 下限频率	xià xiàn pín lǜ	256
 下限如此	xià xiàn rú cǐ	50
 下线仪式	xià xiàn yí shì	6
+下弦枕垫	xià xián zhěn diàn	72
 瞎想八想	xiā xiǎng bā xiǎng	153
 遐想空间	xiá xiǎng kōng jiān	549
 遐想连篇	xiá xiǎng lián piān	418
@@ -1210400,6 +1211243,7 @@ sort: by_weight
 现场表决	xiàn chǎng biǎo jué	567
 现场表演	xiàn chǎng biǎo yǎn	923
 现场播放	xiàn chǎng bō fàng	612
+弦长补偿	xián cháng bǔ cháng	72
 现场布置	xiàn chǎng bù zhì	752
 现场采访	xiàn chǎng cǎi fǎng	72
 现场彩排	xiàn chǎng cǎi pái	338
@@ -1210684,6 +1211528,7 @@ sort: by_weight
 先穿上吧	xiān chuān shàng ba	52
 先穿衣服	xiān chuān yī fú	3
 先创电子	xiān chuàng diàn zǐ	117
+弦槌整音	xián chuí zhěng yīn	72
 鲜醇爽口	xiān chún shuǎng kǒu	6
 先从隗始	xiān cóng kuí shǐ	4
 鲜翠欲滴	xiān cuì yù dī	266
@@ -1211864,6 +1212709,8 @@ sort: by_weight
 线路施工	xiàn lù shī gōng	464
 线路试验	xiàn lù shì yàn	144
 线路实验	xiàn lù shí yàn	122
+线路输出	xiàn lù shū chū	72
+线路输入	xiàn lù shū rù	72
 线路调整	xiàn lù tiáo zhěng	6
 线路铁件	xiàn lù tiě jiàn	45
 显露头角	xiǎn lù tóu jiǎo	25
@@ -1213880,6 +1214727,7 @@ sort: by_weight
 显着增长	xiǎn zhe zēng zhǎng	6
 贤者之戒	xián zhě zhī jiè	99
 贤者状态	xián zhě zhuàng tài	25
+弦枕高度	xián zhěn gāo dù	72
 陷阵杀敌	xiàn zhèn shā dí	9
 线阵相机	xiàn zhèn xiàng jī	52
 线阵音箱	xiàn zhèn yīn xiāng	153
@@ -1214829,6 +1215677,7 @@ sort: by_weight
 相对压力	xiāng duì yā lì	396
 相对一般	xiāng duì yì bān	770
 相对一笑	xiāng duì yí xiào	351
+相对音感	xiāng duì yīn gǎn	72
 相对应的	xiāng duì yīng de	6481
 相对应于	xiāng duì yīng yú	378
 相对优点	xiāng duì yōu diǎn	230
@@ -1215941,6 +1216790,7 @@ sort: by_weight
 橡胶玩具	xiàng jiāo wán jù	270
 相较往年	xiāng jiào wǎng nián	428
 橡胶鞋底	xiàng jiāo xié dǐ	459
+橡胶鞋掌	xiàng jiāo xié zhǎng	81
 橡胶芯模	xiàng jiāo xīn mó	45
 橡胶研究	xiàng jiāo yán jiū	360
 橡胶一厂	xiàng jiāo yī chǎng	171
@@ -1219077,6 +1219927,7 @@ sort: by_weight
 小调慢板	xiǎo diào màn bǎn	220
 小调弥撒	xiǎo diào mí sā	423
 小调柔板	xiǎo diào róu bǎn	144
+小调音阶	xiǎo diào yīn jiē	72
 小调作品	xiǎo diào zuò pǐn	356
 小蝶同学	xiǎo dié tóng xué	45
 小定风珠	xiǎo dìng fēng zhū	76
@@ -1221573,6 +1222424,7 @@ sort: by_weight
 鸮啼鬼啸	xiāo tí guǐ xiào	76
 孝悌力田	xiào tì lì tián	207
 小提琴版	xiǎo tí qín bǎn	38
+小提琴盒	xiǎo tí qín hé	72
 小提琴家	xiǎo tí qín jiā	672
 小提琴谱	xiǎo tí qín pǔ	266
 小提琴曲	xiǎo tí qín qǔ	132
@@ -1222822,6 +1223674,8 @@ sort: by_weight
 写的这些	xiě de zhè xiē	716
 写得真棒	xiě dé zhēn bàng	3
 写得真好	xiě dé zhēn hǎo	69
+鞋底材料	xié dǐ cái liào	81
+鞋底花纹	xié dǐ huā wén	81
 邪帝舍利	xié dì shè lì	495
 邪典电影	xié diǎn diàn yǐng	88
 写点东西	xiě diǎn dōng xi	942
@@ -1222891,6 +1223745,7 @@ sort: by_weight
 泻肝安神	xiè gān ān shén	117
 写感谢信	xiě gǎn xiè xìn	490
 斜港大桥	xié gǎng dà qiáo	50
+斜杠和弦	xié gàng hé xián	72
 斜杠青年	xié gàng qīng nián	452
 斜锆石砾	xié gào shí lì	45
 写歌的人	xiě gē de rén	513
@@ -1223144,6 +1223999,8 @@ sort: by_weight
 斜面底端	xié miàn dǐ duān	284
 斜面奖杯	xié miàn jiǎng bēi	45
 斜面培养	xié miàn péi yǎng	162
+鞋面清洁	xié miàn qīng jié	81
+鞋面修复	xié miàn xiū fù	81
 写明白了	xiě míng bai le	85
 写明信片	xiě míng xìn piàn	639
 写名字吧	xiě míng zì ba	76
@@ -1223388,6 +1224245,7 @@ sort: by_weight
 协同作用	xié tóng zuò yòng	443
 协同作战	xié tóng zuò zhàn	443
 楔骰关节	xiē tóu guān jié	45
+鞋头加固	xié tóu jiā gù	81
 斜土东路	xié tǔ dōng lù	225
 写推荐信	xiě tuī jiàn xìn	716
 谢瓦莱群	xiè wǎ lái qún	144
@@ -1234702,6 +1235560,7 @@ sort: by_weight
 旋律提琴	xuán lǜ tí qín	4
 旋律响起	xuán lǜ xiǎng qǐ	549
 选绿香源	xuǎn lǜ xiāng yuán	76
+旋律小调	xuán lǜ xiǎo diào	72
 旋律优美	xuán lǜ yōu měi	927
 旋律悠扬	xuán lǜ yōu yáng	468
 玄麦甘桔	xuán mài gān jú	252
@@ -1237732,6 +1238591,7 @@ sort: by_weight
 循环代数	xún huán dài shù	50
 循环迭代	xún huán dié dài	500
 循环定理	xún huán dìng lǐ	99
+循环段落	xún huán duàn luò	72
 循环对称	xún huán duì chèn	99
 循环发展	xún huán fā zhǎn	734
 循环反应	xún huán fǎn yìng	320
@@ -1237739,6 +1238599,7 @@ sort: by_weight
 循环负荷	xún huán fù hè	162
 循环负载	xún huán fù zǎi	50
 循环滑动	xún huán huá dòng	3
+循环换气	xún huán huàn qì	72
 循环回路	xún huán huí lù	284
 循环积分	xún huán jī fēn	450
 循环技术	xún huán jì shù	513
@@ -1238439,6 +1239300,7 @@ sort: by_weight
 雅典建筑	yǎ diǎn jiàn zhù	144
 压电晶体	yā diàn jīng tǐ	6
 压电模量	yā diàn mó liàng	45
+压电拾音	yā diàn shí yīn	72
 压电石英	yā diàn shí yīng	238
 压电水晶	yā diàn shuǐ jīng	117
 鸭淀水库	yā diàn shuǐ kù	99
@@ -1238840,6 +1239702,7 @@ sort: by_weight
 压滤作用	yā lǜ zuò yòng	45
 亚略主义	yà lüè zhǔ yì	50
 亚麻布卷	yà má bù juǎn	99
+雅马哈鼓	yǎ mǎ hā gǔ	72
 亚麻苦苷	yà má kǔ gān	99
 亚玛力人	yà mǎ lì rén	423
 亚玛利亚	yà mǎ lì yà	252
@@ -1239718,6 +1240581,7 @@ sort: by_weight
 严惩重处	yán chéng zhòng chù	351
 严惩重罚	yán chéng zhòng fá	3
 妍媸毕露	yán chī bì lù	130
+延迟补偿	yán chí bǔ cháng	72
 延迟参数	yán chí cān shù	144
 延迟发光	yán chí fā guāng	99
 延迟发货	yán chí fā huò	10
@@ -1242018,6 +1242882,8 @@ sort: by_weight
 岩体指标	yán tǐ zhǐ biāo	45
 颜体字帖	yán tǐ zì tiè	4
 炎天暑月	yán tiān shǔ yuè	99
+沿条缝鞋	yán tiáo fèng xié	81
+沿条工艺	yán tiáo gōng yì	81
 盐铁官营	yán tiě guān yíng	378
 雁帖鱼缄	yàn tiē yú jiān	45
 雁帖鱼书	yàn tiē yú shū	45
@@ -1242474,6 +1243340,7 @@ sort: by_weight
 燕引雏还	yàn yǐn chú hái	4
 烟瘾大发	yān yǐn dà fā	52
 烟瘾犯了	yān yǐn fàn le	35
+延音踏板	yán yīn tà bǎn	72
 烟瘾再大	yān yǐn zài dà	50
 眼蝇蛆病	yǎn yíng qū bìng	50
 烟影如画	yān yǐng rú huà	76
@@ -1256390,6 +1257257,7 @@ sort: by_weight
 意利咖啡	yì lì kā fēi	288
 以力克敌	yǐ lì kè dí	50
 亿利科技	yì lì kē jì	180
+伊利克斯	yī lì kè sī	72
 一粒扣子	yí lì kòu zi	490
 以礼来降	yǐ lǐ lái jiàng	410
 伊力老窖	yī lì lǎo jiào	212
@@ -1267275,6 +1268143,7 @@ sort: by_weight
 印巴争端	yìn bā zhēng duān	99
 茵白肝炎	yīn bái gān yán	90
 银白色的	yín bái sè de	52
+音板共振	yīn bǎn gòng zhèn	72
 银版摄影	yín bǎn shè yǐng	382
 因半透性	yīn bàn tòu xìng	50
 银邦股份	yín bāng gǔ fèn	432
@@ -1267733,6 +1268602,7 @@ sort: by_weight
 银钢集团	yín gāng jí tuán	4
 音高八度	yīn gāo bā dù	310
 殷高东路	yīn gāo dōng lù	189
+音高曲线	yīn gāo qū xiàn	72
 殷高西路	yīn gāo xī lù	356
 因高血压	yīn gāo xuè yā	554
 因高振频	yīn gāo zhèn pín	76
@@ -1268361,6 +1269231,7 @@ sort: by_weight
 音量上键	yīn liàng shàng jiàn	297
 音量调节	yīn liàng tiáo jié	179
 阴两虚型	yīn liǎng xū xíng	302
+音量旋钮	yīn liàng xuán niǔ	72
 因粮于敌	yīn liáng yú dí	338
 饮料产业	yǐn liào chǎn yè	369
 饮料达人	yǐn liào dá rén	117
@@ -1268591,6 +1269462,7 @@ sort: by_weight
 饮品项目	yǐn pǐn xiàng mù	207
 音频效果	yīn pín xiào guǒ	675
 音频信号	yīn pín xìn hào	301
+音频延迟	yīn pín yán chí	72
 音频样本	yīn pín yàng běn	482
 音频制作	yīn pín zhì zuò	504
 饮品制作	yǐn pǐn zhì zuò	323
@@ -1268779,6 +1269651,7 @@ sort: by_weight
 因赛集团	yīn sài jí tuán	45
 阴三虚型	yīn sān xū xíng	76
 银色宝箱	yín sè bǎo xiāng	180
+音色变化	yīn sè biàn huà	72
 银色表盘	yín sè biǎo pán	400
 银色冰晶	yín sè bīng jīng	302
 银色长发	yín sè cháng fà	16
@@ -1268804,6 +1269677,7 @@ sort: by_weight
 银色经典	yín sè jīng diǎn	130
 银色卷发	yín sè juǎn fà	153
 银色铠甲	yín sè kǎi jiǎ	320
+音色颗粒	yīn sè kē lì	72
 银色快手	yín sè kuài shǒu	194
 银色盔甲	yín sè kuī jiǎ	333
 银色黎明	yín sè lí míng	572
@@ -1268844,6 +1269718,7 @@ sort: by_weight
 银色项链	yín sè xiàng liàn	288
 音色修复	yīn sè xiū fù	45
 音色修正	yīn sè xiū zhèng	45
+音色旋钮	yīn sè xuán niǔ	72
 银色颜料	yín sè yán liào	99
 银色钥匙	yín sè yào shi	234
 银色羽毛	yín sè yǔ máo	162
@@ -1269378,6 +1270253,7 @@ sort: by_weight
 音箱喇叭	yīn xiāng lǎ bā	243
 印象丽江	yìn xiàng lì jiāng	508
 音响连接	yīn xiǎng lián jiē	374
+音箱模拟	yīn xiāng mó nǐ	72
 银翔摩托	yín xiáng mó tuō	144
 音响配件	yīn xiǎng pèi jiàn	153
 音响配置	yīn xiǎng pèi zhì	360
@@ -1270184,6 +1271060,7 @@ sort: by_weight
 银妆素裹	yín zhuāng sù guǒ	215
 引锥刺股	yǐn zhuī cì gǔ	220
 引锥自刺	yǐn zhuī zì cì	189
+音准校对	yīn zhǔn jiào duì	72
 因子得分	yīn zǐ dé fēn	297
 因子定理	yīn zǐ dìng lǐ	45
 因子分解	yīn zǐ fēn jiě	78
@@ -1297157,6 +1298034,7 @@ sort: by_weight
 增频效应	zēng pín xiào yìng	45
 赠品协议	zèng pǐn xié yì	45
 赠品信息	zèng pǐn xìn xī	162
+增七和弦	zēng qī hé xián	72
 增其旧制	zēng qí jiù zhì	6
 增强兵力	zēng qiáng bīng lì	220
 增强党性	zēng qiáng dǎng xìng	3
@@ -1297284,6 +1298162,7 @@ sort: by_weight
 增血压素	zēng xuè yā sù	90
 增压曲线	zēng yā qū xiàn	4
 增压中冷	zēng yā zhōng lěng	459
+增益结构	zēng yì jié gòu	72
 增益控制	zēng yì kòng zhì	25
 增益曲线	zēng yì qū xiàn	220
 增益提升	zēng yì tí shēng	117
@@ -1310232,6 +1311111,7 @@ sort: by_weight
 执白先行	zhí bái xiān xíng	52
 直白些吗	zhí bái xiē ma	52
 直白一点	zhí bái yì diǎn	774
+指板半径	zhǐ bǎn bàn jìng	72
 值班备勤	zhí bān bèi qín	508
 值班编辑	zhí bān biān jí	630
 值班编委	zhí bān biān wěi	238
@@ -1310251,6 +1311131,7 @@ sort: by_weight
 智伴科技	zhì bàn kē jì	45
 值班民警	zhí bān mín jǐng	824
 置办年货	zhì bàn nián huò	526
+指板敲击	zhǐ bǎn qiāo jī	72
 值班人员	zhí bān rén yuán	214
 值班日志	zhí bān rì zhì	171
 直板手机	zhí bǎn shǒu jī	31
@@ -1324346,6 +1325227,7 @@ sort: by_weight
 中心内容	zhōng xīn nèi róng	91
 中心喷发	zhōng xīn pēn fā	153
 重心偏移	zhòng xīn piān yí	88
+中心频率	zhōng xīn pín lǜ	72
 重心平衡	zhòng xīn píng héng	50
 中信期货	zhōng xìn qī huò	734
 中心棋牌	zhōng xīn qí pái	256
@@ -1327532,6 +1328414,7 @@ sort: by_weight
 主动示爱	zhǔ dòng shì ài	378
 主动示好	zhǔ dòng shì hǎo	621
 主动失误	zhǔ dòng shī wù	410
+主动拾音	zhǔ dòng shí yīn	72
 主动适应	zhǔ dòng shì yìng	891
 主动收集	zhǔ dòng shōu jí	472
 主动疏远	zhǔ dòng shū yuǎn	346
@@ -1331497,6 +1332380,7 @@ sort: by_weight
 专网通信	zhuān wǎng tōng xìn	414
 转危而安	zhuǎn wēi ér ān	50
 转位构造	zhuàn wèi gòu zào	90
+转位和弦	zhuàn wèi hé xián	72
 转为慢性	zhuǎn wéi màn xìng	639
 专为女性	zhuān wèi nǚ xìng	554
 转位皮瓣	zhuàn wèi pí bàn	45
@@ -1335838,6 +1336722,7 @@ sort: by_weight
 自然赐福	zì rán cì fú	252
 孜然寸骨	zī rán cùn gǔ	52
 自然大地	zì rán dà dì	202
+自然大调	zì rán dà diào	72
 自然大方	zì rán dà fang	675
 自然单射	zì rán dān shè	4
 自然的风	zì rán de fēng	724
@@ -1335860,6 +1336745,7 @@ sort: by_weight
 自然发型	zì rán fà xíng	234
 自然法则	zì rán fǎ zé	666
 自然发展	zì rán fā zhǎn	720
+自然泛音	zì rán fàn yīn	72
 自然反应	zì rán fǎn yìng	670
 自然方程	zì rán fāng chéng	4
 自然放松	zì rán fàng sōng	747
@@ -1336037,6 +1336923,7 @@ sort: by_weight
 自然现象	zì rán xiàn xiàng	1520
 自燃现象	zì rán xiàn xiàng	468
 自然限着	zì rán xiàn zhe	130
+自然小调	zì rán xiǎo diào	72
 自然消散	zì rán xiāo sàn	270
 自然消失	zì rán xiāo shī	788
 自然消退	zì rán xiāo tuì	580
@@ -1340200,6 +1341087,7 @@ sort: by_weight
 足跟作痛	zú gēn zuò tòng	50
 组工干部	zǔ gōng gàn bù	16
 组工信息	zǔ gōng xìn xī	162
+足弓支撑	zú gōng zhī chēng	81
 祖功宗德	zǔ gōng zōng dé	76
 足够安全	zú gòu ān quán	693
 租购并举	zū gòu bìng jǔ	28
@@ -1341312,6 +1342200,7 @@ sort: by_weight
 嘴唇变厚	zuǐ chún biàn hòu	297
 嘴唇发青	zuǐ chún fā qīng	342
 嘴唇发紫	zuǐ chún fā zǐ	652
+嘴唇放松	zuǐ chún fàng sōng	72
 嘴唇干裂	zuǐ chún gān liè	734
 嘴唇紧闭	zuǐ chún jǐn bì	446
 嘴唇青紫	zuǐ chún qīng zǐ	418
@@ -1346359,6 +1347248,7 @@ sort: by_weight
 八喜冰淇淋	bā xǐ bīng qí lín	10
 巴西奴卡菌	bā xī nú kǎ jūn	10
 巴西诺卡菌	bā xī nuò kǎ jūn	10
+巴西棕榈蜡	bā xī zōng lǘ là	10
 八仙的传说	bā xiān de chuán shuō	10
 八仙得道传	bā xiān dé dào chuán	10
 八仙斗白猿	bā xiān dòu bái yuán	10
@@ -1347163,6 +1348053,7 @@ sort: by_weight
 半一致空间	bàn yí zhì kōng jiān	10
 班银八老师	bān yín bā lǎo shī	10
 半阴的环境	bàn yīn de huán jìng	10
+半音阶口琴	bàn yīn jiē kǒu qín	10
 半音节文字	bàn yīn jié wén zì	10
 办营业执照	bàn yíng yè zhí zhào	10
 半永久纹眉	bàn yǒng jiǔ wén méi	10
@@ -1348255,6 +1349146,7 @@ sort: by_weight
 贝思儿童型	bèi sī ér tóng xíng	10
 被司法冻结	bèi sī fǎ dòng jié	10
 北四番丁站	běi sì fān dīng zhàn	10
+贝斯效果器	bèi sī xiào guǒ qì	10
 北宋大将军	běi sòng dà jiāng jūn	10
 北宋大学士	běi sòng dà xué shì	10
 北宋的灭亡	běi sòng de miè wáng	10
@@ -1350270,7 +1351162,9 @@ sort: by_weight
 布鲁塞尔子	bù lǔ sài ěr zǐ	10
 布鲁氏杆菌	bù lǔ shì gǎn jūn	10
 布鲁氏菌病	bù lǔ shì jūn bìng	10
+布鲁斯口琴	bù lǔ sī kǒu qín	10
 布鲁斯特角	bù lǔ sī tè jiǎo	10
+布鲁斯音阶	bù lǔ sī yīn jiē	10
 不乱的发型	bú luàn de fà xíng	10
 不乱贴乱画	bú luàn tiē luàn huà	10
 不乱停乱放	bú luàn tíng luàn fàng	10
@@ -1358880,6 +1359774,7 @@ sort: by_weight
 电源的功率	diàn yuán de gōng lǜ	10
 电源管理键	diàn yuán guǎn lǐ jiàn	10
 电源进线柜	diàn yuán jìn xiàn guì	10
+电源适配器	diàn yuán shì pèi qì	10
 电源线连接	diàn yuán xiàn lián jiē	10
 滇云历年传	diān yún lì nián zhuàn	10
 点赞和分享	diǎn zàn hé fēn xiǎng	10
@@ -1358906,6 +1359801,7 @@ sort: by_weight
 电子飞行包	diàn zǐ fēi xíng bāo	10
 电子分色机	diàn zǐ fēn sè jī	10
 电子号火箭	diàn zǐ hào huǒ jiàn	10
+电子合成器	diàn zǐ hé chéng qì	10
 电子和空穴	diàn zǐ hé kōng xué	10
 电子计重秤	diàn zǐ jì zhòng chèng	10
 电子竞技类	diàn zǐ jìng jì lèi	10
@@ -1375500,6 +1376396,7 @@ sort: by_weight
 脊髓蛛网膜	jǐ suǐ zhū wǎng mó	10
 脊索动物门	jǐ suǒ dòng wù mén	10
 吉他霉素片	jí tā méi sù piàn	10
+吉他效果器	jí tā xiào guǒ qì	10
 基态波函数	jī tài bō hán shù	10
 基坦宗谷鳉	jī tǎn zōng gǔ jiāng	10
 鸡汤汆海蚌	jī tāng cuān hǎi bàng	10
@@ -1402874,6 +1403771,7 @@ sort: by_weight
 石榴的颜色	shí liu de yán sè	10
 十六的月亮	shí liù de yuè liàng	10
 石榴翻花发	shí liu fān huā fā	10
+十六分音符	shí liù fēn yīn fú	10
 十六国春秋	shí liù guó chūn qiū	10
 十六国时期	shí liù guó shí qī	10
 十六极形变	shí liù jí xíng biàn	10
@@ -1424438,6 +1425336,7 @@ sort: by_weight
 赢家的诅咒	yíng jiā de zǔ zhòu	10
 赢家和输家	yíng jiā hé shū jiā	10
 硬件的配置	yìng jiàn de pèi zhì	10
+硬件合成器	yìng jiàn hé chéng qì	10
 硬件和声音	yìng jiàn hé shēng yīn	10
 应简明扼要	yīng jiǎn míng è yào	10
 硬件与软件	yìng jiàn yǔ ruǎn jiàn	10
