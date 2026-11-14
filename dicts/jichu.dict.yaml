@@ -10133,6 +10133,7 @@ sort: by_weight
 不虚	bù xū	113
 不续	bú xù	90
 不恤	bú xù	72
+补叙	bǔ xù	54
 不选	bù xuǎn	3197
 补选	bǔ xuǎn	138
 不宣	bù xuān	110
@@ -13513,6 +13514,7 @@ sort: by_weight
 唱诗	chàng shī	97
 常侍	cháng shì	77
 唱时	chàng shí	61
+长时	cháng shí	52
 长逝	cháng shì	48
 畅食	chàng shí	38
 长寿	cháng shòu	3379
@@ -19274,6 +19276,7 @@ sort: by_weight
 此轮	cǐ lún	427
 次轮	cì lún	406
 此论	cǐ lùn	346
+词律	cí lǜ	54
 雌马	cí mǎ	16
 刺毛	cì máo	28
 刺梅	cì méi	9
@@ -23995,6 +23998,7 @@ sort: by_weight
 倒上	dào shàng	238
 导赏	dǎo shǎng	190
 盗摄	dào shè	148
+倒摄	dào shè	52
 刀身	dāo shēn	411
 刀神	dāo shén	370
 道声	dào shēng	1228
@@ -30307,6 +30311,7 @@ sort: by_weight
 朵花	duǒ huā	405
 多画	duō huà	204
 多滑	duō huá	163
+惰化	duò huà	52
 多坏	duō huài	201
 多环	duō huán	1328
 多会	duō huì	3554
@@ -36018,6 +36023,7 @@ sort: by_weight
 副词	fù cí	3043
 复次	fù cì	94
 父慈	fù cí	75
+复词	fù cí	54
 服从	fú cóng	6497
 辐辏	fú còu	50
 富村	fù cūn	13
@@ -40750,6 +40756,7 @@ sort: by_weight
 公断	gōng duàn	45
 贡缎	gòng duàn	40
 工队	gōng duì	1224
+工对	gōng duì	54
 公吨	gōng dūn	116
 公鹅	gōng é	901
 共轭	gòng è	856
@@ -51511,6 +51518,7 @@ sort: by_weight
 滑轮	huá lún	973
 花轮	huā lún	714
 画论	huà lùn	596
+话轮	huà lún	54
 滑落	huá luò	2553
 花落	huā luò	640
 划落	huà luò	512
@@ -54223,6 +54231,7 @@ sort: by_weight
 汇至	huì zhì	157
 慧智	huì zhì	136
 回滞	huí zhì	77
+回指	huí zhǐ	54
 会众	huì zhòng	179
 汇众	huì zhòng	141
 汇中	huì zhōng	112
@@ -54812,6 +54821,7 @@ sort: by_weight
 火绒	huǒ róng	424
 活肉	huó ròu	608
 活塞	huó sāi	7467
+霍桑	huò sāng	52
 货色	huò sè	1667
 火色	huǒ sè	549
 活杀	huó shā	747
@@ -61173,6 +61183,7 @@ sort: by_weight
 结对	jié duì	122
 结队	jié duì	110
 杰队	jié duì	99
+借对	jiè duì	54
 劫夺	jié duó	72
 解饿	jiě è	35
 解厄	jiě è	33
@@ -65653,6 +65664,7 @@ sort: by_weight
 聚了	jù le	307
 锯了	jù le	103
 聚类	jù lèi	2229
+句类	jù lèi	54
 巨冷	jù lěng	53
 距离	jù lí	100813
 举例	jǔ lì	32577
@@ -70366,6 +70378,7 @@ sort: by_weight
 宽店	kuān diàn	299
 款冬	kuǎn dōng	47
 宽度	kuān dù	14764
+宽对	kuān duì	54
 款额	kuǎn é	35
 宽泛	kuān fàn	4980
 宽粉	kuān fěn	1202
@@ -77226,6 +77239,7 @@ sort: by_weight
 灵子	líng zǐ	104
 绫子	líng zi	83
 铃子	líng zǐ	66
+领字	lǐng zì	54
 令子	lìng zǐ	52
 岭子	lǐng zi	41
 翎子	líng zi	32
@@ -79587,6 +79601,7 @@ sort: by_weight
 轮值	lún zhí	276
 论治	lùn zhì	216
 轮指	lún zhǐ	106
+论旨	lùn zhǐ	54
 轮种	lún zhòng	9
 轮轴	lún zhóu	571
 论著	lùn zhù	999
@@ -86190,6 +86205,7 @@ sort: by_weight
 沫若	mò ruò	1251
 莫若	mò ruò	1188
 墨色	mò sè	496
+摹色	mó sè	54
 莫森	mò sēn	69
 磨砂	mó shā	2342
 抹杀	mǒ shā	1774
@@ -86205,6 +86221,7 @@ sort: by_weight
 默笙	mò shēng	11992
 魔声	mó shēng	714
 魔圣	mó shèng	608
+摹声	mó shēng	54
 模式	mó shì	191220
 末世	mò shì	2684
 漠视	mò shì	2069
@@ -87452,6 +87469,7 @@ sort: by_weight
 那事	nà shì	469
 纳市	nà shì	160
 拿事	ná shì	128
+纳什	nà shí	42
 拿手	ná shǒu	5319
 那首	nà shǒu	1764
 哪首	nǎ shǒu	455
@@ -93955,6 +93973,7 @@ sort: by_weight
 偏移	piān yí	3425
 偏倚	piān yǐ	565
 偏宜	piān yí	476
+偏义	piān yì	54
 偏音	piān yīn	837
 偏印	piān yìn	795
 偏硬	piān yìng	1331
@@ -94831,6 +94850,7 @@ sort: by_weight
 平行	píng xíng	11696
 评星	píng xīng	752
 平胸	píng xiōng	782
+平叙	píng xù	54
 评选	píng xuǎn	6537
 平压	píng yā	94
 平阳	píng yáng	706
@@ -101284,6 +101304,7 @@ sort: by_weight
 取卵	qǔ luǎn	361
 曲率	qū lǜ	1210
 去绿	qù lǜ	67
+曲律	qǔ lǜ	54
 去吗	qù ma	1449
 驱马	qū mǎ	1377
 取吗	qǔ ma	654
@@ -102597,6 +102618,7 @@ sort: by_weight
 群晖	qún huī	3470
 群婚	qún hūn	69
 群集	qún jí	97
+群际	qún jì	52
 群架	qún jià	264
 裙甲	qún jiǎ	54
 群建	qún jiàn	891
@@ -113063,6 +113085,7 @@ sort: by_weight
 十时	shí shí	109
 实是	shí shì	62
 史事	shǐ shì	62
+施事	shī shì	54
 弑师	shì shī	6
 石室	shí shì	3
 失手	shī shǒu	2013
@@ -113678,6 +113701,7 @@ sort: by_weight
 实战	shí zhàn	26254
 施展	shī zhǎn	3730
 十站	shí zhàn	542
+失粘	shī zhān	54
 市长	shì zhǎng	4223
 师长	shī zhǎng	1541
 十张	shí zhāng	863
@@ -114558,6 +114582,7 @@ sort: by_weight
 受试	shòu shì	124
 守尸	shǒu shī	117
 收势	shōu shì	62
+受事	shòu shì	54
 收手	shōu shǒu	1488
 收受	shōu shòu	474
 瘦瘦	shòu shòu	351
@@ -115659,6 +115684,7 @@ sort: by_weight
 数位	shù wèi	1262
 鼠尾	shǔ wěi	1139
 殊为	shū wéi	188
+述位	shù wèi	54
 竖纹	shù wén	1125
 书文	shū wén	1069
 舒文	shū wén	1012
@@ -131202,6 +131228,7 @@ sort: by_weight
 微联	wēi lián	680
 伪恋	wěi liàn	529
 尾链	wěi liàn	69
+尾联	wěi lián	54
 微量	wēi liàng	1702
 微凉	wēi liáng	505
 微亮	wēi liàng	404
@@ -132567,6 +132594,7 @@ sort: by_weight
 文彦	wén yàn	95
 文艳	wén yàn	76
 闻堰	wén yàn	60
+文眼	wén yǎn	54
 文偃	wén yǎn	48
 纹样	wén yàng	637
 温阳	wēn yáng	125
@@ -139397,6 +139425,7 @@ sort: by_weight
 小弁	xiǎo biàn	81
 小表	xiǎo biǎo	1166
 小标	xiǎo biāo	1108
+效标	xiào biāo	52
 校表	xiào biǎo	48
 销表	xiāo biǎo	37
 小别	xiǎo bié	47
@@ -145583,6 +145612,7 @@ sort: by_weight
 寻食	xún shí	273
 寻师	xún shī	218
 训食	xùn shí	100
+训释	xùn shì	54
 驯兽	xùn shòu	126
 巡守	xún shǒu	120
 巡狩	xún shòu	113
@@ -150574,6 +150604,7 @@ sort: by_weight
 一久	yì jiǔ	106
 忆旧	yì jiù	84
 姨舅	yí jiù	67
+移就	yí jiù	54
 一句	yí jù	69752
 依据	yī jù	35029
 一举	yì jǔ	4860
@@ -151830,6 +151861,7 @@ sort: by_weight
 意乙	yì yǐ	71
 一揖	yì yī	62
 奕奕	yì yì	56
+异义	yì yì	54
 已矣	yǐ yǐ	35
 薏苡	yì yǐ	28
 疑议	yí yì	22
@@ -157102,6 +157134,7 @@ sort: by_weight
 于扬	yú yáng	216
 榆阳	yú yáng	160
 渔洋	yú yáng	107
+欲扬	yù yáng	54
 育养	yù yǎng	50
 余样	yú yàng	47
 裕阳	yù yáng	17
@@ -160661,6 +160694,7 @@ sort: by_weight
 择其	zé qí	166
 则其	zé qí	138
 泽漆	zé qī	110
+仄起	zè qǐ	54
 择取	zé qǔ	1035
 则取	zé qǔ	764
 责权	zé quán	107
@@ -161385,6 +161419,7 @@ sort: by_weight
 战端	zhàn duān	166
 战队	zhàn duì	7388
 站队	zhàn duì	4034
+粘对	zhān duì	54
 战法	zhàn fǎ	3831
 战犯	zhàn fàn	1096
 绽放	zhàn fàng	3134
@@ -163872,6 +163907,7 @@ sort: by_weight
 正朝	zhèng cháo	113
 蒸炒	zhēng chǎo	90
 整车	zhěng chē	4478
+正衬	zhèng chèn	54
 征尘	zhēng chén	22
 整成	zhěng chéng	1655
 征程	zhēng chéng	1007
@@ -167775,6 +167811,7 @@ sort: by_weight
 中庄	zhōng zhuāng	819
 钟状	zhōng zhuàng	521
 中桩	zhōng zhuāng	352
+中缀	zhōng zhuì	54
 种子	zhǒng zi	17286
 中资	zhōng zī	4603
 中子	zhōng zǐ	1102
@@ -171865,6 +171902,7 @@ sort: by_weight
 组播	zǔ bō	82
 足部	zú bù	1253
 足彩	zú cǎi	226
+组材	zǔ cái	54
 祖产	zǔ chǎn	122
 租场	zū chǎng	52
 租车	zū chē	2716
@@ -199147,6 +199185,7 @@ A姿势	a zī shì	50
 贝兹河	bèi zī hé	144
 北子湖	běi zǐ hú	50
 被自己	bèi zì jǐ	3784
+被字句	bèi zì jù	54
 杯子口	bēi zi kǒu	436
 被子里	bèi zi lǐ	1243
 杯子里	bēi zi lǐ	985
@@ -209303,6 +209342,7 @@ A姿势	a zī shì	50
 补充上	bǔ chōng shàng	361
 不充实	bù chōng shí	598
 补充时	bǔ chōng shí	448
+补充式	bǔ chōng shì	54
 补充水	bǔ chōng shuǐ	1161
 不冲水	bù chōng shuǐ	73
 补充说	bǔ chōng shuō	776
@@ -234299,6 +234339,7 @@ A姿势	a zī shì	50
 充电座	chōng diàn zuò	598
 冲掉了	chōng diào le	572
 冲调时	chōng diào shí	342
+重叠词	chóng dié cí	54
 重叠度	chóng dié dù	195
 重叠法	chóng dié fǎ	270
 重叠金	chóng dié jīn	369
@@ -237736,6 +237777,7 @@ A姿势	a zī shì	50
 初速高	chū sù gāo	346
 出隧道	chū suì dào	634
 除髓机	chú suǐ jī	45
+处所词	chù suǒ cí	54
 初拓本	chū tà běn	297
 出台的	chū tái de	1332
 出太行	chū tài háng	333
@@ -247723,6 +247765,7 @@ A姿势	a zī shì	50
 存下吧	cún xià ba	292
 存下来	cún xià lái	901
 存下了	cún xià le	608
+存现句	cún xiàn jù	54
 村先生	cūn xiān shēng	6
 存销比	cún xiāo bǐ	639
 村小学	cūn xiǎo xué	986
@@ -267775,6 +267818,7 @@ A姿势	a zī shì	50
 但遗传	dàn yí chuán	450
 但以此	dàn yǐ cǐ	770
 但一次	dàn yí cì	410
+单义词	dān yì cí	54
 但一大	dàn yí dà	446
 但一旦	dàn yí dàn	1084
 掸一掸	dǎn yī dǎn	52
@@ -282542,6 +282586,7 @@ DEM	dem	59
 跌一跤	diē yì jiāo	338
 叠衣区	dié yī qū	79
 跌一些	diē yì xiē	405
+叠音词	dié yīn cí	54
 蝶泳腿	dié yǒng tuǐ	46
 碟友会	dié yǒu huì	4
 碟鱼头	dié yú tóu	585
@@ -291256,6 +291301,7 @@ DSM	dsm	59
 队长级	duì zhǎng jí	361
 队长了	duì zhǎng le	590
 对账了	duì zhàng le	63
+对仗联	duì zhàng lián	54
 队长们	duì zhǎng men	91
 队长时	duì zhǎng shí	540
 队长秀	duì zhǎng xiù	6
@@ -303428,6 +303474,7 @@ DSM	dsm	59
 防溢板	fáng yì bǎn	26
 放一边	fàng yì biān	936
 放一遍	fàng yí biàn	39
+仿译词	fǎng yì cí	54
 放一次	fàng yí cì	52
 放一堆	fàng yì duī	201
 防疫队	fáng yì duì	181
@@ -311139,6 +311186,7 @@ DSM	dsm	59
 附加赛	fù jiā sài	1052
 福贾省	fú jiǎ shěng	396
 副驾驶	fù jià shǐ	1969
+附加式	fù jiā shì	54
 附加税	fù jiā shuì	568
 伏加特	fú jiā tè	288
 附加题	fù jiā tí	251
@@ -311152,6 +311200,7 @@ DSM	dsm	59
 符夹线	fú jiā xiàn	212
 附加项	fù jiā xiàng	526
 附加刑	fù jiā xíng	53
+附加义	fù jiā yì	54
 附加音	fù jiā yīn	351
 附加于	fù jiā yú	50
 附加值	fù jiā zhí	1404
@@ -315698,6 +315747,7 @@ DSM	dsm	59
 概念型	gài niàn xíng	446
 概念学	gài niàn xué	670
 概念一	gài niàn yī	968
+概念义	gài niàn yì	54
 该年月	gāi nián yuè	922
 概念照	gài niàn zhào	810
 该农场	gāi nóng chǎng	490
@@ -321539,6 +321589,7 @@ DSM	dsm	59
 高品位	gāo pǐn wèi	195
 高品味	gāo pǐn wèi	176
 高品质	gāo pǐn zhì	3934
+高频字	gāo pín zì	54
 高平仓	gāo píng cāng	252
 高平城	gāo píng chéng	378
 高平的	gāo píng de	400
@@ -332260,6 +332311,7 @@ DSM	dsm	59
 古今之	gǔ jīn zhī	765
 古今注	gǔ jīn zhù	50
 箍筋柱	gū jīn zhù	4
+古今字	gǔ jīn zì	54
 谷精草	gǔ jīng cǎo	87
 古井贡	gǔ jǐng gòng	97
 古镜记	gǔ jìng jì	22
@@ -334726,6 +334778,7 @@ DSM	dsm	59
 关键词	guān jiàn cí	53515
 关键的	guān jiàn de	1760
 关键点	guān jiàn diǎn	8968
+关键段	guān jiàn duàn	54
 关键分	guān jiàn fēn	52
 管建华	guǎn jiàn huá	378
 关键句	guān jiàn jù	1008
@@ -344633,6 +344686,7 @@ DSM	dsm	59
 寒与热	hán yǔ rè	34
 汉语时	hàn yǔ shí	526
 寒玉石	hán yù shí	236
+汉语史	hàn yǔ shǐ	54
 汉语文	hàn yǔ wén	806
 汉语系	hàn yǔ xì	47
 汉语言	hàn yǔ yán	1485
@@ -380315,6 +380369,7 @@ DSM	dsm	59
 基本型	jī běn xíng	349
 基本形	jī běn xíng	314
 基本性	jī běn xìng	283
+基本义	jī běn yì	54
 基本域	jī běn yù	346
 基本值	jī běn zhí	1134
 基本只	jī běn zhǐ	376
@@ -389770,6 +389825,7 @@ DSM	dsm	59
 简称吧	jiǎn chēng ba	209
 建成吧	jiàn chéng ba	104
 减成本	jiǎn chéng běn	806
+简称词	jiǎn chēng cí	54
 建成的	jiàn chéng de	1251
 建城河	jiàn chéng hé	4
 建成后	jiàn chéng hòu	738
@@ -390949,6 +391005,7 @@ DSM	dsm	59
 见了谁	jiàn le shuí	612
 见了说	jiàn le shuō	626
 见了血	jiàn le xuè	585
+兼类词	jiān lèi cí	54
 剑肋角	jiàn lèi jiǎo	90
 建冷库	jiàn lěng kù	333
 尖棱石	jiān léng shí	4
@@ -392356,11 +392413,13 @@ DSM	dsm	59
 监狱啊	jiān yù a	418
 监狱吧	jiān yù ba	369
 鉴于此	jiàn yú cǐ	590
+兼语词	jiān yǔ cí	54
 剑与盾	jiàn yǔ dùn	374
 监狱法	jiān yù fǎ	25
 剑与花	jiàn yǔ huā	292
 剑与剑	jiàn yǔ jiàn	297
 监狱局	jiān yù jú	500
+兼语句	jiān yǔ jù	54
 监狱了	jiān yù le	648
 监狱里	jiān yù lǐ	2653
 健与美	jiàn yǔ měi	25
@@ -408644,6 +408703,7 @@ DSM	dsm	59
 金鸡岩	jīn jī yán	212
 禁忌一	jìn jì yī	639
 晋冀豫	jìn jì yù	495
+禁忌语	jìn jì yǔ	54
 晋级战	jìn jí zhàn	338
 晋级者	jìn jí zhě	482
 禁忌症	jìn jì zhèng	509
@@ -409567,6 +409627,7 @@ DSM	dsm	59
 金钱围	jīn qián wéi	274
 金嵌岩	jīn qiàn yán	90
 近千亿	jìn qiān yì	652
+近迁移	jìn qiān yí	52
 近千元	jìn qiān yuán	711
 金钱运	jīn qián yùn	644
 金枪人	jīn qiāng rén	328
@@ -411160,6 +411221,7 @@ DSM	dsm	59
 金泽路	jīn zé lù	202
 金泽区	jīn zé qū	436
 尽责任	jìn zé rèn	63
+尽责性	jìn zé xìng	52
 进贼了	jìn zéi le	536
 金寨路	jīn zhài lù	19
 进窄门	jìn zhǎi mén	43
@@ -417876,6 +417938,7 @@ DSM	dsm	59
 居多数	jū duō shù	13
 巨恶心	jù ě xīn	60
 句法树	jù fǎ shù	3
+句法学	jù fǎ xué	54
 焗饭啊	jú fàn a	360
 据反映	jù fǎn yìng	724
 巨方便	jù fāng biàn	50
@@ -442972,6 +443035,7 @@ DSM	dsm	59
 泪液膜	lèi yè mó	306
 雷耶斯	léi yé sī	276
 雷爷爷	léi yé ye	243
+类义词	lèi yì cí	54
 累一点	lèi yì diǎn	702
 泪已尽	lèi yǐ jìn	310
 累一天	lèi yì tiān	648
@@ -444188,6 +444252,7 @@ DSM	dsm	59
 礼盒版	lǐ hé bǎn	320
 利和弊	lì hé bì	57
 离河边	lí hé biān	378
+离合词	lí hé cí	54
 离合点	lí hé diǎn	93
 离合杆	lí hé gān	48
 离合格	lí hé gé	279
@@ -451149,6 +451214,7 @@ DSM	dsm	59
 临时退	lín shí tuì	51
 临时性	lín shí xìng	851
 林师兄	lín shī xiōng	549
+临时义	lín shí yì	54
 鳞石英	lín shí yīng	238
 临时用	lín shí yòng	801
 临时站	lín shí zhàn	788
@@ -472688,6 +472754,7 @@ DSM	dsm	59
 蒙费梅	méng fèi méi	436
 梦非梦	mèng fēi mèng	3
 梦飞翔	mèng fēi xiáng	576
+梦分析	mèng fēn xī	52
 孟封饼	mèng fēng bǐng	180
 蒙府本	méng fǔ běn	346
 梦符祭	mèng fú jì	113
@@ -485865,6 +485932,7 @@ DSM	dsm	59
 内广场	nèi guǎng chǎng	504
 内鬼吧	nèi guǐ ba	202
 内轨道	nèi guǐ dào	544
+内归因	nèi guī yīn	52
 内过程	nèi guò chéng	387
 内国法	nèi guó fǎ	274
 内果皮	nèi guǒ pí	38
@@ -515205,6 +515273,7 @@ DSM	dsm	59
 皮靴子	pí xuē zi	19
 皮雅臣	pí yǎ chén	324
 皮亚蒂	pí yà dì	78
+皮亚杰	pí yà jié	52
 皮亚拉	pí yà lā	351
 皮亚省	pí yà shěng	274
 皮亚斯	pí yà sī	576
@@ -517951,6 +518020,7 @@ DSM	dsm	59
 评阅书	píng yuè shū	76
 凭运气	píng yùn qì	752
 平仄平	píng zè píng	666
+平仄谱	píng zè pǔ	54
 平仄声	píng zè shēng	297
 平仄韵	píng zè yùn	459
 平仄仄	píng zè zè	842
@@ -525548,6 +525618,7 @@ DSM	dsm	59
 签约台	qiān yuē tái	418
 签约者	qiān yuē zhě	19
 签约中	qiān yuē zhōng	598
+前运算	qián yùn suàn	52
 潜在的	qián zài de	1688
 潜在地	qián zài dì	590
 千载后	qiān zǎi hòu	288
@@ -531613,6 +531684,7 @@ DSM	dsm	59
 轻重伤	qīng zhòng shāng	19
 请重视	qǐng zhòng shì	66
 清中叶	qīng zhōng yè	508
+轻重音	qīng zhòng yīn	54
 轻中症	qīng zhōng zhèng	320
 轻中重	qīng zhōng zhòng	594
 青州兵	qīng zhōu bīng	82
@@ -556497,6 +556569,7 @@ DSM	dsm	59
 上下学	shàng xià xué	556
 上下牙	shàng xià yá	729
 上下眼	shàng xià yǎn	698
+上下义	shàng xià yì	54
 上下游	shàng xià yóu	2550
 上下有	shàng xià yǒu	720
 上下载	shàng xià zài	1296
@@ -562511,6 +562584,7 @@ DSM	dsm	59
 圣母吧	shèng mǔ ba	256
 省模板	shěng mú bǎn	130
 圣母婊	shèng mǔ biǎo	480
+声母表	shēng mǔ biǎo	54
 圣母殿	shèng mǔ diàn	513
 圣母峰	shèng mǔ fēng	22
 圣母宫	shèng mǔ gōng	364
@@ -565184,6 +565258,7 @@ DSM	dsm	59
 是非说	shì fēi shuō	464
 试飞台	shì fēi tái	38
 是非题	shì fēi tí	35
+是非问	shì fēi wèn	54
 是非心	shì fēi xīn	35
 师妃暄	shī fēi xuān	824
 事非宜	shì fēi yí	387
@@ -616042,6 +616117,7 @@ T姿势	t zī shì	50
 特制订	tè zhì dìng	20
 特值法	tè zhí fǎ	464
 特支费	tè zhī fèi	328
+特指问	tè zhǐ wèn	54
 特指我	tè zhǐ wǒ	338
 特种兵	tè zhǒng bīng	1331
 特种车	tè zhǒng chē	31
@@ -630344,6 +630420,7 @@ UV岛	uv dǎo	50
 外观图	wài guān tú	796
 外关穴	wài guān xué	3
 外广场	wài guǎng chǎng	684
+外归因	wài guī yīn	52
 外国版	wài guó bǎn	495
 外国菜	wài guó cài	549
 外国产	wài guó chǎn	770
@@ -685587,6 +685664,7 @@ UV岛	uv dǎo	50
 小樱花	xiǎo yīng huā	486
 小鹰级	xiǎo yīng jí	472
 小硬块	xiǎo yìng kuài	441
+效应量	xiào yìng liàng	52
 小营路	xiǎo yíng lù	333
 小荧幕	xiǎo yíng mù	504
 小樱牌	xiǎo yīng pái	292
@@ -697693,6 +697771,7 @@ UV岛	uv dǎo	50
 选择体	xuǎn zé tǐ	711
 选择听	xuǎn zé tīng	729
 选择完	xuǎn zé wán	810
+选择问	xuǎn zé wèn	54
 选择我	xuǎn zé wǒ	1292
 选择物	xuǎn zé wù	778
 选择线	xuǎn zé xiàn	824
@@ -719880,6 +719959,7 @@ UV岛	uv dǎo	50
 已译成	yǐ yì chéng	351
 已移除	yǐ yí chú	544
 一亿次	yí yì cì	75
+意译词	yì yì cí	54
 意义大	yì yì dà	914
 一揖道	yì yī dào	6
 意义的	yì yì de	7756
@@ -734457,6 +734537,7 @@ UV岛	uv dǎo	50
 于静瑶	yú jìng yáo	6
 玉京谣	yù jīng yáo	5
 于经野	yú jīng yě	4
+语境义	yǔ jìng yì	54
 与经营	yǔ jīng yíng	170
 语敬语	yǔ jìng yǔ	418
 御景园	yù jǐng yuán	414
@@ -736332,6 +736413,7 @@ UV岛	uv dǎo	50
 语意学	yǔ yì xué	169
 与医院	yǔ yī yuàn	217
 余亿元	yú yì yuán	195
+语义韵	yǔ yì yùn	54
 寓意着	yù yì zhe	474
 郁抑症	yù yì zhèng	284
 裕义庄	yù yì zhuāng	43
@@ -737727,6 +737809,7 @@ UV岛	uv dǎo	50
 元钱了	yuán qián le	544
 愿前去	yuàn qián qù	306
 愿前往	yuàn qián wǎng	544
+远迁移	yuǎn qiān yí	52
 院墙边	yuàn qiáng biān	428
 源强度	yuán qiáng dù	446
 院墙外	yuàn qiáng wài	562
@@ -740466,6 +740549,7 @@ UV岛	uv dǎo	50
 云渺渺	yún miǎo miǎo	450
 云模式	yún mó shì	19
 云母板	yún mǔ bǎn	320
+韵母表	yùn mǔ biǎo	54
 云母带	yún mǔ dài	297
 云母粉	yún mǔ fěn	16
 云母片	yún mǔ piàn	16
@@ -746230,6 +746314,7 @@ UV岛	uv dǎo	50
 攒下钱	zǎn xià qián	52
 咱现在	zán xiàn zài	612
 咱兄弟	zán xiōng dì	436
+赞许性	zàn xǔ xìng	52
 攒学费	zǎn xué fèi	44
 咱学校	zán xué xiào	526
 赞扬吧	zàn yáng ba	212
@@ -757758,6 +757843,7 @@ UV岛	uv dǎo	50
 正反射	zhèng fǎn shè	279
 正反手	zhèng fǎn shǒu	534
 争番位	zhēng fān wèi	9
+正反问	zhèng fǎn wèn	54
 正反握	zhèng fǎn wò	369
 蒸饭箱	zhēng fàn xiāng	16
 正反向	zhèng fǎn xiàng	14
@@ -762836,6 +762922,7 @@ UV岛	uv dǎo	50
 只适用	zhǐ shì yòng	188
 只是有	zhǐ shì yǒu	832
 只是由	zhǐ shì yóu	257
+指示语	zhǐ shì yǔ	54
 知识源	zhī shi yuán	16
 至十月	zhì shí yuè	652
 只是在	zhǐ shì zài	17308
@@ -769025,6 +769112,7 @@ UV岛	uv dǎo	50
 主动件	zhǔ dòng jiàn	256
 主动讲	zhǔ dòng jiǎng	513
 主动交	zhǔ dòng jiāo	900
+主动句	zhǔ dòng jù	54
 主动开	zhǔ dòng kāi	963
 主动看	zhǔ dòng kàn	621
 主动抗	zhǔ dòng kàng	333
@@ -773765,6 +773853,7 @@ UV岛	uv dǎo	50
 状态吧	zhuàng tài ba	770
 状态表	zhuàng tài biǎo	78
 状态差	zhuàng tài chà	711
+状态词	zhuàng tài cí	54
 装台单	zhuāng tái dān	53
 状态灯	zhuàng tài dēng	414
 状态多	zhuàng tài duō	639
@@ -779567,6 +779656,7 @@ UV岛	uv dǎo	50
 租客卡	zū kè kǎ	78
 租客们	zū kè men	432
 租空调	zū kōng tiáo	243
+组块化	zǔ kuài huà	52
 足溃疡	zú kuì yáng	351
 阻拦了	zǔ lán le	634
 足篮排	zú lán pái	432
@@ -789738,6 +789828,7 @@ AI修图	ai xiū tú	50
 奥克萨娜	ào kè sà nà	482
 奥克塔夫	ào kè tǎ fū	446
 奥克伍德	ào kè wǔ dé	576
+奥肯定律	ào kěn dìng lǜ	42
 奥库涅夫	ào kù niè fū	274
 澳坤生物	ào kūn shēng wù	144
 奥拉杜尔	ào lā dù ěr	369
@@ -800621,6 +800712,7 @@ AI修图	ai xiū tú	50
 保卫黄河	bǎo wèi huáng hé	28
 保卫家国	bǎo wèi jiā guó	410
 保卫家园	bǎo wèi jiā yuán	75
+包围结构	bāo wéi jié gòu	54
 保卫科长	bǎo wèi kē zhǎng	38
 宝威控股	bǎo wēi kòng gǔ	202
 保卫蓝天	bǎo wèi lán tiān	302
@@ -800740,6 +800832,7 @@ AI修图	ai xiū tú	50
 保险费率	bǎo xiǎn fèi lǜ	855
 保险费用	bǎo xiǎn fèi yong	298
 保险杠灯	bǎo xiǎn gàng dēng	171
+保险杠杆	bǎo xiǎn gàng gǎn	42
 保险杠前	bǎo xiǎn gàng qián	400
 保险公估	bǎo xiǎn gōng gū	477
 保鲜功能	bǎo xiān gōng néng	477
@@ -802048,6 +802141,7 @@ AI修图	ai xiū tú	50
 被动运输	bèi dòng yùn shū	324
 被动褶皱	bèi dòng zhě zhòu	45
 被动致敏	bèi dòng zhì mǐn	4
+被动指数	bèi dòng zhǐ shù	42
 被动转移	bèi dòng zhuǎn yí	230
 被动转运	bèi dòng zhuǎn yùn	180
 被动状态	bèi dòng zhuàng tài	580
@@ -806644,6 +806738,7 @@ AI修图	ai xiū tú	50
 比较像样	bǐ jiào xiàng yàng	630
 比较消极	bǐ jiào xiāo jí	662
 比较小众	bǐ jiào xiǎo zhòng	909
+比较心理	bǐ jiào xīn lǐ	52
 比较信任	bǐ jiào xìn rèn	756
 比较新鲜	bǐ jiào xīn xiān	1305
 比较新颖	bǐ jiào xīn yǐng	922
@@ -806804,6 +806899,7 @@ AI修图	ai xiū tú	50
 碧口水库	bì kǒu shuǐ kù	117
 闭口无言	bì kǒu wú yán	3
 闭口印模	bì kǒu yìn mó	45
+比况短语	bǐ kuàng duǎn yǔ	54
 比奎斯特	bǐ kuí sī tè	52
 吡喹酮片	bǐ kuí tóng piàn	3
 比拉比拉	bǐ lā bǐ lā	144
@@ -807509,6 +807605,8 @@ AI修图	ai xiū tú	50
 沘水之战	bǐ shuǐ zhī zhàn	4
 笔顺笔画	bǐ shùn bǐ huà	252
 笔顺标准	bǐ shùn biāo zhǔn	76
+笔顺规范	bǐ shùn guī fàn	54
+笔顺规则	bǐ shùn guī zé	54
 毕斯柏里	bì sī bǎi lǐ	315
 吡斯的明	bǐ sī de míng	459
 比死还要	bǐ sǐ hái yào	22
@@ -808146,6 +808244,7 @@ AI修图	ai xiū tú	50
 碧玉戒指	bì yù jiè zhǐ	144
 碧玉矿洞	bì yù kuàng dòng	180
 碧玉蓝天	bì yù lán tiān	225
+比喻论证	bǐ yù lùn zhèng	54
 碧玉琵琶	bì yù pí pa	153
 比预期好	bǐ yù qī hǎo	486
 碧玉如意	bì yù rú yì	153
@@ -810087,6 +810186,7 @@ AI修图	ai xiū tú	50
 表达感谢	biǎo dá gǎn xiè	999
 表达观点	biǎo dá guān diǎn	900
 表达技巧	biǎo dá jì qiǎo	819
+表达交流	biǎo dá jiāo liú	54
 表达敬意	biǎo dá jìng yì	684
 表达抗议	biǎo dá kàng yì	572
 表达内心	biǎo dá nèi xīn	756
@@ -810468,6 +810568,7 @@ AI修图	ai xiū tú	50
 标签条码	biāo qiān tiáo mǎ	69
 标签跳转	biāo qiān tiào zhuǎn	50
 标签显示	biāo qiān xiǎn shì	454
+标签效应	biāo qiān xiào yìng	52
 标签样式	biāo qiān yàng shì	28
 标签页里	biāo qiān yè lǐ	16
 标签移除	biāo qiān yí chú	144
@@ -810770,6 +810871,7 @@ AI修图	ai xiū tú	50
 标养设备	biāo yǎng shè bèi	45
 表扬先进	biǎo yáng xiān jìn	297
 表扬勋章	biǎo yáng xūn zhāng	153
+表意不明	biǎo yì bù míng	54
 表遗传学	biǎo yí chuán xué	76
 表异构酶	biǎo yì gòu méi	4
 表异构物	biǎo yì gòu wù	50
@@ -810835,6 +810937,7 @@ AI修图	ai xiū tú	50
 标准参照	biāo zhǔn cān zhào	28
 标准层位	biāo zhǔn céng wèi	45
 标准厂房	biāo zhǔn chǎng fáng	13
+标准成本	biāo zhǔn chéng běn	42
 标准程序	biāo zhǔn chéng xù	644
 标准尺寸	biāo zhǔn chǐ cùn	298
 标准尺度	biāo zhǔn chǐ dù	328
@@ -811590,6 +811693,7 @@ AI修图	ai xiū tú	50
 别太过分	bié tài guò fèn	122
 别太急啊	bié tài jí a	45
 别太较真	bié tài jiào zhēn	103
+别太紧张	bié tài jǐn zhāng	52
 别太累着	bié tài lèi zhe	270
 别太离谱	bié tài lí pǔ	52
 别太晚了	bié tài wǎn le	306
@@ -812831,6 +812935,7 @@ AI修图	ai xiū tú	50
 并列第二	bìng liè dì èr	670
 并列第三	bìng liè dì sān	652
 并列第一	bìng liè dì yī	528
+并列短语	bìng liè duǎn yǔ	54
 并列冠军	bìng liè guàn jūn	31
 并列关系	bìng liè guān xì	512
 并列机枪	bìng liè jī qiāng	468
@@ -822371,6 +822476,7 @@ AI修图	ai xiū tú	50
 不死之王	bù sǐ zhī wáng	212
 不死之药	bù sǐ zhī yào	22
 不松不紧	bù sōng bù jǐn	44
+不送气音	bú sòng qì yīn	54
 不俗表现	bù sú biǎo xiàn	666
 不诉不理	bú sù bù lǐ	130
 不俗不媚	bù sú bú mèi	194
@@ -826254,6 +826360,7 @@ AI修图	ai xiū tú	50
 财产权益	cái chǎn quán yì	119
 财产确权	cái chǎn què quán	99
 财产申报	cái chǎn shēn bào	634
+财产收入	cái chǎn shōu rù	42
 财产损失	cái chǎn sǔn shī	1162
 财产问题	cái chǎn wèn tí	662
 财产线索	cái chǎn xiàn suǒ	68
@@ -827821,6 +827928,7 @@ AI修图	ai xiū tú	50
 财政困难	cái zhèng kùn nan	229
 才整明白	cái zhěng míng bai	346
 财政年度	cái zhèng nián dù	185
+财政平衡	cái zhèng píng héng	42
 财政审计	cái zhèng shěn jì	536
 财政事权	cái zhèng shì quán	423
 财政事务	cái zhèng shì wù	504
@@ -829599,6 +829707,7 @@ AI修图	ai xiū tú	50
 操纵股价	cāo zòng gǔ jià	729
 操纵股市	cāo zòng gǔ shì	410
 操纵基因	cāo zòng jī yīn	369
+操纵检验	cāo zòng jiǎn yàn	52
 操纵市场	cāo zòng shì chǎng	374
 操纵手感	cāo zòng shǒu gǎn	38
 操纵输出	cāo zòng shū chū	38
@@ -829627,6 +829736,7 @@ AI修图	ai xiū tú	50
 操作电脑	cāo zuò diàn nǎo	192
 操作电压	cāo zuò diàn yā	324
 操作电源	cāo zuò diàn yuán	382
+操作定义	cāo zuò dìng yì	52
 操作对象	cāo zuò duì xiàng	490
 操作方案	cāo zuò fāng àn	626
 操作方便	cāo zuò fāng biàn	710
@@ -829891,6 +830001,7 @@ AI修图	ai xiū tú	50
 测量结果	cè liáng jié guǒ	1033
 测量介质	cè liáng jiè zhì	202
 测量精度	cè liáng jīng dù	311
+测量理论	cè liáng lǐ lùn	52
 测量量程	cè liáng liáng chéng	202
 测量罗盘	cè liáng luó pán	50
 测量平差	cè liáng píng chà	333
@@ -831873,6 +831984,7 @@ AI修图	ai xiū tú	50
 产钳助产	chǎn qián zhù chǎn	351
 产前子痫	chǎn qián zǐ xián	117
 产权保护	chǎn quán bǎo hù	100
+产权比率	chǎn quán bǐ lǜ	42
 产权变更	chǎn quán biàn gēng	22
 产权查询	chǎn quán chá xún	45
 产权车位	chǎn quán chē wèi	78
@@ -832069,6 +832181,7 @@ AI修图	ai xiū tú	50
 产业定位	chǎn yè dìng wèi	644
 产业对接	chǎn yè duì jiē	711
 产业发展	chǎn yè fā zhǎn	1542
+产业分工	chǎn yè fēn gōng	42
 产业分类	chǎn yè fēn lèi	495
 产业氛围	chǎn yè fēn wéi	315
 产业峰会	chǎn yè fēng huì	644
@@ -833000,6 +833113,7 @@ AI修图	ai xiū tú	50
 常见题型	cháng jiàn tí xíng	513
 常见问题	cháng jiàn wèn tí	2839
 常见现象	cháng jiàn xiàn xiàng	698
+常见虚词	cháng jiàn xū cí	54
 肠减压术	cháng jiǎn yā shù	76
 常见异常	cháng jiàn yì cháng	13
 昌建誉峰	chāng jiàn yù fēng	320
@@ -833246,6 +833360,7 @@ AI修图	ai xiū tú	50
 场面宏大	chǎng miàn hóng dà	698
 场面恢宏	chǎng miàn huī hóng	306
 场面火爆	chǎng miàn huǒ bào	50
+场面描写	chǎng miàn miáo xiě	54
 场面失控	chǎng miàn shī kòng	477
 场面血腥	chǎng miàn xuè xīng	423
 长眠于此	cháng mián yú cǐ	63
@@ -833258,6 +833373,7 @@ AI修图	ai xiū tú	50
 长命富贵	cháng mìng fù guì	356
 长命功夫	cháng mìng gōng fu	50
 肠鸣下利	cháng míng xià lì	338
+常模参照	cháng mó cān zhào	52
 长目飞耳	cháng mù fēi ěr	117
 长那么大	cháng nà me dà	662
 长那么帅	cháng nà me shuài	364
@@ -833274,6 +833390,7 @@ AI修图	ai xiū tú	50
 场内矿柱	chǎng nèi kuàng zhù	45
 场内期权	chǎng nèi qī quán	369
 肠内容物	cháng nèi róng wù	536
+场内市场	chǎng nèi shì chǎng	42
 厂内污水	chǎng nèi wū shuǐ	207
 肠内细菌	cháng nèi xì jūn	504
 肠内营养	cháng nèi yíng yǎng	141
@@ -833873,6 +833990,7 @@ AI修图	ai xiū tú	50
 长椭圆形	cháng tuǒ yuán xíng	41
 场外工程	chǎng wài gōng chéng	50
 场外观望	chǎng wài guān wàng	428
+场外基金	chǎng wài jī jīn	42
 场外交易	chǎng wài jiāo yì	559
 肠外结核	cháng wài jié hé	144
 场外配资	chǎng wài pèi zī	724
@@ -837594,6 +837712,7 @@ AI修图	ai xiū tú	50
 成本超支	chéng běn chāo zhī	446
 成本方面	chéng běn fāng miàn	819
 成本费用	chéng běn fèi yong	820
+成本分摊	chéng běn fèn tān	42
 成本分析	chéng běn fèn xī	289
 成本高昂	chéng běn gāo áng	878
 成本高企	chéng běn gāo qǐ	662
@@ -837605,6 +837724,7 @@ AI修图	ai xiū tú	50
 成本管理	chéng běn guǎn lǐ	383
 成本归集	chéng běn guī jí	342
 成本过高	chéng běn guò gāo	932
+成本函数	chéng běn hán shù	42
 成本耗用	chéng běn hào yòng	243
 成本核算	chéng běn hé suàn	584
 成本很低	chéng běn hěn dī	864
@@ -837894,6 +838014,7 @@ AI修图	ai xiū tú	50
 诚非所料	chéng fēi suǒ liào	45
 乘肥衣轻	chéng féi yì qīng	117
 诚非易事	chéng fēi yì shì	194
+成分残缺	chéng fèn cán quē	54
 成分分析	chéng fèn fēn xī	1130
 成分复杂	chéng fèn fù zá	670
 成分股中	chéng fèn gǔ zhōng	531
@@ -837905,6 +838026,7 @@ AI修图	ai xiū tú	50
 成分指数	chéng fèn zhǐ shù	414
 成分之一	chéng fèn zhī yī	756
 惩忿窒欲	chéng fèn zhì yù	266
+成分赘余	chéng fèn zhuì yú	54
 乘风而来	chéng fēng ér lái	351
 乘风而起	chéng fēng ér qǐ	490
 乘风而去	chéng fēng ér qù	387
@@ -838448,6 +838570,7 @@ AI修图	ai xiū tú	50
 成就了他	chéng jiù le tā	330
 成就满满	chéng jiù mǎn mǎn	288
 成就梦想	chéng jiù mèng xiǎng	693
+成就目标	chéng jiù mù biāo	52
 成就人生	chéng jiù rén shēng	621
 成就事业	chéng jiù shì yè	110
 成就四法	chéng jiù sì fǎ	162
@@ -840064,6 +840187,7 @@ AI修图	ai xiū tú	50
 成长日记	chéng zhǎng rì jì	94
 成长手册	chéng zhǎng shǒu cè	73
 成长速度	chéng zhǎng sù dù	1008
+成长投资	chéng zhǎng tóu zī	42
 成长性高	chéng zhǎng xìng gāo	60
 成长性好	chéng zhǎng xìng hǎo	107
 成长迅速	chéng zhǎng xùn sù	182
@@ -842937,6 +843061,7 @@ AI修图	ai xiū tú	50
 冲突不断	chōng tū bú duàn	778
 冲突规范	chōng tū guī fàn	16
 冲突加剧	chōng tū jiā jù	670
+冲突解决	chōng tū jiě jué	52
 冲突矛盾	chōng tū máo dùn	616
 冲突事件	chōng tū shì jiàn	788
 冲突实验	chōng tū shí yàn	45
@@ -846530,6 +846655,7 @@ AI修图	ai xiū tú	50
 储蓄存款	chǔ xù cún kuǎn	468
 储蓄国债	chǔ xù guó zhài	210
 触绪还伤	chù xù hái shāng	99
+储蓄倾向	chǔ xù qīng xiàng	42
 储蓄投资	chǔ xù tóu zī	742
 触须星系	chù xū xīng xì	338
 储蓄银行	chǔ xù yín háng	104
@@ -848865,6 +848991,7 @@ AI修图	ai xiū tú	50
 床上用品	chuáng shàng yòng pǐn	747
 创伤愈合	chuāng shāng yù hé	16
 床上运动	chuáng shàng yùn dòng	47
+创伤障碍	chuāng shāng zhàng ài	52
 创伤治疗	chuāng shāng zhì liáo	405
 创伤指数	chuāng shāng zhǐ shù	45
 创伤止痛	chuāng shāng zhǐ tòng	130
@@ -850938,6 +851065,7 @@ AI修图	ai xiū tú	50
 此高彼低	cǐ gāo bǐ dī	162
 瓷高嵌体	cí gāo qiàn tǐ	45
 磁各庄桥	cí gè zhuāng qiáo	45
+词根词缀	cí gēn cí zhuì	54
 赐功臣号	cì gōng chén hào	99
 磁共振仪	cí gòng zhèn yí	85
 此公众号	cǐ gōng zhòng hào	657
@@ -851012,10 +851140,12 @@ AI修图	ai xiū tú	50
 磁簧开关	cí huáng kāi guān	117
 次黄嘌呤	cì huáng piào lìng	38
 磁黄铁矿	cí huáng tiě kuàng	297
+词汇规范	cí huì guī fàn	54
 词汇汇编	cí huì huì biān	194
 词汇量大	cí huì liàng dà	662
 此会菩萨	cǐ huì pú sà	50
 词汇歧义	cí huì qí yì	428
+词汇衔接	cí huì xián jiē	54
 此会相逢	cǐ huì xiāng féng	4
 词汇语法	cí huì yǔ fǎ	958
 次火锅了	cì huǒ guō le	288
@@ -851296,6 +851426,7 @@ AI修图	ai xiū tú	50
 磁偶极矩	cí ǒu jí jǔ	50
 磁偶极子	cí ǒu jí zǐ	459
 瓷偶娃娃	cí ǒu wá wa	45
+词牌格律	cí pái gé lǜ	54
 磁盘分区	cí pán fēn qū	72
 磁盘管理	cí pán guǎn lǐ	31
 磁盘坏道	cí pán huài dào	96
@@ -851832,6 +851963,7 @@ AI修图	ai xiū tú	50
 赐也何如	cì yě hé rú	180
 此夜红楼	cǐ yè hóng lóu	76
 词义辨析	cí yì biàn xī	436
+词义范围	cí yì fàn wéi	54
 此役过后	cǐ yì guò hòu	603
 词义扩大	cí yì kuò dà	52
 此意难平	cǐ yì nán píng	50
@@ -851839,8 +851971,12 @@ AI修图	ai xiū tú	50
 此意徘徊	cǐ yì pái huái	4
 辞以情发	cí yǐ qíng fā	52
 此意如何	cǐ yì rú hé	130
+词义色彩	cí yì sè cǎi	54
 此一时也	cǐ yì shí yě	369
 词义缩小	cí yì suō xiǎo	153
+词义虚化	cí yì xū huà	54
+词义演变	cí yì yǎn biàn	54
+词义引申	cí yì yǐn shēn	54
 此意悠悠	cǐ yì yōu yōu	76
 此役之后	cǐ yì zhī hòu	35
 词义转移	cí yì zhuǎn yí	52
@@ -851849,8 +851985,10 @@ AI修图	ai xiū tú	50
 刺罂粟碱	cì yīng sù jiǎn	45
 次优控制	cì yōu kòng zhì	45
 词优效应	cí yōu xiào yìng	45
+词语辨析	cí yǔ biàn xī	54
 赐予封号	cì yǔ fēng hào	180
 茨榆岗子	cí yú gǎng zi	45
+词语构成	cí yǔ gòu chéng	54
 词语接龙	cí yǔ jiē lóng	25
 词语解释	cí yǔ jiě shì	526
 词语类型	cí yǔ lèi xíng	99
@@ -854000,6 +854138,7 @@ AI修图	ai xiū tú	50
 错误函数	cuò wù hán shù	189
 错误汇总	cuò wù huì zǒng	162
 错误集锦	cuò wù jí jǐn	6
+错误记忆	cuò wù jì yì	52
 错误校验	cuò wù jiào yàn	96
 错误校正	cuò wù jiào zhèng	418
 错误解决	cuò wù jiě jué	360
@@ -859691,6 +859830,7 @@ AI修图	ai xiū tú	50
 大小河街	dà xiǎo hé jiē	153
 大小合适	dà xiǎo hé shì	1116
 大小和卓	dà xiǎo hé zhuó	46
+大小恒常	dà xiǎo héng cháng	52
 大小货车	dà xiǎo huò chē	171
 大小伙子	dà xiǎo huǒ zi	295
 大笑金刚	dà xiào jīn gāng	50
@@ -866416,6 +866556,7 @@ AI修图	ai xiū tú	50
 道德齐礼	dào dé qí lǐ	4
 道德谴责	dào dé qiǎn zé	371
 道德情操	dào dé qíng cāo	132
+道德情感	dào dé qíng gǎn	52
 道德缺失	dào dé quē shī	554
 叨得人烦	dāo dé rén fán	59
 道德认识	dào dé rèn shi	50
@@ -867154,6 +867295,8 @@ AI修图	ai xiū tú	50
 倒立喝水	dào lì hē shuǐ	13
 到离婚的	dào lí hūn de	531
 岛丽莉岛	dǎo lì lì dǎo	76
+道理论据	dào lǐ lùn jù	54
+道理论证	dào lǐ lùn zhèng	54
 到里面去	dào lǐ miàn qù	824
 导力魔法	dǎo lì mó fǎ	243
 倒立体式	dào lì tǐ shì	328
@@ -868933,6 +869076,7 @@ AI修图	ai xiū tú	50
 德主刑辅	dé zhǔ xíng fǔ	6
 得助智能	dé zhù zhì néng	45
 得子得势	dé zǐ dé shì	76
+的字短语	de zì duǎn yǔ	54
 德滋画廊	dé zī huà láng	99
 德资企业	dé zī qǐ yè	450
 得罪不得	dé zuì bù dé	25
@@ -877024,6 +877168,7 @@ AI修图	ai xiū tú	50
 典型分解	diǎn xíng fēn jiě	45
 典型分裂	diǎn xíng fēn liè	45
 典型过程	diǎn xíng guò chéng	194
+典型环境	diǎn xíng huán jìng	54
 典型霍乱	diǎn xíng huò luàn	117
 电性检测	diàn xìng jiǎn cè	96
 典型经验	diǎn xíng jīng yàn	630
@@ -878469,6 +878614,7 @@ AI修图	ai xiū tú	50
 蝶岛信风	dié dǎo xìn fēng	45
 跌倒预防	diē dǎo yù fáng	85
 跌倒在地	diē dǎo zài dì	144
+跌得厉害	diē de lì hai	42
 爹地爱你	diē dì ài nǐ	117
 跌地上了	diē dì shàng le	54
 跌跌绊绊	diē diē bàn bàn	13
@@ -878772,6 +878918,7 @@ AI修图	ai xiū tú	50
 定单明细	dìng dān míng xì	45
 订单农业	dìng dān nóng yè	42
 订单取消	dìng dān qǔ xiāo	103
+订单融资	dìng dān róng zī	42
 定胆杀号	dìng dǎn shā hào	50
 订单审核	dìng dān shěn hé	100
 订单申诉	dìng dān shēn sù	93
@@ -878900,6 +879047,7 @@ AI修图	ai xiū tú	50
 定额抽样	dìng é chōu yàng	45
 定额管理	dìng é guǎn lǐ	3
 定额计价	dìng é jì jià	382
+定额税率	dìng é shuì lǜ	42
 定额调整	dìng é tiáo zhěng	16
 定额子目	dìng é zǐ mù	356
 定二次型	dìng èr cì xíng	225
@@ -879288,6 +879436,7 @@ AI修图	ai xiū tú	50
 定期体检	dìng qī tǐ jiǎn	1278
 定期调整	dìng qī tiáo zhěng	157
 定期通报	dìng qī tōng bào	531
+定期投资	dìng qī tóu zī	42
 定期推送	dìng qī tuī sòng	909
 定期维护	dìng qī wéi hù	176
 定期洗牙	dìng qī xǐ yá	598
@@ -880001,6 +880150,8 @@ AI修图	ai xiū tú	50
 东边城街	dōng biān chéng jiē	225
 东边李家	dōng biān lǐ jiā	4
 东便门桥	dōng biàn mén qiáo	279
+动宾短语	dòng bīn duǎn yǔ	54
+动宾关系	dòng bīn guān xì	54
 东滨河路	dōng bīn hé lù	356
 冬病夏治	dōng bìng xià zhì	760
 东部榜首	dōng bù bǎng shǒu	274
@@ -880930,6 +881081,7 @@ AI修图	ai xiū tú	50
 董记煎饼	dǒng jì jiān bing	459
 冬季进补	dōng jì jìn bǔ	558
 冬季来临	dōng jì lái lín	666
+动机理论	dòng jī lǐ lùn	52
 冬季两项	dōng jì liǎng xiàng	47
 动集列车	dòng jí liè chē	52
 冬季旅游	dōng jì lǚ yóu	837
@@ -880941,6 +881093,7 @@ AI修图	ai xiū tú	50
 冬季飘雪	dōng jì piāo xuě	162
 动机剖析	dòng jī pōu xī	130
 冬季气温	dōng jì qì wēn	792
+动机强度	dòng jī qiáng dù	52
 冬季清园	dōng jì qīng yuán	130
 冬季取暖	dōng jì qǔ nuǎn	634
 冬季瘙痒	dōng jì sào yǎng	387
@@ -882641,6 +882794,7 @@ AI修图	ai xiū tú	50
 动作电位	dòng zuò diàn wèi	493
 动作电影	dòng zuò diàn yǐng	1066
 动作定向	dòng zuò dìng xiàng	4
+动作发展	dòng zuò fā zhǎn	52
 动作犯罪	dòng zuò fàn zuì	670
 动作幅度	dòng zuò fú dù	788
 动作规范	dòng zuò guī fàn	51
@@ -888063,10 +888217,12 @@ AI修图	ai xiū tú	50
 对苯二酚	duì běn èr fēn	104
 对比表格	duì bǐ biǎo gé	52
 对比测试	duì bǐ cè shì	286
+对比衬托	duì bǐ chèn tuō	54
 对比方案	duì bǐ fāng àn	220
 对比方式	duì bǐ fāng shì	374
 对比分析	duì bǐ fēn xī	1026
 对比结果	duì bǐ jié guǒ	52
+对比论证	duì bǐ lùn zhèng	54
 对比起来	duì bǐ qǐ lái	1086
 对比强烈	duì bǐ qiáng liè	770
 对比试块	duì bǐ shì kuài	43
@@ -888291,6 +888447,7 @@ AI修图	ai xiū tú	50
 对各车间	duì gè chē jiān	99
 堆个雪人	duī gè xuě rén	19
 兑宫八卦	duì gōng bā guà	50
+对公存款	duì gōng cún kuǎn	42
 对公客户	duì gōng kè hù	675
 对公务员	duì gōng wù yuán	806
 对公业务	duì gōng yè wù	657
@@ -889650,6 +889807,7 @@ AI修图	ai xiū tú	50
 多丢人啊	duō diū rén a	531
 多丢人的	duō diū rén de	392
 多动脉炎	duō dòng mài yán	369
+多动障碍	duō dòng zhàng ài	52
 躲都不躲	duǒ dōu bù duǒ	266
 多读点书	duō dú diǎn shū	706
 多读多背	duō dú duō bèi	472
@@ -890734,6 +890892,7 @@ AI修图	ai xiū tú	50
 多数时候	duō shù shí hou	1256
 多数时间	duō shù shí jiān	1066
 多数学生	duō shù xué shēng	232
+多数影响	duō shù yǐng xiǎng	52
 多数优势	duō shù yōu shì	464
 多刷几遍	duō shuā jǐ biàn	52
 多耍几天	duō shuǎ jǐ tiān	76
@@ -891160,6 +891319,7 @@ AI修图	ai xiū tú	50
 多元复合	duō yuán fù hé	410
 多元共治	duō yuán gòng zhì	446
 多元函数	duō yuán hán shù	352
+多元回归	duō yuán huí guī	42
 多元解纷	duō yuán jiě fēn	130
 多元金融	duō yuán jīn róng	608
 多元评价	duō yuán píng jià	73
@@ -896475,6 +896635,7 @@ ENSO	enso	59
 法律相关	fǎ lǜ xiāng guān	734
 法律效果	fǎ lǜ xiào guǒ	657
 法律效力	fǎ lǜ xiào lì	1112
+法律心理	fǎ lǜ xīn lǐ	52
 法律信仰	fǎ lǜ xìn yǎng	418
 法律形式	fǎ lǜ xíng shì	670
 法律行为	fǎ lǜ xíng wéi	950
@@ -897219,6 +897380,7 @@ ENSO	enso	59
 发现行踪	fā xiàn xíng zōng	342
 发现许多	fā xiàn xǔ duō	954
 发现学生	fā xiàn xué shēng	824
+发现学习	fā xiàn xué xí	52
 发现异常	fā xiàn yì cháng	537
 发现一处	fā xiàn yí chù	688
 发现一点	fā xiàn yì diǎn	752
@@ -897446,6 +897608,7 @@ ENSO	enso	59
 发音不对	fā yīn bú duì	47
 发音部位	fā yīn bù wèi	232
 发音不准	fā yīn bù zhǔn	232
+发音方法	fā yīn fāng fǎ	54
 发音规则	fā yīn guī zé	819
 发音困难	fā yīn kùn nan	423
 发音练习	fā yīn liàn xí	706
@@ -897753,6 +897916,7 @@ ENSO	enso	59
 发展先行	fā zhǎn xiān xíng	567
 发展现状	fā zhǎn xiàn zhuàng	750
 发展项目	fā zhǎn xiàng mù	968
+发展心理	fā zhǎn xīn lǐ	52
 发展新篇	fā zhǎn xīn piān	490
 发展形成	fā zhǎn xíng chéng	66
 发展形势	fā zhǎn xíng shì	842
@@ -898420,6 +898584,7 @@ ENSO	enso	59
 反复提醒	fǎn fù tí xǐng	688
 反复推敲	fǎn fù tuī qiāo	421
 反复拖欠	fǎn fù tuō qiàn	68
+反复问句	fǎn fù wèn jù	54
 反腐问题	fǎn fǔ wèn tí	3
 反复无常	fǎn fù wú cháng	719
 反复洗手	fǎn fù xǐ shǒu	531
@@ -899720,6 +899885,7 @@ ENSO	enso	59
 翻译公司	fān yì gōng sī	1052
 翻译公证	fān yì gōng zhèng	432
 翻译工作	fān yì gōng zuò	603
+反义关系	fǎn yì guān xì	54
 翻译过来	fān yì guò lái	1089
 反义技术	fǎn yì jì shù	202
 翻译兼职	fān yì jiān zhí	472
@@ -899828,6 +899994,7 @@ ENSO	enso	59
 反应能力	fǎn yìng néng lì	1250
 反映能力	fǎn yìng néng lì	436
 反应浓度	fǎn yìng nóng dù	82
+反应偏差	fǎn yìng piān chā	52
 反应偏向	fǎn yìng piān xiàng	144
 泛影葡胺	fàn yǐng pú àn	243
 反应器壁	fǎn yìng qì bì	50
@@ -902100,6 +902267,7 @@ ENSO	enso	59
 防卫大臣	fáng wèi dà chén	3
 防卫大学	fáng wèi dà xué	558
 防微杜渐	fáng wēi dù jiàn	251
+方位短语	fāng wèi duǎn yǔ	54
 防卫对象	fáng wèi duì xiàng	117
 防卫盾牌	fáng wèi dùn pái	50
 方位分析	fāng wèi fēn xī	500
@@ -906176,6 +906344,7 @@ ENSO	enso	59
 肥猪市街	féi zhū shì jiē	171
 非主属性	fēi zhǔ shǔ xìng	188
 肺主肃降	fèi zhǔ sù jiàng	6
+非主谓句	fēi zhǔ wèi jù	54
 肺主行水	fèi zhǔ xíng shuǐ	50
 非主义者	fēi zhǔ yì zhě	328
 肥猪一只	féi zhū yì zhī	50
@@ -911441,6 +911610,7 @@ FK切换	fk qiē huàn	50
 福从天降	fú cóng tiān jiàng	328
 服从调剂	fú cóng tiáo jì	336
 服从调配	fú cóng tiáo pèi	423
+服从行为	fú cóng xíng wéi	52
 服从训练	fú cóng xùn liàn	118
 服从整体	fú cóng zhěng tǐ	351
 服从指挥	fú cóng zhǐ huī	531
@@ -912318,6 +912488,7 @@ FK切换	fk qiē huàn	50
 负荷切换	fù hè qiē huàn	94
 负荷情况	fù hè qíng kuàng	468
 符合情理	fú hé qíng lǐ	522
+复合情绪	fù hé qíng xù	52
 负荷曲线	fù hè qū xiàn	333
 复合曲线	fù hé qū xiàn	137
 复核确认	fù hé què rèn	518
@@ -913053,6 +913224,7 @@ FK切换	fk qiē huàn	50
 富力集团	fù lì jí tuán	360
 富利集团	fù lì jí tuán	247
 复利计息	fù lì jì xī	436
+福利经济	fú lì jīng jì	42
 伏立康唑	fú lì kāng zuò	16
 复礼克己	fù lǐ kè jǐ	45
 弗里克奖	fú lǐ kè jiǎng	400
@@ -914333,6 +914505,7 @@ FK切换	fk qiē huàn	50
 福寿肘子	fú shòu zhǒu zi	130
 扶手转向	fú shǒu zhuǎn xiàng	64
 附属部分	fù shǔ bù fen	369
+复述策略	fù shù cè lüè	52
 复数乘法	fù shù chéng fǎ	328
 附属岛屿	fù shǔ dǎo yǔ	729
 复数的模	fù shù de mó	19
@@ -915805,6 +915978,7 @@ FK切换	fk qiē huàn	50
 赋值等价	fù zhí děng jià	45
 付之东流	fù zhī dōng liú	521
 付之度外	fù zhī dù wài	153
+复指短语	fù zhǐ duǎn yǔ	54
 副支队长	fù zhī duì zhǎng	31
 复制发行	fù zhì fā xíng	107
 复制方法	fù zhì fāng fǎ	459
@@ -918166,6 +918340,7 @@ FK切换	fk qiē huàn	50
 感觉很像	gǎn jué hěn xiàng	345
 感觉很糟	gǎn jué hěn zāo	28
 感觉后像	gǎn jué hòu xiàng	4
+感觉记忆	gǎn jué jì yì	52
 感觉减退	gǎn jué jiǎn tuì	41
 感觉就是	gǎn jué jiù shì	4619
 感觉可累	gǎn jué kě lèi	117
@@ -918186,6 +918361,7 @@ FK切换	fk qiē huàn	50
 感觉神经	gǎn jué shén jīng	154
 感觉时间	gǎn jué shí jiān	264
 感觉世界	gǎn jué shì jiè	210
+感觉适应	gǎn jué shì yìng	52
 感觉舒服	gǎn jué shū fu	411
 感觉舒适	gǎn jué shū shì	173
 感觉瞬间	gǎn jué shùn jiān	63
@@ -918839,6 +919015,7 @@ FK切换	fk qiē huàn	50
 感叹不已	gǎn tàn bù yǐ	590
 感叹世事	gǎn tàn shì shì	396
 感叹一声	gǎn tàn yì shēng	626
+感叹语气	gǎn tàn yǔ qì	54
 感叹之余	gǎn tàn zhī yú	432
 肝汤加减	gān tāng jiā jiǎn	378
 干糖浆剂	gàn táng jiāng jì	76
@@ -927837,6 +928014,7 @@ FK切换	fk qiē huàn	50
 跟踪约束	gēn zōng yuē shù	50
 跟踪指导	gēn zōng zhǐ dǎo	504
 跟踪支架	gēn zōng zhī jià	274
+跟踪指数	gēn zōng zhǐ shù	42
 跟踪追击	gēn zōng zhuī jī	19
 更爱美人	gèng ài měi rén	495
 更爱你了	gèng ài nǐ le	382
@@ -930086,9 +930264,11 @@ GNSS	gnss	59
 攻击附魔	gōng jī fù mó	130
 供给服务	gōng jǐ fú wù	16
 攻击服务	gōng jī fú wù	14
+供给管理	gōng jǐ guǎn lǐ	42
 供给关系	gōng jǐ guān xì	19
 供给规模	gōng jǐ guī mó	446
 供给过剩	gōng jǐ guò shèng	135
+供给函数	gōng jǐ hán shù	42
 公祭活动	gōng jì huó dòng	25
 攻击活动	gōng jī huó dòng	22
 攻击火力	gōng jī huǒ lì	513
@@ -932597,6 +932777,7 @@ GNSS	gnss	59
 工业橡胶	gōng yè xiàng jiāo	270
 工业项目	gōng yè xiàng mù	135
 工业协会	gōng yè xié huì	57
+工业心理	gōng yè xīn lǐ	52
 工业兴市	gōng yè xīng shì	238
 工业学校	gōng yè xué xiào	75
 工业学院	gōng yè xué yuàn	63
@@ -933857,6 +934038,7 @@ GNSS	gnss	59
 够愁人的	gòu chóu rén de	171
 狗喘气儿	gǒu chuǎn qì er	45
 钩椎关节	gōu chuí guān jié	320
+构词方式	gòu cí fāng shì	54
 勾皴点染	gōu cūn diǎn rǎn	234
 勾搭成奸	gōu dā chéng jiān	22
 勾搭勾搭	gōu dā gōu dā	369
@@ -936232,6 +936414,7 @@ GNSS	gnss	59
 股权比例	gǔ quán bǐ lì	909
 股权变动	gǔ quán biàn dòng	657
 股权变更	gǔ quán biàn gēng	864
+股权并购	gǔ quán bìng gòu	42
 股权承销	gǔ quán chéng xiāo	261
 股权重组	gǔ quán chóng zǔ	53
 股权出质	gǔ quán chū zhì	495
@@ -938984,6 +939167,7 @@ GNSS	gnss	59
 管理协调	guǎn lǐ xié tiáo	28
 管理协议	guǎn lǐ xié yì	698
 管理心得	guǎn lǐ xīn dé	16
+管理心理	guǎn lǐ xīn lǐ	52
 管理信息	guǎn lǐ xìn xī	88
 管理行为	guǎn lǐ xíng wéi	88
 管理行政	guǎn lǐ xíng zhèng	19
@@ -942584,6 +942768,7 @@ GNSS	gnss	59
 归纳规则	guī nà guī zé	162
 归纳极限	guī nà jí xiàn	234
 归纳假设	guī nà jiǎ shè	320
+归纳论证	guī nà lùn zhèng	54
 归纳逻辑	guī nà luó ji	378
 归纳谬误	guī nà miù wù	99
 归纳起来	guī nà qǐ lái	480
@@ -943935,6 +944120,7 @@ GNSS	gnss	59
 国际承认	guó jì chéng rèn	63
 国际冲突	guó jì chōng tū	60
 国籍冲突	guó jí chōng tū	54
+国际储备	guó jì chǔ bèi	42
 国际出发	guó jì chū fā	51
 国际初审	guó jì chū shěn	50
 国际传播	guó jì chuán bō	82
@@ -945180,6 +945366,7 @@ GNSS	gnss	59
 过敏人群	guò mǐn rén qún	518
 国民日报	guó mín rì bào	436
 国民身份	guó mín shēn fèn	13
+国民生产	guó mín shēng chǎn	42
 国民生活	guó mín shēng huó	688
 过敏食物	guò mǐn shí wù	544
 过敏试验	guò mǐn shì yàn	454
@@ -951358,14 +951545,17 @@ GNSS	gnss	59
 汉字部首	hàn zì bù shǒu	16
 汉字测试	hàn zì cè shì	4
 函子范畴	hán zi fàn chóu	333
+汉字构形	hàn zì gòu xíng	54
 汉子加油	hàn zi jiā yóu	76
 汉字列表	hàn zì liè biǎo	144
 韩资企业	hán zī qǐ yè	13
 汉字输入	hàn zì shū rù	28
 汉字系统	hàn zì xì tǒng	72
 汉子性格	hàn zi xìng gé	446
+汉字形体	hàn zì xíng tǐ	54
 汉子形象	hàn zi xíng xiàng	477
 汉字学家	hàn zì xué jiā	153
+汉字演变	hàn zì yǎn biàn	54
 汉字注音	hàn zì zhù yīn	459
 汉字字频	hàn zì zì pín	4
 汉字字体	hàn zì zì tǐ	148
@@ -956320,6 +956510,7 @@ GNSS	gnss	59
 合同风险	hé tong fēng xiǎn	68
 合同副本	hé tong fù běn	3
 合同附件	hé tong fù jiàn	57
+合同负债	hé tong fù zhài	42
 合同工程	hé tong gōng chéng	418
 合同公示	hé tong gōng shì	153
 合同公证	hé tong gōng zhèng	374
@@ -957259,6 +957450,7 @@ GNSS	gnss	59
 合作愉快	hé zuò yú kuài	232
 合作育人	hé zuò yù rén	378
 合作院校	hé zuò yuàn xiào	411
+合作原则	hé zuò yuán zé	54
 合作证人	hé zuò zhèng rén	171
 合作指导	hé zuò zhǐ dǎo	522
 合作制作	hé zuò zhì zuò	770
@@ -972376,17 +972568,20 @@ GNSS	gnss	59
 绘画方面	huì huà fāng miàn	675
 绘画方式	huì huà fāng shì	567
 会话方式	huì huà fāng shì	99
+会话分析	huì huà fēn xī	54
 绘画风格	huì huà fēng gé	927
 绘画功底	huì huà gōng dǐ	652
 绘画工具	huì huà gōng jù	333
 绘画功力	huì huà gōng lì	374
 会话管理	huì huà guǎn lǐ	19
+会话含义	huì huà hán yì	54
 绘画基础	huì huà jī chǔ	824
 绘画技法	huì huà jì fǎ	738
 绘画技巧	huì huà jì qiǎo	860
 绘画技术	huì huà jì shù	558
 会话技术	huì huà jì shù	152
 绘画技艺	huì huà jì yì	482
+会话结构	huì huà jié gòu	54
 会话结束	huì huà jié shù	225
 会话开始	huì huà kāi shǐ	194
 绘画疗法	huì huà liáo fǎ	19
@@ -973275,6 +973470,7 @@ GNSS	gnss	59
 会私底下	huì sī dǐ xià	418
 会死人的	huì sǐ rén de	440
 会搜科技	huì sōu kē jì	212
+回溯记忆	huí sù jì yì	52
 回宿舍不	huí sù shè bù	333
 回宿舍后	huí sù shè hòu	75
 回溯算法	huí sù suàn fǎ	122
@@ -974446,6 +974642,7 @@ GNSS	gnss	59
 婚礼主色	hūn lǐ zhǔ sè	103
 混联电路	hùn lián diàn lù	39
 婚恋辅导	hūn liàn fǔ dǎo	103
+婚恋关系	hūn liàn guān xì	52
 婚恋交友	hūn liàn jiāo yǒu	141
 婚恋市场	hūn liàn shì chǎng	443
 婚恋网站	hūn liàn wǎng zhàn	819
@@ -974674,6 +974871,7 @@ GNSS	gnss	59
 混响参数	hùn xiǎng cān shù	162
 混响时间	hùn xiǎng shí jiān	562
 混响算法	hùn xiǎng suàn fǎ	189
+混淆变量	hùn xiáo biàn liàng	52
 魂消胆丧	hún xiāo dǎn sàng	117
 混淆概念	hùn xiáo gài niàn	666
 混淆黑白	hùn xiáo hēi bái	31
@@ -977210,6 +977408,7 @@ GNSS	gnss	59
 或作或止	huò zuò huò zhǐ	4
 IK骨骼	ik gǔ gé	50
 IK切换	ik qiē huàn	50
+IS曲线	is qū xiàn	42
 及阿修罗	jí ā xiū luó	202
 既爱又恨	jì ài yòu hèn	72
 既爱又怕	jì ài yòu pà	9
@@ -980402,6 +980601,7 @@ IK切换	ik qiē huàn	50
 机会难得	jī huì nán dé	314
 机毁人亡	jī huǐ rén wáng	567
 集会示威	jí huì shì wēi	472
+机会收益	jī huì shōu yì	42
 急回特性	jí huí tè xìng	99
 几回无寐	jǐ huí wú mèi	76
 集会现场	jí huì xiàn chǎng	490
@@ -980609,6 +980809,7 @@ IK切换	ik qiē huàn	50
 积极协助	jī jí xié zhù	747
 积极协作	jī jí xié zuò	333
 积极信号	jī jí xìn hào	778
+积极心理	jī jí xīn lǐ	52
 积极心态	jī jí xīn tài	188
 积极行动	jī jí xíng dòng	179
 积极性高	jī jí xìng gāo	598
@@ -981039,6 +981240,7 @@ IK切换	ik qiē huàn	50
 肌筋膜瓣	jī jīn mó bàn	4
 肌筋膜炎	jī jīn mó yán	60
 基金募集	jī jīn mù jí	1062
+基金评级	jī jīn píng jí	42
 基金普丰	jī jīn pǔ fēng	324
 基金契约	jī jīn qì yuē	554
 积金千两	jī jīn qiān liǎng	144
@@ -981591,6 +981793,7 @@ IK切换	ik qiē huàn	50
 肌理细腻	jī lǐ xì nì	387
 肌力下降	jī lì xià jiàng	75
 激励先进	jī lì xiān jìn	333
+激励相容	jī lì xiāng róng	42
 激励效果	jī lì xiào guǒ	558
 肌理效果	jī lǐ xiào guǒ	365
 技力消耗	jì lì xiāo hào	171
@@ -984422,6 +984625,7 @@ IK切换	ik qiē huàn	50
 计算元件	jì suàn yuán jiàn	202
 计算载荷	jì suàn zài hè	117
 计算在内	jì suàn zài nèi	531
+计算障碍	jì suàn zhàng ài	52
 计算指标	jì suàn zhǐ biāo	540
 计算智能	jì suàn zhì néng	57
 计算中心	jì suàn zhōng xīn	110
@@ -985609,6 +985813,7 @@ IK切换	ik qiē huàn	50
 极性一致	jí xìng yí zhì	3
 急性龈炎	jí xìng yín yán	45
 即兴音乐	jí xìng yīn yuè	396
+急性应激	jí xìng yìng jī	52
 畸形愈合	jī xíng yù hé	374
 寄兴寓情	jì xìng yù qíng	99
 极性运输	jí xìng yùn shū	252
@@ -986012,8 +986217,11 @@ IK切换	ik qiē huàn	50
 技艺表演	jì yì biǎo yǎn	387
 技艺不精	jì yì bù jīng	436
 疾疫不临	jí yì bù lín	99
+记忆策略	jì yì cè lüè	52
 技艺超群	jì yì chāo qún	446
 记忆尘封	jì yì chén fēng	230
+记忆重构	jì yì chóng gòu	52
+记忆储存	jì yì chǔ cún	52
 极易出血	jí yì chū xuè	248
 技艺传承	jì yì chuán chéng	19
 记忆传承	jì yì chuán chéng	17
@@ -986030,6 +986238,7 @@ IK切换	ik qiē huàn	50
 寄一封信	jì yì fēng xìn	44
 济医附院	jì yī fù yuàn	162
 极易感染	jí yì gǎn rǎn	464
+记忆干扰	jì yì gān rǎo	52
 技艺高超	jì yì gāo chāo	251
 技艺高手	jì yì gāo shǒu	76
 记忆宫殿	jì yì gōng diàn	792
@@ -986071,6 +986280,7 @@ IK切换	ik qiē huàn	50
 记忆缺失	jì yì quē shī	482
 极易燃烧	jí yì rán shāo	346
 极易溶解	jí yì róng jiě	52
+记忆容量	jì yì róng liàng	52
 极易溶于	jí yì róng yú	459
 记忆散失	jì yì sàn shī	4
 记忆丧失	jì yì sàng shī	594
@@ -986108,6 +986318,8 @@ IK切换	ik qiē huàn	50
 记忆犹新	jì yì yóu xīn	2041
 记忆元件	jì yì yuán jiàn	171
 记忆远去	jì yì yuǎn qù	117
+记忆再认	jì yì zài rèn	52
+记忆再现	jì yì zài xiàn	52
 极易造成	jí yì zào chéng	182
 记忆增强	jì yì zēng qiáng	405
 技艺展示	jì yì zhǎn shì	464
@@ -991073,6 +991285,7 @@ IK切换	ik qiē huàn	50
 兼并整合	jiān bìng zhěng hé	459
 简并状态	jiǎn bìng zhuàng tài	220
 剪波波头	jiǎn bō bō tóu	171
+简帛文字	jiǎn bó wén zì	54
 肩部挫伤	jiān bù cuò shāng	130
 肩部带动	jiān bù dài dòng	71
 见不到啊	jiàn bú dào a	261
@@ -995235,6 +995448,7 @@ IK切换	ik qiē huàn	50
 监狱大门	jiān yù dà mén	526
 监狱党委	jiān yù dǎng wěi	284
 监狱电影	jiān yù diàn yǐng	266
+兼语短语	jiān yǔ duǎn yǔ	54
 监狱犯人	jiān yù fàn rén	418
 监狱服刑	jiān yù fú xíng	788
 监狱改革	jiān yù gǎi gé	306
@@ -997413,6 +997627,7 @@ IK切换	ik qiē huàn	50
 交叉束法	jiāo chā shù fǎ	45
 交叉锁步	jiāo chā suǒ bù	53
 交叉碳带	jiāo chā tàn dài	62
+交叉弹性	jiāo chā tán xìng	42
 交叉套利	jiāo chā tào lì	99
 较差弯沉	jiào chà wān chén	90
 交叉网线	jiāo chā wǎng xiàn	279
@@ -998084,6 +998299,7 @@ IK切换	ik qiē huàn	50
 交货准时	jiāo huò zhǔn shí	256
 交集并集	jiāo jí bìng jí	19
 焦急不安	jiāo jí bù ān	41
+交际策略	jiāo jì cè lüè	54
 交集差集	jiāo jí chà jí	3
 焦急等待	jiāo jí děng dài	734
 交技发展	jiāo jì fā zhǎn	76
@@ -998830,6 +999046,7 @@ IK切换	ik qiē huàn	50
 教室门口	jiào shì mén kǒu	788
 蕉石鸣琴	jiāo shí míng qín	180
 脚湿气病	jiǎo shī qì bìng	45
+教师期望	jiào shī qī wàng	52
 礁石潜伏	jiāo shí qián fú	62
 教师群体	jiào shī qún tǐ	626
 教室上课	jiào shì shàng kè	245
@@ -999487,6 +999704,7 @@ IK切换	ik qiē huàn	50
 教学相长	jiào xué xiāng zhǎng	239
 教学效果	jiào xué xiào guǒ	565
 教学心得	jiào xué xīn dé	19
+教学心理	jiào xué xīn lǐ	52
 教学研究	jiào xué yán jiū	148
 教学要求	jiào xué yāo qiú	626
 教学仪器	jiào xué yí qì	9
@@ -999986,6 +1000204,7 @@ IK切换	ik qiē huàn	50
 教育小孩	jiào yù xiǎo hái	774
 教育协会	jiào yù xié huì	846
 教育心得	jiào yù xīn dé	25
+教育心理	jiào yù xīn lǐ	52
 教育新闻	jiào yù xīn wén	824
 教育信息	jiào yù xìn xī	1120
 教育行政	jiào yù xíng zhèng	9
@@ -1000338,6 +1000557,7 @@ IK切换	ik qiē huàn	50
 解表止咳	jiě biǎo zhǐ ké	274
 解表追风	jiě biǎo zhuī fēng	45
 借别人的	jiè bié rén de	738
+介宾短语	jiè bīn duǎn yǔ	54
 结冰路段	jié bīng lù duàn	93
 解兵释甲	jiě bīng shì jiǎ	4
 接驳大巴	jiē bó dà bā	83
@@ -1001148,6 +1001368,7 @@ IK切换	ik qiē huàn	50
 结构布置	jié gòu bù zhì	31
 结构材料	jié gòu cái liào	154
 结构参数	jié gòu cān shù	60
+结构层次	jié gòu céng cì	54
 结构场论	jié gòu chǎng lùn	45
 结构常数	jié gòu cháng shù	549
 结构尺寸	jié gòu chǐ cùn	39
@@ -1001178,6 +1001399,7 @@ IK切换	ik qiē huàn	50
 结构合理	jié gòu hé lǐ	295
 结构划分	jié gòu huà fēn	446
 结构化学	jié gòu huà xué	82
+结构混乱	jié gòu hùn luàn	54
 结构畸变	jié gòu jī biàn	202
 结构基础	jié gòu jī chǔ	626
 结构基石	jié gòu jī shí	50
@@ -1002844,6 +1003066,7 @@ IK切换	ik qiē huàn	50
 接收信件	jiē shōu xìn jiàn	261
 接收信息	jiē shōu xìn xī	752
 接受信息	jiē shòu xìn xī	604
+接受学习	jiē shòu xué xí	52
 接受训练	jiē shòu xùn liàn	846
 接受询问	jiē shòu xún wèn	567
 接受邀请	jiē shòu yāo qǐng	135
@@ -1004169,6 +1004392,7 @@ IK切换	ik qiē huàn	50
 近代法制	jìn dài fǎ zhì	46
 金代佛教	jīn dài fó jiào	130
 近代工业	jìn dài gōng yè	662
+近代汉语	jìn dài hàn yǔ	54
 金代皇帝	jīn dài huáng dì	130
 近代建筑	jìn dài jiàn zhù	756
 金代建筑	jīn dài jiàn zhù	251
@@ -1010317,6 +1010541,7 @@ IK切换	ik qiē huàn	50
 景点特色	jǐng diǎn tè sè	644
 经典题型	jīng diǎn tí xíng	454
 景点天气	jǐng diǎn tiān qì	346
+经典条件	jīng diǎn tiáo jiàn	52
 静电透镜	jìng diàn tòu jìng	274
 经典途径	jīng diǎn tú jìng	248
 经典图片	jīng diǎn tú piàn	369
@@ -1011419,6 +1011644,7 @@ IK切换	ik qiē huàn	50
 经济挑战	jīng jì tiǎo zhàn	567
 竞技挑战	jìng jì tiǎo zhàn	289
 经济停滞	jīng jì tíng zhì	283
+经济统计	jīng jì tǒng jì	42
 竞技同人	jìng jì tóng rén	45
 荆棘铜驼	jīng jí tóng tuó	3
 经济头脑	jīng jì tóu nǎo	688
@@ -1014559,6 +1014785,7 @@ IK切换	ik qiē huàn	50
 竞争战略	jìng zhēng zhàn lüè	666
 竞争者们	jìng zhēng zhě men	482
 净整这些	jìng zhěng zhè xiē	13
+竞争政策	jìng zhēng zhèng cè	42
 竞争秩序	jìng zhēng zhì xù	666
 竞争主体	jìng zhēng zhǔ tǐ	482
 精制豹粮	jīng zhì bào liáng	99
@@ -1019169,7 +1019396,9 @@ IK切换	ik qiē huàn	50
 车二退一	jū èr tuì yī	117
 举而用之	jǔ ér yòng zhī	3
 聚法案例	jù fǎ àn lì	3
+句法层次	jù fǎ céng cì	54
 矩法估计	jǔ fǎ gū jì	4
+句法结构	jù fǎ jié gòu	54
 句法歧义	jù fǎ qí yì	171
 拒发签证	jù fā qiān zhèng	279
 据法新社	jù fǎ xīn shè	6
@@ -1020159,6 +1020388,7 @@ IK切换	ik qiē huàn	50
 局势已定	jú shì yǐ dìng	400
 据实以告	jù shí yǐ gào	369
 具食与乐	jù shí yǔ lè	76
+句式杂糅	jù shì zá róu	54
 举世震惊	jǔ shì zhèn jīng	504
 巨石之核	jù shí zhī hé	117
 举十知九	jǔ shí zhī jiǔ	4
@@ -1020418,6 +1020648,7 @@ IK切换	ik qiē huàn	50
 具体语境	jù tǐ yǔ jìng	598
 具体原因	jù tǐ yuán yīn	1170
 具体运思	jù tǐ yùn sī	230
+具体运算	jù tǐ yùn suàn	52
 具体真实	jù tǐ zhēn shí	418
 具体政策	jù tǐ zhèng cè	846
 具体证据	jù tǐ zhèng jù	526
@@ -1021041,6 +1021272,7 @@ IK切换	ik qiē huàn	50
 居住证明	jū zhù zhèng míng	41
 居住组团	jū zhù zǔ tuán	346
 距状沟支	jù zhuàng gōu zhī	45
+句子不通	jù zi bù tōng	54
 句子成分	jù zi chéng fèn	700
 橘子橙子	jú zi chéng zi	19
 巨资打造	jù zī dǎ zào	666
@@ -1022427,11 +1022659,13 @@ IK切换	ik qiē huàn	50
 均衡处理	jūn héng chǔ lǐ	328
 均衡带宽	jūn héng dài kuān	45
 均衡发展	jūn héng fā zhǎn	568
+均衡分析	jūn héng fēn xī	42
 均衡风缸	jūn héng fēng gāng	76
 均衡故障	jūn héng gù zhàng	73
 均衡频点	jūn héng pín diǎn	45
 均衡设定	jūn héng shè dìng	45
 均衡设置	jūn héng shè zhì	117
+均衡数量	jūn héng shù liàng	42
 均衡衰减	jūn héng shuāi jiǎn	45
 均衡水箱	jūn héng shuǐ xiāng	46
 均衡提升	jūn héng tí shēng	279
@@ -1023868,6 +1024102,7 @@ IK切换	ik qiē huàn	50
 开放项目	kāi fàng xiàng mù	49
 开放协作	kāi fàng xié zuò	428
 开放心态	kāi fàng xīn tài	846
+开放银行	kāi fàng yín háng	42
 开放引流	kāi fàng yǐn liú	180
 开放优势	kāi fàng yōu shì	396
 开放源码	kāi fàng yuán mǎ	85
@@ -1028176,6 +1028411,7 @@ IK切换	ik qiē huàn	50
 科比坠机	kē bǐ zhuì jī	180
 科比最爱	kē bǐ zuì ài	4
 可变车道	kě biàn chē dào	93
+可变成本	kě biàn chéng běn	42
 可编程键	kě biān chéng jiàn	238
 可编程性	kě biān chéng xìng	652
 可编程序	kě biān chéng xù	346
@@ -1028937,6 +1029173,7 @@ IK切换	ik qiē huàn	50
 客户交易	kè hù jiāo yì	774
 客户结单	kè hù jié dān	50
 客户介绍	kè hù jiè shào	837
+客户尽调	kè hù jìn diào	42
 客户进行	kè hù jìn xíng	1036
 客户经理	kè hù jīng lǐ	8949
 客户拒收	kè hù jù shōu	243
@@ -1028995,6 +1029232,7 @@ IK切换	ik qiē huàn	50
 客户指令	kè hù zhǐ lìng	220
 客户智能	kè hù zhì néng	328
 客户至上	kè hù zhì shàng	720
+客户转化	kè hù zhuǎn huà	42
 客户自备	kè hù zì bèi	144
 客户资产	kè hù zī chǎn	936
 客户资金	kè hù zī jīn	968
@@ -1029457,6 +1029695,7 @@ IK切换	ik qiē huàn	50
 可恐怖了	kě kǒng bù le	189
 可控范围	kě kòng fàn wéi	806
 可控负荷	kě kòng fù hè	50
+可控归因	kě kòng guī yīn	52
 可控聚变	kě kòng jù biàn	315
 客控系统	kè kòng xì tǒng	360
 可控性好	kě kòng xìng hǎo	279
@@ -1034907,6 +1035146,7 @@ IK切换	ik qiē huàn	50
 跨海交通	kuà hǎi jiāo tōng	302
 跨海游泳	kuà hǎi yóu yǒng	46
 跨行政区	kuà háng zhèng qū	3
+跨行支付	kuà háng zhī fù	42
 跨行转账	kuà háng zhuǎn zhàng	217
 跨鹤西游	kuà hè xī yóu	45
 跨鹤扬州	kuà hè yáng zhōu	45
@@ -1035356,6 +1035596,7 @@ IK切换	ik qiē huàn	50
 会计学院	kuài jì xué yuàn	637
 会计业务	kuài jì yè wù	100
 块级元素	kuài jí yuán sù	217
+会计账簿	kuài jì zhàng bù	42
 会计账目	kuài jì zhàng mù	22
 会计政策	kuài jì zhèng cè	179
 会计职称	kuài jì zhí chēng	72
@@ -1036831,6 +1037072,7 @@ IK切换	ik qiē huàn	50
 愧疚之意	kuì jiù zhī yì	25
 窥孔优化	kuī kǒng yōu huà	13
 溃口合龙	kuì kǒu hé lóng	54
+亏了不少	kuī le bù shǎo	42
 亏了多少	kuī le duō shǎo	122
 傀儡毒人	kuǐ lěi dú rén	266
 傀儡公司	kuǐ lěi gōng sī	144
@@ -1038569,6 +1038811,7 @@ IK切换	ik qiē huàn	50
 来源不符	lái yuán bù fú	333
 来源不明	lái yuán bù míng	367
 来源简介	lái yuán jiǎn jiè	130
+来源监控	lái yuán jiān kòng	52
 来源可考	lái yuán kě kǎo	58
 来院路线	lái yuàn lù xiàn	171
 来源搜寻	lái yuán sōu xún	76
@@ -1040130,6 +1040373,7 @@ IK切换	ik qiē huàn	50
 劳动对象	láo dòng duì xiàng	126
 劳动法里	láo dòng fǎ lǐ	52
 劳动法律	láo dòng fǎ lǜ	684
+劳动分工	láo dòng fēn gōng	42
 劳动改造	láo dòng gǎi zào	195
 劳动工分	láo dòng gōng fēn	180
 劳动工具	láo dòng gōng jù	113
@@ -1041626,6 +1041870,7 @@ IK切换	ik qiē huàn	50
 类本质论	lèi běn zhì lùn	99
 类比估算	lèi bǐ gū suàn	153
 类鼻疽病	lèi bí jū bìng	52
+类比论证	lèi bǐ lùn zhèng	54
 类比推理	lèi bǐ tuī lǐ	396
 类变应原	lèi biàn yīng yuán	4
 类标识符	lèi biāo shí fú	3
@@ -1044540,6 +1044785,7 @@ IK切换	ik qiē huàn	50
 利率平价	lì lǜ píng jià	500
 利率期货	lì lǜ qī huò	792
 利率期权	lì lǜ qī quán	346
+利率期限	lì lǜ qī xiàn	42
 利率上浮	lì lǜ shàng fú	810
 利率上升	lì lǜ shàng shēng	950
 利率上限	lì lǜ shàng xiàn	630
@@ -1044554,6 +1044800,7 @@ IK切换	ik qiē huàn	50
 利率招标	lì lǜ zhāo biāo	567
 利率折扣	lì lǜ zhé kòu	100
 利率政策	lì lǜ zhèng cè	958
+利率走廊	lì lǜ zǒu láng	42
 利率走势	lì lǜ zǒu shì	634
 立马重试	lì mǎ chóng shì	50
 利玛窦墓	lì mǎ dòu mù	189
@@ -1044580,6 +1044827,7 @@ IK切换	ik qiē huàn	50
 黎曼球面	lí màn qiú miàn	382
 黎曼问题	lí màn wèn tí	144
 黎曼张量	lí màn zhāng liàng	320
+礼貌策略	lǐ mào cè lüè	54
 礼貌待客	lǐ mào dài kè	378
 礼貌待人	lǐ mào dài rén	778
 礼貌沟通	lǐ mào gōu tōng	73
@@ -1044588,6 +1044836,7 @@ IK切换	ik qiē huàn	50
 理毛行为	lǐ máo xíng wéi	4
 礼貌用语	lǐ mào yòng yǔ	198
 礼貌有加	lǐ mào yǒu jiā	392
+礼貌原则	lǐ mào yuán zé	54
 礼貌之人	lǐ mào zhī rén	117
 里没别人	lǐ méi bié rén	369
 利美达松	lì měi dá sōng	4
@@ -1047223,6 +1047472,7 @@ IK切换	ik qiē huàn	50
 脸都红了	liǎn dōu hóng le	135
 脸都绿了	liǎn dōu lǜ le	765
 脸都青了	liǎn dōu qīng le	52
+连读变调	lián dú biàn diào	54
 连杜大道	lián dù dà dào	99
 连队干部	lián duì gàn bù	328
 连队官兵	lián duì guān bīng	405
@@ -1047344,6 +1047594,7 @@ IK切换	ik qiē huàn	50
 联合定位	lián hé dìng wèi	28
 联合独播	lián hé dú bō	310
 联合督导	lián hé dū dǎo	346
+联合短语	lián hé duǎn yǔ	54
 联合二队	lián hé èr duì	50
 联合发表	lián hé fā biǎo	72
 联合发布	lián hé fā bù	738
@@ -1048474,6 +1048725,7 @@ IK切换	ik qiē huàn	50
 连锁系统	lián suǒ xì tǒng	6
 联锁系统	lián suǒ xì tǒng	5
 联锁信号	lián suǒ xìn hào	99
+链锁行为	liàn suǒ xíng wéi	52
 连锁行为	lián suǒ xíng wéi	4
 连锁药店	lián suǒ yào diàn	792
 连锁药房	lián suǒ yào fáng	85
@@ -1048613,6 +1048865,7 @@ IK切换	ik qiē huàn	50
 联网设备	lián wǎng shè bèi	1328
 联网信息	lián wǎng xìn xī	1094
 联网直报	lián wǎng zhí bào	410
+连谓短语	lián wèi duǎn yǔ	54
 连为一体	lián wéi yì tǐ	214
 莲卫专线	lián wèi zhuān xiàn	225
 莲卧观音	lián wò guān yīn	99
@@ -1052424,6 +1052677,7 @@ IK切换	ik qiē huàn	50
 临床路径	lín chuáng lù jìng	648
 临床麻醉	lín chuáng má zuì	28
 临床批件	lín chuáng pī jiàn	418
+临床评估	lín chuáng píng gū	52
 临床试戴	lín chuáng shì dài	121
 临床实践	lín chuáng shí jiàn	414
 临床实习	lín chuáng shí xí	729
@@ -1052438,6 +1052692,7 @@ IK切换	ik qiē huàn	50
 临床特征	lín chuáng tè zhēng	314
 临床体征	lín chuáng tǐ zhēng	324
 临床效果	lín chuáng xiào guǒ	179
+临床心理	lín chuáng xīn lǐ	52
 临床修补	lín chuáng xiū bǔ	45
 临床牙冠	lín chuáng yá guān	180
 临床研究	lín chuáng yán jiū	2801
@@ -1054474,6 +1054729,7 @@ IK切换	ik qiē huàn	50
 零星股份	líng xīng gǔ fèn	50
 另行规定	lìng xíng guī dìng	110
 菱形花纹	líng xíng huā wén	324
+零形回指	líng xíng huí zhǐ	54
 零星几点	líng xīng jǐ diǎn	297
 菱形交叉	líng xíng jiāo chā	76
 菱形截面	líng xíng jié miàn	162
@@ -1055171,6 +1055427,7 @@ IK切换	ik qiē huàn	50
 硫碲铋矿	liú dì bì kuàng	45
 留底雕刻	liú dǐ diāo kè	99
 流地上了	liú dì shàng le	76
+留抵退税	liú dǐ tuì shuì	42
 六帝之年	liù dì zhī nián	76
 六点八折	liù diǎn bā zhé	194
 流电病变	liú diàn bìng biàn	90
@@ -1057519,6 +1057776,7 @@ IK切换	ik qiē huàn	50
 六座城市	liù zuò chéng shì	410
 留作纪念	liú zuò jì niàn	342
 硫唑嘌呤	liú zuò piào lìng	60
+LM曲线	lm qū xiàn	42
 Logo	logo	50
 龙奥北路	lóng ào běi lù	261
 隆巴迪杯	lóng bā dí bēi	212
@@ -1060377,6 +1060635,10 @@ Logo	logo	50
 论者以为	lùn zhě yǐ wéi	16
 论证方法	lùn zhèng fāng fǎ	421
 论证过程	lùn zhèng guò chéng	747
+论证结构	lùn zhèng jié gòu	54
+论证力度	lùn zhèng lì dù	54
+论证思路	lùn zhèng sī lù	54
+论证语言	lùn zhèng yǔ yán	54
 轮指贝斯	lún zhǐ bèi sī	72
 轮制成型	lún zhì chéng xíng	52
 论知名度	lùn zhī míng dù	63
@@ -1065690,6 +1065952,7 @@ Logo	logo	50
 慢性胃炎	màn xìng wèi yán	798
 慢行系统	màn xíng xì tǒng	9
 慢性虚弱	màn xìng xū ruò	130
+慢性压力	màn xìng yā lì	52
 慢性咽炎	màn xìng yān yán	421
 慢性炎症	màn xìng yán zhèng	968
 慢行一步	màn xíng yí bù	50
@@ -1070224,6 +1070487,7 @@ Logo	logo	50
 每日坚果	měi rì jiān guǒ	396
 每日健身	měi rì jiàn shēn	464
 美日健身	měi rì jiàn shēn	194
+每日结算	měi rì jié suàn	42
 每日金曲	měi rì jīn qǔ	342
 每日镜报	měi rì jìng bào	82
 每日精选	měi rì jīng xuǎn	110
@@ -1075647,6 +1075911,7 @@ Logo	logo	50
 冕牌玻璃	miǎn pái bō li	60
 面盘幼体	miàn pán yòu tǐ	76
 免配送费	miǎn pèi sòng fèi	88
+免赔条款	miǎn péi tiáo kuǎn	42
 面朋口友	miàn péng kǒu yǒu	45
 面膨胀率	miàn péng zhàng lǜ	45
 面皮厚实	miàn pí hòu shi	171
@@ -1076134,6 +1076399,7 @@ Logo	logo	50
 面子工程	miàn zi gōng chéng	697
 面子果实	miàn zi guǒ shí	31
 棉籽价格	mián zǐ jià gé	212
+面子理论	miàn zi lǐ lùn	54
 面子里子	miàn zi lǐ zi	562
 面子情儿	miàn zi qíng ér	50
 面子问题	miàn zi wèn tí	292
@@ -1076280,6 +1076546,7 @@ Logo	logo	50
 描述如下	miáo shù rú xià	192
 描述事实	miáo shù shì shí	572
 描述事物	miáo shù shì wù	630
+描述统计	miáo shù tǒng jì	42
 描述问题	miáo shù wèn tí	752
 描述性的	miáo shù xìng de	52
 描述形式	miáo shù xíng shì	270
@@ -1077488,6 +1077755,7 @@ Logo	logo	50
 命都没了	mìng dōu méi le	176
 明都商务	míng dōu shāng wù	50
 名都枫景	míng dū fēng jǐng	76
+明度恒常	míng dù héng cháng	52
 明度较高	míng dù jiào gāo	41
 明度噪声	míng dù zào shēng	4
 明断是非	míng duàn shì fēi	6
@@ -1078954,6 +1079222,7 @@ Logo	logo	50
 明珠薏苡	míng zhū yì yǐ	4
 明珠有泪	míng zhū yǒu lèi	495
 明珠游龙	míng zhū yóu lóng	238
+名著阅读	míng zhù yuè dú	54
 明珠掌上	míng zhū zhǎng shàng	45
 命转乾坤	mìng zhuǎn qián kūn	220
 名庄酒窖	míng zhuāng jiǔ jiào	130
@@ -1081059,6 +1081328,7 @@ Logo	logo	50
 目标导向	mù biāo dǎo xiàng	436
 目标点位	mù biāo diǎn wèi	752
 目标定位	mù biāo dìng wèi	251
+目标动机	mù biāo dòng jī	52
 目标读者	mù biāo dú zhě	68
 目标对齐	mù biāo duì qí	91
 目标对象	mù biāo duì xiàng	462
@@ -1099466,6 +1099736,7 @@ NDVI	ndvi	59
 拍卖记录	pāi mài jì lù	418
 拍卖价格	pāi mài jià gé	711
 拍卖交易	pāi mài jiāo yì	482
+拍卖理论	pāi mài lǐ lùn	42
 拍卖流拍	pāi mài liú pāi	279
 拍卖奴隶	pāi mài nú lì	144
 拍卖企业	pāi mài qǐ yè	13
@@ -1103913,6 +1104184,8 @@ NDVI	ndvi	59
 偏振眼镜	piān zhèn yǎn jìng	238
 偏振荧光	piān zhèn yíng guāng	99
 偏振元件	piān zhèn yuán jiàn	4
+偏正短语	piān zhèng duǎn yǔ	54
+偏正关系	piān zhèng guān xì	54
 偏正头痛	piān zhèng tóu tòng	302
 偏执不化	piān zhí bú huà	45
 片纸尺幅	piàn zhǐ chǐ fú	4
@@ -1104882,6 +1105155,7 @@ NDVI	ndvi	59
 频移键控	pín yí jiàn kòng	310
 拼一晚上	pīn yì wǎn shàng	54
 拼音打字	pīn yīn dǎ zì	53
+拼音方案	pīn yīn fāng àn	54
 拼音混输	pīn yīn hùn shū	4
 拼音加加	pīn yīn jiā jiā	13
 拼音九键	pīn yīn jiǔ jiàn	99
@@ -1107503,6 +1107777,7 @@ NDVI	ndvi	59
 普化尺八	pǔ huà chǐ bā	144
 普化天尊	pǔ huà tiān zūn	459
 蒲黄榆路	pú huáng yú lù	315
+普惠贷款	pǔ huì dài kuǎn	42
 普惠高速	pǔ huì gāo sù	180
 普惠公司	pǔ huì gōng sī	554
 普惠金融	pǔ huì jīn róng	1184
@@ -1108087,6 +1108362,7 @@ NDVI	ndvi	59
 普通橡胶	pǔ tōng xiàng jiāo	320
 普通小学	pǔ tōng xiǎo xué	612
 普通信件	pǔ tōng xìn jiàn	320
+普通心理	pǔ tōng xīn lǐ	52
 普通许可	pǔ tōng xǔ kě	234
 普通学生	pǔ tōng xué shēng	1799
 普通学校	pǔ tōng xué xiào	1322
@@ -1113310,6 +1113586,7 @@ NDVI	ndvi	59
 期望寿命	qī wàng shòu mìng	621
 期望收益	qī wàng shōu yì	738
 期望太高	qī wàng tài gāo	994
+期望效应	qī wàng xiào yìng	52
 期望薪资	qī wàng xīn zī	91
 其亡也忽	qí wáng yě hū	504
 期望已久	qī wàng yǐ jiǔ	356
@@ -1114941,6 +1115218,7 @@ NDVI	ndvi	59
 气之聚也	qì zhī jù yě	50
 其志可嘉	qí zhì kě jiā	189
 弃之可惜	qì zhī kě xī	436
+气质类型	qì zhì lèi xíng	52
 旗帜类型	qí zhì lèi xíng	4
 弃掷逦迤	qì zhì lǐ yǐ	202
 气质联用	qì zhì lián yòng	47
@@ -1116047,6 +1116325,7 @@ NDVI	ndvi	59
 前后移动	qián hòu yí dòng	317
 前后一致	qián hòu yí zhì	195
 前后在位	qián hòu zài wèi	374
+前后照应	qián hòu zhào yìng	54
 前后左右	qián hòu zuǒ yòu	1162
 钱湖北路	qián hú běi lù	414
 钱湖东路	qián hú dōng lù	45
@@ -1117885,7 +1118164,9 @@ NDVI	ndvi	59
 签一下字	qiān yí xià zì	297
 千亿项目	qiān yì xiàng mù	153
 前一小时	qián yì xiǎo shí	104
+迁移效应	qiān yí xiào yìng	52
 千亿星辰	qiān yì xīng chén	153
+迁移学习	qiān yí xué xí	52
 千亿营收	qiān yì yíng shōu	252
 千亿优惠	qiān yì yōu huì	45
 千亿元级	qiān yì yuán jí	432
@@ -1117993,6 +1118274,7 @@ NDVI	ndvi	59
 潜在病毒	qián zài bìng dú	202
 千载不变	qiān zǎi bú biàn	230
 潜在差异	qián zài chā yì	189
+潜在产出	qián zài chǎn chū	42
 潜在储量	qián zài chǔ liàng	130
 千载独步	qiān zǎi dú bù	45
 潜在对手	qián zài duì shǒu	612
@@ -1118053,6 +1118335,7 @@ NDVI	ndvi	59
 前瞻版本	qián zhān bǎn běn	50
 前瞻产业	qián zhān chǎn yè	886
 前瞻后顾	qián zhān hòu gù	3
+前瞻记忆	qián zhān jì yì	52
 前瞻品牌	qián zhān pǐn pái	50
 前瞻视野	qián zhān shì yě	302
 前瞻指引	qián zhān zhǐ yǐn	616
@@ -1120353,6 +1120636,7 @@ NDVI	ndvi	59
 衾寒枕冷	qīn hán zhěn lěng	4
 亲和标记	qīn hé biāo jì	50
 亲和层析	qīn hé céng xī	3
+亲和动机	qīn hé dòng jī	52
 亲核反应	qīn hé fǎn yìng	310
 琴河感旧	qín hé gǎn jiù	99
 亲核加成	qīn hé jiā chéng	477
@@ -1121042,6 +1121326,7 @@ NDVI	ndvi	59
 亲子项目	qīn zǐ xiàng mù	374
 亲子消费	qīn zǐ xiāo fèi	238
 亲子休闲	qīn zǐ xiū xián	364
+亲子依恋	qīn zǐ yī liàn	52
 亲子驿站	qīn zǐ yì zhàn	99
 亲子英语	qīn zǐ yīng yǔ	382
 亲子用品	qīn zǐ yòng pǐn	117
@@ -1124812,6 +1125097,7 @@ NDVI	ndvi	59
 情绪不好	qíng xù bù hǎo	458
 情绪不佳	qíng xù bù jiā	729
 情绪不稳	qíng xù bù wěn	141
+情绪传染	qíng xù chuán rǎn	52
 清虚淡泊	qīng xū dàn bó	76
 清虚道君	qīng xū dào jūn	45
 清虚道长	qīng xū dào zhǎng	180
@@ -1124820,10 +1125106,12 @@ NDVI	ndvi	59
 情绪发疯	qíng xù fā fēng	72
 情绪反应	qíng xù fǎn yìng	584
 情绪氛围	qíng xù fēn wéi	468
+情绪感染	qíng xù gǎn rǎn	52
 情绪高昂	qíng xù gāo áng	526
 情绪高涨	qíng xù gāo zhǎng	446
 情绪管理	qíng xù guǎn lǐ	1030
 情绪过激	qíng xù guò jī	464
+情绪耗竭	qíng xù hào jié	52
 情绪回血	qíng xù huí xiě	72
 情绪激昂	qíng xù jī áng	540
 情绪激动	qíng xù jī dòng	1347
@@ -1124834,6 +1125122,7 @@ NDVI	ndvi	59
 情绪节奏	qíng xù jié zòu	50
 情绪紧张	qíng xù jǐn zhāng	783
 情绪经济	qíng xù jīng jì	72
+情绪聚焦	qíng xù jù jiāo	52
 情绪控制	qíng xù kòng zhì	954
 情绪困扰	qíng xù kùn rǎo	662
 情绪垃圾	qíng xù lā jī	72
@@ -1124845,6 +1125134,7 @@ NDVI	ndvi	59
 清徐葡萄	qīng xú pú tao	144
 情绪起伏	qíng xù qǐ fú	819
 情绪情感	qíng xù qíng gǎn	680
+情绪日记	qíng xù rì jì	52
 情绪商数	qíng xù shāng shù	423
 情绪上头	qíng xù shàng tóu	432
 情绪失常	qíng xù shī cháng	364
@@ -1124861,6 +1125151,7 @@ NDVI	ndvi	59
 情绪消沉	qíng xù xiāo chén	392
 情绪消费	qíng xù xiāo fèi	72
 情绪消耗	qíng xù xiāo hào	91
+情绪心理	qíng xù xīn lǐ	52
 情绪宣泄	qíng xù xuān xiè	652
 情绪压力	qíng xù yā lì	91
 情绪异常	qíng xù yì cháng	630
@@ -1126144,6 +1126435,7 @@ NDVI	ndvi	59
 球头软木	qiú tóu ruǎn mù	52
 球头探针	qiú tóu tàn zhēn	121
 球头铣刀	qiú tóu xǐ dāo	117
+囚徒困境	qiú tú kùn jìng	42
 秋荼密网	qiū tú mì wǎng	171
 球团焙烧	qiú tuán bèi shāo	130
 球团竖炉	qiú tuán shù lú	45
@@ -1128398,6 +1128690,7 @@ NDVI	ndvi	59
 区域优势	qū yù yōu shì	63
 区域运输	qū yù yùn shū	558
 区域运营	qū yù yùn yíng	49
+区域政策	qū yù zhèng cè	42
 区域之间	qū yù zhī jiān	783
 祛瘀止痛	qū yū zhǐ tòng	356
 祛瘀止血	qū yū zhǐ xuè	252
@@ -1129943,6 +1130236,7 @@ NDVI	ndvi	59
 全面优势	quán miàn yōu shì	418
 全面有效	quán miàn yǒu xiào	724
 全面育人	quán miàn yù rén	351
+全面预算	quán miàn yù suàn	42
 全面云化	quán miàn yún huà	392
 全面暂停	quán miàn zàn tíng	626
 全面展开	quán miàn zhǎn kāi	927
@@ -1133664,6 +1133958,7 @@ NDVI	ndvi	59
 仁宝集团	rén bǎo jí tuán	205
 人保寿险	rén bǎo shòu xiǎn	558
 人卑言轻	rén bēi yán qīng	50
+人本疗法	rén běn liáo fǎ	52
 人本主义	rén běn zhǔ yì	499
 人比怪多	rén bǐ guài duō	288
 人比花娇	rén bǐ huā jiāo	518
@@ -1134354,11 +1134649,13 @@ NDVI	ndvi	59
 人格减等	rén gé jiǎn děng	202
 人格解体	rén gé jiě tǐ	554
 人格魅力	rén gé mèi lì	3473
+人格评估	rén gé píng gū	52
 人格权编	rén gé quán biān	310
 人格缺陷	rén gé quē xiàn	608
 人格特征	rén gé tè zhēng	195
 人格特质	rén gé tè zhì	440
 人格小组	rén gé xiǎo zǔ	4
+人格心理	rén gé xīn lǐ	52
 人格异常	rén gé yì cháng	315
 人各一天	rén gè yì tiān	45
 人各有别	rén gè yǒu bié	243
@@ -1134864,6 +1135161,7 @@ NDVI	ndvi	59
 人活于世	rén huó yú shì	28
 人活在世	rén huó zài shì	765
 忍饥挨饿	rěn jī ái è	292
+人际边界	rén jì biān jiè	52
 人际冲突	rén jì chōng tū	612
 人际传播	rén jì chuán bō	110
 仁济大学	rén jì dà xué	320
@@ -1134923,6 +1135221,7 @@ NDVI	ndvi	59
 人际吸引	rén jì xī yǐn	423
 人际相处	rén jì xiāng chǔ	382
 人机协作	rén jī xié zuò	860
+人际信任	rén jì xìn rèn	52
 人迹杳然	rén jì yǎo rán	50
 仁济医疗	rén jì yī liáo	189
 人己一视	rén jǐ yí shì	144
@@ -1137772,6 +1138071,7 @@ NDVI	ndvi	59
 人质安全	rén zhì ān quán	544
 人之本性	rén zhī běn xìng	536
 人之本也	rén zhī běn yě	315
+认知闭合	rèn zhī bì hé	52
 认知边界	rèn zhī biān jiè	432
 人至不去	rén zhì bú qù	10
 人之不善	rén zhī bú shàn	180
@@ -1137787,6 +1138087,7 @@ NDVI	ndvi	59
 仁之端也	rén zhī duān yě	279
 认知发展	rèn zhī fā zhǎn	760
 认知范围	rèn zhī fàn wéi	711
+认知风格	rèn zhī fēng gé	52
 认知负荷	rèn zhī fù hè	486
 轫致辐射	rèn zhì fú shè	351
 韧致辐射	rèn zhì fú shè	137
@@ -1137851,6 +1138152,8 @@ NDVI	ndvi	59
 任职文件	rèn zhí wén jiàn	490
 认知误区	rèn zhī wù qū	693
 人之相知	rén zhī xiāng zhī	9
+认知心理	rèn zhī xīn lǐ	52
+认知行为	rèn zhī xíng wéi	52
 认知训练	rèn zhī xùn liàn	536
 人之言曰	rén zhī yán yuē	144
 任职要求	rèn zhí yāo qiú	864
@@ -1137873,6 +1138176,7 @@ NDVI	ndvi	59
 认知专区	rèn zhī zhuān qū	42
 任职资格	rèn zhí zī gé	484
 任职资历	rèn zhí zī lì	189
+认知资源	rèn zhī zī yuán	52
 人之罪也	rén zhī zuì yě	99
 任重才轻	rèn zhòng cái qīng	45
 人种差别	rén zhǒng chā bié	230
@@ -1138088,6 +1138392,7 @@ NDVI	ndvi	59
 日常保健	rì cháng bǎo jiàn	706
 日常保洁	rì cháng bǎo jié	79
 日常保养	rì cháng bǎo yǎng	286
+日常表达	rì cháng biǎo dá	52
 日昌餐馆	rì chāng cān guǎn	351
 日常操作	rì cháng cāo zuò	688
 日常出行	rì cháng chū xíng	273
@@ -1139832,6 +1140137,7 @@ NDVI	ndvi	59
 融资业务	róng zī yè wù	220
 融资意向	róng zī yì xiàng	392
 融资优势	róng zī yōu shì	432
+融资余额	róng zī yú é	42
 融资支持	róng zī zhī chí	792
 融资主体	róng zī zhǔ tǐ	630
 融资资金	róng zī zī jīn	752
@@ -1155587,6 +1155893,7 @@ NDVI	ndvi	59
 少数情况	shǎo shù qíng kuàng	824
 少数群体	shǎo shù qún tǐ	455
 少数学生	shǎo shù xué shēng	513
+少数影响	shǎo shù yǐng xiǎng	52
 烧熟煮透	shāo shú zhǔ tòu	508
 少数族群	shǎo shù zú qún	724
 少数族裔	shǎo shù zú yì	823
@@ -1156476,6 +1156783,7 @@ NDVI	ndvi	59
 社会主流	shè huì zhǔ liú	819
 社会主体	shè huì zhǔ tǐ	594
 社会主义	shè huì zhǔ yì	6977
+社会助长	shè huì zhù zhǎng	52
 社会转型	shè huì zhuǎn xíng	201
 社会状况	shè huì zhuàng kuàng	770
 社会资本	shè huì zī běn	791
@@ -1159879,6 +1160187,7 @@ NDVI	ndvi	59
 审美取向	shěn měi qǔ xiàng	634
 审美趋向	shěn měi qū xiàng	346
 审美水平	shěn měi shuǐ píng	814
+审美体验	shěn měi tǐ yàn	54
 审美需求	shěn měi xū qiú	810
 审美眼光	shěn měi yǎn guāng	126
 审美意境	shěn měi yì jìng	284
@@ -1161116,6 +1161425,7 @@ NDVI	ndvi	59
 神他妈的	shén tā mā de	22
 神态各异	shén tài gè yì	562
 申泰丽景	shēn tài lì jǐng	45
+神态描写	shén tài miáo xiě	54
 神态悠闲	shén tài yōu xián	342
 神态自若	shén tài zì ruò	75
 神探白朗	shén tàn bái lǎng	4
@@ -1161160,6 +1161470,7 @@ NDVI	ndvi	59
 身体发麻	shēn tǐ fā má	279
 身体发热	shēn tǐ fā rè	626
 身体发育	shēn tǐ fā yù	374
+身体发展	shēn tǐ fā zhǎn	52
 身体反应	shēn tǐ fǎn yìng	886
 身体方面	shēn tǐ fāng miàn	778
 身体放松	shēn tǐ fàng sōng	1053
@@ -1162279,6 +1162590,7 @@ NDVI	ndvi	59
 生产规模	shēng chǎn guī mó	364
 生产过程	shēng chǎn guò chéng	1049
 生产过剩	shēng chǎn guò shèng	427
+生产函数	shēng chǎn hán shù	42
 生产环节	shēng chǎn huán jié	896
 生产环境	shēng chǎn huán jìng	1400
 盛产黄金	shèng chǎn huáng jīn	19
@@ -1162713,6 +1163025,7 @@ NDVI	ndvi	59
 圣殿之石	shèng diàn zhī shí	252
 圣殿中的	shèng diàn zhōng de	310
 声电子学	shēng diàn zǐ xué	45
+声调符号	shēng diào fú hào	54
 圣迭戈号	shèng dié gē hào	202
 圣迭戈市	shèng dié gē shì	396
 圣蝶星云	shèng dié xīng yún	45
@@ -1178092,6 +1178405,7 @@ NDVI	ndvi	59
 失业情况	shī yè qíng kuàng	400
 失业青年	shī yè qīng nián	562
 视野清晰	shì yě qīng xī	518
+失业缺口	shī yè quē kǒu	42
 视野缺损	shì yě quē sǔn	78
 失业人口	shī yè rén kǒu	670
 失业人群	shī yè rén qún	513
@@ -1182387,6 +1182701,7 @@ NDVI	ndvi	59
 授九锡后	shòu jiǔ xī hòu	50
 守旧主义	shǒu jiù zhǔ yì	225
 首局比赛	shǒu jú bǐ sài	468
+首句入韵	shǒu jù rù yùn	54
 首局失利	shǒu jú shī lì	171
 收据正本	shōu jù zhèng běn	162
 手卷烟纸	shǒu juàn yān zhǐ	45
@@ -1183028,6 +1183343,7 @@ NDVI	ndvi	59
 收入审计	shōu rù shěn jì	202
 收入水平	shōu rù shuǐ píng	2729
 收入损失	shōu rù sǔn shī	752
+收入弹性	shōu rù tán xìng	42
 收入提高	shōu rù tí gāo	752
 收入同比	shōu rù tóng bǐ	1053
 收入微薄	shōu rù wēi bó	644
@@ -1183042,6 +1183358,7 @@ NDVI	ndvi	59
 收入增长	shōu rù zēng zhǎng	1193
 收入占比	shōu rù zhàn bǐ	958
 收入账户	shōu rù zhàng hù	392
+收入政策	shōu rù zhèng cè	42
 收入证明	shōu rù zhèng míng	455
 收入支出	shōu rù zhī chū	273
 收入中断	shōu rù zhōng duàn	378
@@ -1185440,6 +1185757,7 @@ NDVI	ndvi	59
 树立人设	shù lì rén shè	153
 书里书外	shū lǐ shū wài	16
 数理思维	shù lǐ sī wéi	454
+梳理探究	shū lǐ tàn jiū	54
 书里提到	shū lǐ tí dào	634
 数理天地	shù lǐ tiān dì	252
 数理统计	shù lǐ tǒng jì	1265
@@ -1185488,6 +1185806,7 @@ NDVI	ndvi	59
 数量不一	shù liàng bù yī	544
 数量不足	shù liàng bù zú	226
 数量充足	shù liàng chōng zú	608
+数量短语	shù liàng duǎn yǔ	54
 数量更多	shù liàng gèng duō	734
 数量关系	shù liàng guān xì	1567
 数量规模	shù liàng guī mó	47
@@ -1185903,6 +1186222,7 @@ NDVI	ndvi	59
 鼠情调查	shǔ qíng diào chá	79
 抒情歌曲	shū qíng gē qǔ	311
 抒情金属	shū qíng jīn shǔ	4
+抒情散文	shū qíng sǎn wén	54
 抒情诗体	shū qíng shī tǐ	9
 孰轻孰重	shú qīng shú zhòng	634
 述情障碍	shù qíng zhàng ài	6
@@ -1186459,6 +1186779,7 @@ NDVI	ndvi	59
 书写练习	shū xiě liàn xí	369
 书写文字	shū xiě wén zì	580
 书写系统	shū xiě xì tǒng	195
+书写障碍	shū xiě zhàng ài	52
 书协主席	shū xié zhǔ xí	441
 舒心安神	shū xīn ān shén	144
 书信传达	shū xìn chuán dá	130
@@ -1190120,6 +1190441,7 @@ NDVI	ndvi	59
 睡眠舒适	shuì mián shū shì	382
 水面搜索	shuǐ miàn sōu suǒ	54
 睡眠瘫痪	shuì mián tān huàn	562
+睡眠卫生	shuì mián wèi shēng	52
 睡眠问题	shuì mián wèn tí	981
 水面雾化	shuǐ miàn wù huà	36
 睡眠习惯	shuì mián xí guàn	1192
@@ -1190128,6 +1190450,7 @@ NDVI	ndvi	59
 水面相交	shuǐ miàn xiāng jiāo	130
 睡眠效果	shuì mián xiào guǒ	536
 水面效果	shuǐ miàn xiào guǒ	258
+睡眠心理	shuì mián xīn lǐ	52
 水面行走	shuǐ miàn xíng zǒu	230
 水面巡查	shuǐ miàn xún chá	49
 睡眠异常	shuì mián yì cháng	369
@@ -1191673,6 +1191996,7 @@ NDVI	ndvi	59
 顺磁性的	shùn cí xìng de	378
 顺磁振子	shùn cí zhèn zǐ	45
 顺从其美	shùn cóng qí měi	76
+顺从行为	shùn cóng xíng wéi	52
 顺从之珠	shùn cóng zhī zhū	4
 顺达搬家	shùn dá bān jiā	45
 顺大酒店	shùn dà jiǔ diàn	202
@@ -1192534,6 +1192858,7 @@ NDVI	ndvi	59
 说明什么	shuō míng shén me	1749
 说明市场	shuō míng shì chǎng	371
 说明书上	shuō míng shū shàng	644
+说明顺序	shuō míng shùn xù	54
 说明文档	shuō míng wén dàng	440
 说明文件	shuō míng wén jiàn	75
 说明问题	shuō míng wèn tí	3982
@@ -1201638,6 +1201963,7 @@ NDVI	ndvi	59
 锁状联合	suǒ zhuàng lián hé	189
 所追求的	suǒ zhuī qiú de	1040
 锁子长靴	suǒ zi cháng xuē	50
+所字短语	suǒ zì duǎn yǔ	54
 锁子铠盾	suǒ zi kǎi dùn	171
 锁子铠甲	suǒ zi kǎi jiǎ	117
 锁子头盔	suǒ zi tóu kuī	338
@@ -1209939,6 +1210265,7 @@ NDVI	ndvi	59
 提取失败	tí qǔ shī bài	45
 提取文件	tí qǔ wén jiàn	468
 提取现金	tí qǔ xiàn jīn	684
+提取线索	tí qǔ xiàn suǒ	52
 提取信息	tí qǔ xìn xī	873
 提取血样	tí qǔ xuè yàng	279
 体全息图	tǐ quán xī tú	130
@@ -1214288,6 +1214615,7 @@ NDVI	ndvi	59
 条件相当	tiáo jiàn xiāng dāng	684
 条件信息	tiáo jiàn xìn xī	482
 条件许可	tiáo jiàn xǔ kě	698
+条件学习	tiáo jiàn xué xí	52
 条件要求	tiáo jiàn yāo qiú	963
 条件一般	tiáo jiàn yì bān	1048
 条件已知	tiáo jiàn yǐ zhī	153
@@ -1217683,6 +1218011,7 @@ NDVI	ndvi	59
 统计物理	tǒng jì wù lǐ	765
 统计系综	tǒng jì xì zōng	194
 统计显示	tǒng jì xiǎn shì	424
+统计显著	tǒng jì xiǎn zhù	52
 同极相斥	tóng jí xiāng chì	92
 同济协和	tóng jì xié hé	320
 统计信息	tǒng jì xìn xī	336
@@ -1218566,6 +1218895,7 @@ NDVI	ndvi	59
 同网同价	tóng wǎng tóng jià	310
 通往仙境	tōng wǎng xiān jìng	288
 同维电子	tóng wéi diàn zǐ	50
+同位短语	tóng wèi duǎn yǔ	54
 通威股份	tōng wēi gǔ fèn	182
 通渭会战	tōng wèi huì zhàn	144
 通威集团	tōng wēi jí tuán	346
@@ -1219213,6 +1219543,7 @@ NDVI	ndvi	59
 同意观点	tóng yì guān diǎn	342
 统一管控	tǒng yī guǎn kòng	369
 统一管理	tǒng yī guǎn lǐ	1369
+同义关系	tóng yì guān xì	54
 统一规定	tǒng yī guī dìng	377
 统一规范	tǒng yī guī fàn	242
 统一规格	tǒng yī guī gé	544
@@ -1219683,6 +1220014,7 @@ NDVI	ndvi	59
 桐荫论画	tóng yīn lùn huà	84
 通因通用	tōng yīn tōng yòng	171
 同寅协恭	tóng yín xié gōng	130
+同音异义	tóng yīn yì yì	54
 桐阴转午	tóng yīn zhuǎn wǔ	99
 同音字词	tóng yīn zì cí	6
 通硬化路	tōng yìng huà lù	369
@@ -1219804,10 +1220136,12 @@ NDVI	ndvi	59
 通胀回升	tōng zhàng huí shēng	580
 统账结合	tǒng zhàng jié hé	513
 通胀目标	tōng zhàng mù biāo	824
+通胀缺口	tōng zhàng quē kǒu	42
 通胀上升	tōng zhàng shàng shēng	598
 通胀数据	tōng zhàng shù jù	868
 通胀水平	tōng zhàng shuǐ píng	814
 同涨同跌	tóng zhǎng tóng diē	554
+通胀预期	tōng zhàng yù qī	42
 统招本科	tǒng zhāo běn kē	421
 统招统分	tǒng zhāo tǒng fēn	382
 同枕共眠	tóng zhěn gòng mián	3
@@ -1223576,6 +1223910,7 @@ NDVI	ndvi	59
 腿都没劲	tuǐ dōu méi jìn	99
 腿都软了	tuǐ dōu ruǎn le	107
 腿都酸了	tuǐ dōu suān le	52
+推断统计	tuī duàn tǒng jì	42
 腿短星人	tuǐ duǎn xīng rén	202
 腿蹲麻了	tuǐ dūn má le	52
 颓堕萎靡	tuí duò wěi mǐ	45
@@ -1224799,6 +1225134,7 @@ NDVI	ndvi	59
 脱盐工厂	tuō yán gōng chǎng	50
 拖延履行	tuō yán lǚ xíng	238
 拖延时间	tuō yán shí jiān	1124
+拖延行为	tuō yán xíng wéi	52
 拖延治疗	tuō yán zhì liáo	594
 脱盐装置	tuō yán zhuāng zhì	76
 脱盐作用	tuō yán zuò yòng	45
@@ -1225239,6 +1225575,7 @@ UV坐标	uv zuò biāo	50
 外部投资	wài bù tóu zī	720
 外部图像	wài bù tú xiàng	130
 外部效度	wài bù xiào dù	279
+外部效应	wài bù xiào yìng	42
 外部形势	wài bù xíng shì	400
 外部需求	wài bù xū qiú	603
 外部压力	wài bù yā lì	770
@@ -1225574,6 +1225911,7 @@ UV坐标	uv zuò biāo	50
 外汇行市	wài huì háng shì	189
 外汇行业	wài huì háng yè	25
 外汇黑市	wài huì hēi shì	6
+外汇互换	wài huì hù huàn	42
 外汇黄金	wài huì huáng jīn	612
 外汇汇率	wài huì huì lǜ	652
 外汇基金	wài huì jī jīn	567
@@ -1225940,6 +1226278,7 @@ UV坐标	uv zuò biāo	50
 外贸流程	wài mào liú chéng	464
 外贸论坛	wài mào lùn tán	179
 外贸码头	wài mào mǎ tóu	320
+外貌描写	wài mào miáo xiě	54
 外贸男装	wài mào nán zhuāng	117
 外贸逆差	wài mào nì chā	9
 外贸女装	wài mào nǚ zhuāng	248
@@ -1228110,6 +1228449,7 @@ UV坐标	uv zuò biāo	50
 完全连接	wán quán lián jiē	432
 完全连锁	wán quán lián suǒ	76
 完全了解	wán quán liǎo jiě	625
+完全垄断	wán quán lǒng duàn	42
 完全履行	wán quán lǚ xíng	657
 完全满意	wán quán mǎn yì	644
 完全满足	wán quán mǎn zú	1143
@@ -1232236,6 +1232576,7 @@ UV坐标	uv zuò biāo	50
 微动手感	wēi dòng shǒu gǎn	96
 微动天下	wēi dòng tiān xià	117
 卫东五队	wèi dōng wǔ duì	50
+为动用法	wéi dòng yòng fǎ	54
 微动装置	wēi dòng zhuāng zhì	76
 纬度变化	wěi dù biàn huà	342
 为都城的	wéi dū chéng de	338
@@ -1232711,6 +1233052,7 @@ UV坐标	uv zuò biāo	50
 魏国丞相	wèi guó chéng xiàng	130
 味国厨房	wèi guó chú fáng	279
 为国出力	wèi guó chū lì	41
+维果茨基	wéi guǒ cí jī	52
 魏国大权	wèi guó dà quán	207
 为国而歌	wèi guó ér gē	171
 为国而战	wèi guó ér zhàn	57
@@ -1236772,6 +1237114,7 @@ UV坐标	uv zuò biāo	50
 问鼎冠军	wèn dǐng guàn jūn	540
 稳定轨道	wěn dìng guǐ dào	414
 稳定规划	wěn dìng guī huà	144
+稳定归因	wěn dìng guī yīn	52
 稳定过程	wěn dìng guò chéng	270
 稳定核素	wěn dìng hé sù	82
 稳定汇率	wěn dìng huì lǜ	626
@@ -1237067,6 +1237410,7 @@ UV坐标	uv zuò biāo	50
 温和谦逊	wēn hé qiān xùn	410
 问何日藕	wèn hé rì ǒu	130
 温和上涨	wēn hé shàng zhǎng	670
+温和通胀	wēn hé tōng zhàng	42
 温和推进	wēn hé tuī jìn	99
 吻合效应	wěn hé xiào yìng	117
 温和有礼	wēn hé yǒu lǐ	639
@@ -1237312,6 +1237656,7 @@ UV坐标	uv zuò biāo	50
 文化象征	wén huà xiàng zhēng	675
 文化消费	wén huà xiāo fèi	886
 文化协会	wén huà xié huì	900
+文化心理	wén huà xīn lǐ	52
 文化形式	wén huà xíng shì	729
 文化形象	wén huà xíng xiàng	82
 文化休闲	wén huà xiū xián	788
@@ -1238265,6 +1238610,7 @@ UV坐标	uv zuò biāo	50
 问题解释	wèn tí jiě shì	666
 问题进行	wèn tí jìn xíng	1494
 问题就是	wèn tí jiù shì	1575
+问题聚焦	wèn tí jù jiāo	52
 问题具体	wèn tí jù tǐ	1017
 问题空间	wèn tí kōng jiān	428
 问题困扰	wèn tí kùn rǎo	1026
@@ -1238699,6 +1239045,7 @@ UV坐标	uv zuò biāo	50
 文学技巧	wén xué jì qiǎo	626
 文学价值	wén xué jià zhí	958
 文学家族	wén xué jiā zú	202
+文学鉴赏	wén xué jiàn shǎng	54
 文学奖项	wén xué jiǎng xiàng	652
 文学教授	wén xué jiào shòu	693
 文学教育	wén xué jiào yù	630
@@ -1238740,7 +1239087,9 @@ UV坐标	uv zuò biāo	50
 文学修养	wén xué xiū yǎng	724
 文学学士	wén xué xué shì	110
 文学研究	wén xué yán jiū	311
+文学意境	wén xué yì jìng	54
 文学艺术	wén xué yì shù	951
+文学意象	wén xué yì xiàng	54
 文学语言	wén xué yǔ yán	192
 文学原型	wén xué yuán xíng	171
 文学运动	wén xué yùn dòng	66
@@ -1238778,10 +1239127,13 @@ UV坐标	uv zuò biāo	50
 稳压装置	wěn yā zhuāng zhì	189
 闻言不信	wén yán bú xìn	212
 文言常识	wén yán cháng shí	38
+文言词汇	wén yán cí huì	54
 闻言大喜	wén yán dà xǐ	513
 闻言顿时	wén yán dùn shí	544
 文言繁体	wén yán fán tǐ	162
+文言翻译	wén yán fān yì	54
 温盐环流	wēn yán huán liú	59
+文言句式	wén yán jù shì	54
 闻言立刻	wén yán lì kè	544
 闻言脸色	wén yán liǎn sè	540
 温言软语	wēn yán ruǎn yǔ	468
@@ -1238795,6 +1239147,7 @@ UV坐标	uv zuò biāo	50
 闻言一惊	wén yán yì jīng	432
 闻言一愣	wén yán yí lèng	626
 闻言一脸	wén yán yì liǎn	374
+文言语法	wén yán yǔ fǎ	54
 温阳补肾	wēn yáng bǔ shèn	342
 温阳化气	wēn yáng huà qì	234
 温阳救逆	wēn yáng jiù nì	117
@@ -1254271,6 +1254624,7 @@ UV坐标	uv zuò biāo	50
 西关附近	xī guān fù jìn	238
 吸管工具	xī guǎn gōng jù	387
 西关虎屯	xī guān hǔ tún	50
+习惯回路	xí guàn huí lù	52
 西关机场	xī guān jī chǎng	51
 习惯坚强	xí guàn jiān qiáng	324
 膝关节病	xī guān jié bìng	6
@@ -1255173,6 +1255527,7 @@ UV坐标	uv zuò biāo	50
 希腊神话	xī là shén huà	2390
 希腊酸奶	xī là suān nǎi	84
 希腊文明	xī là wén míng	46
+希腊字母	xī là zì mǔ	42
 西来初地	xī lái chū dì	279
 熙来攘往	xī lái rǎng wǎng	47
 洗来洗去	xǐ lái xǐ qù	19
@@ -1259876,6 +1260231,7 @@ UV坐标	uv zuò biāo	50
 现代国家	xiàn dài guó jiā	873
 现代果业	xiàn dài guǒ yè	306
 现代汉语	xiàn dài hàn yǔ	3401
+现代汉字	xiàn dài hàn zì	54
 现代化的	xiàn dài huà de	2584
 现代化机	xiàn dài huà jī	500
 现代花艺	xiàn dài huā yì	292
@@ -1260624,6 +1260980,7 @@ UV坐标	uv zuò biāo	50
 仙界灵界	xiān jiè líng jiè	52
 仙界叛逆	xiān jiè pàn nì	144
 贤劫千佛	xián jié qiān fó	338
+衔接手段	xián jiē shǒu duàn	54
 纤介无遗	xiān jiè wú yí	4
 衔接易位	xián jiē yì wèi	90
 纤介之祸	xiān jiè zhī huò	62
@@ -1260729,6 +1261086,7 @@ UV坐标	uv zuò biāo	50
 现金流好	xiàn jīn liú hǎo	423
 现金流量	xiàn jīn liú liàng	867
 现金流入	xiàn jīn liú rù	380
+现金流通	xiàn jīn liú tōng	42
 现金买卖	xiàn jīn mǎi mài	19
 先进民族	xiān jìn mín zú	302
 先进模范	xiān jìn mó fàn	19
@@ -1260815,6 +1261173,7 @@ UV坐标	uv zuò biāo	50
 现金支票	xiàn jīn zhī piào	57
 先进知识	xiān jìn zhī shi	482
 先进制造	xiān jìn zhì zào	1008
+现金周转	xiàn jīn zhōu zhuǎn	42
 先进装备	xiān jìn zhuāng bèi	729
 现金资产	xiàn jīn zī chǎn	747
 先进组织	xiān jìn zǔ zhī	342
@@ -1268995,6 +1269354,7 @@ UV坐标	uv zuò biāo	50
 消费诱导	xiāo fèi yòu dǎo	117
 消费与法	xiāo fèi yǔ fǎ	50
 消费娱乐	xiāo fèi yú lè	31
+消费预期	xiāo fèi yù qī	42
 消费欲望	xiāo fèi yù wàng	744
 消费增速	xiāo fèi zēng sù	670
 消费增长	xiāo fèi zēng zhǎng	119
@@ -1273456,7 +1273816,9 @@ UV坐标	uv zuò biāo	50
 写作生涯	xiě zuò shēng yá	608
 写作时间	xiě zuò shí jiān	724
 写作实践	xiě zuò shí jiàn	399
+写作手法	xiě zuò shǒu fǎ	54
 写作水平	xiě zuò shuǐ píng	1152
+写作顺序	xiě zuò shùn xù	54
 写作思路	xiě zuò sī lù	738
 写作素材	xiě zuò sù cái	788
 写作提纲	xiě zuò tí gāng	60
@@ -1275461,11 +1275823,13 @@ UV坐标	uv zuò biāo	50
 心理负荷	xīn lǐ fù hè	320
 心理抚慰	xīn lǐ fǔ wèi	378
 心理服务	xīn lǐ fú wù	585
+心理复原	xīn lǐ fù yuán	52
 心里感激	xīn lǐ gǎn jī	25
 心理感觉	xīn lǐ gǎn jué	107
 心里感慨	xīn lǐ gǎn kǎi	594
 心理感受	xīn lǐ gǎn shòu	659
 心里感叹	xīn lǐ gǎn tàn	666
+心理干预	xīn lǐ gān yù	52
 心里高兴	xīn lǐ gāo xìng	57
 心里咯噔	xīn lǐ gē dēng	317
 心里膈应	xīn lǐ gè ying	47
@@ -1275544,6 +1275908,7 @@ UV坐标	uv zuò biāo	50
 心里明亮	xīn lǐ míng liàng	234
 心里默默	xīn lǐ mò mò	848
 心理魔术	xīn lǐ mó shù	144
+心理模型	xīn lǐ mó xíng	52
 心里那片	xīn lǐ nà piàn	153
 心里难过	xīn lǐ nán guò	760
 心里难受	xīn lǐ nán shòu	546
@@ -1275598,6 +1275963,7 @@ UV坐标	uv zuò biāo	50
 心理调节	xīn lǐ tiáo jié	236
 心理调适	xīn lǐ tiáo shì	38
 心理调试	xīn lǐ tiáo shì	34
+心理统计	xīn lǐ tǒng jì	52
 心理慰藉	xīn lǐ wèi jiè	88
 心里委屈	xīn lǐ wěi qū	644
 心理卫生	xīn lǐ wèi shēng	185
@@ -1277327,6 +1277693,7 @@ UV坐标	uv zuò biāo	50
 信息交换	xìn xī jiāo huàn	619
 信息交流	xìn xī jiāo liú	832
 心系教育	xīn xì jiào yù	220
+信息结构	xìn xī jié gòu	54
 信息接入	xìn xī jiē rù	396
 信息接收	xìn xī jiē shōu	630
 信息经济	xìn xī jīng jì	47
@@ -1278413,6 +1278780,7 @@ UV坐标	uv zuò biāo	50
 新智科技	xīn zhì kē jì	76
 心之恐惧	xīn zhī kǒng jù	171
 心直口快	xīn zhí kǒu kuài	371
+心智理论	xīn zhì lǐ lùn	52
 心之恋语	xīn zhī liàn yǔ	45
 新指令集	xīn zhǐ lìng jí	266
 新织绫机	xīn zhī líng jī	65
@@ -1280625,6 +1280993,7 @@ UV坐标	uv zuò biāo	50
 行为监管	xíng wéi jiān guǎn	16
 行为矫正	xíng wéi jiǎo zhèng	118
 行为金融	xíng wéi jīn róng	204
+行为经济	xíng wéi jīng jì	52
 行为矩阵	xíng wéi jǔ zhèn	482
 行为举止	xíng wéi jǔ zhǐ	757
 行为觉醒	xíng wéi jué xǐng	76
@@ -1280662,6 +1281031,7 @@ UV坐标	uv zuò biāo	50
 幸为先容	xìng wéi xiān róng	90
 行为显现	xíng wéi xiǎn xiàn	99
 兴味萧然	xìng wèi xiāo rán	194
+行为心理	xíng wéi xīn lǐ	52
 行为学家	xíng wéi xué jiā	19
 行为异常	xíng wéi yì cháng	132
 行为依据	xíng wéi yī jù	495
@@ -1281374,6 +1281744,7 @@ UV坐标	uv zuò biāo	50
 性状改变	xìng zhuàng gǎi biàn	490
 形状构造	xíng zhuàng gòu zào	378
 形状函数	xíng zhuàng hán shù	130
+形状恒常	xíng zhuàng héng cháng	52
 性状鉴别	xìng zhuàng jiàn bié	310
 性状检查	xìng zhuàng jiǎn chá	52
 形状理论	xíng zhuàng lǐ lùn	180
@@ -1282034,6 +1282405,7 @@ UV坐标	uv zuò biāo	50
 修辞方法	xiū cí fāng fǎ	603
 修辞立诚	xiū cí lì chéng	3
 修辞手法	xiū cí shǒu fǎ	1152
+修辞效果	xiū cí xiào guǒ	54
 修辞学家	xiū cí xué jiā	19
 秀大长腿	xiù dà cháng tuǐ	441
 修打印机	xiū dǎ yìn jī	16
@@ -1283147,6 +1283519,7 @@ UV坐标	uv zuò biāo	50
 虚假互动	xū jiǎ hù dòng	72
 徐家汇路	xú jiā huì lù	13
 虚假计数	xū jiǎ jì shù	45
+虚假记忆	xū jiǎ jì yì	52
 虚假记载	xū jiǎ jì zǎi	1359
 虚假简历	xū jiǎ jiǎn lì	25
 虚假兼职	xū jiǎ jiān zhí	356
@@ -1283475,6 +1283848,7 @@ UV坐标	uv zuò biāo	50
 需求不足	xū qiú bù zú	336
 需求层次	xū qiú céng cì	138
 需求持续	xū qiú chí xù	832
+需求冲击	xū qiú chōng jī	42
 需求出发	xū qiú chū fā	850
 需求淡季	xū qiú dàn jì	522
 需求导向	xū qiú dǎo xiàng	639
@@ -1283491,6 +1283865,7 @@ UV坐标	uv zuò biāo	50
 需求公示	xū qiú gōng shì	194
 需求管理	xū qiú guǎn lǐ	443
 需求规模	xū qiú guī mó	31
+需求函数	xū qiú hán shù	42
 需求合理	xū qiú hé lǐ	702
 需求很大	xū qiú hěn dà	734
 需求恢复	xū qiú huī fù	504
@@ -1283595,12 +1283970,15 @@ UV坐标	uv zuò biāo	50
 徐氏企业	xú shì qǐ yè	4
 虚实融合	xū shí róng hé	369
 呴湿濡沫	xǔ shī rú mò	52
+叙事散文	xù shì sǎn wén	54
 虚室生白	xū shì shēng bái	41
 虚实失度	xū shí shī dù	4
+叙事时间	xù shì shí jiān	54
 叙事视角	xù shì shì jiǎo	68
 蓄势腾飞	xù shì téng fēi	270
 虚实透视	xū shí tòu shì	4
 蓄势突围	xù shì tū wéi	4
+叙事线索	xù shì xiàn suǒ	54
 虚实相对	xū shí xiàng duì	189
 虚实相间	xū shí xiàng jiān	414
 虚实相生	xū shí xiàng shēng	88
@@ -1283619,6 +1283997,7 @@ UV坐标	uv zuò biāo	50
 序数记号	xù shù jì hào	45
 虚数空间	xū shù kōng jiān	288
 序属三秋	xù shǔ sān qiū	25
+叙述视角	xù shù shì jiǎo	54
 虚数学区	xū shù xué qū	153
 蓄水保墒	xù shuǐ bǎo shāng	248
 蓄水保水	xù shuǐ bǎo shuǐ	270
@@ -1286903,6 +1287282,7 @@ UV坐标	uv zuò biāo	50
 学习经历	xué xí jīng lì	1535
 学习精力	xué xí jīng lì	477
 学习经验	xué xí jīng yàn	1102
+学习倦怠	xué xí juàn dài	52
 学习开发	xué xí kāi fā	891
 学习抗疫	xué xí kàng yì	45
 学习考察	xué xí kǎo chá	652
@@ -1286941,6 +1287321,7 @@ UV坐标	uv zuò biāo	50
 学习培训	xué xí péi xùn	860
 学习品质	xué xí pǐn zhì	612
 学习平板	xué xí píng bǎn	73
+学习评价	xué xí píng jià	52
 学习平台	xué xí píng tái	1369
 学习气氛	xué xí qì fēn	261
 学习期间	xué xí qī jiān	932
@@ -1287012,6 +1287393,7 @@ UV坐标	uv zuò biāo	50
 学习写字	xué xí xiě zì	486
 学习写作	xué xí xiě zuò	828
 学习心得	xué xí xīn dé	571
+学习心理	xué xí xīn lǐ	52
 学习新知	xué xí xīn zhī	1166
 学习兴趣	xué xí xìng qù	1061
 学习形式	xué xí xíng shì	471
@@ -1292008,6 +1292390,7 @@ UV坐标	uv zuò biāo	50
 颜色釉瓷	yán sè yòu cí	396
 颜色诱人	yán sè yòu rén	459
 颜色正确	yán sè zhèng què	270
+颜色知觉	yán sè zhī jué	52
 颜色指数	yán sè zhǐ shù	130
 颜色中心	yán sè zhōng xīn	69
 颜色主题	yán sè zhǔ tí	513
@@ -1292908,6 +1293291,7 @@ UV坐标	uv zuò biāo	50
 演艺酒吧	yǎn yì jiǔ bā	320
 演艺科技	yǎn yì kē jì	99
 演绎理论	yǎn yì lǐ lùn	144
+演绎论证	yǎn yì lùn zhèng	54
 严以律己	yán yǐ lǜ jǐ	634
 演艺梦想	yǎn yì mèng xiǎng	315
 演绎名家	yǎn yì míng jiā	50
@@ -1293009,6 +1293393,7 @@ UV坐标	uv zuò biāo	50
 烟雨红尘	yān yǔ hóng chén	292
 烟雨还魂	yān yǔ huán hún	320
 烟雨江南	yān yǔ jiāng nán	148
+言语交际	yán yǔ jiāo jì	54
 烟雨金陵	yān yǔ jīn líng	4
 艳遇酒吧	yàn yù jiǔ bā	50
 言语康复	yán yǔ kāng fù	423
@@ -1293039,6 +1293424,7 @@ UV坐标	uv zuò biāo	50
 言语无味	yán yǔ wú wèi	13
 烟雨斜阳	yān yǔ xié yáng	306
 焰羽星花	yàn yǔ xīng huā	45
+言语行为	yán yǔ xíng wéi	54
 烟雨行舟	yān yǔ xíng zhōu	130
 言语学习	yán yǔ xué xí	279
 言语训练	yán yǔ xùn liàn	364
@@ -1296356,6 +1296742,7 @@ UV坐标	uv zuò biāo	50
 要素集聚	yào sù jí jù	500
 要素集齐	yào sù jí qí	4
 要素价格	yào sù jià gé	608
+要素配置	yào sù pèi zhì	42
 要素驱动	yào sù qū dòng	594
 要素省略	yào sù shěng lüè	45
 要素市场	yào sù shì chǎng	688
@@ -1297612,6 +1297999,7 @@ UV坐标	uv zuò biāo	50
 夜间加重	yè jiān jiā zhòng	405
 夜间检漏	yè jiān jiǎn lòu	37
 夜间检修	yè jiān jiǎn xiū	83
+夜间经济	yè jiān jīng jì	42
 叶间静脉	yè jiān jìng mài	76
 夜间开车	yè jiān kāi chē	93
 夜间开放	yè jiān kāi fàng	58
@@ -1302696,6 +1303084,7 @@ UV坐标	uv zuò biāo	50
 一冬一夏	yī dōng yí xià	122
 一动一言	yí dòng yì yán	468
 移动医院	yí dòng yī yuàn	306
+移动银行	yí dòng yín háng	42
 移动音箱	yí dòng yīn xiāng	382
 移动音响	yí dòng yīn xiǎng	213
 移动硬盘	yí dòng yìng pán	1645
@@ -1307594,6 +1307983,7 @@ UV坐标	uv zuò biāo	50
 一脸喜气	yì liǎn xǐ qì	387
 一脸嫌弃	yì liǎn xián qì	918
 一脸笑意	yì liǎn xiào yì	770
+依恋形成	yī liàn xíng chéng	52
 一连一排	yì lián yì pái	194
 亿联银行	yì lián yín háng	72
 一帘幽梦	yì lián yōu mèng	72
@@ -1308256,6 +1308646,7 @@ UV坐标	uv zuò biāo	50
 以伦理学	yǐ lún lǐ xué	234
 一轮明月	yì lún míng yuè	204
 议论人物	yì lùn rén wù	153
+议论散文	yì lùn sǎn wén	54
 一轮山月	yì lún shān yuè	4
 议论什么	yì lùn shén me	31
 伊伦铁路	yī lún tiě lù	279
@@ -1319065,6 +1319456,7 @@ UV坐标	uv zuò biāo	50
 因果联系	yīn guǒ lián xì	386
 因果联想	yīn guǒ lián xiǎng	162
 因果轮回	yīn guǒ lún huí	648
+因果论证	yīn guǒ lùn zhèng	54
 因果人生	yīn guǒ rén shēng	130
 因果未尽	yīn guǒ wèi jìn	45
 因果循环	yīn guǒ xún huán	267
@@ -1319184,6 +1319576,7 @@ UV坐标	uv zuò biāo	50
 银行牌照	yín háng pái zhào	179
 银行票据	yín háng piào jù	144
 银行破产	yín háng pò chǎn	754
+银行清算	yín háng qīng suàn	42
 银行渠道	yín háng qú dào	289
 银行取款	yín háng qǔ kuǎn	47
 银行取钱	yín háng qǔ qián	88
@@ -1319508,6 +1319901,7 @@ UV坐标	uv zuò biāo	50
 阴角护条	yīn jiǎo hù tiáo	69
 隐结藏局	yǐn jié cáng jú	144
 隐介藏形	yǐn jiè cáng xíng	35
+音节结构	yīn jié jié gòu	54
 音阶练习	yīn jiē liàn xí	562
 音节列表	yīn jié liè biǎo	171
 音节文字	yīn jié wén zì	122
@@ -1320548,6 +1320942,7 @@ UV坐标	uv zuò biāo	50
 因为爸爸	yīn wèi bà ba	846
 因为北京	yīn wèi běi jīng	846
 因为彼此	yīn wèi bǐ cǐ	223
+音位变体	yīn wèi biàn tǐ	54
 因为不理	yīn wèi bù lǐ	508
 因为不是	yīn wèi bú shì	1242
 因为长句	yīn wéi cháng jù	256
@@ -1321151,6 +1321546,7 @@ UV坐标	uv zuò biāo	50
 引用来源	yǐn yòng lái yuán	72
 引用类型	yǐn yòng lèi xíng	97
 隐泳龙类	yǐn yǒng lóng lèi	50
+引用论证	yǐn yòng lùn zhèng	54
 引用模板	yǐn yòng mú bǎn	130
 饮用牛奶	yǐn yòng niú nǎi	621
 饮用浓茶	yǐn yòng nóng chá	459
@@ -1334632,10 +1335028,13 @@ UV坐标	uv zuò biāo	50
 愈发成熟	yù fā chéng shú	540
 语法词汇	yǔ fǎ cí huì	990
 语法错误	yǔ fǎ cuò wù	2276
+语法单位	yǔ fǎ dān wèi	54
+语法范畴	yǔ fǎ fàn chóu	54
 语法范例	yǔ fǎ fàn lì	50
 语法分析	yǔ fǎ fēn xī	367
 语法高亮	yǔ fǎ gāo liàng	160
 愈发高涨	yù fā gāo zhǎng	436
+语法功能	yǔ fǎ gōng néng	54
 语法规则	yǔ fǎ guī zé	747
 语法基础	yǔ fǎ jī chǔ	543
 愈发激烈	yù fā jī liè	706
@@ -1334646,7 +1335045,9 @@ UV坐标	uv zuò biāo	50
 语法练习	yǔ fǎ liàn xí	756
 愈发明显	yù fā míng xiǎn	756
 愈发频繁	yù fā pín fán	513
+语法歧义	yǔ fǎ qí yì	54
 语法缺失	yǔ fǎ quē shī	50
+语法手段	yǔ fǎ shǒu duàn	54
 语法术语	yǔ fǎ shù yǔ	82
 语法填空	yǔ fǎ tián kòng	608
 与法同行	yǔ fǎ tóng xíng	6
@@ -1334656,6 +1335057,7 @@ UV坐标	uv zuò biāo	50
 预发行版	yù fā xíng bǎn	162
 语法学家	yǔ fǎ xué jiā	472
 愈发严重	yù fā yán zhòng	327
+语法意义	yǔ fǎ yì yì	54
 语法一致	yǔ fǎ yí zhì	288
 于法有据	yú fǎ yǒu jù	41
 语法知识	yǔ fǎ zhī shi	1306
@@ -1335342,6 +1335744,7 @@ UV坐标	uv zuò biāo	50
 预警劝阻	yù jǐng quàn zǔ	100
 预警升级	yù jǐng shēng jí	28
 预警时间	yù jǐng shí jiān	28
+语境适应	yǔ jìng shì yìng	54
 语惊四座	yǔ jīng sì zuò	47
 预警弹窗	yù jǐng tán chuāng	28
 裕景陶瓷	yù jǐng táo cí	4
@@ -1335687,6 +1336090,7 @@ UV坐标	uv zuò biāo	50
 预留空间	yù liú kōng jiān	648
 预留签章	yù liú qiān zhāng	52
 预留手机	yù liú shǒu jī	100
+语流音变	yǔ liú yīn biàn	54
 预留印鉴	yù liú yìn jiàn	590
 预留印章	yù liú yìn zhāng	52
 预留预埋	yù liú yù mái	171
@@ -1336102,6 +1336506,9 @@ UV坐标	uv zuò biāo	50
 与朋友交	yǔ péng you jiāo	788
 鱼皮鞑子	yú pí dá zi	76
 欲辟土地	yù pì tǔ dì	50
+语篇分析	yǔ piān fēn xī	54
+语篇连贯	yǔ piān lián guàn	54
+语篇衔接	yǔ piān xián jiē	54
 鱼片蒸蛋	yú piàn zhēng dàn	52
 余票查询	yú piào chá xún	51
 余票提醒	yú piào tí xǐng	64
@@ -1336933,6 +1337340,7 @@ UV坐标	uv zuò biāo	50
 预提费用	yù tí fèi yong	28
 玉体横陈	yù tǐ héng chén	41
 鱼体僵硬	yú tǐ jiāng yìng	84
+语体色彩	yǔ tǐ sè cǎi	54
 与天比高	yǔ tiān bǐ gāo	338
 余天成堂	yú tiān chéng táng	50
 雨天的雨	yǔ tiān de yǔ	243
@@ -1337076,6 +1337484,7 @@ UV坐标	uv zuò biāo	50
 愈闻汝丧	yù wén rǔ sàng	130
 禹闻善言	yǔ wén shàn yán	99
 余温尚存	yú wēn shàng cún	360
+语文实践	yǔ wén shí jiàn	54
 语文试卷	yǔ wén shì juàn	236
 语文试题	yǔ wén shì tí	63
 语文数学	yǔ wén shù xué	257
@@ -1337305,6 +1337714,7 @@ UV坐标	uv zuò biāo	50
 毓秀东路	yù xiù dōng lù	144
 欲休还说	yù xiū hái shuō	99
 聿修厥德	yù xiū jué dé	117
+语序不当	yǔ xù bù dāng	54
 玉虚公主	yù xū gōng zhǔ	130
 于虚空中	yú xū kōng zhōng	256
 鱼悬甘饵	yú xuán gān ěr	45
@@ -1337361,8 +1337771,10 @@ UV坐标	uv zuò biāo	50
 语言暴力	yǔ yán bào lì	814
 语言本身	yǔ yán běn shēn	842
 语言编程	yǔ yán biān chéng	116
+语言变化	yǔ yán biàn huà	54
 语言表达	yǔ yán biǎo dá	2135
 语言表述	yǔ yán biǎo shù	864
+语言标准	yǔ yán biāo zhǔn	54
 语言不通	yǔ yán bù tōng	1108
 语言不同	yǔ yán bù tóng	765
 语焉不详	yǔ yān bù xiáng	804
@@ -1337396,6 +1337808,7 @@ UV坐标	uv zuò biāo	50
 语言交流	yǔ yán jiāo liú	1251
 语言教学	yǔ yán jiào xué	742
 语言教育	yǔ yán jiào yù	129
+语言接触	yǔ yán jiē chù	54
 语言结构	yǔ yán jié gòu	276
 语言解释	yǔ yán jiě shì	846
 预言解释	yù yán jiě shì	110
@@ -1337411,6 +1337824,7 @@ UV坐标	uv zuò biāo	50
 语言扩展	yǔ yán kuò zhǎn	396
 语言类型	yǔ yán lèi xíng	78
 语言立法	yǔ yán lì fǎ	130
+语言理解	yǔ yán lǐ jiě	54
 语言列表	yǔ yán liè biǎo	536
 语言流畅	yǔ yán liú chàng	248
 语言逻辑	yǔ yán luó ji	706
@@ -1337438,6 +1337852,7 @@ UV坐标	uv zuò biāo	50
 语言誓约	yǔ yán shì yuē	45
 语言水平	yǔ yán shuǐ píng	776
 语言特点	yǔ yán tè diǎn	126
+语言特色	yǔ yán tè sè	54
 语言特性	yǔ yán tè xìng	474
 语言体系	yǔ yán tǐ xì	433
 语言天赋	yǔ yán tiān fù	774
@@ -1337466,10 +1337881,12 @@ UV坐标	uv zuò biāo	50
 语言学校	yǔ yán xué xiào	2358
 语言学院	yǔ yán xué yuàn	75
 语言训练	yǔ yán xùn liàn	116
+语言演变	yǔ yán yǎn biàn	54
 语言研究	yǔ yán yán jiū	864
 语言要求	yǔ yán yāo qiú	801
 语言艺术	yǔ yán yì shù	342
 预言应验	yù yán yìng yàn	405
+语言优美	yǔ yán yōu měi	54
 语言优势	yǔ yán yōu shì	576
 欲言又止	yù yán yòu zhǐ	1369
 语言语法	yǔ yán yǔ fǎ	122
@@ -1337586,6 +1338003,7 @@ UV坐标	uv zuò biāo	50
 予以公开	yǔ yǐ gōng kāi	598
 予以公示	yǔ yǐ gōng shì	747
 予以关停	yǔ yǐ guān tíng	396
+语义关系	yǔ yì guān xì	54
 予以关注	yǔ yǐ guān zhù	729
 予以规范	yǔ yǐ guī fàn	567
 予以核实	yǔ yǐ hé shí	482
@@ -1337608,6 +1338026,7 @@ UV坐标	uv zuò biāo	50
 予以纠正	yǔ yǐ jiū zhèng	738
 予以救助	yǔ yǐ jiù zhù	315
 予以拒绝	yǔ yǐ jù jué	652
+语义角色	yǔ yì jué sè	54
 予以考虑	yǔ yǐ kǎo lǜ	590
 予以肯定	yǔ yǐ kěn dìng	662
 予以扣押	yǔ yǐ kòu yā	310
@@ -1337627,6 +1338046,7 @@ UV坐标	uv zuò biāo	50
 语义启动	yǔ yì qǐ dòng	99
 鱼忆七秒	yú yì qī miǎo	45
 予以起诉	yǔ yǐ qǐ sù	284
+语义歧义	yǔ yì qí yì	54
 予以签署	yǔ yǐ qiān shǔ	225
 予以谴责	yǔ yǐ qiǎn zé	598
 予以强调	yǔ yǐ qiáng diào	13
@@ -1337647,6 +1338067,7 @@ UV坐标	uv zuò biāo	50
 予以收缴	yǔ yǐ shōu jiǎo	536
 予以受理	yǔ yǐ shòu lǐ	540
 予以说明	yǔ yǐ shuō míng	662
+语义特征	yǔ yì tè zhēng	54
 予以剔除	yǔ yǐ tī chú	464
 于一体的	yú yì tǐ de	1292
 羽翼天使	yǔ yì tiān shǐ	256
@@ -1337675,6 +1338096,7 @@ UV坐标	uv zuò biāo	50
 予以支持	yǔ yǐ zhī chí	261
 雨一直下	yǔ yì zhí xià	94
 羽翼之下	yǔ yì zhī xià	85
+语义指向	yǔ yì zhǐ xiàng	54
 予以执行	yǔ yǐ zhí xíng	25
 予以制止	yǔ yǐ zhì zhǐ	572
 予以重创	yǔ yǐ zhòng chuāng	9
@@ -1337768,6 +1338190,8 @@ UV坐标	uv zuò biāo	50
 御用画师	yù yòng huà shī	342
 余勇可贾	yú yǒng kě gǔ	9
 余勇可嘉	yú yǒng kě jiā	4
+语用能力	yǔ yòng néng lì	54
+语用失误	yǔ yòng shī wù	54
 御用闲人	yù yòng xián rén	306
 语用学家	yǔ yòng xué jiā	45
 御用医师	yù yòng yī shī	180
@@ -1341302,6 +1341726,7 @@ UV坐标	uv zuò biāo	50
 阅读计划	yuè dú jì huà	169
 阅读技巧	yuè dú jì qiǎo	896
 阅读家书	yuè dú jiā shū	99
+阅读鉴赏	yuè dú jiàn shǎng	54
 阅读教学	yuè dú jiào xué	53
 阅读经典	yuè dú jīng diǎn	855
 阅读距离	yuè dú jù lí	53
@@ -1343291,6 +1343716,7 @@ UV坐标	uv zuò biāo	50
 运动协会	yùn dòng xié huì	75
 运动鞋男	yùn dòng xié nán	320
 运动鞋女	yùn dòng xié nǚ	302
+运动心理	yùn dòng xīn lǐ	52
 运动型车	yùn dòng xíng chē	580
 运动性能	yùn dòng xìng néng	747
 运动形式	yùn dòng xíng shì	716
@@ -1350409,6 +1350835,7 @@ UV坐标	uv zuò biāo	50
 债券交易	zhài quàn jiāo yì	986
 债权金额	zhài quán jīn é	369
 债权纠纷	zhài quán jiū fēn	288
+债券久期	zhài quàn jiǔ qī	42
 债券利率	zhài quàn lì lǜ	680
 债券利息	zhài quàn lì xī	904
 债券面值	zhài quàn miàn zhí	585
@@ -1352112,6 +1352539,7 @@ UV坐标	uv zuò biāo	50
 章动常数	zhāng dòng cháng shù	45
 张东铁路	zhāng dōng tiě lù	76
 瘴毒脚气	zhàng dú jiǎo qì	4
+账对不上	zhàng duì bú shàng	42
 涨多跌少	zhǎng duō diē shǎo	612
 掌舵启航	zhǎng duò qǐ háng	4
 张二狗子	zhāng èr gǒu zi	4
@@ -1352282,6 +1352710,7 @@ UV坐标	uv zuò biāo	50
 账户证明	zhàng hù zhèng míng	100
 账户注销	zhàng hù zhù xiāo	39
 账户转账	zhàng hù zhuǎn zhàng	702
+账户资产	zhàng hù zī chǎn	42
 账户资金	zhàng hù zī jīn	909
 张花高速	zhāng huā gāo sù	297
 张皇其事	zhāng huáng qí shì	4
@@ -1360266,6 +1360695,7 @@ UV坐标	uv zuò biāo	50
 政府事件	zhèng fǔ shì jiàn	256
 政府时间	zhèng fǔ shí jiān	163
 征服世界	zhēng fú shì jiè	898
+政府失灵	zhèng fǔ shī líng	42
 政府实施	zhèng fǔ shí shī	864
 政府事务	zhèng fǔ shì wù	652
 政府施压	zhèng fǔ shī yā	657
@@ -1364424,6 +1364854,7 @@ UV坐标	uv zuò biāo	50
 至大至刚	zhì dà zhì gāng	22
 执达主任	zhí dá zhǔ rèn	454
 纸袋包装	zhǐ dài bāo zhuāng	486
+指代不明	zhǐ dài bù míng	54
 织带厂家	zhī dài chǎng jiā	50
 制袋尺寸	zhì dài chǐ cùn	45
 纸带点迹	zhǐ dài diǎn jì	39
@@ -1369361,6 +1369792,7 @@ UV坐标	uv zuò biāo	50
 至人无为	zhì rén wú wéi	99
 知人下士	zhī rén xià shì	45
 指认现场	zhǐ rèn xiàn chǎng	35
+志人小说	zhì rén xiǎo shuō	54
 知人则哲	zhī rén zé zhé	9
 只认这个	zhǐ rèn zhè ge	13
 知人者智	zhī rén zhě zhì	129
@@ -1370342,6 +1370774,7 @@ UV坐标	uv zuò biāo	50
 只属于我	zhǐ shǔ yú wǒ	698
 指数运算	zhǐ shù yùn suàn	82
 植树造林	zhí shù zào lín	653
+指数增强	zhǐ shù zēng qiáng	42
 指数增长	zhǐ shù zēng zhǎng	593
 指数涨幅	zhǐ shù zhǎng fú	832
 直属长官	zhí shǔ zhǎng guān	333
@@ -1371207,6 +1371640,7 @@ UV坐标	uv zuò biāo	50
 知性干练	zhī xìng gàn liàn	468
 直型钢板	zhí xíng gāng bǎn	45
 执行攻坚	zhí xíng gōng jiān	6
+执行功能	zhí xíng gōng néng	52
 执行公务	zhí xíng gōng wù	220
 执行工作	zhí xíng gōng zuò	245
 执行过程	zhí xíng guò chéng	493
@@ -1371229,6 +1371663,7 @@ UV坐标	uv zuò biāo	50
 执行经理	zhí xíng jīng lǐ	28
 执行拘传	zhí xíng jū chuán	50
 智行科技	zhì xíng kē jì	99
+执行控制	zhí xíng kòng zhì	52
 执行力差	zhí xíng lì chà	107
 执行例程	zhí xíng lì chéng	76
 执行力度	zhí xíng lì dù	257
@@ -1373024,6 +1373459,8 @@ UV坐标	uv zuò biāo	50
 中部地带	zhōng bù dì dài	346
 中部地方	zhōng bù dì fāng	585
 中部地区	zhōng bù dì qū	703
+中补短语	zhōng bǔ duǎn yǔ	54
+中补关系	zhōng bǔ guān xì	54
 种不合格	zhǒng bù hé gé	482
 终不解矣	zhōng bù jiě yǐ	297
 中部崛起	zhōng bù jué qǐ	88
@@ -1375945,6 +1376382,7 @@ UV坐标	uv zuò biāo	50
 众建贤才	zhòng jiàn xián cái	45
 中间纤丝	zhōng jiān xiān sī	90
 中间纤维	zhōng jiān xiān wéi	9
+中间消费	zhōng jiān xiāo fèi	42
 中间楔骨	zhōng jiān xiē gǔ	99
 中渐新世	zhōng jiàn xīn shì	50
 中渐新统	zhōng jiàn xīn tǒng	45
@@ -1383455,6 +1383893,8 @@ UV坐标	uv zuò biāo	50
 逐位比较	zhú wèi bǐ jiào	144
 珠围翠绕	zhū wéi cuì rào	9
 诸位大侠	zhū wèi dà xiá	364
+主谓短语	zhǔ wèi duǎn yǔ	54
+主谓关系	zhǔ wèi guān xì	54
 助威加油	zhù wēi jiā yóu	382
 主谓结构	zhǔ wèi jié gòu	116
 诸位皆是	zhū wèi jiē shì	220
@@ -1383881,6 +1384321,7 @@ UV坐标	uv zuò biāo	50
 注意不到	zhù yì bú dào	801
 主意不定	zhú yi bú dìng	162
 注意补钙	zhù yì bǔ gài	500
+注意捕获	zhù yì bǔ huò	52
 注意策略	zhù yì cè lüè	52
 逐一查看	zhú yī chá kàn	774
 注意查看	zhù yì chá kàn	338
@@ -1383949,6 +1384390,7 @@ UV坐标	uv zuò biāo	50
 注意烤鸭	zhù yì kǎo yā	50
 注意控制	zhù yì kòng zhì	1102
 逐一朗读	zhú yī lǎng dú	76
+注意力差	zhù yì lì chà	52
 逐一理解	zhú yī lǐ jiě	153
 主义理论	zhǔ yì lǐ lùn	19
 注意力是	zhù yì lì shì	729
@@ -1383958,6 +1384400,7 @@ UV坐标	uv zuò biāo	50
 逐一录入	zhú yī lù rù	180
 逐一落实	zhú yī luò shí	3
 注意盲区	zhù yì máng qū	93
+注意盲视	zhù yì máng shì	52
 逐一摸排	zhú yī mō pái	238
 注意哪些	zhù yì nǎ xiē	82
 逐一排查	zhú yī pái chá	594
@@ -1383972,6 +1384415,7 @@ UV坐标	uv zuò biāo	50
 注意清洗	zhù yì qīng xǐ	603
 注意区分	zhù yì qū fēn	747
 逐一确认	zhú yī què rèn	288
+注意缺陷	zhù yì quē xiàn	52
 注意人身	zhù yì rén shēn	742
 主义色彩	zhǔ yì sè cǎi	900
 逐一上门	zhú yī shàng mén	220
@@ -1384037,6 +1384481,7 @@ UV坐标	uv zuò biāo	50
 注意注意	zhù yì zhù yì	267
 注意转移	zhù yì zhuǎn yí	13
 注意自己	zhù yì zì jǐ	424
+注意资源	zhù yì zī yuán	52
 逐一走访	zhú yī zǒu fǎng	356
 注意嘴脸	zhù yì zuǐ liǎn	50
 注音不全	zhù yīn bù quán	99
@@ -1384686,6 +1385131,7 @@ UV坐标	uv zuò biāo	50
 赚到手软	zhuàn dào shǒu ruǎn	378
 转导因子	zhuǎn dǎo yīn zǐ	45
 转导作用	zhuǎn dǎo zuò yòng	130
+赚得不多	zhuàn de bù duō	42
 赚得不少	zhuàn de bù shǎo	52
 转得飞快	zhuǎn de fēi kuài	35
 赚得更多	zhuàn de gèng duō	603
@@ -1386057,6 +1386503,7 @@ UV坐标	uv zuò biāo	50
 专一深情	zhuān yì shēn qíng	338
 专一试剂	zhuān yí shì jì	90
 转移视线	zhuǎn yí shì xiàn	430
+转移收入	zhuǎn yí shōu rù	42
 转一天吧	zhuǎn yì tiān ba	52
 转移通知	zhuǎn yí tōng zhī	28
 转乙酰酶	zhuǎn yǐ xiān méi	4
@@ -1388106,6 +1388553,7 @@ UV坐标	uv zuò biāo	50
 资本盈余	zī běn yíng yú	202
 资本涌入	zī běn yǒng rù	666
 资本优势	zī běn yōu shì	585
+资本预算	zī běn yù suàn	42
 资本约束	zī běn yuē shù	634
 资本运营	zī běn yùn yíng	116
 资本运作	zī běn yùn zuò	2038
@@ -1391110,10 +1391558,12 @@ UV坐标	uv zuò biāo	50
 自我边界	zì wǒ biān jiè	293
 自我标榜	zì wǒ biāo bǎng	330
 自我表达	zì wǒ biǎo dá	936
+自我表露	zì wǒ biǎo lù	52
 自我表现	zì wǒ biǎo xiàn	154
 自我补给	zì wǒ bǔ gěi	153
 自我参考	zì wǒ cān kǎo	153
 自我测试	zì wǒ cè shì	590
+自我差异	zì wǒ chā yì	52
 自我嘲解	zì wǒ cháo jiě	130
 自我超越	zì wǒ chāo yuè	770
 自我炒作	zì wǒ chǎo zuò	585
@@ -1391152,6 +1391602,7 @@ UV坐标	uv zuò biāo	50
 自我关怀	zì wǒ guān huái	72
 自我管理	zì wǒ guǎn lǐ	1102
 自我观之	zì wǒ guān zhī	99
+自我归因	zì wǒ guī yīn	52
 自我和解	zì wǒ hé jiě	72
 自我怀疑	zì wǒ huái yí	3005
 自我恢复	zì wǒ huī fù	558
@@ -1391179,6 +1391630,7 @@ UV坐标	uv zuò biāo	50
 自我警醒	zì wǒ jǐng xǐng	320
 自我救赎	zì wǒ jiù shú	882
 自我捐之	zì wǒ juān zhī	52
+自我决定	zì wǒ jué dìng	52
 自我觉醒	zì wǒ jué xǐng	245
 自我开脱	zì wǒ kāi tuō	338
 自我克制	zì wǒ kè zhì	648
@@ -1391219,6 +1391671,7 @@ UV坐标	uv zuò biāo	50
 自我失之	zì wǒ shī zhī	52
 自我束缚	zì wǒ shù fù	392
 自我思考	zì wǒ sī kǎo	644
+自我损耗	zì wǒ sǔn hào	52
 自我探索	zì wǒ tàn suǒ	796
 自我陶醉	zì wǒ táo zuì	703
 自我提高	zì wǒ tí gāo	207
@@ -1391697,6 +1392150,7 @@ UV坐标	uv zuò biāo	50
 资讯消息	zī xùn xiāo xi	459
 资讯撷取	zī xùn xié qǔ	220
 咨询信件	zī xún xìn jiàn	117
+咨询心理	zī xún xīn lǐ	52
 资讯新闻	zī xùn xīn wén	518
 资讯信息	zī xùn xìn xī	824
 咨询信息	zī xún xìn xī	513
@@ -1392154,6 +1392608,7 @@ UV坐标	uv zuò biāo	50
 自愿报名	zì yuàn bào míng	711
 自愿保险	zì yuàn bǎo xiǎn	3
 资源背景	zī yuán bèi jǐng	504
+资源禀赋	zī yuán bǐng fù	42
 资源补给	zī yuán bǔ jǐ	315
 资源不足	zī yuán bù zú	584
 自愿参加	zì yuàn cān jiā	220
@@ -1392769,6 +1393224,7 @@ UV坐标	uv zuò biāo	50
 自主自愿	zì zhǔ zì yuàn	432
 自转变星	zì zhuàn biàn xīng	99
 自转方向	zì zhuàn fāng xiàng	626
+自传记忆	zì zhuàn jì yì	52
 自传漫画	zì zhuàn màn huà	288
 自转曲线	zì zhuàn qū xiàn	320
 自转速度	zì zhuàn sù dù	242
@@ -1392834,6 +1393290,7 @@ UV坐标	uv zuò biāo	50
 紫钻贵族	zǐ zuān guì zú	130
 紫钻黄钻	zǐ zuān huáng zuàn	76
 自罪妄想	zì zuì wàng xiǎng	52
+自尊水平	zì zūn shuǐ píng	52
 自尊心强	zì zūn xīn qiáng	778
 自尊自爱	zì zūn zì ài	738
 自尊自信	zì zūn zì xìn	598
@@ -1392848,6 +1393305,7 @@ UV坐标	uv zuò biāo	50
 自作之孽	zì zuò zhī niè	144
 自作主张	zì zuò zhǔ zhāng	942
 自作自受	zì zuò zì shòu	571
+总爱拖延	zǒng ài tuō yán	52
 总办公室	zǒng bàn gōng shì	31
 总办事处	zǒng bàn shì chù	6
 总包工程	zǒng bāo gōng chéng	230
@@ -1397457,6 +1397915,7 @@ UV坐标	uv zuò biāo	50
 最终尾矿	zuì zhōng wěi kuàng	45
 最终问鼎	zuì zhōng wèn dǐng	410
 最终惜败	zuì zhōng xī bài	356
+最终消费	zuì zhōng xiāo fèi	42
 最终消亡	zuì zhōng xiāo wáng	328
 最终协议	zuì zhōng xié yì	16
 最忠心的	zuì zhōng xīn de	52
@@ -1399401,6 +1399860,7 @@ UV坐标	uv zuò biāo	50
 作业布置	zuò yè bù zhì	544
 昨夜长风	zuó yè cháng fēng	202
 作业场所	zuò yè chǎng suǒ	558
+作业成本	zuò yè chéng běn	42
 作业成果	zuò yè chéng guǒ	171
 作业船舶	zuò yè chuán bó	346
 昨夜春风	zuó yè chūn fēng	180
@@ -1401588,6 +1402048,7 @@ UV坐标	uv zuò biāo	50
 斑白的头发	bān bái de tóu fa	10
 班班有歌声	bān bān yǒu gē shēng	10
 半保留复制	bàn bǎo liú fù zhì	10
+半包围结构	bàn bāo wéi jié gòu	10
 斑背大尾莺	bān bèi dà wěi yīng	10
 斑背小羚羊	bān bèi xiǎo líng yáng	10
 版本中推出	bǎn běn zhōng tuī chū	10
@@ -1402307,6 +1402768,7 @@ UV坐标	uv zuò biāo	50
 保险和银行	bǎo xiǎn hé yín háng	10
 保险丝烧断	bǎo xiǎn sī shāo duàn	10
 保险箱钥匙	bǎo xiǎn xiāng yào shi	10
+保险准备金	bǎo xiǎn zhǔn bèi jīn	10
 宝箱的钥匙	bǎo xiāng de yào shi	10
 爆笑办公室	bào xiào bàn gōng shì	10
 爆笑吸血鬼	bào xiào xī xuè guǐ	10
@@ -1402363,6 +1402825,7 @@ UV坐标	uv zuò biāo	50
 保证金交纳	bǎo zhèng jīn jiāo nà	10
 保证金帐户	bǎo zhèng jīn zhàng hù	10
 保证金账户	bǎo zhèng jīn zhàng hù	10
+保证金制度	bǎo zhèng jīn zhì dù	10
 保质保量的	bǎo zhì bǎo liàng de	10
 报纸等媒体	bào zhǐ děng méi tǐ	10
 报知电影奖	bào zhī diàn yǐng jiǎng	10
@@ -1403464,6 +1403927,7 @@ UV坐标	uv zuò biāo	50
 比较审敛法	bǐ jiào shěn liǎn fǎ	10
 币交易平台	bì jiāo yì píng tái	10
 比较用级数	bǐ jiào yòng jí shù	10
+比较语言学	bǐ jiào yǔ yán xué	10
 比较值钱的	bǐ jiào zhí qián de	12
 比较之前的	bǐ jiào zhī qián de	10
 彼节者有间	bǐ jié zhě yǒu jiàn	10
@@ -1404286,6 +1404750,7 @@ UV坐标	uv zuò biāo	50
 并注明出处	bìng zhù míng chū chù	10
 丙子年缺火	bǐng zǐ nián quē huǒ	10
 博柏利香水	bó bǎi lì xiāng shuǐ	10
+拨备覆盖率	bō bèi fù gài lǜ	10
 拨备前利润	bō bèi qián lì rùn	10
 勃勃的生机	bó bó de shēng jī	10
 菠菜和豆腐	bō cài hé dòu fu	10
@@ -1404299,6 +1404764,7 @@ UV坐标	uv zuò biāo	50
 拨打的号码	bō dǎ de hào mǎ	10
 博德斯集团	bó dé sī jí tuán	10
 玻栋卤竞器	bō dòng lǔ jìng qì	10
+波动率指数	bō dòng lǜ zhǐ shù	10
 拨动我心跳	bō dòng wǒ xīn tiào	10
 波多黎各岛	bō duō lí gè dǎo	10
 剥夺性积累	bō duó xìng jī lěi	10
@@ -1405680,6 +1406146,7 @@ UV坐标	uv zuò biāo	50
 不折不扣的	bù zhé bú kòu de	10
 不遮遮掩掩	bù zhē zhē yǎn yǎn	10
 不正常的事	bú zhèng cháng de shì	10
+不正当竞争	bú zhèng dāng jìng zhēng	10
 不正当谋利	bú zhèng dāng móu lì	10
 不正儿八经	bú zhèng ér bā jīng	10
 不整合岩基	bù zhěng hé yán jī	10
@@ -1407144,6 +1407611,7 @@ UV坐标	uv zuò biāo	50
 超对称粒子	chāo duì chèn lì zǐ	10
 超多重谱线	chāo duō chóng pǔ xiàn	10
 超额配售权	chāo é pèi shòu quán	10
+超额准备金	chāo é zhǔn bèi jīn	10
 超二次结构	chāo èr cì jié gòu	10
 超二次曲面	chāo èr cì qū miàn	10
 超凡的智慧	chāo fán de zhì huì	10
@@ -1409333,8 +1409801,10 @@ UV坐标	uv zuò biāo	50
 创锐讯公司	chuàng ruì xùn gōng sī	10
 窗纱容易破	chuāng shā róng yì pò	10
 床上的女人	chuáng shàng de nǚ rén	10
+创伤后成长	chuāng shāng hòu chéng zhǎng	10
 创伤后癫痫	chuāng shāng hòu diān xián	10
 创伤后遗症	chuāng shāng hòu yí zhèng	10
+创伤后应激	chuāng shāng hòu yìng jī	10
 创伤性膈疝	chuāng shāng xìng gé shàn	10
 创伤性面瘫	chuāng shāng xìng miàn tān	10
 创伤性事件	chuāng shāng xìng shì jiàn	10
@@ -1410954,6 +1411424,7 @@ UV坐标	uv zuò biāo	50
 大手柄牙挺	dà shǒu bǐng yá tǐng	10
 大手前大学	dà shǒu qián dà xué	10
 大数高精度	dà shù gāo jīng dù	10
+大数据风控	dà shù jù fēng kòng	10
 大数据监测	dà shù jù jiān cè	10
 大数据收集	dà shù jù shōu jí	10
 大数据优势	dà shù jù yōu shì	10
@@ -1412119,6 +1412590,7 @@ UV坐标	uv zuò biāo	50
 到炮火中去	dào pào huǒ zhōng qù	10
 道奇棒球队	dào qí bàng qiú duì	10
 到齐齐哈尔	dào qí qí hā ěr	10
+到期收益率	dào qī shōu yì lǜ	10
 到其他地方	dào qí tā dì fāng	10
 道奇体育场	dào qí tǐ yù chǎng	10
 道奇挑战者	dào qí tiǎo zhàn zhě	10
@@ -1413169,6 +1413641,7 @@ UV坐标	uv zuò biāo	50
 第三百一十	dì sān bǎi yī shí	10
 第三重境界	dì sān chóng jìng jiè	10
 第三次北属	dì sān cì běi shǔ	10
+第三次分配	dì sān cì fēn pèi	10
 第三次改组	dì sān cì gǎi zǔ	10
 第三次集结	dì sān cì jí jié	10
 第三次结集	dì sān cì jié jí	10
@@ -1416749,6 +1417222,7 @@ UV坐标	uv zuò biāo	50
 二维码导航	èr wéi mǎ dǎo háng	10
 二维码防伪	èr wéi mǎ fáng wěi	10
 二维码门牌	èr wéi mǎ mén pái	10
+二维码支付	èr wéi mǎ zhī fù	10
 而为人所知	ér wéi rén suǒ zhī	10
 二维线段树	èr wéi xiàn duàn shù	10
 耳蜗植入物	ěr wō zhí rù wù	10
@@ -1417585,6 +1418059,7 @@ UV坐标	uv zuò biāo	50
 反义疑问句	fǎn yì yí wèn jù	10
 翻译终止码	fān yì zhōng zhǐ mǎ	10
 梵音海潮音	fàn yīn hǎi cháo yīn	10
+反应不过来	fǎn yìng bú guò lái	10
 反应动力学	fǎn yìng dòng lì xué	10
 反应动态学	fǎn yìng dòng tài xué	10
 反应堆毒物	fǎn yìng duī dú wù	10
@@ -1417883,6 +1418358,7 @@ UV坐标	uv zuò biāo	50
 方千里者九	fāng qiān lǐ zhě jiǔ	10
 防倾杆球头	fáng qīng gān qiú tóu	10
 仿人机器人	fǎng rén jī qì rén	10
+放任型教养	fàng rèn xíng jiào yǎng	10
 放入冰水中	fàng rù bīng shuǐ zhōng	10
 防褥疮床垫	fáng rù chuāng chuáng diàn	10
 放入隔离盒	fàng rù gé lí hé	10
@@ -1418163,6 +1418639,7 @@ UV坐标	uv zuò biāo	50
 肺部小结节	fèi bù xiǎo jié jié	10
 飞彩镌流年	fēi cǎi juān liú nián	10
 非参数检定	fēi cān shù jiǎn dìng	10
+非参数检验	fēi cān shù jiǎn yàn	10
 绯苍幻想曲	fēi cāng huàn xiǎng qǔ	10
 非操控角色	fēi cāo kòng jué sè	10
 腓侧副热带	féi cè fù rè dài	10
@@ -1418326,6 +1418803,7 @@ UV坐标	uv zuò biāo	50
 非官方改编	fēi guān fāng gǎi biān	10
 非官方旗帜	fēi guān fāng qí zhì	10
 非官方卧底	fēi guān fāng wò dǐ	10
+非关税壁垒	fēi guān shuì bì lěi	10
 非光滑分析	fēi guāng huá fēn xī	10
 非光滑碰撞	fēi guāng huá pèng zhuàng	10
 废贵人赵氏	fèi guì rén zhào shì	10
@@ -1418437,6 +1418915,7 @@ UV坐标	uv zuò biāo	50
 非可靠来源	fēi kě kào lái yuán	10
 费控电能表	fèi kòng diàn néng biǎo	10
 非空真子集	fēi kōng zhēn zǐ jí	10
+非快速眼动	fēi kuài sù yǎn dòng	10
 非扩张算子	fēi kuò zhāng suàn zǐ	10
 飞来的横祸	fēi lái de hèng huò	10
 飞来的子弹	fēi lái de zǐ dàn	10
@@ -1418460,6 +1418939,8 @@ UV坐标	uv zuò biāo	50
 非零和赛局	fēi líng hé sài jú	10
 非零级过程	fēi líng jí guò chéng	10
 非零自然数	fēi líng zì rán shù	10
+非流动负债	fēi liú dòng fù zhài	10
+非流动资产	fēi liú dòng zī chǎn	10
 飞龙探云手	fēi lóng tàn yún shǒu	10
 飞龙掌血叶	fēi lóng zhǎng xuè yè	10
 飞路快导航	fēi lù kuài dǎo háng	10
@@ -1418666,6 +1419147,7 @@ UV坐标	uv zuò biāo	50
 非细胞生物	fēi xì bāo shēng wù	10
 非细胞实体	fēi xì bāo shí tǐ	10
 匪席不可卷	fěi xí bù kě juǎn	10
+费希纳定律	fèi xī nà dìng lǜ	10
 非现场处罚	fēi xiàn chǎng chǔ fá	10
 非先创语言	fēi xiān chuàng yǔ yán	10
 非现代汉语	fēi xiàn dài hàn yǔ	10
@@ -1418733,6 +1419215,7 @@ UV坐标	uv zuò biāo	50
 非循环复形	fēi xún huán fù xíng	10
 非驯嵌入集	fēi xùn qiàn rù jí	10
 非亚国家杯	fēi yà guó jiā bēi	10
+非言语沟通	fēi yán yǔ gōu tōng	10
 非言语交际	fēi yán yǔ jiāo jì	10
 斐扬俱乐部	fěi yáng jù lè bù	10
 非药物干预	fēi yào wù gān yù	10
@@ -1419550,6 +1420033,7 @@ UV坐标	uv zuò biāo	50
 奉贤区教育	fèng xián qū jiào yù	10
 奉贤区区长	fèng xián qū qū cháng	10
 锋线三叉戟	fēng xiàn sān chā jǐ	10
+风险收益比	fēng xiǎn shōu yì bǐ	10
 丰县铁链女	fēng xiàn tiě liàn nǚ	10
 奉贤新城站	fèng xián xīn chéng zhàn	10
 锋线摇摆人	fēng xiàn yáo bǎi rén	10
@@ -1419557,6 +1420041,7 @@ UV坐标	uv zuò biāo	50
 风险与机会	fēng xiǎn yǔ jī huì	10
 风险与机遇	fēng xiǎn yǔ jī yù	10
 奉献与牺牲	fèng xiàn yǔ xī shēng	10
+风险准备金	fēng xiǎn zhǔn bèi jīn	10
 凤翔节度使	fèng xiáng jié dù shǐ	10
 蜂箱与蜜蜂	fēng xiāng yǔ mì fēng	10
 枫香脂十味	fēng xiāng zhī shí wèi	10
@@ -1422063,6 +1422548,7 @@ UV坐标	uv zuò biāo	50
 个人觉得就	gè rén jué de jiù	10
 各人民团体	gè rén mín tuán tǐ	10
 个人所得税	gè rén suǒ dé shuì	10
+个人投资者	gè rén tóu zī zhě	10
 个人无意识	gè rén wú yì shí	10
 个人信息权	gè rén xìn xī quán	10
 个人与集体	gè rén yǔ jí tǐ	10
@@ -1423643,6 +1424129,10 @@ UV坐标	uv zuò biāo	50
 故国三千里	gù guó sān qiān lǐ	10
 古海岸遗址	gǔ hǎi àn yí zhǐ	10
 古海蚀遗址	gǔ hǎi shí yí zhǐ	10
+古汉语词典	gǔ hàn yǔ cí diǎn	10
+古汉语词汇	gǔ hàn yǔ cí huì	10
+古汉语训诂	gǔ hàn yǔ xùn gǔ	10
+古汉语音韵	gǔ hàn yǔ yīn yùn	10
 古贺辰四郎	gǔ hè chén sì láng	10
 古贺纱理那	gǔ hè shā lǐ nà	10
 古话说得好	gǔ huà shuō de hǎo	10
@@ -1425525,6 +1426015,7 @@ UV坐标	uv zuò biāo	50
 过载继电器	guò zài jì diàn qì	10
 过早的埋葬	guò zǎo de mái zàng	10
 过早或过晚	guò zǎo huò guò wǎn	10
+国债收益率	guó zhài shōu yì lǜ	10
 果占壁王国	guǒ zhàn bì wáng guó	10
 国珍松花粉	guó zhēn sōng huā fěn	10
 过重的负担	guò zhòng de fù dān	10
@@ -1426083,6 +1426574,7 @@ UV坐标	uv zuò biāo	50
 行业和市场	háng yè hé shì chǎng	10
 行业和职业	háng yè hé zhí yè	10
 行业及市场	háng yè jí shì chǎng	10
+行业集中度	háng yè jí zhōng dù	10
 行业内黑话	háng yè nèi hēi huà	10
 行业内人士	háng yè nèi rén shì	10
 行业引领者	háng yè yǐn lǐng zhě	10
@@ -1426615,6 +1427107,7 @@ UV坐标	uv zuò biāo	50
 合格的答卷	hé gé de dá juàn	10
 合格的老师	hé gé de lǎo shī	10
 赫格内尔点	hè gé nèi ěr diǎn	10
+合格投资者	hé gé tóu zī zhě	10
 喝个下午茶	hē gè xià wǔ chá	10
 合工大附中	hé gōng dà fù zhōng	10
 颌骨骨髓炎	hé gǔ gǔ suǐ yán	10
@@ -1428252,6 +1428745,7 @@ UV坐标	uv zuò biāo	50
 护士和医生	hù shì hé yī shēng	10
 呼市赛罕区	hū shì sài hǎn qū	10
 呼市新城区	hū shì xīn chéng qū	10
+忽视型教养	hū shì xíng jiào yǎng	10
 弧矢增十七	hú shǐ zēng shí qī	10
 虎式直升机	hǔ shì zhí shēng jī	10
 虎式装甲车	hǔ shì zhuāng jiǎ chē	10
@@ -1430752,6 +1431246,7 @@ UV坐标	uv zuò biāo	50
 机构和企业	jī gòu hé qǐ yè	10
 机构和人员	jī gòu hé rén yuán	10
 机构及个人	jī gòu jí gè rén	10
+机构投资者	jī gòu tóu zī zhě	10
 集古录跋尾	jí gǔ lù bá wěi	10
 机关大院的	jī guān dà yuàn de	10
 鸡冠滇丁香	jī guān diān dīng xiāng	10
@@ -1431475,6 +1431970,7 @@ UV坐标	uv zuò biāo	50
 计算机主板	jì suàn jī zhǔ bǎn	10
 计算器编程	jì suàn qì biān chéng	10
 计算与存储	jì suàn yǔ cún chǔ	10
+计算语言学	jì suàn yǔ yán xué	10
 几岁的孩子	jǐ suì de hái zi	10
 脊髓灰质炎	jǐ suǐ huī zhì yán	10
 及髓颈部龋	jí suǐ jǐng bù qǔ	10
@@ -1432853,6 +1433349,7 @@ UV坐标	uv zuò biāo	50
 渐近极小基	jiàn jìn jí xiǎo jī	10
 渐近巨星支	jiàn jìn jù xīng zhī	10
 渐近平均值	jiàn jìn píng jūn zhí	10
+渐进式放松	jiàn jìn shì fàng sōng	10
 渐进式台独	jiàn jìn shì tái dú	10
 碱金属元素	jiǎn jīn shǔ yuán sù	10
 碱金属原子	jiǎn jīn shǔ yuán zǐ	10
@@ -1434173,6 +1434670,7 @@ UV坐标	uv zuò biāo	50
 结构和材料	jié gòu hé cái liào	10
 结构和组成	jié gòu hé zǔ chéng	10
 结构化编程	jié gòu huà biān chéng	10
+结构化产品	jié gòu huà chǎn pǐn	10
 结构化异常	jié gòu huà yì cháng	10
 结构化主体	jié gòu huà zhǔ tǐ	10
 结构类拟物	jié gòu lèi nǐ wù	10
@@ -1434181,6 +1434679,7 @@ UV坐标	uv zuò biāo	50
 结构性变革	jié gòu xìng biàn gé	10
 结构性成本	jié gòu xìng chéng běn	10
 结构性存款	jié gòu xìng cún kuǎn	10
+结构性改革	jié gòu xìng gǎi gé	10
 结构型模式	jié gòu xíng mó shì	10
 结构性缺陷	jié gòu xìng quē xiàn	10
 结构性失业	jié gòu xìng shī yè	10
@@ -1435918,6 +1436417,7 @@ UV坐标	uv zuò biāo	50
 径向量子数	jìng xiàng liàng zǐ shù	10
 径向裂纹域	jìng xiàng liè wén yù	10
 径向面积仪	jìng xiàng miàn jī yí	10
+镜像神经元	jìng xiàng shén jīng yuán	10
 精心的安排	jīng xīn de ān pái	10
 精心的布置	jīng xīn de bù zhì	10
 精心的策划	jīng xīn de cè huà	10
@@ -1437435,6 +1437935,7 @@ UV坐标	uv zuò biāo	50
 开发商拿地	kāi fā shāng ná dì	10
 开发式扶贫	kāi fā shì fú pín	10
 开发新市场	kāi fā xīn shì chǎng	10
+开发性金融	kāi fā xìng jīn róng	10
 开发与保护	kāi fā yǔ bǎo hù	10
 开发与建设	kāi fā yǔ jiàn shè	10
 开发与设计	kāi fā yǔ shè jì	10
@@ -1438688,6 +1439189,7 @@ UV坐标	uv zuò biāo	50
 可知不可知	kě zhī bù kě zhī	10
 可支付月数	kě zhī fù yuè shù	10
 客之美我者	kè zhī měi wǒ zhě	10
+可支配收入	kě zhī pèi shōu rù	10
 可重点关注	kě zhòng diǎn guān zhù	10
 可终究还是	kě zhōng jiū hái shì	10
 克终者盖寡	kè zhōng zhě gài guǎ	10
@@ -1439891,6 +1440393,7 @@ UV坐标	uv zuò biāo	50
 老大徒伤悲	lǎo dà tú shāng bēi	10
 酪蛋白酸钠	lào dàn bái suān nà	10
 劳德代尔堡	láo dé dài ěr bǎo	10
+劳动参与率	láo dòng cān yù lǜ	10
 劳动的成果	láo dòng de chéng guǒ	10
 劳动的价值	láo dòng de jià zhí	10
 劳动的艰辛	láo dòng de jiān xīn	10
@@ -1439902,6 +1440405,7 @@ UV坐标	uv zuò biāo	50
 劳动节快乐	láo dòng jié kuài lè	10
 劳动力成本	láo dòng lì chéng běn	10
 劳动力供给	láo dòng lì gōng jǐ	10
+劳动力市场	láo dòng lì shì chǎng	10
 劳动力优势	láo dòng lì yōu shì	10
 劳动力转移	láo dòng lì zhuǎn yí	10
 劳动年龄内	láo dòng nián líng nèi	10
@@ -1442243,6 +1442747,7 @@ UV坐标	uv zuò biāo	50
 流动的自我	liú dòng de zì wǒ	10
 流动水洗手	liú dòng shuǐ xǐ shǒu	10
 流动性比率	liú dòng xìng bǐ lǜ	10
+流动性监管	liú dòng xìng jiān guǎn	10
 流动性较差	liú dòng xìng jiào chà	10
 流动性较低	liú dòng xìng jiào dī	10
 流动性紧缩	liú dòng xìng jǐn suō	10
@@ -1445719,6 +1446224,7 @@ UV坐标	uv zuò biāo	50
 明初四大案	míng chū sì dà àn	10
 名词和动词	míng cí hé dòng cí	10
 名词解释题	míng cí jiě shì tí	10
+名词作状语	míng cí zuò zhuàng yǔ	10
 明旦沟水头	míng dàn gōu shuǐ tóu	10
 冥道残月破	míng dào cán yuè pò	10
 明悼毛皇后	míng dào máo huáng hòu	10
@@ -1445971,6 +1446477,7 @@ UV坐标	uv zuò biāo	50
 摩擦系数低	mó cā xì shù dī	10
 摩擦系数小	mó cā xì shù xiǎo	10
 摩擦系数仪	mó cā xì shù yí	10
+摩擦性失业	mó cā xìng shī yè	10
 膜翅单倍体	mó chì dān bèi tǐ	10
 末次冰盛期	mò cì bīng shèng qī	10
 末次盛冰期	mò cì shèng bīng qī	10
@@ -1448756,7 +1449263,9 @@ UV坐标	uv zuò biāo	50
 帕累托法则	pà lèi tuō fǎ zé	10
 帕雷托分布	pà léi tuō fēn bù	10
 帕累托分布	pà lèi tuō fēn bù	10
+帕累托改进	pà lèi tuō gǎi jìn	10
 帕累托指数	pà lèi tuō zhǐ shù	10
+帕累托最优	pà lèi tuō zuì yōu	10
 帕里克定理	pà lǐ kè dìng lǐ	10
 帕里亚半岛	pà lǐ yà bàn dǎo	10
 帕里亚丁角	pà lǐ yà dīng jiǎo	10
@@ -1452822,6 +1453331,7 @@ UV坐标	uv zuò biāo	50
 情绪和心理	qíng xù hé xīn lǐ	10
 情绪激动时	qíng xù jī dòng shí	10
 情绪及行为	qíng xù jí xíng wéi	10
+情绪稳定性	qíng xù wěn dìng xìng	10
 情绪性进食	qíng xù xìng jìn shí	10
 情绪应急说	qíng xù yìng jí shuō	10
 清宣宗旻宁	qīng xuān zōng mín níng	10
@@ -1453612,6 +1454122,7 @@ UV坐标	uv zuò biāo	50
 全球化程度	quán qiú huà chéng dù	10
 全球化视野	quán qiú huà shì yě	10
 全球化语境	quán qiú huà yǔ jìng	10
+全球价值链	quán qiú jià zhí liàn	10
 全球捐赠网	quán qiú juān zèng wǎng	10
 全球科学展	quán qiú kē xué zhǎn	10
 全球老虎日	quán qiú lǎo hǔ rì	10
@@ -1453696,6 +1454207,7 @@ UV坐标	uv zuò biāo	50
 权为民所用	quán wèi mín suǒ yòng	10
 全威舒宝开	quán wēi shū bǎo kāi	10
 权威型父母	quán wēi xíng fù mǔ	10
+权威型教养	quán wēi xíng jiào yǎng	10
 泉屋博古馆	quán wū bó gǔ guǎn	10
 泉屋博物馆	quán wū bó wù guǎn	10
 全息处理器	quán xī chǔ lǐ qì	10
@@ -1453848,6 +1454360,7 @@ UV坐标	uv zuò biāo	50
 群体的影响	qún tǐ de yǐng xiǎng	10
 群体的智慧	qún tǐ de zhì huì	10
 群体灭绝罪	qún tǐ miè jué zuì	10
+群体凝聚力	qún tǐ níng jù lì	10
 群体性上访	qún tǐ xìng shàng fǎng	10
 群体性事件	qún tǐ xìng shì jiàn	10
 群雄夺宝鹰	qún xióng duó bǎo yīng	10
@@ -1454707,6 +1455220,7 @@ UV坐标	uv zuò biāo	50
 人制橄榄球	rén zhì gǎn lǎn qiú	10
 认知和情感	rèn zhī hé qíng gǎn	10
 认知吝啬者	rèn zhī lìn sè zhě	10
+认知灵活性	rèn zhī líng huó xìng	10
 任职前公示	rèn zhí qián gōng shì	10
 人之所以能	rén zhī suǒ yǐ néng	10
 任执行董事	rèn zhí xíng dǒng shì	10
@@ -1456137,6 +1456651,7 @@ UV坐标	uv zuò biāo	50
 闪光的足迹	shǎn guāng de zú jì	10
 闪光灯补光	shǎn guāng dēng bǔ guāng	10
 闪光灯打开	shǎn guāng dēng dǎ kāi	10
+闪光灯记忆	shǎn guāng dēng jì yì	10
 闪光灯禁用	shǎn guāng dēng jìn yòng	10
 闪光融合器	shǎn guāng róng hé qì	10
 山光悦鸟性	shān guāng yuè niǎo xìng	10
@@ -1456873,6 +1457388,7 @@ UV坐标	uv zuò biāo	50
 商业护理险	shāng yè hù lǐ xiǎn	10
 商业化程度	shāng yè huà chéng dù	10
 商业化育种	shāng yè huà yù zhǒng	10
+商业计划书	shāng yè jì huà shū	10
 上野精养轩	shàng yě jīng yǎng xuān	10
 上野千鹤子	shàng yě qiān hè zǐ	10
 上野英三郎	shàng yě yīng sān láng	10
@@ -1457198,10 +1457714,12 @@ UV坐标	uv zuò biāo	50
 社会史研究	shè huì shǐ yán jiū	10
 社会我鸡哥	shè huì wǒ jī gē	10
 社会我魏姐	shè huì wǒ wèi jiě	10
+社会性发展	shè huì xìng fā zhǎn	10
 社会性懈怠	shè huì xìng xiè dài	10
 社会学典范	shè huì xué diǎn fàn	10
 社会与教育	shè huì yǔ jiào yù	10
 社会与文化	shè huì yǔ wén huà	10
+社会语言学	shè huì yǔ yán xué	10
 社会运动史	shè huì yùn dòng shǐ	10
 社会再生产	shè huì zài shēng chǎn	10
 社会责任奖	shè huì zé rèn jiǎng	10
@@ -1458186,6 +1458704,7 @@ UV坐标	uv zuò biāo	50
 生产许可证	shēng chǎn xǔ kě zhèng	10
 生产与加工	shēng chǎn yǔ jiā gōng	10
 生产与研发	shēng chǎn yǔ yán fā	10
+生产者剩余	shēng chǎn zhě shèng yú	10
 生炒糯米饭	shēng chǎo nuò mǐ fàn	10
 生成句法学	shēng chéng jù fǎ xué	10
 生成式填充	shēng chéng shì tián chōng	10
@@ -1458923,6 +1459442,7 @@ UV坐标	uv zuò biāo	50
 市场化程度	shì chǎng huà chéng dù	10
 市场化业务	shì chǎng huà yè wù	10
 时常会发生	shí cháng huì fā shēng	10
+市场集中度	shì chǎng jí zhōng dù	10
 市场价值法	shì chǎng jià zhí fǎ	10
 市场监管局	shì chǎng jiān guǎn jú	10
 市场开办方	shì chǎng kāi bàn fāng	10
@@ -1458999,6 +1459519,7 @@ UV坐标	uv zuò biāo	50
 适当的时机	shì dàng de shí jī	10
 适当的修剪	shì dàng de xiū jiǎn	10
 适当地运动	shì dàng de yùn dòng	10
+适当性管理	shì dàng xìng guǎn lǐ	10
 适当性义务	shì dàng xìng yì wù	10
 十到二十次	shí dào èr shí cì	24
 食道裂孔疝	shí dào liè kǒng shàn	10
@@ -1460849,6 +1461370,7 @@ UV坐标	uv zuò biāo	50
 试验工程师	shì yàn gōng chéng shī	10
 实验过程中	shí yàn guò chéng zhōng	10
 试验过程中	shì yàn guò chéng zhōng	10
+实验经济学	shí yàn jīng jì xué	10
 史研究动态	shǐ yán jiū dòng tài	10
 诗眼倦天涯	shī yǎn juàn tiān yá	10
 市眼科医院	shì yǎn kē yī yuàn	10
@@ -1460980,6 +1461502,7 @@ UV坐标	uv zuò biāo	50
 市艺术剧院	shì yì shù jù yuàn	10
 十一酸睾酮	shí yī suān gāo tóng	10
 市役所前站	shì yì suǒ qián zhàn	10
+实益所有人	shí yì suǒ yǒu rén	10
 失意体前屈	shī yì tǐ qián qū	10
 十一味金色	shí yī wèi jīn sè	10
 十一维空间	shí yī wéi kōng jiān	10
@@ -1461650,6 +1462173,7 @@ UV坐标	uv zuò biāo	50
 守节情不移	shǒu jié qíng bù yí	10
 首接责任制	shǒu jiē zé rèn zhì	10
 手巾掩口啼	shǒu jīn yǎn kǒu tí	10
+首句不入韵	shǒu jù bú rù yùn	10
 授课的老师	shòu kè de lǎo shī	10
 手可摘星辰	shǒu kě zhāi xīng chén	10
 首款量产车	shǒu kuǎn liàng chǎn chē	10
@@ -1464281,6 +1464805,7 @@ UV坐标	uv zuò biāo	50
 所带电量为	suǒ dài diàn liàng wéi	10
 索道操作员	suǒ dào cāo zuò yuán	10
 索德纳常数	suǒ dé nà cháng shù	10
+所得税费用	suǒ dé shuì fèi yong	10
 所得税汇算	suǒ dé shuì huì suàn	10
 所得税减免	suǒ dé shuì jiǎn miǎn	10
 索丁巴赫河	suǒ dīng bā hè hé	10
@@ -1464374,6 +1464899,7 @@ UV坐标	uv zuò biāo	50
 所有的质疑	suǒ yǒu de zhì yí	10
 所有公式者	suǒ yǒu gōng shì zhě	10
 所有玩家都	suǒ yǒu wán jiā dōu	10
+所有者权益	suǒ yǒu zhě quán yì	10
 梭鱼号潜舰	suō yú hào qián jiàn	10
 梭鱼号潜艇	suō yú hào qián tǐng	10
 梭鱼轰炸机	suō yú hōng zhà jī	10
@@ -1468819,6 +1469345,7 @@ UV坐标	uv zuò biāo	50
 微霏细岩状	wēi fēi xì yán zhuàng	10
 微粉化药物	wēi fěn huà yào wù	10
 微分极谱法	wēi fēn jí pǔ fǎ	10
+未分配利润	wèi fēn pèi lì rùn	10
 微分算子法	wēi fēn suàn zǐ fǎ	10
 未分异岩脉	wèi fēn yì yán mài	10
 微分音音乐	wēi fēn yīn yīn yuè	10
@@ -1469616,6 +1470143,7 @@ UV坐标	uv zuò biāo	50
 文化的中心	wén huà de zhōng xīn	10
 文化的自信	wén huà de zì xìn	10
 文化等领域	wén huà děng lǐng yù	10
+文化负载词	wén huà fù zǎi cí	10
 文化功劳者	wén huà gōng láo zhě	10
 文化观光部	wén huà guān guāng bù	10
 文化馆协会	wén huà guǎn xié huì	10
@@ -1471500,7 +1472028,9 @@ UV坐标	uv zuò biāo	50
 武田四名臣	wǔ tián sì míng chén	10
 武田四天王	wǔ tián sì tiān wáng	10
 无条件承兑	wú tiáo jiàn chéng duì	10
+无条件刺激	wú tiáo jiàn cì jī	10
 无条件地爱	wú tiáo jiàn dì ài	10
+无条件反应	wú tiáo jiàn fǎn yìng	10
 无条件极值	wú tiáo jiàn jí zhí	10
 无条件进位	wú tiáo jiàn jìn wèi	10
 无条件剌激	wú tiáo jiàn lá jī	10
@@ -1473129,6 +1473659,7 @@ UV坐标	uv zuò biāo	50
 先进集体和	xiān jìn jí tǐ hé	10
 现金价值表	xiàn jīn jià zhí biǎo	10
 现金流动表	xiàn jīn liú dòng biǎo	10
+现金流紧张	xiàn jīn liú jǐn zhāng	10
 现金流量法	xiàn jīn liú liàng fǎ	10
 现金流量图	xiàn jīn liú liàng tú	10
 现金流为负	xiàn jīn liú wéi fù	10
@@ -1473600,6 +1474131,7 @@ UV坐标	uv zuò biāo	50
 显著的抑制	xiǎn zhù de yì zhì	10
 先煮小麦熟	xiān zhǔ xiǎo mài shú	10
 显著性检定	xiǎn zhù xìng jiǎn dìng	10
+显著性水平	xiǎn zhù xìng shuǐ píng	10
 现状和未来	xiàn zhuàng hé wèi lái	10
 线状披针形	xiàn zhuàng pī zhēn xíng	10
 藓状雪灵芝	xiǎn zhuàng xuě líng zhī	10
@@ -1474544,14 +1475076,17 @@ UV坐标	uv zuò biāo	50
 消费级产品	xiāo fèi jí chǎn pǐn	10
 小飞侠罗本	xiǎo fēi xiá luó běn	10
 消费性电子	xiāo fèi xìng diàn zǐ	10
+消费者洞察	xiāo fèi zhě dòng chá	10
 消费者反映	xiāo fèi zhě fǎn yìng	10
 消费者反应	xiāo fèi zhě fǎn yìng	10
 消费者介入	xiāo fèi zhě jiè rù	10
 消费者青睐	xiāo fèi zhě qīng lài	10
 消费者权利	xiāo fèi zhě quán lì	10
 消费者涉入	xiāo fèi zhě shè rù	10
+消费者剩余	xiāo fèi zhě shèng yú	10
 消费者视野	xiāo fèi zhě shì yě	10
 消费者心理	xiāo fèi zhě xīn lǐ	10
+消费者行为	xiāo fèi zhě xíng wéi	10
 消费者眼中	xiāo fèi zhě yǎn zhōng	10
 消费者支出	xiāo fèi zhě zhī chū	10
 小分队队长	xiǎo fēn duì duì zhǎng	10
@@ -1475695,6 +1476230,7 @@ UV坐标	uv zuò biāo	50
 心理辅导室	xīn lǐ fǔ dǎo shì	10
 心理辅导员	xīn lǐ fǔ dǎo yuán	10
 心理服务课	xīn lǐ fú wù kè	10
+心理复原力	xīn lǐ fù yuán lì	10
 心理感应区	xīn lǐ gǎn yìng qū	10
 心理工程师	xīn lǐ gōng chéng shī	10
 心理工作室	xīn lǐ gōng zuò shì	10
@@ -1478539,6 +1479075,7 @@ UV坐标	uv zuò biāo	50
 延伸期预报	yán shēn qī yù bào	10
 眼神是飘的	yǎn shén shì piāo de	10
 盐生杜氏藻	yán shēng dù shì zǎo	10
+衍生品市场	yǎn shēng pǐn shì chǎng	10
 艳尸案中案	yàn shī àn zhōng àn	10
 岩石泊松比	yán shí bó sōng bǐ	10
 言师采药去	yán shī cǎi yào qù	10
@@ -1480909,6 +1481446,7 @@ UV坐标	uv zuò biāo	50
 医师联合会	yī shī lián hé huì	10
 依视路钻晶	yī shì lù zuān jīng	10
 一时麻木的	yì shí má mù de	10
+一时没想起	yì shí méi xiǎng qǐ	10
 一时名声大	yì shí míng shēng dà	10
 一时摸不着	yì shí mō bù zháo	10
 一时拿不出	yì shí ná bù chū	10
@@ -1481815,6 +1482353,7 @@ UV坐标	uv zuò biāo	50
 阴沟里翻船	yīn gōu lǐ fān chuán	10
 因管理不善	yīn guǎn lǐ bú shàn	10
 因过度劳累	yīn guò dù láo lèi	10
+隐含波动率	yǐn hán bō dòng lǜ	10
 阴寒精自出	yīn hán jīng zì chū	10
 银行等行业	yín háng děng háng yè	10
 银行等机构	yín háng děng jī gòu	10
@@ -1482297,6 +1482836,7 @@ UV坐标	uv zuò biāo	50
 英俊的相貌	yīng jùn de xiàng mào	10
 硬壳式结构	yìng ké shì jié gòu	10
 应课税入息	yīng kè shuì rù xī	10
+盈亏平衡点	yíng kuī píng héng diǎn	10
 迎来了转机	yíng lái le zhuǎn jī	10
 硬朗的车身	yìng lǎng de chē shēn	10
 硬朗的外表	yìng lǎng de wài biǎo	10
@@ -1482550,6 +1483090,7 @@ UV坐标	uv zuò biāo	50
 应用与创新	yìng yòng yǔ chuàng xīn	10
 应用于石油	yìng yòng yú shí yóu	10
 应用与推广	yìng yòng yǔ tuī guǎng	10
+应用语言学	yìng yòng yǔ yán xué	10
 应有的回报	yīng yǒu de huí bào	10
 婴幼儿辅食	yīng yòu ér fǔ shí	10
 婴幼儿服饰	yīng yòu ér fú shì	10
@@ -1483863,6 +1484404,7 @@ UV坐标	uv zuò biāo	50
 有一线生机	yǒu yí xiàn shēng jī	10
 又疑瑶台镜	yòu yí yáo tái jìng	10
 有意义的事	yǒu yì yì de shì	10
+有意义学习	yǒu yì yì xué xí	10
 有意义异常	yǒu yì yì yì cháng	10
 友谊与合作	yǒu yì yǔ hé zuò	10
 游艺娱乐场	yóu yì yú lè chǎng	10
@@ -1484441,6 +1484983,7 @@ UV坐标	uv zuò biāo	50
 与年龄不符	yǔ nián líng bù fú	10
 鱼弄绿梢头	yú nòng lǜ shāo tóu	10
 于帕梅卡诺	yú pà méi kǎ nuò	10
+语篇语言学	yǔ piān yǔ yán xué	10
 余平方公里	yú píng fāng gōng lǐ	10
 于菩提树下	yú pú tí shù xià	10
 逾期不报到	yú qī bú bào dào	10
@@ -1484896,6 +1485439,7 @@ UV坐标	uv zuò biāo	50
 园博园北站	yuán bó yuán běi zhàn	10
 园博苑南门	yuán bó yuàn nán mén	10
 园博中心站	yuán bó zhōng xīn zhàn	10
+原产地规则	yuán chǎn dì guī zé	10
 原产地命名	yuán chǎn dì mìng míng	10
 原产地直采	yuán chǎn dì zhí cǎi	10
 原产地直供	yuán chǎn dì zhí gōng	10
@@ -1488121,6 +1488665,7 @@ UV坐标	uv zuò biāo	50
 证券和保险	zhèng quàn hé bǎo xiǎn	10
 政权合法性	zhèng quán hé fǎ xìng	10
 证券及期货	zhèng quàn jí qī huò	10
+证券交易所	zhèng quàn jiāo yì suǒ	10
 证券经纪商	zhèng quàn jīng jì shāng	10
 正全力推进	zhèng quán lì tuī jìn	10
 正全力以赴	zhèng quán lì yǐ fù	10
@@ -1490435,6 +1490980,7 @@ UV坐标	uv zuò biāo	50
 周期关系式	zhōu qī guān xì shì	10
 周期性行业	zhōu qī xìng háng yè	10
 周期性事件	zhōu qī xìng shì jiàn	10
+周期性失业	zhōu qī xìng shī yè	10
 周期性中断	zhōu qī xìng zhōng duàn	10
 周全的服务	zhōu quán de fú wù	10
 周全的考虑	zhōu quán de kǎo lǜ	10
@@ -1491183,6 +1491729,7 @@ UV坐标	uv zuò biāo	50
 专职或兼职	zhuān zhí huò jiān zhí	10
 专制君主制	zhuān zhì jūn zhǔ zhì	10
 转置逆矩阵	zhuǎn zhì nì jǔ zhèn	10
+专制型教养	zhuān zhì xíng jiào yǎng	10
 专诸刺王僚	zhuān zhū cì wáng liáo	10
 专注的表情	zhuān zhù de biǎo qíng	10
 专注的精神	zhuān zhù de jīng shén	10
@@ -1491306,6 +1491853,7 @@ UV坐标	uv zuò biāo	50
 坠毁的飞机	zhuì huǐ de fēi jī	10
 追及和相遇	zhuī jí hé xiāng yù	10
 追击型鱼种	zhuī jī xíng yú zhǒng	1
+追加保证金	zhuī jiā bǎo zhèng jīn	10
 椎间盘变性	zhuī jiān pán biàn xìng	10
 椎间盘疾患	zhuī jiān pán jí huàn	10
 椎间盘膨出	zhuī jiān pán péng chū	10
@@ -1491627,6 +1492175,7 @@ UV坐标	uv zuò biāo	50
 自动抬压脚	zì dòng tái yā jiǎo	10
 自动投料机	zì dòng tóu liào jī	10
 自动喂食器	zì dòng wèi shí qì	58
+自动稳定器	zì dòng wěn dìng qì	10
 自动卸载车	zì dòng xiè zài chē	10
 自动移液器	zì dòng yí yè qì	10
 自对偶范畴	zì duì ǒu fàn chóu	10
@@ -1491933,6 +1492482,7 @@ UV坐标	uv zuò biāo	50
 自然拼读法	zì rán pīn dú fǎ	10
 自然人代开	zì rán rén dài kāi	10
 自然人独资	zì rán rén dú zī	10
+自然失业率	zì rán shī yè lǜ	10
 自然是由我	zì rán shì yóu wǒ	10
 自然式园林	zì rán shì yuán lín	10
 自然数幂和	zì rán shù mì hé	10
@@ -1492080,6 +1492630,7 @@ UV坐标	uv zuò biāo	50
 自我复制机	zì wǒ fù zhì jī	10
 自我和他人	zì wǒ hé tā rén	10
 兹沃纳列娃	zī wò nà liè wá	10
+自我同一性	zì wǒ tóng yī xìng	10
 自我与本我	zì wǒ yǔ běn wǒ	10
 自我与超我	zì wǒ yǔ chāo wǒ	10
 仔细地打量	zǐ xì de dǎ liang	10
@@ -1492391,6 +1492942,7 @@ UV坐标	uv zuò biāo	50
 综合保护器	zōng hé bǎo hù qì	10
 综合保障船	zōng hé bǎo zhàng chuán	10
 综合部经理	zōng hé bù jīng lǐ	10
+综合成本率	zōng hé chéng běn lǜ	10
 综合的判断	zōng hé de pàn duàn	10
 棕褐短翅莺	zōng hè duǎn chì yīng	10
 综合管理科	zōng hé guǎn lǐ kē	10
@@ -1492840,6 +1493392,7 @@ UV坐标	uv zuò biāo	50
 最接近事实	zuì jiē jìn shì shí	10
 最近的一期	zuì jìn de yì qī	10
 最近地区法	zuì jìn dì qū fǎ	10
+最近发展区	zuì jìn fā zhǎn qū	10
 最近老上火	zuì jìn lǎo shàng huǒ	10
 最近老头晕	zuì jìn lǎo tóu yūn	10
 最近邻居法	zuì jìn lín jū fǎ	10
