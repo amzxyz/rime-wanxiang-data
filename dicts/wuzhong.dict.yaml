@@ -8184,7 +8184,7 @@ sort: by_weight
 额毛蛛	é máo zhū	5
 鹅毛竹	é máo zhú	5
 蛾眉蕨	é méi jué	356
-峨嵋龙	é méi lóng	5
+峨眉龙	é méi lóng	5
 峨眉萤	é méi yíng	5
 恶魔龙	è mó lóng	5
 锷弄蝶	è nòng dié	7
@@ -43693,6 +43693,7 @@ sort: by_weight
 多刺海胆虫	duō cì hǎi dǎn chóng	1
 多刺海菊蛤	duō cì hǎi jú há	10
 多刺锦鸡儿	duō cì jǐn jī ér	10
+多刺菊石兽	duō cì jú shí shòu	10
 多刺可哥鲉	duō cì kě gē yóu	10
 多刺裸腹蚤	duō cì luǒ fù zǎo	10
 多刺绿绒蒿	duō cì lǜ róng hāo	10
@@ -44047,13 +44048,11 @@ sort: by_weight
 鹅毛玉凤花	é máo yù fèng huā	1
 峨眉包果柯	é méi bāo guǒ kē	10
 峨眉翠雀花	é méi cuì què huā	1
-峨嵋大蚯蚓	é méi dà qiū yǐn	10
 峨眉大蚯蚓	é méi dà qiū yǐn	10
 峨眉带唇兰	é méi dài chún lán	10
 峨眉碘泡虫	é méi diǎn pào chóng	1
 峨眉对囊蕨	é méi duì náng jué	1
 峨眉泛树蛙	é méi fàn shù wā	10
-峨嵋方秆蕨	é méi fāng gǎn jué	1
 峨眉方秆蕨	é méi fāng gǎn jué	1
 峨眉飞蛾槭	é méi fēi é qì	1
 峨眉凤仙花	é méi fèng xiān huā	1
@@ -44065,7 +44064,7 @@ sort: by_weight
 峨眉红腺蕨	é méi hóng xiàn jué	1
 峨眉厚喙菊	é méi hòu huì jú	1
 峨眉后平鳅	é méi hòu píng qiū	1
-峨嵋华溪蟹	é méi huá xī xiè	1
+峨眉华溪蟹	é méi huá xī xiè	1
 峨眉黄肉楠	é méi huáng ròu nán	10
 峨眉火绒草	é méi huǒ róng cǎo	1
 峨眉假瘤蕨	é méi jiǎ liú jué	1
@@ -44079,12 +44078,11 @@ sort: by_weight
 峨眉轮环藤	é méi lún huán téng	10
 峨眉罗伯蛛	é méi luó bó zhū	1
 峨眉螺序草	é méi luó xù cǎo	1
-峨嵋马先蒿	é méi mǎ xiān hāo	10
+峨眉马先蒿	é méi mǎ xiān hāo	10
 峨眉梅花草	é méi méi huā cǎo	1
 峨眉牛皮消	é méi niú pí xiāo	10
 峨眉雀梅藤	é méi què méi téng	1
-峨嵋山地盾	é méi shān dì dùn	10
-峨嵋山莓草	é méi shān méi cǎo	1
+峨眉山地盾	é méi shān dì dùn	10
 峨眉山莓草	é méi shān méi cǎo	1
 峨眉蛇根草	é méi shé gēn cǎo	1
 峨眉鼠尾草	é méi shǔ wěi cǎo	1
@@ -44093,7 +44091,6 @@ sort: by_weight
 峨眉唐松草	é méi táng sōng cǎo	1
 峨眉蹄盖蕨	é méi tí gài jué	1
 峨眉铁线蕨	é méi tiě xiàn jué	1
-峨嵋无心菜	é méi wú xīn cài	10
 峨眉无心菜	é méi wú xīn cài	10
 峨眉小丽螺	é méi xiǎo lì luó	1
 峨眉岩白菜	é méi yán bái cài	10
@@ -50317,7 +50314,7 @@ sort: by_weight
 毛沙生冰草	máo shā shēng bīng cǎo	1
 昴山蹄盖蕨	mǎo shān tí gài jué	1
 猫声园丁鸟	māo shēng yuán dīng niǎo	1
-毛氏峨嵋龙	máo shì é méi lóng	1
+毛氏峨眉龙	máo shì é méi lóng	1
 毛穗夏至草	máo suì xià zhì cǎo	1
 毛穗新麦草	máo suì xīn mài cǎo	1
 毛体金小蜂	máo tǐ jīn xiǎo fēng	1
@@ -60670,7 +60667,7 @@ sort: by_weight
 厄罗氏丘头鲶	è luó shì qiū tóu nián	1
 峨眉复叶耳蕨	é méi fù yè ěr jué	1
 峨眉假蹄盖蕨	é méi jiǎ tí gài jué	1
-峨嵋假铁秆草	é méi jiǎ tiě gǎn cǎo	1
+峨眉假铁秆草	é méi jiǎ tiě gǎn cǎo	1
 峨眉鳞果星蕨	é méi lín guǒ xīng jué	1
 厄氏吕宋花鮨	è shì lǚ sòng huā yì	1
 厄氏丝隆头鱼	è shì sī lóng tóu yú	1
