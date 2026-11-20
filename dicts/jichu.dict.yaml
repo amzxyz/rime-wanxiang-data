@@ -4263,7 +4263,7 @@ sort: by_weight
 刨平	bào píng	237
 爆破	bào pò	4223
 宝珀	bǎo pò	4012
-抱朴	bào pú	742
+抱朴	bào pǔ	742
 薄铺	báo pū	204
 抱起	bào qǐ	1670
 暴起	bào qǐ	511
@@ -14856,8 +14856,8 @@ sort: by_weight
 撤店	chè diàn	856
 车店	chē diàn	431
 撤点	chè diǎn	25
-扯掉	chě diào	1322
-撤掉	chè diào	524
+撤掉	chè diào	1322
+扯掉	chě diào	524
 车顶	chē dǐng	1579
 扯动	chě dòng	729
 车斗	chē dòu	60
@@ -101875,6 +101875,7 @@ sort: by_weight
 窃得	qiè de	743
 切点	qiē diǎn	436
 窃电	qiè diàn	392
+切电	qiè diàn	109
 切掉	qiē diào	1875
 切丁	qiē dīng	1062
 茄丁	qié dīng	695
@@ -113943,7 +113944,7 @@ sort: by_weight
 身正	shēn zhèng	622
 审证	shěn zhèng	475
 甚至	shèn zhì	487796
-深知	shēn zhì	6986
+深知	shēn zhī	6986
 伸直	shēn zhí	3240
 神志	shén zhì	1070
 神智	shén zhì	709
@@ -115050,7 +115051,7 @@ sort: by_weight
 石层	shí céng	220
 时差	shí chā	2342
 视察	shì chá	1657
-视差	shì chà	788
+视差	shì chā	788
 失察	shī chá	160
 试茶	shì chá	128
 嗜茶	shì chá	102
@@ -143642,7 +143643,6 @@ sort: by_weight
 小地	xiǎo dì	142
 校地	xiào dì	113
 小滴	xiǎo dī	90
-孝弟	xiào dì	72
 小点	xiǎo diǎn	7555
 小店	xiǎo diàn	4973
 笑点	xiào diǎn	3457
@@ -144559,6 +144559,7 @@ sort: by_weight
 小题	xiǎo tí	3658
 孝悌	xiào tì	276
 小体	xiǎo tǐ	153
+孝弟	xiào tì	72
 小天	xiǎo tiān	524
 小田	xiǎo tián	449
 小甜	xiǎo tián	359
@@ -226439,7 +226440,8 @@ sort: by_weight
 才上映	cái shàng yìng	151
 菜上桌	cài shàng zhuō	774
 菜少饭	cài shǎo fàn	414
-菜少了	cài shǎo le	724
+才少了	cái shǎo le	523
+菜少了	cài shǎo le	334
 才舍得	cái shě dé	198
 才设计	cái shè jì	662
 财神吧	cái shén ba	212
@@ -242525,8 +242527,8 @@ sort: by_weight
 储存间	chǔ cún jiān	338
 储存卡	chǔ cún kǎ	301
 储存库	chǔ cún kù	47
-出村了	chū cūn le	742
-储存了	chǔ cún le	327
+储存了	chǔ cún le	742
+出村了	chū cūn le	327
 储存量	chǔ cún liàng	176
 储存器	chǔ cún qì	323
 储存期	chǔ cún qī	291
@@ -272299,7 +272301,7 @@ sort: by_weight
 但身在	dàn shēn zài	436
 单身者	dān shēn zhě	41
 但深圳	dàn shēn zhèn	621
-但深知	dàn shēn zhì	477
+但深知	dàn shēn zhī	477
 但甚至	dàn shèn zhì	331
 但神志	dàn shén zhì	221
 单身中	dān shēn zhōng	459
@@ -294811,7 +294813,7 @@ sort: by_weight
 都折了	dōu shé le	388
 都什么	dōu shén me	1152
 都深深	dōu shēn shēn	110
-都深知	dōu shēn zhì	122
+都深知	dōu shēn zhī	122
 都声称	dōu shēng chēng	217
 都省了	dōu shěng le	791
 都生了	dōu shēng le	702
@@ -347523,7 +347525,7 @@ sort: by_weight
 郭家河	guō jiā hé	364
 国家化	guó jiā huà	185
 国家级	guó jiā jí	5536
-过家家	guō jiā jiā	1347
+过家家	guò jiā jiā	1347
 国家间	guó jiā jiān	399
 国家奖	guó jiā jiǎng	945
 国家街	guó jiā jiē	333
@@ -434982,7 +434984,7 @@ sort: by_weight
 看丈夫	kàn zhàng fū	544
 看涨时	kàn zhǎng shí	356
 嵌张听	kǎn zhāng tīng	26
-看长相	kàn zhǎng xiāng	85
+看长相	kàn zhǎng xiàng	85
 看涨者	kàn zhǎng zhě	3
 看招领	kàn zhāo lǐng	40
 看照片	kàn zhào piān	1130
@@ -510069,7 +510071,7 @@ sort: by_weight
 你伸展	nǐ shēn zhǎn	374
 你深圳	nǐ shēn zhèn	387
 你甚至	nǐ shèn zhì	3862
-你深知	nǐ shēn zhì	450
+你深知	nǐ shēn zhī	450
 你慎重	nǐ shèn zhòng	572
 你身中	nǐ shēn zhōng	232
 你身子	nǐ shēn zi	711
@@ -577290,12 +577292,12 @@ sort: by_weight
 实测值	shí cè zhí	361
 十层楼	shí céng lóu	50
 时差党	shí chā dǎng	616
-视差的	shì chà de	50
-视差法	shì chà fǎ	43
+视差的	shì chā de	50
+视差法	shì chā fǎ	43
 什刹海	shí chà hǎi	317
 势差计	shì chà jì	43
-视差较	shì chà jiào	274
-视差角	shì chà jiǎo	65
+视差较	shì chā jiào	274
+视差角	shì chā jiǎo	65
 视察了	shì chá le	765
 石槎路	shí chá lù	310
 示差谱	shì chà pǔ	45
@@ -588280,7 +588282,6 @@ sort: by_weight
 手相中	shǒu xiàng zhōng	432
 瘦小的	shòu xiǎo de	52
 收小弟	shōu xiǎo dì	432
-首孝弟	shǒu xiào dì	327
 手消毒	shǒu xiāo dú	819
 收小费	shōu xiǎo fèi	536
 瘦小腹	shòu xiǎo fù	531
@@ -588288,6 +588289,7 @@ sort: by_weight
 收小麦	shōu xiǎo mài	31
 瘦小舌	shòu xiǎo shé	194
 首小时	shǒu xiǎo shí	43
+首孝弟	shǒu xiào tì	327
 瘦小腿	shòu xiǎo tuǐ	828
 手写板	shǒu xiě bǎn	210
 手写版	shǒu xiě bǎn	189
@@ -614770,6 +614772,7 @@ sort: by_weight
 他能叫	tā néng jiào	378
 他能教	tā néng jiào	308
 他能接	tā néng jiē	626
+他能解	tā néng jiě	87
 他能进	tā néng jìn	495
 他能救	tā néng jiù	450
 他能看	tā néng kàn	801
@@ -616769,7 +616772,7 @@ sort: by_weight
 他伸展	tā shēn zhǎn	261
 他伸着	tā shēn zhe	590
 他甚至	tā shèn zhì	4647
-他深知	tā shēn zhì	801
+他深知	tā shēn zhī	801
 他神志	tā shén zhì	365
 他神智	tā shén zhì	328
 他伸直	tā shēn zhí	200
@@ -636499,6 +636502,7 @@ sort: by_weight
 听完了	tīng wán le	927
 挺晚了	tǐng wǎn le	517
 停完了	tíng wán le	43
+挺万能	tǐng wàn néng	41
 厅网吧	tīng wǎng bā	374
 听网课	tīng wǎng kè	626
 廷尉府	tíng wèi fǔ	243
@@ -666860,7 +666864,7 @@ sort: by_weight
 我伸着	wǒ shēn zhe	279
 我深圳	wǒ shēn zhèn	472
 我甚至	wǒ shèn zhì	1408
-我深知	wǒ shēn zhì	802
+我深知	wǒ shēn zhī	802
 我慎重	wǒ shèn zhòng	522
 我身中	wǒ shēn zhōng	293
 我神州	wǒ shén zhōu	356
@@ -677333,7 +677337,7 @@ sort: by_weight
 五十部	wǔ shí bù	193
 午时茶	wǔ shí chá	13
 无时差	wú shí chā	12
-无视差	wú shì chà	11
+无视差	wú shì chā	11
 无市场	wú shì chǎng	536
 五十次	wǔ shí cì	126
 武氏祠	wǔ shì cí	113
@@ -687837,6 +687841,7 @@ sort: by_weight
 先上菜	xiān shàng cài	58
 先上场	xiān shàng chǎng	472
 先上车	xiān shàng chē	195
+先上传	xiān shàng chuán	304
 先上船	xiān shàng chuán	64
 先上到	xiān shàng dào	432
 县上的	xiàn shàng de	526
@@ -733249,7 +733254,7 @@ sort: by_weight
 一身脏	yì shēn zāng	567
 一身债	yì shēn zhài	504
 以深圳	yǐ shēn zhèn	650
-已深知	yǐ shēn zhì	396
+已深知	yǐ shēn zhī	396
 一审中	yī shěn zhōng	540
 一身紫	yì shēn zǐ	580
 医生啊	yī shēng a	742
@@ -817414,9 +817419,9 @@ sort: by_weight
 爆破指数	bào pò zhǐ shù	45
 爆破装煤	bào pò zhuāng méi	45
 爆破作业	bào pò zuò yè	22
-抱朴归真	bào pú guī zhēn	4
+抱朴归真	bào pǔ guī zhēn	4
 抱朴含真	bào pǔ hán zhēn	189
-抱朴守拙	bào pú shǒu zhuō	333
+抱朴守拙	bào pǔ shǒu zhuō	333
 包气带水	bāo qì dài shuǐ	194
 抱起孩子	bào qǐ hái zi	639
 宝器江湖	bǎo qì jiāng hú	4
@@ -849893,7 +849898,7 @@ sort: by_weight
 长期摄入	cháng qī shè rù	160
 长期生存	cháng qī shēng cún	358
 长期生活	cháng qī shēng huó	656
-长期视差	cháng qī shì chà	171
+长期视差	cháng qī shì chā	171
 长期实践	cháng qī shí jiàn	107
 长期失眠	cháng qī shī mián	163
 长期实验	cháng qī shí yàn	328
@@ -856635,7 +856640,7 @@ sort: by_weight
 持刀伤害	chí dāo shāng hài	387
 持刀伤人	chí dāo shāng rén	38
 吃刀深度	chī dāo shēn dù	117
-赤道视差	chì dào shì chà	4
+赤道视差	chì dào shì chā	4
 吃到碗里	chī dào wǎn lǐ	130
 持刀威胁	chí dāo wēi xié	572
 吃到想吐	chī dào xiǎng tù	490
@@ -865552,7 +865557,7 @@ sort: by_weight
 垂直上移	chuí zhí shàng yí	4
 垂直射入	chuí zhí shè rù	230
 垂直升降	chuí zhí shēng jiàng	38
-垂直视差	chuí zhí shì chà	45
+垂直视差	chuí zhí shì chā	45
 垂直鼠标	chuí zhí shǔ biāo	261
 垂直搜索	chuí zhí sōu suǒ	138
 垂直投测	chuí zhí tóu cè	39
@@ -887101,7 +887106,7 @@ sort: by_weight
 地平经圈	dì píng jīng quān	99
 地平经仪	dì píng jīng yí	144
 地平如掌	dì píng rú zhǎng	50
-地平视差	dì píng shì chà	225
+地平视差	dì píng shì chā	225
 地平天成	dì píng tiān chéng	13
 地平纬度	dì píng wěi dù	180
 地平纬圈	dì píng wěi quān	171
@@ -888486,7 +888491,7 @@ sort: by_weight
 地心历表	dì xīn lì biǎo	45
 碲锌锰矿	dì xīn měng kuàng	45
 地心深处	dì xīn shēn chù	38
-地心视差	dì xīn shì chà	45
+地心视差	dì xīn shì chā	45
 地心世界	dì xīn shì jiè	38
 地心体系	dì xīn tǐ xì	162
 帝信通信	dì xìn tōng xìn	50
@@ -920754,7 +920759,7 @@ sort: by_weight
 分光距离	fēn guāng jù lí	50
 分光棱镜	fēn guāng léng jìng	212
 分光谱仪	fēn guāng pǔ yí	4
-分光视差	fēn guāng shì chà	230
+分光视差	fēn guāng shì chā	230
 分光双星	fēn guāng shuāng xīng	360
 分光旋计	fēn guāng xuán jì	90
 粉硅镁石	fěn guī měi shí	45
@@ -953637,7 +953642,7 @@ sort: by_weight
 光度偏差	guāng dù piān chā	53
 光度曲线	guāng dù qū xiàn	468
 广度深度	guǎng dù shēn dù	47
-光度视差	guāng dù shì chà	180
+光度视差	guāng dù shì chā	180
 光度演化	guāng dù yǎn huà	45
 光度佯谬	guāng dù yáng miù	76
 广度优先	guǎng dù yōu xiān	53
@@ -957456,9 +957461,9 @@ sort: by_weight
 国家计委	guó jiā jì wěi	97
 国家急需	guó jiā jí xū	508
 国家基药	guó jiā jī yào	85
-过家家啊	guō jiā jiā a	333
-过家家儿	guō jiā jiā ér	153
-过家家呢	guō jiā jiā ne	38
+过家家啊	guò jiā jiā a	333
+过家家儿	guò jiā jiā ér	153
+过家家呢	guò jiā jiā ne	38
 国家检测	guó jiā jiǎn cè	472
 国家监测	guó jiā jiān cè	395
 国家监察	guó jiā jiān chá	698
@@ -1056149,7 +1056154,7 @@ sort: by_weight
 立体三维	lì tǐ sān wéi	374
 立体扫描	lì tǐ sǎo miáo	266
 立体声场	lì tǐ shēng chǎng	256
-立体视差	lì tǐ shì chà	130
+立体视差	lì tǐ shì chā	130
 立体视觉	lì tǐ shì jué	236
 立体视卡	lì tǐ shì kǎ	53
 立体视力	lì tǐ shì lì	153
@@ -1056622,7 +1056627,7 @@ sort: by_weight
 利血平片	lì xuè píng piàn	189
 沥血剖肝	lì xuè pōu gān	45
 立雪求道	lì xuě qiú dào	144
-力学视差	lì xué shì chà	180
+力学视差	lì xué shì chā	180
 力学实验	lì xué shí yàn	549
 力学试验	lì xué shì yàn	319
 理学硕士	lǐ xué shuò shì	283
@@ -1076190,7 +1076195,7 @@ sort: by_weight
 猫耳发圈	māo ěr fā quān	76
 猫耳开关	māo ěr kāi guān	99
 毛发变色	máo fà biàn sè	99
-毛发倒竖	máo fā dǎo shù	342
+毛发倒竖	máo fà dǎo shù	342
 毛发改变	máo fà gǎi biàn	50
 毛发管型	máo fà guǎn xíng	45
 贸发会议	mào fā huì yì	490
@@ -1076200,8 +1076205,8 @@ sort: by_weight
 毛发囊肿	máo fà náng zhǒng	4
 毛发森竖	máo fà sēn shù	4
 毛发生长	máo fà shēng zhǎng	248
-毛发悚然	máo fā sǒng rán	256
-毛发耸然	máo fā sǒng rán	84
+毛发悚然	máo fà sǒng rán	256
+毛发耸然	máo fà sǒng rán	84
 毛发苔藓	máo fà tái xiǎn	220
 毛发脱落	máo fà tuō luò	47
 毛发无损	máo fà wú sǔn	189
@@ -1104731,7 +1104736,7 @@ sort: by_weight
 年终业绩	nián zhōng yè jì	306
 年终总结	nián zhōng zǒng jié	546
 年中总结	nián zhōng zǒng jié	405
-年周视差	nián zhōu shì chà	30
+年周视差	nián zhōu shì chā	30
 念咒书符	niàn zhòu shū fú	144
 黏住用户	nián zhù yòng hù	432
 年住院量	nián zhù yuàn liàng	117
@@ -1114806,7 +1114811,7 @@ sort: by_weight
 平均倾角	píng jūn qīng jiǎo	202
 平均曲率	píng jūn qū lǜ	396
 平均伤害	píng jūn shāng hài	472
-平均视差	píng jūn shì chà	76
+平均视差	píng jūn shì chā	76
 平均时长	píng jūn shí cháng	157
 平均时间	píng jūn shí jiān	270
 平均时速	píng jūn shí sù	680
@@ -1129871,9 +1129876,6 @@ sort: by_weight
 情报搜集	qíng bào sōu jí	154
 情报特工	qíng bào tè gōng	315
 情报头子	qíng bào tóu zǐ	328
-轻薄无礼	qīng báo wú lǐ	3
-轻薄无行	qīng báo wú xíng	220
-轻薄无知	qīng báo wú zhī	6
 情报系统	qíng bào xì tǒng	107
 清保鲜层	qīng bǎo xiān céng	79
 情报信息	qíng bào xìn xī	94
@@ -1129914,6 +1129916,9 @@ sort: by_weight
 清波流盼	qīng bō liú pàn	52
 轻薄旗舰	qīng bó qí jiàn	99
 清波水鉴	qīng bō shuǐ jiàn	117
+轻薄无礼	qīng bó wú lǐ	3
+轻薄无行	qīng bó wú xíng	220
+轻薄无知	qīng bó wú zhī	6
 清波杂志	qīng bō zá zhì	297
 轻薄脂粉	qīng bó zhī fěn	4
 轻薄之徒	qīng bó zhī tú	189
@@ -1153184,7 +1153189,7 @@ sort: by_weight
 三交三直	sān jiāo sān zhí	99
 三角扇形	sān jiǎo shàn xíng	4
 三角烧瓶	sān jiǎo shāo píng	130
-三角视差	sān jiǎo shì chà	382
+三角视差	sān jiǎo shì chā	382
 三焦湿热	sān jiāo shī rè	130
 三焦实热	sān jiāo shí rè	84
 三焦腧穴	sān jiāo shù xué	52
@@ -1162339,7 +1162344,7 @@ sort: by_weight
 上下前后	shàng xià qián hòu	598
 上下求索	shàng xià qiú suǒ	207
 上下升降	shàng xià shēng jiàng	25
-上下视差	shàng xià shì chà	76
+上下视差	shàng xià shì chā	76
 上下水道	shàng xià shuǐ dào	410
 上下水管	shàng xià shuǐ guǎn	554
 上下跳动	shàng xià tiào dòng	69
@@ -1174391,15 +1174396,15 @@ sort: by_weight
 实测资料	shí cè zī liào	266
 湿差刺激	shī chà cì jī	28
 视察工作	shì chá gōng zuò	88
-视差滚动	shì chà gǔn dòng	405
-视差量测	shì chà liáng cè	310
+视差滚动	shì chā gǔn dòng	405
+视差量测	shì chā liáng cè	310
 时差没倒	shí chā méi dào	46
 时差密码	shí chā mì mǎ	117
 式叉摩那	shì chā mó nà	324
-视差椭圆	shì chà tuǒ yuán	50
-视差位移	shì chà wèi yí	180
+视差椭圆	shì chā tuǒ yuán	50
+视差位移	shì chā wèi yí	180
 时差问题	shí chā wèn tí	531
-视差星表	shì chà xīng biǎo	76
+视差星表	shì chā xīng biǎo	76
 视察指导	shì chá zhǐ dǎo	508
 是豺狼也	shì chái láng yě	234
 市拆迁办	shì chāi qiān bàn	171
@@ -1196021,7 +1196026,7 @@ sort: by_weight
 双眼平视	shuāng yǎn píng shì	464
 双眼上翻	shuāng yǎn shàng fān	324
 双衍射法	shuāng yǎn shè fǎ	45
-双眼视差	shuāng yǎn shì chà	25
+双眼视差	shuāng yǎn shì chā	25
 双眼视力	shuāng yǎn shì lì	580
 双眼失明	shuāng yǎn shī míng	41
 双眼视野	shuāng yǎn shì yě	279
@@ -1212040,7 +1212045,7 @@ sort: by_weight
 太阳圣殿	tài yáng shèng diàn	252
 太阳圣火	tài yáng shèng huǒ	3
 太阳升起	tài yáng shēng qǐ	515
-太阳视差	tài yáng shì chà	288
+太阳视差	tài yáng shì chā	288
 太阳世纪	tài yáng shì jì	256
 太阳世家	tài yáng shì jiā	171
 太阳系里	tài yáng xì lǐ	210
@@ -1224297,7 +1224302,7 @@ sort: by_weight
 统计日期	tǒng jì rì qī	338
 统计软件	tǒng jì ruǎn jiàn	421
 统计上报	tǒng jì shàng bào	410
-统计视差	tǒng jì shì chà	162
+统计视差	tǒng jì shì chā	162
 统计时间	tǒng jì shí jiān	630
 统计视图	tǒng jì shì tú	130
 通计熟筹	tōng jì shú chóu	45
@@ -1233299,7 +1233304,7 @@ sort: by_weight
 晚风作酒	wǎn fēng zuò jiǔ	4
 万佛朝宗	wàn fó cháo zōng	38
 万佛之祖	wàn fó zhī zǔ	50
-万夫不当	wàn fū bú dàng	13
+万夫不当	wàn fū bù dāng	13
 万夫不挡	wàn fū bù dǎng	12
 万福金安	wàn fú jīn ān	66
 脘腹冷痛	wǎn fù lěng tòng	441
@@ -1233410,7 +1233415,7 @@ sort: by_weight
 万国公报	wàn guó gōng bào	6
 万国公法	wàn guó gōng fǎ	9
 万国国旅	wàn guó guó lǚ	76
-玩过家家	wán guō jiā jiā	273
+玩过家家	wán guò jiā jiā	273
 万国建筑	wàn guó jiàn zhù	662
 万国来朝	wàn guó lái cháo	185
 万国来仪	wàn guó lái yí	4
@@ -1255959,7 +1255964,7 @@ sort: by_weight
 无事不扰	wú shì bù rǎo	50
 五十步笑	wǔ shí bù xiào	711
 无时不在	wú shí bú zài	688
-无视差法	wú shì chà fǎ	45
+无视差法	wú shì chā fǎ	45
 武石城际	wǔ shí chéng jì	189
 务实重行	wù shí chóng xíng	144
 五十出头	wǔ shí chū tóu	50
@@ -1274134,11 +1274139,9 @@ sort: by_weight
 小弟弟说	xiǎo dì dì shuō	315
 校地共建	xiào dì gòng jiàn	212
 校地合作	xiào dì hé zuò	28
-孝弟力田	xiào dì lì tián	162
 校地融合	xiào dì róng hé	117
 小地图上	xiǎo dì tú shàng	179
 小弟娃儿	xiǎo dì wá er	225
-孝弟也者	xiào dì yě zhě	252
 笑点不断	xiào diǎn bú duàn	500
 笑点担当	xiào diǎn dān dāng	346
 小电动车	xiǎo diàn dòng chē	436
@@ -1276693,12 +1276696,14 @@ sort: by_weight
 小体格子	xiǎo tǐ gé zi	220
 鸮啼鬼啸	xiāo tí guǐ xiào	76
 孝悌力田	xiào tì lì tián	207
+孝弟力田	xiào tì lì tián	162
 小提琴版	xiǎo tí qín bǎn	38
 小提琴盒	xiǎo tí qín hé	72
 小提琴家	xiǎo tí qín jiā	672
 小提琴谱	xiǎo tí qín pǔ	266
 小提琴曲	xiǎo tí qín qǔ	132
 小提琴手	xiǎo tí qín shǒu	342
+孝弟也者	xiào tì yě zhě	252
 孝悌也者	xiào tì yě zhě	238
 孝悌忠信	xiào tì zhōng xìn	9
 小天地里	xiǎo tiān dì lǐ	57
@@ -1285017,7 +1285022,7 @@ sort: by_weight
 星际闪烁	xīng jì shǎn shuò	189
 性急少谋	xìng jí shǎo móu	99
 星际神话	xīng jì shén huà	180
-星际视差	xīng jì shì chà	45
+星际视差	xīng jì shì chā	45
 星级食府	xīng jí shí fǔ	189
 星际使者	xīng jì shǐ zhě	117
 性激素类	xìng jī sù lèi	450
@@ -1285537,7 +1285542,7 @@ sort: by_weight
 兴全趋势	xīng quán qū shì	526
 行权条件	xíng quán tiáo jiàn	78
 兴泉铁路	xīng quán tiě lù	396
-星群视差	xīng qún shì chà	45
+星群视差	xīng qún shì chā	45
 性染色体	xìng rǎn sè tǐ	565
 形染色体	xíng rǎn sè tǐ	306
 性染色质	xìng rǎn sè zhì	194
@@ -1347401,7 +1347406,7 @@ sort: by_weight
 运动神经	yùn dòng shén jīng	301
 运动盛会	yùn dòng shèng huì	13
 运动生涯	yùn dòng shēng yá	553
-运动视差	yùn dòng shì chà	194
+运动视差	yùn dòng shì chā	194
 运动时长	yùn dòng shí cháng	192
 运动市场	yùn dòng shì chǎng	173
 运动时间	yùn dòng shí jiān	1066
@@ -1352138,7 +1352143,7 @@ sort: by_weight
 造福桑梓	zào fú sāng zǐ	360
 造福社会	zào fú shè huì	236
 造富神话	zào fù shén huà	495
-造父视差	zào fù shì chà	76
+造父视差	zào fù shì chā	76
 造富效应	zào fù xiào yìng	328
 造福一方	zào fú yì fāng	78
 造福于民	zào fú yú mín	47
@@ -1359887,7 +1359892,7 @@ sort: by_weight
 这我就不	zhè wǒ jiù bù	141
 这我能懂	zhè wǒ néng dǒng	45
 这我能忍	zhè wǒ néng rěn	238
-这我深知	zhè wǒ shēn zhì	45
+这我深知	zhè wǒ shēn zhī	45
 这我熟啊	zhè wǒ shú a	99
 这我晓得	zhè wǒ xiǎo de	130
 这我知道	zhè wǒ zhī dào	91
@@ -1362679,7 +1362684,7 @@ sort: by_weight
 针线笸箩	zhēn xiàn pǒ luó	225
 真仙守符	zhēn xiān shǒu fú	117
 真相败露	zhēn xiàng bài lù	252
-真相毕露	zhēn xiāng bì lù	3
+真相毕露	zhēn xiàng bì lù	3
 真想不到	zhēn xiǎng bú dào	201
 真想不通	zhēn xiǎng bù tōng	75
 真香纯白	zhēn xiāng chún bái	4
@@ -1383893,7 +1383898,7 @@ sort: by_weight
 周日剧场	zhōu rì jù chǎng	482
 昼日三接	zhòu rì sān jiē	117
 周日上午	zhōu rì shàng wǔ	100
-周日视差	zhōu rì shì chà	162
+周日视差	zhōu rì shì chā	162
 周日晚间	zhōu rì wǎn jiān	666
 周日晚上	zhōu rì wǎn shàng	927
 周日运动	zhōu rì yùn dòng	333
@@ -1383959,7 +1383964,7 @@ sort: by_weight
 粥太稠了	zhōu tài chóu le	52
 周陶王林	zhōu táo wáng lín	189
 周陶宗古	zhōu táo zōng gǔ	130
-周提视差	zhōu tí shì chà	90
+周提视差	zhōu tí shì chā	90
 轴体突触	zhóu tǐ tū chù	45
 轴体虚位	zhóu tǐ xū wèi	96
 州体育馆	zhōu tǐ yù guǎn	612
@@ -1402654,7 +1402659,7 @@ sort: by_weight
 左右偏移	zuǒ yòu piān yí	306
 左右沙发	zuǒ yòu shā fā	30
 左右声道	zuǒ yòu shēng dào	630
-左右视差	zuǒ yòu shì chà	76
+左右视差	zuǒ yòu shì chā	76
 左右拾遗	zuǒ yòu shí yí	189
 左右手点	zuǒ yòu shǒu diǎn	25
 左右寺正	zuǒ yòu sì zhèng	4
@@ -1417175,7 +1417180,7 @@ sort: by_weight
 动力吸振器	dòng lì xī zhèn qì	10
 动理学理论	dòng lǐ xué lǐ lùn	10
 动力学理论	dòng lì xué lǐ lùn	10
-动力学视差	dòng lì xué shì chà	10
+动力学视差	dòng lì xué shì chā	10
 动力学试验	dòng lì xué shì yàn	10
 动力指向型	dòng lì zhǐ xiàng xíng	10
 动量的变化	dòng liàng de biàn huà	10
@@ -1426387,7 +1426392,7 @@ sort: by_weight
 光度标准星	guāng dù biāo zhǔn xīng	10
 光度感应器	guāng dù gǎn yìng qì	10
 广度和深度	guǎng dù hé shēn dù	10
-光度视差法	guāng dù shì chà fǎ	10
+光度视差法	guāng dù shì chā fǎ	10
 光度遥测法	guāng dù yáo cè fǎ	10
 广度与深度	guǎng dù yǔ shēn dù	10
 光萼野丁香	guāng è yě dīng xiāng	10
@@ -1448937,8 +1448942,8 @@ sort: by_weight
 尼克松主义	ní kè sōng zhǔ yì	10
 拟可微函数	nǐ kě wēi hán shù	10
 尼科亚半岛	ní kē yà bàn dǎo	10
+你可以想想	nǐ kě yǐ xiǎng xiǎng	12
 你可以想象	nǐ kě yǐ xiǎng xiàng	10
-你可以想想	nǐ kě yǐ xiǎng xiǎng	10
 你肯定会想	nǐ kěn dìng huì xiǎng	10
 逆控制原理	nì kòng zhì yuán lǐ	10
 倪匡科幻奖	ní kuāng kē huàn jiǎng	10
@@ -1456740,7 +1456745,7 @@ sort: by_weight
 三角肌后束	sān jiǎo jī hòu shù	10
 三角肌前束	sān jiǎo jī qián shù	10
 三角肌中束	sān jiǎo jī zhōng shù	10
-三角视差法	sān jiǎo shì chà fǎ	10
+三角视差法	sān jiǎo shì chā fǎ	10
 三角图反常	sān jiǎo tú fǎn cháng	10
 三焦无所御	sān jiāo wú suǒ yù	10
 三角形公理	sān jiǎo xíng gōng lǐ	10
@@ -1459996,7 +1460001,7 @@ sort: by_weight
 示差检测器	shì chà jiǎn cè qì	10
 式叉摩那戒	shì chā mó nà jiè	10
 式叉摩那尼	shì chā mó nà ní	10
-视差天平动	shì chà tiān píng dòng	10
+视差天平动	shì chā tiān píng dòng	10
 市场部经理	shì chǎng bù jīng lǐ	10
 市场的霸主	shì chǎng de bà zhǔ	10
 市场的底部	shì chǎng de dǐ bù	10
@@ -1480072,7 +1480077,7 @@ sort: by_weight
 夜深千帐灯	yè shēn qiān zhàng dēng	10
 夜深人静时	yè shēn rén jìng shí	10
 夜深人未静	yè shēn rén wèi jìng	10
-夜深知雪重	yè shēn zhì xuě zhòng	10
+夜深知雪重	yè shēn zhī xuě zhòng	10
 野生的鲟鱼	yě shēng de xún yú	10
 野生福岛樱	yě shēng fú dǎo yīng	10
 夜市大排档	yè shì dà pái dàng	10
@@ -1498558,9 +1498563,9 @@ sort: by_weight
 赤池信息准则	chì chí xìn xī zhǔn zé	10
 吃刺激性食物	chī cì jī xìng shí wù	10
 尺寸稳定性好	chǐ cùn wěn dìng xìng hǎo	10
-赤道地平视差	chì dào dì píng shì chà	10
+赤道地平视差	chì dào dì píng shì chā	10
 赤道低气压带	chì dào dī qì yā dài	10
-赤道地位视差	chì dào dì wèi shì chà	10
+赤道地位视差	chì dào dì wèi shì chā	10
 吃到停不下来	chī dào tíng bú xià lái	10
 持刀袭击事件	chí dāo xí jī shì jiàn	10
 赤道坐标系统	chì dào zuò biāo xì tǒng	10
@@ -1500306,7 +1500311,7 @@ sort: by_weight
 单向土工格栅	dān xiàng tǔ gōng gé shān	10
 单向旋转表圈	dān xiàng xuán zhuǎn biǎo quān	10
 单斜对称岩组	dān xié duì chèn yán zǔ	10
-单眼运动视差	dān yǎn yùn dòng shì chà	10
+单眼运动视差	dān yǎn yùn dòng shì chā	10
 丹阳号驱逐舰	dān yáng hào qū zhú jiàn	10
 氮氧加速系统	dàn yǎng jiā sù xì tǒng	10
 单页生日祝福	dān yè shēng rì zhù fú	10
@@ -1507604,7 +1507609,7 @@ sort: by_weight
 国家基础资讯	guó jiā jī chǔ zī xùn	10
 国家疾控中心	guó jiā jí kòng zhōng xīn	10
 国家纪念建筑	guó jiā jì niàn jiàn zhù	10
-过家家的游戏	guō jiā jiā de yóu xì	10
+过家家的游戏	guò jiā jiā de yóu xì	10
 国家监委主任	guó jiā jiān wěi zhǔ rèn	10
 国家进出口委	guó jiā jìn chū kǒu wěi	10
 国家景观大道	guó jiā jǐng guān dà dào	10
@@ -1508892,7 +1508897,7 @@ sort: by_weight
 亨格罗林赛道	hēng gé luó lín sài dào	10
 亨哈二氏公式	hēng hā èr shì gōng shì	10
 恒河中所有沙	héng hé zhōng suǒ yǒu shā	10
-横基尺视差法	héng jī chǐ shì chà fǎ	10
+横基尺视差法	héng jī chǐ shì chā fǎ	10
 亨吉二氏试验	hēng jí èr shì shì yàn	10
 恒基兆业地产	héng jī zhào yè dì chǎn	10
 恒基兆业发展	héng jī zhào yè fā zhǎn	10
@@ -1520771,7 +1520776,7 @@ sort: by_weight
 戚薇和李承铉	qī wēi hé lǐ chéng xuàn	10
 其未来的发展	qí wèi lái de fā zhǎn	10
 齐维利斯基区	qí wéi lì sī jī qū	10
-其为人也孝弟	qí wéi rén yě xiào dì	10
+其为人也孝弟	qí wéi rén yě xiào tì	10
 气温忽高忽低	qì wēn hū gāo hū dī	10
 气温缓慢回升	qì wēn huǎn màn huí shēng	10
 气温回升明显	qì wēn huí shēng míng xiǎn	10
@@ -1526775,7 +1526780,7 @@ sort: by_weight
 属虎的人性格	shǔ hǔ de rén xìng gé	10
 书湖阴先生壁	shū hú yīn xiān shēng bì	10
 疏缓节兮安歌	shū huǎn jié xī ān gē	10
-竖基尺视差法	shù jī chǐ shì chà fǎ	10
+竖基尺视差法	shù jī chǐ shì chā fǎ	10
 属鸡的人性格	shǔ jī de rén xìng gé	10
 数寄屋桥次郎	shù jì wū qiáo cì láng	10
 恕己之心恕人	shù jǐ zhī xīn shù rén	10
@@ -1558776,7 +1558781,7 @@ sort: by_weight
 有牵牛而过堂下者	yǒu qiān niú ér guò táng xià zhě	10
 幼吾幼以及人之幼	yòu wú yòu yǐ jí rén zhī yòu	10
 有则改之无则加勉	yǒu zé gǎi zhī wú zé jiā miǎn	10
-鱼和熊掌不可兼得	yú huó xióng zhǎng bù kě jiān dé	10
+鱼和熊掌不可兼得	yú hé xióng zhǎng bù kě jiān dé	10
 欲加之罪何患无辞	yù jiā zhī zuì hé huàn wú cí	10
 鱼龙混杂泥沙俱下	yú lóng hùn zá ní shā jù xià	10
 域民不以封疆之界	yù mín bù yǐ fēng jiāng zhī jiè	10
