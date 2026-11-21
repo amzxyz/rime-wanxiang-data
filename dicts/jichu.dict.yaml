@@ -12978,7 +12978,8 @@ sort: by_weight
 查证	chá zhèng	2242
 插值	chā zhí	2638
 差值	chā zhí	1227
-查知	chá zhī	97
+查知	chá zhī	497
+叉指	chā zhǐ	310
 茶汁	chá zhī	77
 察知	chá zhī	61
 茶质	chá zhì	48
@@ -13908,6 +13909,7 @@ sort: by_weight
 场上	chǎng shàng	9847
 常上	cháng shàng	1247
 唱商	chàng shāng	500
+长勺	cháng sháo	308
 长舌	cháng shé	386
 常设	cháng shè	103
 长蛇	cháng shé	97
@@ -16792,11 +16794,11 @@ sort: by_weight
 崇厚	chóng hòu	581
 冲虎	chōng hǔ	621
 重湖	chóng hú	361
+重画	chóng huà	368
 重划	chóng huà	292
 重华	chóng huá	277
 崇华	chóng huá	237
 崇化	chóng huà	213
-重画	chóng huà	168
 宠坏	chǒng huài	91
 冲坏	chōng huài	82
 虫患	chóng huàn	62
@@ -47538,6 +47540,7 @@ sort: by_weight
 焊把	hàn bǎ	43
 汉柏	hàn bǎi	19
 韩版	hán bǎn	754
+焊板	hàn bǎn	420
 汉办	hàn bàn	357
 汗斑	hàn bān	285
 汉邦	hàn bāng	13
@@ -47678,6 +47681,7 @@ sort: by_weight
 汉广	hàn guǎng	48
 韩国	hán guó	45200
 喊过	hǎn guò	1595
+焊过	hàn guò	685
 汗国	hán guó	317
 汉国	hàn guó	253
 瀚海	hàn hǎi	377
@@ -55136,6 +55140,7 @@ sort: by_weight
 惠海	huì hǎi	547
 回函	huí hán	160
 挥汗	huī hàn	152
+会焊	huì hàn	140
 回汉	huí hàn	130
 回航	huí háng	69
 会好	huì hǎo	882
@@ -73253,7 +73258,7 @@ sort: by_weight
 蜡块	là kuài	91
 拉宽	lā kuān	204
 拉阔	lā kuò	648
-啦啦	la la	1457
+啦啦	lā lā	1457
 拉拉	lā lā	593
 辣辣	là là	138
 拉来	lā lái	2295
@@ -75254,6 +75259,7 @@ sort: by_weight
 雷家	léi jiā	945
 肋间	lèi jiān	94
 勒脚	lēi jiǎo	459
+擂椒	léi jiāo	288
 雷姐	léi jiě	522
 勒紧	lēi jǐn	336
 累进	lěi jìn	172
@@ -75894,8 +75900,8 @@ sort: by_weight
 理官	lǐ guān	183
 离馆	lí guǎn	68
 理光	lǐ guāng	1548
-厉鬼	lì guǐ	1047
-立柜	lì guì	464
+立柜	lì guì	1047
+厉鬼	lì guǐ	464
 李鬼	lǐ guǐ	260
 离轨	lí guǐ	208
 利簋	lì guǐ	46
@@ -92424,6 +92430,7 @@ sort: by_weight
 逆足	nì zú	35
 你最	nǐ zuì	2006
 你做	nǐ zuò	10205
+你坐	nǐ zuò	655
 拟作	nǐ zuò	122
 你作	nǐ zuò	97
 蔫巴	niān bā	47
@@ -119344,8 +119351,8 @@ sort: by_weight
 熟知	shú zhī	9598
 树枝	shù zhī	4012
 树脂	shù zhī	2527
-述职	shù zhí	1601
-竖直	shù zhí	379
+竖直	shù zhí	1601
+述职	shù zhí	379
 叔侄	shū zhí	317
 疏枝	shū zhī	129
 数织	shù zhī	123
@@ -142393,7 +142400,7 @@ sort: by_weight
 香稻	xiāng dào	40
 想的	xiǎng de	2331
 想得	xiǎng de	1864
-相得	xiāng de	866
+相得	xiāng dé	866
 香的	xiāng de	182
 响的	xiǎng de	166
 香得	xiāng de	132
@@ -166667,7 +166674,6 @@ sort: by_weight
 掌上	zhǎng shàng	1969
 账上	zhàng shàng	750
 掌勺	zhǎng sháo	342
-长勺	zhǎng sháo	308
 张婶	zhāng shěn	886
 掌声	zhǎng shēng	3294
 涨声	zhǎng shēng	2965
@@ -229632,6 +229638,8 @@ sort: by_weight
 查得到	chá de dào	402
 差得多	chà de duō	349
 查德湖	chá dé hú	382
+查得紧	chá de jǐn	590
+插得进	chā de jìn	110
 差的了	chà de le	788
 查德利	chá dé lì	490
 查得严	chá de yán	57
@@ -232001,10 +232009,8 @@ sort: by_weight
 长很多	cháng hěn duō	940
 长恨歌	cháng hèn gē	895
 长亨邨	cháng hēng cūn	418
-长红斑	cháng hóng bān	328
 长宏邨	cháng hóng cūn	378
 长虹道	cháng hóng dào	220
-长红点	cháng hóng diǎn	356
 唱红歌	chàng hóng gē	82
 长虹湖	cháng hóng hú	99
 唱红了	chàng hóng le	500
@@ -232424,14 +232430,18 @@ sort: by_weight
 长毛猪	cháng máo zhū	9
 唱美声	chàng měi shēng	495
 尝美食	cháng měi shí	1206
+长门赋	cháng mén fù	360
+长门宫	cháng mén gōng	374
 厂门口	chǎng mén kǒu	88
 场门口	chǎng mén kǒu	79
 厂门前	chǎng mén qián	472
+长门怨	cháng mén yuàn	328
 长米坝	cháng mǐ bà	410
 场密度	chǎng mì dù	320
 长米粒	cháng mǐ lì	279
 场面啊	chǎng miàn a	526
 场面吧	chǎng miàn ba	490
+长面包	cháng miàn bāo	549
 场面大	chǎng miàn dà	657
 场面的	chǎng miàn de	1017
 场面话	chǎng miàn huà	647
@@ -232716,6 +232726,7 @@ sort: by_weight
 场上时	chǎng shàng shí	630
 长上衣	cháng shàng yī	3
 长哨营	cháng shào yíng	288
+长勺子	cháng sháo zǐ	58
 长舌板	cháng shé bǎn	54
 厂设备	chǎng shè bèi	680
 长射程	cháng shè chéng	19
@@ -232886,7 +232897,6 @@ sort: by_weight
 场所内	chǎng suǒ nèi	760
 常态啊	cháng tài a	392
 常态吧	cháng tài ba	410
-长太丑	cháng tài chǒu	338
 常态的	cháng tài de	1022
 唱太低	chàng tài dī	43
 唱太高	chàng tài gāo	43
@@ -233348,7 +233358,6 @@ sort: by_weight
 长直发	cháng zhí fā	31
 唱支歌	chàng zhī gē	22
 长治号	cháng zhì hào	261
-长智慧	cháng zhì huì	648
 长指甲	cháng zhǐ jia	173
 长治里	cháng zhì lǐ	248
 长治路	cháng zhì lù	526
@@ -233361,7 +233370,6 @@ sort: by_weight
 长枝竹	cháng zhī zhú	207
 唱中国	chàng zhōng guó	590
 长冢京	cháng zhǒng jīng	346
-长肿瘤	cháng zhǒng liú	621
 肠肿瘤	cháng zhǒng liú	445
 场中路	chǎng zhōng lù	639
 唱中文	chàng zhōng wén	652
@@ -352110,6 +352118,7 @@ sort: by_weight
 韩版潮	hán bǎn cháo	3
 韩半岛	hán bàn dǎo	31
 旱半夏	hàn bàn xià	202
+焊板子	hàn bǎn zi	13
 汉堡啊	hàn bǎo a	490
 喊保安	hǎn bǎo ān	43
 汉堡吧	hàn bǎo ba	428
@@ -352364,6 +352373,9 @@ sort: by_weight
 韩国剧	hán guó jù	594
 喊过来	hǎn guò lái	630
 韩国来	hán guó lái	103
+韩国了	hán guó le	77
+喊过了	hǎn guò le	65
+焊过了	hàn guò le	43
 韩国男	hán guó nán	1166
 韩国女	hán guó nǚ	1242
 韩国片	hán guó piàn	31
@@ -371232,7 +371244,7 @@ sort: by_weight
 画框里	huà kuàng lǐ	454
 花括号	huā kuò hào	151
 哗啦啦	huā lā lā	885
-花啦啦	huā la la	450
+花啦啦	huā lā lā	450
 划拉了	huá la le	518
 华拉伦	huá lā lún	387
 化蜡扦	huà là qiān	274
@@ -372563,8 +372575,8 @@ sort: by_weight
 花一点	huā yì diǎn	914
 花艺店	huā yì diàn	39
 画一段	huà yí duàn	400
-花衣服	huā yī fu	279
-画一幅	huà yì fú	251
+画一幅	huà yì fú	279
+花衣服	huā yī fu	251
 画一个	huà yí gè	2481
 划一个	huà yī gè	188
 花艺馆	huā yì guǎn	41
@@ -388730,6 +388742,7 @@ sort: by_weight
 获取值	huò qǔ zhí	13
 获全国	huò quán guó	44
 活泉水	huó quán shuǐ	590
+霍然间	huò rán jiān	370
 或然率	huò rán lǜ	396
 或然性	huò rán xìng	57
 火热啊	huǒ rè a	468
@@ -446666,14 +446679,14 @@ sort: by_weight
 拉胯了	lā kuà le	454
 拉宽带	lā kuān dài	297
 拉奎尔	lā kuí ěr	418
-啦啦吧	la la ba	274
+啦啦吧	lā lā ba	274
 拉拉吧	lā lā ba	198
-啦啦操	la la cāo	166
+啦啦操	lā lā cāo	166
 拉拉车	lā lā chē	306
 辣辣的	là là de	289
 拉拉的	lā lā de	260
-啦啦地	la la dì	706
-啦啦队	la la duì	590
+啦啦地	lā lā dì	706
+啦啦队	lā lā duì	590
 拉拉队	lā lā duì	531
 拉拉呱	lā lā gū	279
 蝲蝲蛄	là là gū	224
@@ -446681,7 +446694,7 @@ sort: by_weight
 拉拉筋	lā lā jīn	436
 拉拉卡	lā lā kǎ	567
 拉拉裤	lā lā kù	662
-啦啦啦	la la la	1793
+啦啦啦	lā lā la	1793
 拉拉拉	lā lā lā	420
 拉拉链	lā lā liàn	612
 拉拉曼	lā lā màn	292
@@ -446690,7 +446703,7 @@ sort: by_weight
 拉拉球	lā lā qiú	52
 拉拉人	lā lā rén	536
 拉拉山	lā lā shān	454
-啦啦声	la la shēng	346
+啦啦声	lā lā shēng	346
 拉拉手	lā lā shǒu	53
 拉拉藤	lā lā téng	531
 拉拉屯	lā lā tún	243
@@ -453186,6 +453199,7 @@ sort: by_weight
 累垮了	lèi kuǎ le	540
 类矿物	lèi kuàng wù	630
 类扩展	lèi kuò zhǎn	25
+擂辣椒	léi là jiāo	52
 雷老板	léi lǎo bǎn	504
 雷老大	léi lǎo dà	428
 雷老虎	léi lǎo hǔ	418
@@ -467374,7 +467388,7 @@ sort: by_weight
 路况好	lù kuàng hǎo	576
 路况时	lù kuàng shí	558
 路况下	lù kuàng xià	201
-噜啦啦	lū la la	418
+噜啦啦	lū lā lā	418
 露兰春	lù lán chūn	3
 路兰迪	lù lán dí	248
 陆老板	lù lǎo bǎn	436
@@ -520782,7 +520796,7 @@ sort: by_weight
 喔呵呵	ō hē hē	429
 哦吼吼	ó hǒu hǒu	693
 哦看了	ó kàn le	477
-哦啦啦	ó la la	500
+哦啦啦	ó lā lā	500
 哦来吧	ó lái ba	270
 哦买噶	ó mǎi gá	495
 哦买嘎	ó mǎi gā	327
@@ -520964,7 +520978,7 @@ sort: by_weight
 欧拉法	ōu lā fǎ	464
 欧拉极	ōu lā jí	99
 欧拉角	ōu lā jiǎo	504
-欧啦啦	ōu la la	207
+欧啦啦	ōu lā lā	207
 欧拉类	ōu lā lèi	220
 欧拉数	ōu lā shù	392
 欧拉图	ōu lā tú	378
@@ -530963,7 +530977,7 @@ sort: by_weight
 普拉河	pǔ lā hé	396
 普拉霍	pǔ lā huò	472
 普拉卡	pǔ lā kǎ	513
-扑啦啦	pū la la	356
+扑啦啦	pū lā lā	356
 普拉玛	pǔ lā mǎ	315
 普拉纳	pǔ lā nà	644
 普拉尼	pǔ lā ní	500
@@ -564437,7 +564451,7 @@ sort: by_weight
 沙拉湖	shā lā hú	117
 沙拉酱	shā lā jiàng	1350
 沙拉克	shā lā kè	360
-莎啦啦	shā la la	6
+莎啦啦	shā lā lā	6
 莎拉拉	shā lā lā	4
 沙拉里	shā lā lǐ	855
 沙拉龙	shā lā lóng	356
@@ -580316,7 +580330,7 @@ sort: by_weight
 是垃圾	shì lā jī	1438
 湿垃圾	shī lā jī	846
 拾垃圾	shí lā jī	613
-是啦啦	shì la la	486
+是啦啦	shì lā lā	486
 什拉姆	shí lā mǔ	43
 史拉斯	shǐ lā sī	43
 士拉央	shì lā yāng	423
@@ -632276,7 +632290,7 @@ sort: by_weight
 天葵子	tiān kuí zǐ	302
 添括号	tiān kuò hào	82
 甜辣酱	tián là jiàng	968
-甜啦啦	tián la la	194
+甜啦啦	tián lā lā	194
 天拉了	tiān lā le	513
 天啦噜	tiān la lū	210
 甜辣味	tián là wèi	612
@@ -675915,7 +675929,7 @@ sort: by_weight
 无垃圾	wú lā jī	504
 巫拉甲	wū lā jiǎ	153
 乌拉街	wù lā jiē	428
-呜啦啦	wū la la	522
+呜啦啦	wū lā lā	522
 乌拉拉	wù lā lā	437
 乌拉泊	wù lā pō	580
 乌拉山	wù lā shān	6
@@ -760087,8 +760101,9 @@ sort: by_weight
 在那次	zài nà cì	543
 再拿大	zài ná dà	30
 在拿到	zài ná dào	1140
-在哪点	zài nǎ diǎn	558
-在那点	zài nà diǎn	353
+再拿点	zài ná diǎn	710
+在哪点	zài nǎ diǎn	458
+在那点	zài nà diǎn	253
 在那段	zài nà duàn	270
 在哪儿	zài nǎ er	6384
 在那儿	zài nà er	2917
@@ -766998,6 +767013,8 @@ sort: by_weight
 漳河水	zhāng hé shuǐ	558
 长黑斑	zhǎng hēi bān	19
 长黑头	zhǎng hēi tóu	47
+长红斑	zhǎng hóng bān	328
+长红点	zhǎng hóng diǎn	356
 涨洪段	zhǎng hóng duàn	45
 涨红脸	zhàng hóng liǎn	486
 涨洪水	zhǎng hóng shuǐ	13
@@ -767220,16 +767237,12 @@ sort: by_weight
 涨没有	zhǎng méi yǒu	580
 涨没涨	zhǎng méi zhǎng	28
 长没长	zhǎng méi zhǎng	25
-长门赋	zhǎng mén fù	360
-长门宫	zhǎng mén gōng	374
 长门国	zhǎng mén guó	52
 掌门了	zhǎng mén le	360
 掌门人	zhǎng mén rén	1592
 长门事	zhǎng mén shì	201
 章门穴	zhāng mén xué	342
-长门怨	zhǎng mén yuàn	328
 张秘书	zhāng mì shū	1199
-长面包	zhǎng miàn bāo	549
 账面值	zhàng miàn zhí	50
 长面子	zhǎng miàn zi	28
 涨面子	zhǎng miàn zi	25
@@ -767324,7 +767337,6 @@ sort: by_weight
 章绍伟	zhāng shào wěi	13
 章少岩	zhāng shǎo yán	45
 张少爷	zhāng shào ye	338
-长勺子	zhǎng sháo zǐ	58
 掌深弓	zhǎng shēn gōng	117
 长身体	zhǎng shēn tǐ	490
 掌深支	zhǎng shēn zhī	76
@@ -767374,6 +767386,7 @@ sort: by_weight
 胀缩波	zhàng suō bō	45
 张所长	zhāng suǒ zhǎng	121
 帐塔柱	zhàng tǎ zhù	328
+长太丑	zhǎng tài chǒu	338
 章太大	zhāng tài dà	29
 涨太多	zhǎng tài duō	38
 长太高	zhǎng tài gāo	16
@@ -767560,6 +767573,7 @@ sort: by_weight
 张指导	zhāng zhǐ dǎo	526
 张之洞	zhāng zhī dòng	46
 长脂肪	zhǎng zhī fáng	752
+长智慧	zhǎng zhì huì	648
 张支票	zhāng zhī piào	783
 长志气	zhǎng zhì qì	16
 长知识	zhǎng zhī shi	248
@@ -767569,6 +767583,7 @@ sort: by_weight
 掌中剑	zhǎng zhōng jiàn	256
 掌中芥	zhǎng zhōng jiè	50
 张仲景	zhāng zhòng jǐng	46
+长肿瘤	zhǎng zhǒng liú	621
 掌中热	zhǎng zhōng rè	230
 掌中纹	zhǎng zhōng wén	4
 掌中舞	zhǎng zhōng wǔ	234
@@ -793093,7 +793108,7 @@ sort: by_weight
 字库塔	zì kù tǎ	387
 自夸吧	zì kuā ba	234
 自夸地	zì kuā de	0
-滋啦啦	zī la la	526
+滋啦啦	zī lā lā	526
 自来白	zì lái bái	6
 紫来洞	zǐ lái dòng	360
 自来红	zì lái hóng	16
@@ -848946,7 +848961,6 @@ sort: by_weight
 常常禁食	cháng cháng jìn shí	76
 场场精彩	chǎng chǎng jīng cǎi	513
 长长久久	cháng cháng jiǔ jiǔ	506
-长长卷卷	cháng cháng juàn juàn	162
 常常觉得	cháng cháng jué de	317
 尝尝看吧	cháng cháng kàn ba	52
 常常看到	cháng cháng kàn dào	909
@@ -850086,6 +850100,7 @@ sort: by_weight
 场上位置	chǎng shàng wèi zhì	945
 场上形势	chǎng shàng xíng shì	540
 尝上一口	cháng shàng yì kǒu	486
+长勺之战	cháng sháo zhī zhàn	364
 长舌妇人	cháng shé fù rén	144
 常设机构	cháng shè jī gòu	129
 长蛇焰火	cháng shé yàn huǒ	171
@@ -977939,7 +977954,7 @@ sort: by_weight
 画画技术	huà huà jì shù	52
 话话家常	huà huà jiā cháng	320
 花花轿子	huā huā jiào zi	52
-哗哗啦啦	huā huā la la	19
+哗哗啦啦	huā huā lā lā	19
 花花柳柳	huā huā liǔ liǔ	202
 花花绿绿	huā huā lǜ lǜ	1022
 花滑男单	huā huá nán dān	157
@@ -981669,7 +981684,7 @@ sort: by_weight
 环醛缩酶	huán quán suō méi	45
 涣然冰释	huàn rán bīng shì	13
 焕然大悟	huàn rán dà wù	338
-欢然相得	huān rán xiāng de	45
+欢然相得	huān rán xiāng dé	45
 焕然一新	huàn rán yì xīn	1369
 环绕地球	huán rào dì qiú	261
 环绕空间	huán rào kōng jiān	266
@@ -1048285,12 +1048300,12 @@ sort: by_weight
 拉裤兜子	lā kù dōu zi	243
 拉裤里了	lā kù lǐ le	52
 拉阔音乐	lā kuò yīn yuè	486
-啦啦操队	la la cāo duì	382
+啦啦操队	lā lā cāo duì	382
 拉拉扯扯	lā lā chě chě	214
 拉拉打雷	lā lā dǎ léi	202
-啦啦队服	la la duì fú	153
-啦啦队员	la la duì yuán	446
-啦啦队长	la la duì zhǎng	78
+啦啦队服	lā lā duì fú	153
+啦啦队员	lā lā duì yuán	446
+啦啦队长	lā lā duì zhǎng	78
 拉拉关系	lā lā guān xì	38
 拉拉家常	lā lā jiā cháng	544
 邋邋遢遢	lā lā ta tà	53
@@ -1064493,6 +1064508,7 @@ sort: by_weight
 令人忧心	lìng rén yōu xīn	486
 令人愉悦	lìng rén yú yuè	868
 令人咂舌	lìng rén zā shé	666
+零人在意	líng rén zài yì	10
 令人赞叹	lìng rén zàn tàn	878
 令人咋舌	lìng rén zé shé	615
 令人乍舌	lìng rén zhà shé	540
@@ -1069234,7 +1069250,7 @@ sort: by_weight
 露露公主	lù lù gōng zhǔ	310
 陆路交通	lù lù jiāo tōng	738
 鹭鹭酒家	lù lù jiǔ jiā	418
-噜噜啦啦	lū lū la la	180
+噜噜啦啦	lū lū lā lā	180
 陆陆碰撞	lù lù pèng zhuàng	220
 露露情史	lù lù qíng shǐ	50
 琭琭如玉	lù lù rú yù	52
@@ -1107779,7 +1107795,7 @@ sort: by_weight
 哦奥特曼	ó ào tè màn	405
 哦呵呵了	ó hē hē le	76
 哦可哦可	ó kě ó kě	45
-哦啦啦哦	ó la la ó	153
+哦啦啦哦	ó lā lā ó	153
 哦那个谁	ó nà ge shuí	153
 哦那你说	ó nà nǐ shuō	180
 哦哦啊啊	ò ò à à	220
@@ -1203070,7 +1203086,7 @@ sort: by_weight
 四四九五	sì sì jiǔ wǔ	4
 四四九一	sì sì jiǔ yī	4
 丝丝拉拉	sī sī lā lā	351
-咝咝啦啦	sī sī la la	224
+咝咝啦啦	sī sī lā lā	224
 四死两伤	sì sǐ liǎng shāng	52
 丝丝凉意	sī sī liáng yì	693
 四四零八	sì sì líng bā	4
@@ -1325706,7 +1325722,7 @@ sort: by_weight
 阴阳向背	yīn yáng xiàng bèi	310
 阴阳相成	yīn yáng xiāng chéng	248
 阴阳相乘	yīn yáng xiāng chéng	42
-阴阳相得	yīn yáng xiāng de	4
+阴阳相得	yīn yáng xiāng dé	4
 阴阳相干	yīn yáng xiāng gān	45
 阴阳相隔	yīn yáng xiāng gé	608
 阴阳相合	yīn yáng xiāng hé	410
@@ -1341142,7 +1341158,7 @@ sort: by_weight
 与谁同坐	yǔ shuí tóng zuò	288
 雨水污水	yǔ shuǐ wū shuǐ	441
 雨水系统	yǔ shuǐ xì tǒng	6
-鱼水相得	yú shuǐ xiāng de	4
+鱼水相得	yú shuǐ xiāng dé	4
 鱼水相逢	yú shuǐ xiāng féng	50
 鱼水相欢	yú shuǐ xiāng huān	130
 鱼水相投	yú shuǐ xiāng tóu	3
@@ -1356471,7 +1356487,6 @@ sort: by_weight
 掌上之珠	zhǎng shàng zhī zhū	76
 掌上综素	zhǎng shàng zōng sù	45
 涨少跌多	zhǎng shǎo diē duō	508
-长勺之战	zhǎng sháo zhī zhàn	364
 长什么样	zhǎng shén me yàng	2094
 仗什么义	zhàng shén me yì	45
 掌声不断	zhǎng shēng bú duàn	657
@@ -1395969,8 +1395984,8 @@ sort: by_weight
 字字铿锵	zì zì kēng qiāng	450
 孜孜矻矻	zī zī kū kū	41
 孳孳矻矻	zī zī kū kū	37
-滋滋啦啦	zī zī la la	428
-嗞嗞啦啦	zī zī la la	52
+滋滋啦啦	zī zī lā lā	428
+嗞嗞啦啦	zī zī lā lā	52
 滋滋冒油	zī zī mào yóu	567
 嗞嗞冒油	zī zī mào yóu	52
 字字泣血	zì zì qì xuè	441
@@ -1403884,7 +1403899,7 @@ sort: by_weight
 把裤子脱了	bǎ kù zi tuō le	10
 巴拉德半岛	bā lā dé bàn dǎo	10
 巴拉克拉法	bā lā kè lā fǎ	10
-巴啦啦能量	bā la la néng liàng	10
+巴啦啦能量	bā lā lā néng liàng	10
 巴莱多定律	bā lái duō dìng lǜ	10
 把牢底坐穿	bǎ láo dǐ zuò chuān	10
 把乐带回家	bǎ lè dài huí jiā	10
@@ -1423803,7 +1423818,7 @@ sort: by_weight
 搞笑二人组	gǎo xiào èr rén zǔ	10
 高校辅导员	gāo xiào fǔ dǎo yuán	10
 高校合唱团	gāo xiào hé chàng tuán	10
-高校啦啦队	gāo xiào la la duì	10
+高校啦啦队	gāo xiào lā lā duì	10
 高校六甲生	gāo xiào liù jiǎ shēng	10
 高效能人士	gāo xiào néng rén shì	10
 搞笑诺贝尔	gǎo xiào nuò bèi ěr	10
@@ -1437250,7 +1437265,7 @@ sort: by_weight
 经纪交易商	jīng jì jiāo yì shāng	10
 经济界人士	jīng jì jiè rén shì	10
 竞技俱乐部	jìng jì jù lè bù	10
-竞技啦啦队	jìng jì la la duì	10
+竞技啦啦队	jìng jì lā lā duì	10
 净计量电价	jìng jì liàng diàn jià	10
 京急蒲田站	jīng jí pú tián zhàn	10
 经济器循环	jīng jì qì xún huán	10
@@ -1441172,8 +1441187,8 @@ sort: by_weight
 辣警霸王花	là jǐng bà wáng huā	10
 辣酒煮花螺	là jiǔ zhǔ huā luó	10
 拉克斯山脉	lā kè sī shān mài	10
-啦啦队队长	la la duì duì zhǎng	10
-啦啦队之舞	la la duì zhī wǔ	10
+啦啦队队长	lā lā duì duì zhǎng	10
+啦啦队之舞	lā lā duì zhī wǔ	10
 拉了他一把	lā le tā yì bǎ	10
 拉力的方向	lā lì de fāng xiàng	10
 喇嘛达尔扎	lǎ ma dá ěr zhā	10
@@ -1494273,7 +1494288,7 @@ sort: by_weight
 巴克斯特方程	bā kè sī tè fāng chéng	10
 巴克斯特模型	bā kè sī tè mó xíng	10
 巴拉顿湖战役	bā lā dùn hú zhàn yì	10
-巴啦啦小魔仙	bā la la xiǎo mó xiān	10
+巴啦啦小魔仙	bā lā lā xiǎo mó xiān	10
 把牢思想之舵	bǎ láo sī xiǎng zhī duò	10
 扒了个底朝天	bā le gè dǐ cháo tiān	10
 拔了毛的凤凰	bá le máo de fèng huáng	10
@@ -1504138,10 +1504153,9 @@ sort: by_weight
 蜂鸟般的心跳	fēng niǎo bān de xīn tiào	10
 风牛马不相及	fēng niú mǎ bù xiāng jí	10
 冯诺依曼代数	féng nuò yī màn dài shù	10
-冯诺伊曼定理	féng nuò yī màn dìng lǐ	10
+冯诺依曼定理	féng nuò yī màn dìng lǐ	10
 冯诺依曼方程	féng nuò yī màn fāng chéng	10
 冯诺依曼架构	féng nuò yī màn jià gòu	10
-冯诺伊曼结构	féng nuò yī màn jié gòu	10
 风飘飘而吹衣	fēng piāo piāo ér chuī yī	10
 冯平山博物馆	féng píng shān bó wù guǎn	10
 冯平山图书馆	féng píng shān tú shū guǎn	10
@@ -1549965,7 +1549979,6 @@ sort: by_weight
 奉命于危难之间	fèng mìng yú wēi nàn zhī jiān	10
 丰年留客足鸡豚	fēng nián liú kè zú jī tún	10
 凤鸟形双联漆杯	fèng niǎo xíng shuāng lián qī bēi	10
-冯诺依曼计算机	féng nuò yī màn jì suàn jī	10
 风拍小帘灯晕舞	fēng pāi xiǎo lián dēng yùn wǔ	10
 风飘万点正愁人	fēng piāo wàn diǎn zhèng chóu rén	10
 风平浪静的闲暇	fēng píng làng jìng de xián xiá	10

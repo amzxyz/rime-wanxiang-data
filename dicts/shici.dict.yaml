@@ -26190,7 +26190,7 @@ sort: by_weight
 不及西阳城	bù jí xī yáng chéng	10
 步屐响长廓	bù jī xiǎng cháng kuò	10
 不及向桑榆	bù jí xiàng sāng yú	10
-不及小相得	bù jí xiǎo xiāng de	10
+不及小相得	bù jí xiǎo xiāng dé	10
 不及新恩重	bù jí xīn ēn zhòng	10
 不寄一行书	bù jì yì háng shū	10
 不及一户明	bù jí yí hù míng	10
@@ -31962,9 +31962,11 @@ sort: by_weight
 长眉满镜愁	cháng méi mǎn jìng chóu	10
 长眉已能画	cháng méi yǐ néng huà	10
 阊门草萋萋	chāng mén cǎo qī qī	10
+长门赋并序	cháng mén fù bìng xù	10
 阊门势欲浮	chāng mén shì yù fú	10
 阊门瓦欲流	chāng mén wǎ yù liú	10
 阊门望去舟	chāng mén wàng qù zhōu	10
+长门怨二首	cháng mén yuàn èr shǒu	10
 阊门折垂柳	chāng mén zhé chuí liǔ	10
 尝蒙噢咻之	cháng méng ō xiū zhī	10
 常梦游清都	cháng mèng yóu qīng dōu	10
@@ -37887,6 +37889,7 @@ sort: by_weight
 出入暗金阙	chū rù àn jīn què	10
 出入并鞍马	chū rù bìng ān mǎ	10
 出入部曲随	chū rù bù qǔ suí	10
+初入长门宫	chū rù cháng mén gōng	10
 出入称金籍	chū rù chēng jīn jí	10
 出入承明庐	chū rù chéng míng lú	10
 出入驰高轨	chū rù chí gāo guǐ	10
@@ -37951,7 +37954,6 @@ sort: by_weight
 出入与民伍	chū rù yǔ mín wǔ	10
 初入云树间	chū rù yún shù jiān	10
 出入张公子	chū rù zhāng gōng zǐ	10
-初入长门宫	chū rù zhǎng mén gōng	10
 出入止一马	chū rù zhǐ yì mǎ	10
 出入朱门家	chū rù zhū mén jiā	10
 出入最随肩	chū rù zuì suí jiān	10
@@ -63466,7 +63468,7 @@ sort: by_weight
 巩洛河流小	gǒng luò hé liú xiǎo	10
 功略盖天地	gōng lüè gài tiān dì	10
 功略天下半	gōng lüè tiān xià bàn	10
-宫买长门赋	gōng mǎi zhǎng mén fù	10
+宫买长门赋	gōng mǎi cháng mén fù	10
 共美持衡日	gòng měi chí héng rì	10
 共美重阳节	gòng měi chóng yáng jié	10
 宫没凤凰楼	gōng méi fèng huáng lóu	10
@@ -64896,7 +64898,7 @@ sort: by_weight
 谷口更何好	gǔ kǒu gèng hé hǎo	10
 谷口好泉石	gǔ kǒu hǎo quán shí	10
 谷口何人待	gǔ kǒu hé rén dài	10
-谷口旧相得	gǔ kǒu jiù xiāng de	10
+谷口旧相得	gǔ kǒu jiù xiāng dé	10
 谷口开朱门	gǔ kǒu kāi zhū mén	10
 谷口来相访	gǔ kǒu lái xiāng fǎng	10
 谷口期穷年	gǔ kǒu qī qióng nián	10
@@ -114769,7 +114771,7 @@ sort: by_weight
 鸣凤栖青梧	míng fèng qī qīng wú	10
 鸣凤栖梧桐	míng fèng qī wú tóng	10
 命风驱日月	mìng fēng qū rì yuè	10
-鸣凤始相得	míng fèng shǐ xiāng de	10
+鸣凤始相得	míng fèng shǐ xiāng dé	10
 鸣凤托高梧	míng fèng tuō gāo wú	10
 鸣凤翔娲笙	míng fèng xiáng wā shēng	10
 鸣凤自相求	míng fèng zì xiāng qiú	10
@@ -120902,7 +120904,7 @@ sort: by_weight
 鸥鹭不相嫌	ōu lù bù xiāng xián	10
 鸥鹭往来驯	ōu lù wǎng lái xùn	10
 鸥鹭下烟中	ōu lù xià yān zhōng	10
-鸥鹭元相得	ōu lù yuán xiāng de	10
+鸥鹭元相得	ōu lù yuán xiāng dé	10
 偶落藩墙上	ǒu luò fān qiáng shàng	10
 沤麻池水里	òu má chí shuǐ lǐ	10
 沤麻入南涧	òu má rù nán jiàn	10
@@ -125516,11 +125518,11 @@ sort: by_weight
 乞巧大医王	qǐ qiǎo dà yī wáng	10
 葺桥双鹤赴	qì qiáo shuāng hè fù	10
 七桥通碧沼	qī qiáo tōng bì zhǎo	10
+弃妾长门宫	qì qiè cháng mén gōng	10
 弃妾还金闺	qì qiè hái jīn guī	10
 凄切谁复寻	qī qiè shuí fù xún	10
 其窃位者与	qí qiè wèi zhě yǔ	10
 弃妾渔阳间	qì qiè yú yáng jiān	10
-弃妾长门宫	qì qiè zhǎng mén gōng	10
 绮琴朝化洽	qǐ qín cháo huà qià	10
 栖禽愁未去	qī qín chóu wèi qù	10
 栖禽见火惊	qī qín jiàn huǒ jīng	10
@@ -134373,7 +134375,7 @@ sort: by_weight
 秋鹰折羽翰	qiū yīng zhé yǔ hàn	10
 秋鹰折羽毛	qiū yīng zhé yǔ máo	10
 求友多好音	qiú yǒu duō hǎo yīn	10
-求友还相得	qiú yǒu hái xiāng de	10
+求友还相得	qiú yǒu hái xiāng dé	10
 求友皆断金	qiú yǒu jiē duàn jīn	10
 求友昧其人	qiú yǒu mèi qí rén	10
 求友殊损益	qiú yǒu shū sǔn yì	10
@@ -159737,7 +159739,7 @@ sort: by_weight
 算空有并刀	suàn kōng yǒu bìng dāo	10
 算平戎万里	suàn píng róng wàn lǐ	10
 酸涩如棠梨	suān sè rú táng lí	10
-算诗人相得	suàn shī rén xiāng de	10
+算诗人相得	suàn shī rén xiāng dé	10
 酸甜如梨楂	suān tián rú lí zhā	10
 酸辛别离袂	suān xīn bié lí mèi	10
 酸辛犯葱岭	suān xīn fàn cōng lǐng	10
@@ -184172,9 +184174,9 @@ sort: by_weight
 香稻三秋末	xiāng dào sān qiū mò	10
 想到耶溪日	xiǎng dào yē xī rì	10
 香稻盈田畴	xiāng dào yíng tián chóu	10
-相得半酣时	xiāng de bàn hān shí	10
+相得半酣时	xiāng dé bàn hān shí	10
 想得读书窗	xiǎng de dú shū chuāng	10
-相得欢有余	xiāng de huān yǒu yú	10
+相得欢有余	xiāng dé huān yǒu yú	10
 想得逐臣心	xiǎng de zhú chén xīn	10
 向灯垂玉枕	xiàng dēng chuí yù zhěn	10
 香灯续细烟	xiāng dēng xù xì yān	10
@@ -185983,7 +185985,7 @@ sort: by_weight
 相知尽白首	xiāng zhī jìn bái shǒu	10
 相知久芬芳	xiāng zhī jiǔ fēn fāng	10
 相值久无憀	xiāng zhí jiǔ wú liáo	10
-相知两相得	xiāng zhī liǎng xiāng de	10
+相知两相得	xiāng zhī liǎng xiāng dé	10
 相知满九州	xiāng zhī mǎn jiǔ zhōu	10
 相知岂在多	xiāng zhī qǐ zài duō	10
 相值且徘徊	xiāng zhí qiě pái huái	10
@@ -187152,6 +187154,7 @@ sort: by_weight
 萧萧北风至	xiāo xiāo běi fēng zhì	10
 萧萧碧柳软	xiāo xiāo bì liǔ ruǎn	10
 萧萧边马思	xiāo xiāo biān mǎ sī	10
+萧萧长门宫	xiāo xiāo cháng mén gōng	10
 萧萧车马悲	xiāo xiāo chē mǎ bēi	10
 萧萧楚客帆	xiāo xiāo chǔ kè fān	10
 萧萧出塞吟	xiāo xiāo chū sài yín	10
@@ -187233,7 +187236,6 @@ sort: by_weight
 翛翛一囊衣	xiāo xiāo yī náng yī	10
 萧萧远尘迹	xiāo xiāo yuǎn chén jì	10
 翛翛月下闻	xiāo xiāo yuè xià wén	10
-萧萧长门宫	xiāo xiāo zhǎng mén gōng	10
 萧萧征马悲	xiāo xiāo zhēng mǎ bēi	10
 萧萧征马烦	xiāo xiāo zhēng mǎ fán	10
 萧萧征骑烦	xiāo xiāo zhēng qí fán	10
@@ -193308,7 +193310,7 @@ sort: by_weight
 巡回复悲咤	xún huí fù bēi zhà	10
 巡回宫阙傍	xún huí gōng què bàng	10
 巡回数尺间	xún huí shǔ chǐ jiān	10
-寻嵇此相得	xún jī cǐ xiāng de	10
+寻嵇此相得	xún jī cǐ xiāng dé	10
 循迹谅无端	xún jì liàng wú duān	10
 循迹少闲和	xún jì shǎo xián hé	10
 勋绩在河源	xūn jì zài hé yuán	10
@@ -213086,7 +213088,7 @@ sort: by_weight
 鱼与龙同池	yú yǔ lóng tóng chí	10
 雨余楼阁静	yǔ yú lóu gé jìng	10
 余欲罗浮隐	yú yù luó fú yǐn	10
-御与马相得	yù yǔ mǎ xiāng de	10
+御与马相得	yù yǔ mǎ xiāng dé	10
 郁郁眉多敛	yù yù méi duō liǎn	10
 郁郁濛霜松	yù yù méng shuāng sōng	10
 郁郁秘书台	yù yù mì shū tái	10
@@ -219543,13 +219545,11 @@ sort: by_weight
 长门不惜金	zhǎng mén bù xī jīn	10
 长门次掖庭	zhǎng mén cì yē tíng	10
 长门蝶舞多	zhǎng mén dié wǔ duō	10
-长门赋并序	zhǎng mén fù bìng xù	10
 长门寒水流	zhǎng mén hán shuǐ liú	10
 长门落景尽	zhǎng mén luò jǐng jìn	10
 长门未有春	zhǎng mén wèi yǒu chūn	10
 长门夜月明	zhǎng mén yè yuè míng	10
 长门一步地	zhǎng mén yí bù dì	10
-长门怨二首	zhǎng mén yuàn èr shǒu	10
 张幕便成天	zhāng mù biàn chéng tiān	10
 帐幕参三顾	zhàng mù cān sān gù	10
 张幕会连沙	zhāng mù huì lián shā	10
@@ -254102,9 +254102,9 @@ sort: by_weight
 独占二疏应未可	dú zhàn èr shū yīng wèi kě	10
 独占芳菲当夏景	dú zhàn fāng fēi dāng xià jǐng	10
 独占人间分外荣	dú zhàn rén jiān fèn wài róng	10
+独照长门宫里人	dú zhào cháng mén gōng lǐ rén	10
 独棹破船归到州	dú zhào pò chuán guī dào zhōu	10
 独照台州老郑虔	dú zhào tāi zhōu lǎo zhèng qián	10
-独照长门宫里人	dú zhào zhǎng mén gōng lǐ rén	10
 渡浙江问舟中人	dù zhè jiāng wèn zhōu zhōng rén	10
 独折南园一朵梅	dú zhé nán yuán yì duǒ méi	10
 独知我者是尚书	dú zhī wǒ zhě shì shàng shū	10
@@ -275396,7 +275396,7 @@ sort: by_weight
 老杜当年鬓发华	lǎo dù dāng nián bìn fà huá	10
 老杜浣花溪图引	lǎo dù huàn huā xī tú yǐn	10
 老杜文章擅一家	lǎo dù wén zhāng shàn yì jiā	10
-老非怀土情相得	lǎo fēi huái tǔ qíng xiāng de	10
+老非怀土情相得	lǎo fēi huái tǔ qíng xiāng dé	10
 老逢佳景唯惆怅	lǎo féng jiā jǐng wéi chóu chàng	10
 老逢乐事心犹壮	lǎo féng lè shì xīn yóu zhuàng	10
 老葑席卷苍云空	lǎo fēng xí juǎn cāng yún kōng	10
@@ -288203,7 +288203,7 @@ sort: by_weight
 秦楼鸳瓦汉宫盘	qín lóu yuān wǎ hàn gōng pán	10
 寝门廊下哭微之	qǐn mén láng xià kū wēi zhī	10
 寝门泪满白髭须	qǐn mén lèi mǎn bái zī xū	10
-琴鸣酒乐两相得	qín míng jiǔ lè liǎng xiāng de	10
+琴鸣酒乐两相得	qín míng jiǔ lè liǎng xiāng dé	10
 禽鸣无时不可数	qín míng wú shí bù kě shù	10
 秦磨利刀斩李斯	qín mó lì dāo zhǎn lǐ sī	10
 秦牛肥腻酥胜雪	qín niú féi nì sū shèng xuě	10
@@ -310842,8 +310842,8 @@ sort: by_weight
 想得家中夜深坐	xiǎng de jiā zhōng yè shēn zuò	10
 想得君家乌鹊喜	xiǎng de jūn jiā wū què xǐ	10
 想得刘君独骑马	xiǎng de liú jūn dú qí mǎ	10
-相得平生藏妙手	xiāng de píng shēng cáng miào shǒu	10
-相得秋来常日醉	xiāng de qiū lái cháng rì zuì	10
+相得平生藏妙手	xiāng dé píng shēng cáng miào shǒu	10
+相得秋来常日醉	xiāng dé qiū lái cháng rì zuì	10
 想得天香随御所	xiǎng de tiān xiāng suí yù suǒ	10
 想得阳关更西路	xiǎng de yáng guān gèng xī lù	10
 想得扬州醉年少	xiǎng de yáng zhōu zuì nián shào	10
@@ -311253,7 +311253,7 @@ sort: by_weight
 相如不足跨鹔鹴	xiàng rú bù zú kuà sù shuāng	10
 相如曾作凤兮吟	xiàng rú céng zuò fèng xī yín	10
 相如还谢文君回	xiàng rú hái xiè wén jūn huí	10
-相如解作长门赋	xiàng rú jiě zuò zhǎng mén fù	10
+相如解作长门赋	xiàng rú jiě zuò cháng mén fù	10
 相如渴甚貌逾衰	xiàng rú kě shèn mào yú shuāi	10
 相如免脱鹔鹴裘	xiàng rú miǎn tuō sù shuāng qiú	10
 相如名独重太山	xiàng rú míng dú zhòng tài shān	10
@@ -325079,7 +325079,7 @@ sort: by_weight
 早岁归休心共在	zǎo suì guī xiū xīn gòng zài	10
 早岁连兵剑锋折	zǎo suì lián bīng jiàn fēng zhé	10
 早岁那知世事艰	zǎo suì nà zhī shì shì jiān	10
-早岁闻名晚相得	zǎo suì wén míng wǎn xiāng de	10
+早岁闻名晚相得	zǎo suì wén míng wǎn xiāng dé	10
 早随阳雁及春还	zǎo suí yáng yàn jí chūn hái	10
 早岁有卜筑之志	zǎo suì yǒu bǔ zhù zhī zhì	10
 凿天不到牵牛处	záo tiān bú dào qiān niú chù	10
@@ -333689,7 +333689,7 @@ sort: by_weight
 予未得为孔子徒也	yǔ wèi dé wéi kǒng zǐ tú yě	10
 与物委蛇而同其波	yǔ wù wēi yí ér tóng qí bō	10
 与夏十二登岳阳楼	yǔ xià shí èr dēng yuè yáng lóu	10
-欲相求而不能相得	yù xiāng qiú ér bù néng xiāng de	10
+欲相求而不能相得	yù xiāng qiú ér bù néng xiāng dé	10
 与一世而得淡漠焉	yǔ yí shì ér dé dàn mò yān	10
 欲以所事孔子事之	yù yǐ suǒ shì kǒng zǐ shì zhī	10
 余与四人拥火以入	yú yǔ sì rén yōng huǒ yǐ rù	10
