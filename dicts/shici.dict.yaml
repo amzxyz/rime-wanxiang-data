@@ -4847,7 +4847,7 @@ sort: by_weight
 不知有之	bù zhī yǒu zhī	44
 不志於仁	bù zhì yú rén	10
 不知周也	bù zhī zhōu yě	44
-不中梁柱	bù zhōng liáng zhù	10
+不中梁柱	bú zhòng liáng zhù	10
 不主常声	bù zhǔ cháng shēng	10
 不主故常	bù zhǔ gù cháng	44
 不自虑也	bú zì lǜ yě	10
@@ -6085,7 +6085,7 @@ sort: by_weight
 发不胜冠	fā bú shèng guān	10
 发地盘石	fā dì pán shí	10
 法而不廛	fǎ ér bù chán	10
-发而不中	fā ér bù zhōng	44
+发而不中	fā ér bú zhòng	44
 法法如是	fǎ fǎ rú shì	10
 发愤忘食	fā fèn wàng shí	44
 伐鼓渊渊	fá gǔ yuān yuān	10
@@ -9042,7 +9042,7 @@ sort: by_weight
 理不可睹	lǐ bù kě dǔ	10
 吏部选人	lì bù xuǎn rén	10
 礼布玄制	lǐ bù xuán zhì	10
-立不中门	lì bù zhōng mén	44
+立不中门	lì bú zhòng mén	44
 力不足也	lì bù zú yě	44
 力不足者	lì bù zú zhě	44
 吏曹墨拘	lì cáo mò jū	10
@@ -103610,7 +103610,7 @@ sort: by_weight
 吏散渚禽喧	lì sàn zhǔ qín xuān	10
 立扫窗前石	lì sǎo chuāng qián shí	10
 离骚继雅风	lí sāo jì yǎ fēng	10
-离瑟不中闻	lí sè bù zhōng wén	10
+离瑟不中闻	lí sè bú zhòng wén	10
 丽色异人间	lì sè yì rén jiān	10
 礼僧云树中	lǐ sēng yún shù zhōng	10
 篱筛日脚红	lí shāi rì jiǎo hóng	10
@@ -136406,7 +136406,7 @@ sort: by_weight
 然而不可者	rán ér bù kě zhě	10
 然而不胜者	rán ér bú shèng zhě	10
 然而不王者	rán ér bù wáng zhě	10
-然而不中者	rán ér bù zhōng zhě	10
+然而不中者	rán ér bú zhòng zhě	10
 然而巨盗至	rán ér jù dào zhì	10
 然放杖而笑	rán fàng zhàng ér xiào	10
 髯飞尚假息	rán fēi shàng jiǎ xī	10
@@ -203124,7 +203124,7 @@ sort: by_weight
 一寓不得已	yī yù bù dé yǐ	10
 意欲捕鸣蝉	yì yù bǔ míng chán	10
 一语不入意	yì yǔ bú rù yì	10
-一语不中治	yì yǔ bù zhōng zhì	10
+一语不中治	yì yǔ bú zhòng zhì	10
 以予惭拙宦	yǐ yǔ cán zhuō huàn	10
 意欲铲叠嶂	yì yù chǎn dié zhàng	10
 异域长绝兮	yì yù cháng jué xī	10
@@ -209681,7 +209681,7 @@ sort: by_weight
 悠悠满天星	yōu yōu mǎn tiān xīng	10
 优游邈千载	yōu yóu miǎo qiān zǎi	10
 悠悠暮复朝	yōu yōu mù fù cháo	10
-犹忧纳不中	yóu yōu nà bù zhōng	10
+犹忧纳不中	yóu yōu nà bú zhòng	10
 悠悠南北心	yōu yōu nán běi xīn	10
 悠悠南国思	yōu yōu nán guó sī	10
 悠悠南溟远	yōu yōu nán míng yuǎn	10
@@ -220100,7 +220100,7 @@ sort: by_weight
 爪牙驱信越	zhǎo yá qū xìn yuè	10
 爪牙相践伤	zhǎo yá xiāng jiàn shāng	10
 爪牙雄武臣	zhǎo yá xióng wǔ chén	10
-爪牙一不中	zhǎo yá yī bù zhōng	10
+爪牙一不中	zhǎo yá yī bú zhòng	10
 爪牙在身上	zhǎo yá zài shēn shàng	10
 爪牙在胸中	zhǎo yá zài xiōng zhōng	10
 照眼白而长	zhào yǎn bái ér cháng	10
@@ -225080,7 +225080,7 @@ sort: by_weight
 终夜响飕飕	zhōng yè xiǎng sōu sōu	10
 中夜心寂寞	zhōng yè xīn jì mò	10
 中夜兴欲酣	zhōng yè xīng yù hān	10
-中也养不中	zhōng yě yǎng bù zhōng	10
+中也养不中	zhōng yě yǎng bú zhòng	10
 终夜摇窗扉	zhōng yè yáo chuāng fēi	10
 钟也以束缚	zhōng yě yǐ shù fù	10
 中夜一相望	zhōng yè yì xiāng wàng	10
@@ -235853,7 +235853,7 @@ sort: by_weight
 如之何其废之	rú zhī hé qí fèi zhī	10
 如之何其受之	rú zhī hé qí shòu zhī	10
 如之何则可也	rú zhī hé zé kě yě	10
-如中也弃不中	rú zhōng yě qì bù zhōng	10
+如中也弃不中	rú zhōng yě qì bú zhòng	10
 软风吹过窗纱	ruǎn fēng chuī guò chuāng shā	10
 瑞草桥边老人	ruì cǎo qiáo biān lǎo rén	10
 瑞气遥迎凤辇	ruì qì yáo yíng fèng niǎn	10
@@ -244773,7 +244773,7 @@ sort: by_weight
 不知祖父皆汉民	bù zhī zǔ fù jiē hàn mín	10
 不中不发思全功	bù zhōng bù fā sī quán gōng	10
 不重生男重生女	bú zhòng shēng nán chóng shēng nǚ	10
-不中数与春别离	bù zhōng shù yǔ chūn bié lí	10
+不中数与春别离	bú zhòng shù yǔ chūn bié lí	10
 不种夭桃与绿杨	bù zhǒng yāo táo yǔ lǜ yáng	10
 不种自生一株橘	bù zhǒng zì shēng yì zhū jú	10
 不周山下红旗乱	bù zhōu shān xià hóng qí luàn	10
@@ -332147,7 +332147,7 @@ sort: by_weight
 归亦捧心而颦其里	guī yì pěng xīn ér pín qí lǐ	10
 归葬于家乡的祖莹	guī zàng yú jiā xiāng de zǔ yíng	10
 龟之大兮只以奄鲁	guī zhī dà xī zhǐ yǐ yǎn lǔ	10
-龟之枿兮不中梁柱	guī zhī niè xī bù zhōng liáng zhù	10
+龟之枿兮不中梁柱	guī zhī niè xī bú zhòng liáng zhù	10
 龟之气兮不能云雨	guī zhī qì xī bù néng yún yǔ	10
 归宗茶堂森明轩颂	guī zōng chá táng sēn míng xuān sòng	10
 果不足以得彼之情	guǒ bù zú yǐ dé bǐ zhī qíng	10
@@ -333545,7 +333545,7 @@ sort: by_weight
 以事舜於畎亩之中	yǐ shì shùn yú quǎn mǔ zhī zhōng	10
 以双井茶送孔常父	yǐ shuāng jǐng chá sòng kǒng cháng fù	10
 以听伊尹之训己也	yǐ tīng yī yǐn zhī xùn jǐ yě	10
-羿弯弓属矢那不中	yì wān gōng shǔ shǐ nà bù zhōng	10
+羿弯弓属矢那不中	yì wān gōng shǔ shǐ nà bú zhòng	10
 忆往昔峥嵘岁月稠	yì wǎng xī zhēng róng suì yuè chóu	10
 以慰吾兮岁岁之愁	yǐ wèi wú xī suì suì zhī chóu	10
 以为无益而舍之者	yǐ wéi wú yì ér shě zhī zhě	10
@@ -333637,7 +333637,7 @@ sort: by_weight
 游秋浦白笴陂二首	yóu qiū pǔ bái gǎn bēi èr shǒu	10
 幽人构馆兮在其中	yōu rén gòu guǎn xī zài qí zhōng	10
 由射於百步之外也	yóu shè yú bǎi bù zhī wài yě	10
-有似我身不中乎器	yǒu sì wǒ shēn bù zhōng hū qì	10
+有似我身不中乎器	yǒu sì wǒ shēn bú zhòng hū qì	10
 有托其妻子於其友	yǒu tuō qí qī zǐ yú qí yǒu	10
 又闻空阶夜雨频滴	yòu wén kōng jiē yè yǔ pín dī	10
 有仙都羽化之灵姿	yǒu xiān dū yǔ huà zhī líng zī	10
@@ -334377,7 +334377,7 @@ sort: by_weight
 离离一点微酸已着枝	lí lí yì diǎn wēi suān yǐ zhe zhī	10
 立其百体而谓之马也	lì qí bǎi tǐ ér wèi zhī mǎ yě	10
 李善棋爱酒情地闲雅	lǐ shàn qí ài jiǔ qíng dì xián yǎ	10
-礼乐不兴则刑罚不中	lǐ yuè bù xīng zé xíng fá bù zhōng	10
+礼乐不兴则刑罚不中	lǐ yuè bù xīng zé xíng fá bú zhòng	10
 立之本原而知通于神	lì zhī běn yuán ér zhī tōng yú shén	10
 帘卷曲房谁共醉憔悴	lián juǎn qū fáng shuí gòng zuì qiáo cuì	10
 帘幕尽垂无事郁金香	lián mù jìn chuí wú shì yù jīn xiāng	10
