@@ -158969,8 +158969,10 @@ sort: by_weight
 油尺	yóu chǐ	141
 有虫	yǒu chóng	1184
 幼虫	yòu chóng	1125
-忧愁	yōu chóu	2101
-有仇	yǒu chóu	913
+有仇	yǒu chóu	2101
+忧愁	yōu chóu	913
+又丑	yòu chǒu	425
+又臭	yòu chòu	209
 又出	yòu chū	556
 邮储	yóu chǔ	527
 游出	yóu chū	169
@@ -195533,8 +195535,8 @@ sort: by_weight
 拌匀后	bàn yún hòu	832
 搬运机	bān yùn jī	562
 伴云来	bàn yún lái	45
-拌匀了	bàn yún le	590
-搬运了	bān yùn le	475
+搬运了	bān yùn le	590
+拌匀了	bàn yún le	375
 搬运前	bān yùn qián	230
 搬运时	bān yùn shí	482
 搬运毯	bān yùn tǎn	79
@@ -371280,6 +371282,9 @@ sort: by_weight
 华乐街	huá lè jiē	320
 华乐楼	huá lè lóu	230
 华乐路	huá lè lù	405
+花了吗	huā le ma	658
+化了吗	huà le ma	410
+画了吗	huà le ma	228
 化了没	huà le méi	572
 花了钱	huā le qián	2129
 化乐天	huà lè tiān	288
@@ -446683,9 +446688,9 @@ sort: by_weight
 拉拉吧	lā lā ba	198
 啦啦操	lā lā cāo	166
 拉拉车	lā lā chē	306
+啦啦地	lā lā de	706
 辣辣的	là là de	289
 拉拉的	lā lā de	260
-啦啦地	lā lā dì	706
 啦啦队	lā lā duì	590
 拉拉队	lā lā duì	531
 拉拉呱	lā lā gū	279
@@ -446694,7 +446699,7 @@ sort: by_weight
 拉拉筋	lā lā jīn	436
 拉拉卡	lā lā kǎ	567
 拉拉裤	lā lā kù	662
-啦啦啦	lā lā la	1793
+啦啦啦	lā lā lā	1793
 拉拉拉	lā lā lā	420
 拉拉链	lā lā liàn	612
 拉拉曼	lā lā màn	292
@@ -596370,6 +596375,8 @@ sort: by_weight
 谁再敢	shuí zài gǎn	500
 水在肝	shuǐ zài gān	4
 谁再给	shuí zài gěi	285
+谁在后	shuí zài hòu	78
+水灾后	shuǐ zāi hòu	53
 谁在乎	shuí zài hu	760
 谁在家	shuí zài jiā	410
 谁在叫	shuí zài jiào	450
@@ -831550,6 +831557,7 @@ sort: by_weight
 波斯米亚	bō sī mǐ yà	194
 波斯明教	bō sī míng jiào	396
 博斯尼奇	bó sī ní qí	207
+波斯尼亚	bō sī ní yà	10
 拨丝苹果	bō sī píng guǒ	130
 博斯普鲁	bó sī pǔ lǔ	774
 博思软件	bó sī ruǎn jiàn	436
@@ -888668,6 +888676,7 @@ sort: by_weight
 低烟低卤	dī yān dī lǔ	4
 低盐低油	dī yán dī yóu	369
 低盐低脂	dī yán dī zhī	742
+递延负债	dì yán fù zhài	10
 递延股利	dì yán gǔ lì	4
 递延借项	dì yán jiè xiàng	4
 递延纳税	dì yán nà shuì	630
@@ -888678,6 +888687,7 @@ sort: by_weight
 低烟无卤	dī yān wú lǔ	297
 低眼压症	dī yǎn yā zhèng	130
 低盐饮食	dī yán yǐn shí	75
+递延资产	dì yán zī chǎn	10
 笛演奏家	dí yǎn zòu jiā	531
 羝羊触藩	dī yáng chù fān	297
 低氧化铜	dī yǎng huà tóng	45
@@ -903426,6 +903436,7 @@ sort: by_weight
 对象语言	duì xiàng yǔ yán	590
 对向运输	duì xiàng yùn shū	45
 对小耳症	duì xiǎo ěr zhèng	50
+对消费者	duì xiāo fèi zhě	10
 对销贸易	duì xiāo mào yì	310
 对销账户	duì xiāo zhàng hù	45
 对校长说	duì xiào zhǎng shuō	328
@@ -953457,6 +953468,7 @@ sort: by_weight
 广长舌相	guǎng cháng shé xiāng	194
 广场舞队	guǎng chǎng wǔ duì	53
 广场舞歌	guǎng chǎng wǔ gē	43
+广场五期	guǎng chǎng wǔ qī	10
 广场舞曲	guǎng chǎng wǔ qǔ	490
 广场舞赛	guǎng chǎng wǔ sài	53
 广场舞鞋	guǎng chǎng wǔ xié	76
@@ -962614,6 +962626,7 @@ sort: by_weight
 孩子没有	hái zi méi yǒu	581
 孩子们爱	hái zi men ài	580
 孩子们吃	hái zi men chī	702
+孩子们的	hái zi men de	10
 孩子们读	hái zi men dú	590
 孩子们好	hái zi men hǎo	594
 孩子们看	hái zi men kàn	819
@@ -967435,6 +967448,8 @@ sort: by_weight
 合富置业	hé fù zhì yè	540
 合富中国	hé fù zhōng guó	76
 和副作用	hé fù zuò yòng	52
+和改革局	hé gǎi gé jú	10
+和改革委	hé gǎi gé wěi	10
 合该有事	hé gāi yǒu shì	189
 纥干广略	hé gàn guǎng lüè	4
 和肝利胆	hé gān lì dǎn	45
@@ -999473,6 +999488,7 @@ sort: by_weight
 假得要死	jiǎ de yào sǐ	52
 家的也行	jiā de yě xíng	374
 假的一样	jiǎ de yí yàng	57
+家的责任	jiā de zé rèn	10
 迦得支派	jiā dé zhī pài	202
 嘉德置业	jiā dé zhì yè	45
 家的主人	jiā de zhǔ rén	688
@@ -1003822,6 +1003838,7 @@ sort: by_weight
 剪得不好	jiǎn de bù hǎo	52
 贱的不行	jiàn de bù xíng	248
 见得多了	jiàn de duō le	901
+间的竞争	jiān de jìng zhēng	10
 贱的可以	jiàn de kě yǐ	189
 间的默契	jiān de mò qì	756
 见的情况	jiàn de qíng kuàng	927
@@ -1041779,6 +1041796,7 @@ sort: by_weight
 科学基金	kē xué jī jīn	35
 科学技术	kē xué jì shù	3099
 科学计算	kē xué jì suàn	1027
+科学家奖	kē xué jiā jiǎng	10
 科学家们	kē xué jiā men	5661
 科学价值	kē xué jià zhí	217
 科学检测	kē xué jiǎn cè	536
@@ -1063335,7 +1063353,7 @@ sort: by_weight
 淋入香油	lín rù xiāng yóu	626
 凛若冰霜	lǐn ruò bīng shuāng	3
 凛若秋霜	lǐn ruò qiū shuāng	76
-临丧不哀	lín sàng bù āi	99
+临丧不哀	lín sāng bù āi	99
 吝啬小气	lìn sè xiǎo qì	387
 廪膳生员	lǐn shàn shēng yuán	270
 廪膳秀才	lǐn shàn xiù cái	153
@@ -1106307,6 +1106325,7 @@ sort: by_weight
 弄哭我了	nòng kū wǒ le	52
 弄来弄去	nòng lái nòng qù	44
 弄了半天	nòng le bàn tiān	132
+弄了个这	nòng le gè zhè	52
 农历八月	nóng lì bā yuè	927
 农历除夕	nóng lì chú xī	612
 农历初一	nóng lì chū yī	526
@@ -1115649,6 +1115668,7 @@ sort: by_weight
 破拆工具	pò chāi gōng jù	495
 破拆救援	pò chāi jiù yuán	315
 破拆器材	pò chāi qì cái	270
+破产案件	pò chǎn àn jiàn	10
 破产保护	pò chǎn bǎo hù	129
 破产边缘	pò chǎn biān yuán	580
 破产财产	pò chǎn cái chǎn	104
@@ -1157457,6 +1157477,7 @@ sort: by_weight
 杀生之权	shā shēng zhī quán	6
 沙生植物	shā shēng zhí wù	400
 砂生植物	shā shēng zhí wù	38
+莎士比亚	shā shì bǐ yà	10
 沙式饼干	shā shì bǐng gān	4
 啥事不干	shá shì bú gàn	436
 砂石材料	shā shí cái liào	230
@@ -1160214,7 +1160235,7 @@ sort: by_weight
 上腹下丛	shàng fù xià cóng	45
 上覆岩层	shàng fù yán céng	230
 上浮一级	shàng fú yì jí	50
-商服用地	shāng fú yòng dì	3
+商服用地	shāng fú yòng dì	10
 上浮挣扎	shàng fú zhēng zhá	62
 上盖平台	shàng gài píng tái	171
 伤感不已	shāng gǎn bù yǐ	346
@@ -1221039,6 +1221060,7 @@ sort: by_weight
 调价窗口	tiáo jià chuāng kǒu	16
 调价方案	tiáo jià fāng àn	3
 调价幅度	tiáo jià fú dù	13
+条件不变	tiáo jiàn bú biàn	10
 条件不差	tiáo jiàn bú chà	675
 条件不错	tiáo jiàn bú cuò	1004
 条件不符	tiáo jiàn bù fú	698
@@ -1228454,6 +1228476,7 @@ sort: by_weight
 兔儿牡丹	tù er mǔ dān	76
 兔儿脑壳	tù er nǎo ké	274
 兔耳女仆	tù ěr nǚ pú	130
+土耳其党	tǔ ěr qí dǎng	10
 土耳其航	tǔ ěr qí háng	51
 土耳其人	tǔ ěr qí rén	10
 土尔沙人	tǔ ěr shā rén	171
@@ -1230543,6 +1230566,7 @@ sort: by_weight
 推销保险	tuī xiāo bǎo xiǎn	621
 推销产品	tuī xiāo chǎn pǐn	421
 推销电话	tuī xiāo diàn huà	756
+推销费用	tuī xiāo fèi yong	10
 忒小了吧	tuī xiǎo le ba	284
 推销人员	tuī xiāo rén yuán	657
 推销商品	tuī xiāo shāng pǐn	630
@@ -1245016,6 +1245040,7 @@ sort: by_weight
 问责制度	wèn zé zhì dù	28
 文责自负	wén zé zì fù	38
 稳扎稳打	wěn zhā wěn dǎ	2766
+文摘彩版	wén zhāi cǎi bǎn	10
 文章版权	wén zhāng bǎn quán	878
 文章辨体	wén zhāng biàn tǐ	180
 文章标题	wén zhāng biāo tí	1048
@@ -1285805,6 +1285830,7 @@ sort: by_weight
 姓氏名字	xìng shì míng zì	52
 行驶模式	xíng shǐ mó shì	522
 形式模型	xíng shì mó xíng	256
+形式诺卡	xíng shì nuò kǎ	10
 姓氏排名	xìng shì pái míng	522
 形势判断	xíng shì pàn duàn	522
 刑事判决	xíng shì pàn jué	107
@@ -1298490,7 +1298516,7 @@ sort: by_weight
 严重侵犯	yán zhòng qīn fàn	135
 严重侵害	yán zhòng qīn hài	160
 严重侵蚀	yán zhòng qīn shí	41
-严重情节	yán zhòng qíng jié	9
+严重情节	yán zhòng qíng jié	10
 严重情况	yán zhòng qíng kuàng	116
 严重缺乏	yán zhòng quē fá	895
 严重缺人	yán zhòng quē rén	44
@@ -1306566,6 +1306592,7 @@ sort: by_weight
 意大利仓	yì dà lì cāng	50
 意大利产	yì dà lì chǎn	572
 意大利车	yì dà lì chē	513
+意大利党	yì dà lì dǎng	10
 意大利队	yì dà lì duì	615
 意大利瓜	yì dà lì guā	202
 意大利后	yì dà lì hòu	621
@@ -1317259,6 +1317286,7 @@ sort: by_weight
 艺术基金	yì shù jī jīn	860
 艺术技巧	yì shù jì qiǎo	141
 艺术家啊	yì shù jiā a	428
+艺术家奖	yì shù jiā jiǎng	10
 艺术家具	yì shù jiā jù	441
 艺术家居	yì shù jiā jū	353
 艺术家们	yì shù jiā men	1116
@@ -1326650,6 +1326678,7 @@ sort: by_weight
 应付差使	yìng fù chāi shǐ	127
 应付得宜	yìng fù dé yí	117
 应付方式	yìng fù fāng shì	220
+应付费用	yìng fù fèi yong	10
 应付工资	yìng fù gōng zī	31
 应付股利	yìng fù gǔ lì	585
 盈富基金	yíng fù jī jīn	119
@@ -1330200,6 +1330229,7 @@ sort: by_weight
 永通万国	yǒng tōng wàn guó	243
 用头巾包	yòng tóu jīn bāo	279
 用图表示	yòng tú biǎo shì	364
+用途的阀	yòng tú de fá	10
 用途发明	yòng tú fā míng	144
 用途管制	yòng tú guǎn zhì	486
 用途广泛	yòng tú guǎng fàn	185
@@ -1339875,6 +1339905,7 @@ sort: by_weight
 与琅瑚街	yǔ láng hú jiē	162
 渔榔四起	yú láng sì qǐ	50
 雨老大了	yǔ lǎo dà le	45
+与劳动者	yǔ láo dòng zhě	10
 遇劳加重	yù láo jiā zhòng	225
 余老太太	yú lǎo tài tai	234
 于老爷子	yú lǎo yé zǐ	518
@@ -1502978,26 +1503009,6 @@ sort: by_weight
 发展得非常好	fā zhǎn de fēi cháng hǎo	10
 发展得太快了	fā zhǎn de tài kuài le	10
 发展得这么好	fā zhǎn de zhè me hǎo	10
-发展第一要务	fā zhǎn dì yī yào wù	10
-发展电子商务	fā zhǎn diàn zǐ shāng wù	10
-发展规划编制	fā zhǎn guī huà biān zhì	10
-发展规划纲要	fā zhǎn guī huà gāng yào	10
-发展孩子们的	fā zhǎn hái zi men de	10
-发展和改革局	fā zhǎn hé gǎi gé jú	10
-发展和改革委	fā zhǎn hé gǎi gé wěi	10
-发展及其影响	fā zhǎn jí qí yǐng xiǎng	10
-发展全域旅游	fā zhǎn quán yù lǚ yóu	10
-发展人工智能	fā zhǎn rén gōng zhì néng	10
-发展日新月异	fā zhǎn rì xīn yuè yì	10
-发展势头良好	fā zhǎn shì tóu liáng hǎo	10
-发展势头强劲	fā zhǎn shì tóu qiáng jìng	10
-发展势头迅猛	fā zhǎn shì tóu xùn měng	10
-发展先进文化	fā zhǎn xiān jìn wén huà	10
-发展心理学家	fā zhǎn xīn lǐ xué jiā	10
-发展新兴产业	fā zhǎn xīn xīng chǎn yè	10
-发展优势产业	fā zhǎn yōu shì chǎn yè	10
-发展智慧农业	fā zhǎn zhì huì nóng yè	10
-发展智能制造	fā zhǎn zhì néng zhì zào	10
 法制安全教育	fǎ zhì ān quán jiào yù	10
 法制观念淡薄	fǎ zhì guān niàn dàn bó	10
 法制日报记者	fǎ zhì rì bào jì zhě	10
@@ -1518735,7 +1518746,6 @@ sort: by_weight
 穆桂英点将台	mù guì yīng diǎn jiàng tái	10
 慕赫堡装甲师	mù hè bǎo zhuāng jiǎ shī	10
 目黑寄生虫馆	mù hēi jì shēng chóng guǎn	10
-姆吉拉的假面	mǔ jí lā de jiǎ miàn	10
 目击者的描述	mù jī zhě de miáo shù	10
 募集资金投向	mù jí zī jīn tóu xiàng	10
 牡佳客运专线	mǔ jiā kè yùn zhuān xiàn	10
@@ -1518826,7 +1518836,6 @@ sort: by_weight
 钠克的大冒险	nà kè de dà mào xiǎn	10
 那空叻差是玛	nà kōng lè chà shì mǎ	10
 那空是贪玛叻	nà kōng shì tān mǎ lè	10
-拿了橘子跑啊	ná le jú zi pǎo a	10
 哪里做得不好	nǎ lǐ zuò de bù hǎo	10
 哪凉快哪待着	nǎ liáng kuài nǎ dāi zhe	10
 纳洛酮注射液	nà luò tóng zhù shè yè	10
@@ -1520746,42 +1520755,6 @@ sort: by_weight
 契税完税证明	qì shuì wán shuì zhèng míng	10
 奇斯蒂科夫岛	qí sī dì kē fū dǎo	10
 七四二五橡塑	qī sì èr wǔ xiàng sù	10
-其他班子成员	qí tā bān zi chéng yuán	10
-其他编程语言	qí tā biān chéng yǔ yán	10
-其他不当行为	qí tā bù dāng xíng wéi	10
-其他不可抗力	qí tā bù kě kàng lì	10
-其他长期负债	qí tā cháng qī fù zhài	10
-其他长期投资	qí tā cháng qī tóu zī	10
-其他递延负债	qí tā dì yán fù zhài	10
-其他递延资产	qí tā dì yán zī chǎn	10
-其他个人信息	qí tā gè rén xìn xī	10
-其他检测仪器	qí tā jiǎn cè yí qì	10
-其他检验试验	qí tā jiǎn yàn shì yàn	10
-其他人工智能	qí tā rén gōng zhì néng	10
-其他商服用地	qí tā shāng fú yòng dì	10
-其他条件不变	qí tā tiáo jiàn bú biàn	10
-其他突发事件	qí tā tū fā shì jiàn	10
-其他推销费用	qí tā tuī xiāo fèi yong	10
-其他无形资产	qí tā wú xíng zī chǎn	10
-其他形式诺卡	qí tā xíng shì nuò kǎ	10
-其他行政处罚	qí tā xíng zhèng chǔ fá	10
-其他严重情节	qí tā yán zhòng qíng jié	10
-其他业务支出	qí tā yè wù zhī chū	10
-其他医护人员	qí tā yī hù rén yuán	10
-其他一级资本	qí tā yì jí zī běn	10
-其他应付费用	qí tā yìng fù fèi yong	10
-其他营业成本	qí tā yíng yè chéng běn	10
-其他营业收入	qí tā yíng yè shōu rù	10
-其他用途的阀	qí tā yòng tú de fá	10
-其他有害物质	qí tā yǒu hài wù zhì	10
-其他有价证券	qí tā yǒu jià zhèng quàn	10
-其他债权投资	qí tā zhài quán tóu zī	10
-其他职能部门	qí tā zhí néng bù mén	10
-其他智能家居	qí tā zhì néng jiā jū	10
-其他智能手机	qí tā zhì néng shǒu jī	10
-其他制造费用	qí tā zhì zào fèi yong	10
-其他专业人士	qí tā zhuān yè rén shì	10
-其他资本公积	qí tā zī běn gōng jī	10
 气态漂白气化	qì tài piǎo bái qì huà	10
 气体纯化装置	qì tǐ chún huà zhuāng zhì	10
 气体对外做功	qì tǐ duì wài zuò gōng	10
@@ -1520860,8 +1520833,6 @@ sort: by_weight
 气压给水系统	qì yā jǐ shuǐ xì tǒng	10
 启扬高速公路	qǐ yáng gāo sù gōng lù	10
 七曜使灵之力	qī yào shǐ líng zhī lì	10
-企业并购重组	qǐ yè bìng gòu chóng zǔ	10
-企业党委书记	qǐ yè dǎng wěi shū jì	10
 企业的供应链	qǐ yè de gōng yìng liàn	10
 企业的管理者	qǐ yè de guǎn lǐ zhě	10
 企业的价值观	qǐ yè de jià zhí guān	10
@@ -1520869,35 +1520840,9 @@ sort: by_weight
 企业的数字化	qǐ yè de shù zì huà	10
 企业的现金流	qǐ yè de xiàn jīn liú	10
 七夜的许愿星	qī yè de xǔ yuàn xīng	10
-企业电子商务	qǐ yè diàn zǐ shāng wù	10
-企业对消费者	qǐ yè duì xiāo fèi zhě	10
-企业管理硕士	qǐ yè guǎn lǐ shuò shì	10
-企业广场五期	qǐ yè guǎng chǎng wǔ qī	10
 企业和企业家	qǐ yè hé qǐ yè jiā	10
-企业恢复生产	qǐ yè huī fù shēng chǎn	10
-企业即时通讯	qǐ yè jí shí tōng xùn	10
-企业家的责任	qǐ yè jiā de zé rèn	10
-企业兼并重组	qǐ yè jiān bìng chóng zǔ	10
-企业间的竞争	qǐ yè jiān de jìng zhēng	10
-企业简易注销	qǐ yè jiǎn yì zhù xiāo	10
-企业精神文化	qǐ yè jīng shén wén huà	10
-企业竞争优势	qǐ yè jìng zhēng yōu shì	10
 气液联动球阀	qì yè lián dòng qiú fá	10
-企业破产案件	qǐ yè pò chǎn àn jiàn	10
-企业提质增效	qǐ yè tí zhì zēng xiào	10
-企业文化氛围	qǐ yè wén huà fēn wéi	10
-企业限期整改	qǐ yè xiàn qī zhěng gǎi	10
-企业信用等级	qǐ yè xìn yòng děng jí	10
-企业优胜劣汰	qǐ yè yōu shèng liè tài	10
-企业与劳动者	qǐ yè yǔ láo dòng zhě	10
-企业员工返岗	qǐ yè yuán gōng fǎn gǎng	10
 七叶皂苷钠片	qī yè zào gān nà piàn	10
-企业债券承销	qǐ yè zhài quàn chéng xiāo	10
-企业主体责任	qǐ yè zhǔ tǐ zé rèn	10
-企业自备电厂	qǐ yè zì bèi diàn chǎng	10
-企业资本主义	qǐ yè zī běn zhǔ yì	10
-企业自有资金	qǐ yè zì yǒu zī jīn	10
-企业资质等级	qǐ yè zī zhì děng jí	10
 奇异变分问题	qí yì biàn fēn wèn tí	10
 奇异电器矩阵	qí yì diàn qì jǔ zhèn	10
 奇异二次曲面	qí yì èr cì qū miàn	10
@@ -1521748,21 +1521693,6 @@ sort: by_weight
 清脑降压胶囊	qīng nǎo jiàng yā jiāo náng	10
 清脑降压颗粒	qīng nǎo jiàng yā kē lì	10
 青尼罗河瀑布	qīng ní luó hé pù bù	10
-青年波斯尼亚	qīng nián bō sī ní yà	10
-青年返乡创业	qīng nián fǎn xiāng chuàng yè	10
-青年共产党人	qīng nián gòng chǎn dǎng rén	10
-青年管弦乐团	qīng nián guǎn xián yuè tuán	10
-青年黑格尔派	qīng nián hēi gé ěr pài	10
-青年就业见习	qīng nián jiù yè jiàn xí	10
-青年科学家奖	qīng nián kē xué jiā jiǎng	10
-青年千人计划	qīng nián qiān rén jì huà	10
-青年莎士比亚	qīng nián shā shì bǐ yà	10
-青年土耳其党	qīng nián tǔ ěr qí dǎng	10
-青年文摘彩版	qīng nián wén zhāi cǎi bǎn	10
-青年五四奖章	qīng nián wǔ sì jiǎng zhāng	10
-青年意大利党	qīng nián yì dà lì dǎng	10
-青年艺术家奖	qīng nián yì shù jiā jiǎng	10
-青年志愿者们	qīng nián zhì yuàn zhě men	10
 青鸟是一首歌	qīng niǎo shì yì shǒu gē	10
 清宁丸浓缩丸	qīng níng wán nóng suō wán	10
 清平高速公路	qīng píng gāo sù gōng lù	10
@@ -1522365,13 +1522295,6 @@ sort: by_weight
 全学共斗会议	quán xué gòng dòu huì yì	10
 犬夜叉和戈薇	quǎn yè chā hé gē wēi	10
 权益受到侵害	quán yì shòu dào qīn hài	10
-全域旅游产业	quán yù lǚ yóu chǎn yè	10
-全域旅游创建	quán yù lǚ yóu chuàng jiàn	10
-全域旅游发展	quán yù lǚ yóu fā zhǎn	10
-全域旅游规划	quán yù lǚ yóu guī huà	10
-全域旅游建设	quán yù lǚ yóu jiàn shè	10
-全域旅游示范	quán yù lǚ yóu shì fàn	10
-全域旅游战略	quán yù lǚ yóu zhàn lüè	10
 全域生态旅游	quán yù shēng tài lǚ yóu	10
 全域智慧旅游	quán yù zhì huì lǚ yóu	10
 全院干警大会	quán yuàn gàn jǐng dà huì	10
