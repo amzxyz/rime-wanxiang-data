@@ -6727,6 +6727,7 @@ sort: by_weight
 避险	bì xiǎn	1595
 避嫌	bì xián	1234
 必先	bì xiān	816
+必现	bì xiàn	800
 笔仙	bǐ xiān	652
 毕现	bì xiàn	521
 比先	bǐ xiān	398
@@ -36639,7 +36640,7 @@ sort: by_weight
 风尚	fēng shàng	913
 封上	fēng shàng	775
 封赏	fēng shǎng	417
-缝上	fèng shàng	285
+缝上	féng shàng	285
 锋尚	fēng shàng	228
 风蛇	fēng shé	554
 封神	fēng shén	4239
@@ -52352,7 +52353,7 @@ sort: by_weight
 虎山	hǔ shān	76
 湖山	hú shān	68
 浒山	hǔ shān	61
-呼扇	hū shàn	55
+呼扇	hū shan	55
 沪上	hù shàng	647
 湖上	hú shàng	565
 呼哨	hū shào	38
@@ -108865,6 +108866,7 @@ sort: by_weight
 赛点	sài diǎn	634
 赛段	sài duàn	750
 塞阀	sāi fá	378
+赛方	sài fāng	56
 噻吩	sāi fēn	104
 赛风	sài fēng	3
 塞弗	sāi fú	151
@@ -111063,13 +111065,13 @@ sort: by_weight
 山岚	shān lán	50
 删了	shān le	7614
 闪了	shǎn le	810
-扇了	shàn le	609
+扇了	shān le	609
 善类	shàn lèi	50
 山里	shān lǐ	3259
 山梨	shān lí	106
 擅离	shàn lí	84
 闪离	shǎn lí	67
-扇脸	shàn liǎn	82
+扇脸	shān liǎn	82
 闪联	shǎn lián	78
 闪炼	shǎn liàn	74
 善良	shàn liáng	16607
@@ -202904,7 +202906,7 @@ sort: by_weight
 被删库	bèi shān kù	52
 北山狼	běi shān láng	99
 被删了	bèi shān le	1269
-被扇了	bèi shàn le	490
+被扇了	bèi shān le	490
 北山里	běi shān lǐ	279
 北山岭	běi shān lǐng	248
 北山路	běi shān lù	634
@@ -284218,7 +284220,7 @@ sort: by_weight
 地煞星	dì shà xīng	38
 地晒干	dì shài gān	42
 地闪了	dì shǎn le	531
-地扇了	dì shàn le	357
+地扇了	dì shān le	357
 低山坡	dī shān pō	248
 地山谦	dì shān qiān	6
 低山区	dī shān qū	446
@@ -316845,11 +316847,11 @@ sort: by_weight
 风尚标	fēng shàng biāo	536
 风尚奖	fēng shàng jiǎng	576
 风尚蓝	fēng shàng lán	382
-缝上了	fèng shàng le	706
+缝上了	féng shàng le	706
 奉上了	fèng shàng le	471
 封上了	fēng shàng le	273
 封赏了	fēng shǎng le	190
-缝上去	fèng shàng qù	35
+缝上去	féng shàng qù	35
 风尚型	fēng shàng xíng	806
 风尚志	fēng shàng zhì	698
 风设计	fēng shè jì	716
@@ -333580,7 +333582,7 @@ sort: by_weight
 给杀了	gěi shā le	518
 给删了	gěi shān le	587
 给闪了	gěi shǎn le	297
-给扇了	gěi shàn le	218
+给扇了	gěi shān le	218
 给山区	gěi shān qū	585
 给上班	gěi shàng bān	500
 给上的	gěi shàng de	680
@@ -374106,7 +374108,8 @@ sort: by_weight
 欢乐事	huān lè shì	20
 欢乐颂	huān lè sòng	1055
 欢乐送	huān lè sòng	544
-欢乐台	huān lè tái	580
+换了台	huàn le tái	580
+欢乐台	huān lè tái	42
 换了条	huàn le tiáo	536
 换了头	huàn le tóu	3
 欢乐星	huān lè xīng	387
@@ -426222,7 +426225,7 @@ sort: by_weight
 九山湖	jiǔ shān hú	270
 就删了	jiù shān le	424
 就闪了	jiù shǎn le	382
-就扇了	jiù shàn le	344
+就扇了	jiù shān le	344
 纠删码	jiū shān mǎ	274
 韭闪石	jiǔ shǎn shí	153
 久山町	jiǔ shān tǐng	248
@@ -565537,7 +565540,7 @@ sort: by_weight
 山城山	shān chéng shān	346
 山城巷	shān chéng xiàng	297
 山城子	shān chéng zǐ	297
-扇翅膀	shàn chì bǎng	446
+扇翅膀	shān chì bǎng	446
 删除啊	shān chú a	531
 删除吧	shān chú ba	454
 删除表	shān chú biǎo	60
@@ -565597,7 +565600,7 @@ sort: by_weight
 山丹街	shān dān jiē	279
 删档了	shān dàng le	9
 闪到了	shǎn dào le	594
-扇到了	shàn dào le	361
+扇到了	shān dào le	361
 删到了	shān dào le	182
 山道人	shān dào rén	486
 善导塔	shàn dǎo tǎ	43
@@ -565744,8 +565747,8 @@ sort: by_weight
 善恶观	shàn è guān	236
 善恶图	shàn è tú	3
 善恶值	shàn è zhí	19
-扇耳光	shàn ěr guāng	248
-扇飞了	shàn fēi le	369
+扇耳光	shān ěr guāng	248
+扇飞了	shān fēi le	369
 闪粉饵	shǎn fěn ěr	54
 山粉糊	shān fěn hú	180
 闪粉胶	shǎn fěn jiāo	36
@@ -565819,7 +565822,7 @@ sort: by_weight
 山鬼钱	shān guǐ qián	52
 山鬼谣	shān guǐ yáo	274
 闪过了	shǎn guò le	882
-扇过去	shàn guò qù	52
+扇过去	shān guò qù	52
 陕国投	shǎn guó tóu	693
 山海拔	shān hǎi bá	22
 山海城	shān hǎi chéng	572
@@ -566012,7 +566015,7 @@ sort: by_weight
 闪了吧	shǎn le ba	193
 删了吗	shān le ma	13
 删了你	shān le nǐ	603
-扇了扇	shàn le shàn	52
+扇了扇	shān le shā	52
 删了删	shān le shān	52
 删了他	shān le tā	716
 删了我	shān le wǒ	846
@@ -566107,7 +566110,7 @@ sort: by_weight
 山门前	shān mén qián	612
 山门上	shān mén shàng	3
 山门外	shān mén wài	598
-扇懵了	shàn měng le	306
+扇懵了	shān mēng le	306
 闪米特	shǎn mǐ tè	352
 扇面画	shàn miàn huà	351
 山面前	shān miàn qián	518
@@ -566219,7 +566222,7 @@ sort: by_weight
 山山上	shān shān shàng	724
 闪山石	shǎn shān shí	4
 鄯善王	shàn shàn wáng	328
-扇扇子	shàn shàn zi	91
+扇扇子	shān shàn zi	91
 山上来	shān shàng lái	540
 山上了	shān shàng le	540
 山上面	shān shàng miàn	53
@@ -566308,7 +566311,7 @@ sort: by_weight
 苫思丁	shān sī dīng	175
 善思考	shàn sī kǎo	436
 膳丝面	shàn sī miàn	297
-扇死你	shàn sǐ nǐ	315
+扇死你	shān sǐ nǐ	315
 闪送员	shǎn sòng yuán	6
 膳宿费	shàn sù fèi	310
 山隧道	shān suì dào	1094
@@ -566545,7 +566548,7 @@ sort: by_weight
 删一个	shān yí gè	486
 闪一个	shǎn yí gè	308
 删一删	shān yì shān	252
-扇一扇	shàn yí shàn	52
+扇一扇	shān yí shān	52
 善意时	shàn yì shí	436
 闪一下	shǎn yí xià	675
 删一下	shān yí xià	323
@@ -566558,7 +566561,7 @@ sort: by_weight
 山阴城	shān yīn chéng	194
 山阴道	shān yīn dào	3
 山阴的	shān yīn de	346
-扇阴风	shàn yīn fēng	252
+扇阴风	shān yīn fēng	252
 山银花	shān yín huā	338
 山阴路	shān yīn lù	122
 山阴人	shān yīn rén	531
@@ -566674,7 +566677,7 @@ sort: by_weight
 钐中毒	shān zhòng dú	45
 山中湖	shān zhōng hú	9
 山中间	shān zhōng jiān	580
-扇肿了	shàn zhǒng le	315
+扇肿了	shān zhǒng le	315
 山中路	shān zhōng lù	724
 山中去	shān zhōng qù	400
 山中人	shān zhōng rén	436
@@ -573691,7 +573694,7 @@ sort: by_weight
 伸手派	shēn shǒu pài	130
 慎守勤	shèn shǒu qín	234
 伸手去	shēn shǒu qù	562
-伸手扇	shēn shǒu shàn	306
+伸手扇	shēn shǒu shān	306
 伸手掏	shēn shǒu tāo	472
 神兽王	shén shòu wáng	230
 伸手一	shēn shǒu yī	35
@@ -616513,7 +616516,7 @@ sort: by_weight
 他闪开	tā shǎn kāi	279
 他删了	tā shān le	716
 她删了	tā shān le	479
-他扇了	tā shàn le	190
+他扇了	tā shān le	190
 他山里	tā shān lǐ	207
 他善良	tā shàn liáng	612
 塔山路	tǎ shān lù	288
@@ -746649,7 +746652,7 @@ sort: by_weight
 尤善画	yóu shàn huà	252
 有删减	yǒu shān jiǎn	185
 又删了	yòu shān le	590
-又扇了	yòu shàn le	334
+又扇了	yòu shān le	334
 又闪了	yòu shǎn le	221
 游山恋	yóu shān liàn	9
 友善柔	yǒu shàn róu	279
@@ -821183,7 +821186,7 @@ sort: by_weight
 北山超市	běi shān chāo shì	162
 被删除了	bèi shān chú le	832
 被煽动了	bèi shān dòng le	256
-被扇耳光	bèi shàn ěr guāng	558
+被扇耳光	bèi shān ěr guāng	558
 北山黄公	běi shān huáng gōng	45
 北山酒馆	běi shān jiǔ guǎn	207
 北山酒精	běi shān jiǔ jīng	189
@@ -923760,7 +923763,7 @@ sort: by_weight
 风尚天地	fēng shàng tiān dì	45
 凤上铁路	fèng shàng tiě lù	288
 锋尚文化	fēng shàng wén huà	4
-缝上一针	fèng shàng yì zhēn	103
+缝上一针	féng shàng yì zhēn	103
 风尚造型	fēng shàng zào xíng	189
 锋尚之王	fēng shàng zhī wáng	212
 风尚之星	fēng shàng zhī xīng	50
@@ -976231,7 +976234,7 @@ sort: by_weight
 胡僧慧范	hú sēng huì fàn	117
 护山大阵	hù shān dà zhèn	47
 虎山东路	hǔ shān dōng lù	180
-互扇耳光	hù shàn ěr guāng	310
+互扇耳光	hù shān ěr guāng	310
 忽闪忽灭	hū shǎn hū miè	6
 忽闪忽闪	hū shǎn hū shǎn	97
 忽闪忽现	hū shǎn hū xiàn	9
@@ -1047301,7 +1047304,7 @@ sort: by_weight
 矿山布置	kuàng shān bù zhì	45
 矿山测量	kuàng shān cè liáng	320
 矿山地质	kuàng shān dì zhì	477
-狂扇耳光	kuáng shàn ěr guāng	328
+狂扇耳光	kuáng shān ěr guāng	328
 矿山法则	kuàng shān fǎ zé	45
 矿山防尘	kuàng shān fáng chén	45
 矿山防水	kuàng shān fáng shuǐ	45
@@ -1077830,6 +1077833,7 @@ sort: by_weight
 每个周末	měi gè zhōu mò	999
 每个专业	měi gè zhuān yè	828
 美格装饰	měi gé zhuāng shì	171
+没个准信	méi ge zhǔn xìn	91
 没给你回	méi gěi nǐ huí	207
 没给我回	méi gěi wǒ huí	446
 没给我讲	méi gěi wǒ jiǎng	266
@@ -1149204,8 +1149208,8 @@ sort: by_weight
 如何化解	rú hé huà jiě	886
 如何缓解	rú hé huǎn jiě	1089
 如何回答	rú hé huí dá	1152
-如何恢复	rú hé huī fù	828
-如何回复	rú hé huí fù	608
+如何回复	rú hé huí fù	828
+如何恢复	rú hé huī fù	608
 如何回退	rú hé huí tuì	4
 如何回向	rú hé huí xiàng	256
 如何回应	rú hé huí yìng	914
@@ -1159596,7 +1159600,7 @@ sort: by_weight
 擅自作主	shàn zì zuò zhǔ	59
 山棕床垫	shān zōng chuáng diàn	288
 山走石泣	shān zǒu shí qì	52
-扇嘴巴子	shàn zuǐ bā zǐ	279
+扇嘴巴子	shān zuǐ bā zǐ	279
 善作善成	shàn zuò shàn chéng	3
 擅作威福	shàn zuò wēi fú	9
 擅作主张	shàn zuò zhǔ zhāng	110
@@ -1380196,7 +1380200,7 @@ sort: by_weight
 肿瘤负荷	zhǒng liú fù hè	369
 肿瘤妇科	zhǒng liú fù kē	261
 众流归海	zhòng liú guī hǎi	6
-中六合彩	zhōng liù hé cǎi	25
+中六合彩	zhòng liù hé cǎi	25
 肿瘤患者	zhǒng liú huàn zhě	1027
 肿瘤疾病	zhǒng liú jí bìng	626
 中流击楫	zhōng liú jī jí	22
@@ -1393852,7 +1393856,7 @@ sort: by_weight
 紫砂之家	zǐ shā zhī jiā	252
 紫砂作品	zǐ shā zuò pǐn	387
 资善大夫	zī shàn dà fū	382
-自扇耳光	zì shàn ěr guāng	436
+自扇耳光	zì shān ěr guāng	436
 紫杉紫素	zǐ shān zǐ sù	50
 自伤八百	zì shāng bā bǎi	346
 自上到下	zì shàng dào xià	31
@@ -1457431,8 +1457435,8 @@ sort: by_weight
 山莨菪碱片	shān làng dàng jiǎn piàn	10
 山莨菪麝香	shān làng dàng shè xiāng	10
 善勒乌尔法	shàn lè wū ěr fǎ	10
-扇了一巴掌	shàn le yì bā zhang	10
-扇了一耳光	shàn le yī ěr guāng	10
+扇了一巴掌	shān le yì bā zhang	10
+扇了一耳光	shān le yī ěr guāng	10
 山里的孩子	shān lǐ de hái zi	10
 闪亮的爸爸	shǎn liàng de bà ba	10
 闪亮的宝石	shǎn liàng de bǎo shí	10
@@ -1535546,7 +1535550,7 @@ sort: by_weight
 一八烈士公墓	yī bā liè shì gōng mù	10
 一把屎一把尿	yì bǎ shǐ yì bǎ niào	10
 一八一二序曲	yī bā yī èr xù qǔ	10
-一巴掌扇过去	yì bā zhang shàn guò qù	10
+一巴掌扇过去	yì bā zhang shān guò qù	10
 一百二十八两	yī bǎi èr shí bā liǎng	10
 一百年的孤寂	yì bǎi nián de gū jì	10
 一百年很长吗	yì bǎi nián hěn cháng ma	10
