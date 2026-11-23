@@ -57230,9 +57230,9 @@ sort: by_weight
 鸡毫	jī háo	29
 集合	jí hé	17571
 几何	jǐ hé	11219
+几盒	jǐ hé	2326
+即合	jí hé	808
 稽核	jī hé	511
-即合	jí hé	408
-几盒	jǐ hé	326
 机核	jī hé	260
 吉河	jí hé	158
 济河	jì hé	138
@@ -73303,7 +73303,7 @@ sort: by_weight
 辣面	là miàn	954
 蜡面	là miàn	28
 蜡螟	là míng	32
-拉磨	lā mó	405
+拉磨	lā mò	405
 蜡膜	là mó	364
 蜡模	là mó	77
 拉膜	lā mó	61
@@ -129713,6 +129713,7 @@ sort: by_weight
 挺脏	tǐng zāng	734
 挺早	tǐng zǎo	336
 挺糟	tǐng zāo	173
+挺窄	tǐng zhǎi	121
 停战	tíng zhàn	1086
 停站	tíng zhàn	141
 厅长	tīng zhǎng	641
@@ -271924,6 +271925,7 @@ sort: by_weight
 但人品	dàn rén pǐn	572
 但任凭	dàn rèn píng	360
 但人气	dàn rén qì	819
+单人寝	dān rén qǐn	21
 但人情	dàn rén qíng	369
 但人却	dàn rén què	531
 但人群	dàn rén qún	378
@@ -351799,7 +351801,6 @@ sort: by_weight
 还在吃	hái zài chī	229
 还在打	hái zài dǎ	936
 还在等	hái zài děng	1224
-还在调	hái zài diào	50
 还在跌	hái zài diē	44
 还在堵	hái zài dǔ	3
 还在改	hái zài gǎi	47
@@ -351825,6 +351826,7 @@ sort: by_weight
 还在耍	hái zài shuǎ	374
 还在送	hái zài sòng	464
 还在算	hái zài suàn	396
+还在调	hái zài tiáo	50
 还在听	hái zài tīng	603
 还在玩	hái zài wán	864
 还在为	hái zài wèi	1504
@@ -371163,6 +371165,7 @@ sort: by_weight
 划进来	huá jìn lái	35
 滑进了	huá jìn le	518
 划进了	huá jìn le	361
+画进去	huà jìn qù	45
 滑进去	huá jìn qù	31
 划进去	huá jìn qù	28
 画锦堂	huà jǐn táng	50
@@ -446838,7 +446841,7 @@ sort: by_weight
 拉面上	lā miàn shàng	562
 拉面时	lā miàn shí	432
 拉面王	lā miàn wáng	6
-拉磨吧	lā mó ba	230
+拉磨吧	lā mò ba	230
 拉模扣	lā mó kòu	32
 拉莫特	lā mò tè	657
 拉姆达	lā mǔ dá	477
@@ -470158,7 +470161,7 @@ sort: by_weight
 铝框架	lǚ kuàng jià	333
 铝矿石	lǚ kuàng shí	251
 绿辣椒	lǜ là jiāo	630
-驴拉磨	lǘ lā mó	423
+驴拉磨	lǘ lā mò	423
 滤蓝光	lǜ lán guāng	536
 律劳卑	lǜ láo bēi	450
 吕老师	lǚ lǎo shī	752
@@ -581943,6 +581946,7 @@ sort: by_weight
 是人民	shì rén mín	1642
 市人民	shì rén mín	1167
 食人魔	shí rén mó	1086
+十人寝	shí rén qǐn	21
 食人肉	shí rén ròu	47
 食人鲨	shí rén shā	53
 噬人鲨	shì rén shā	48
@@ -592639,6 +592643,7 @@ sort: by_weight
 双人墓	shuāng rén mù	39
 双人旁	shuāng rén páng	35
 双人票	shuāng rén piào	364
+双人寝	shuāng rén qǐn	21
 双人赛	shuāng rén sài	594
 双人跳	shuāng rén tiào	28
 双人位	shuāng rén wèi	490
@@ -701929,6 +701934,7 @@ sort: by_weight
 写好后	xiě hǎo hòu	644
 写好看	xiě hǎo kàn	29
 写好了	xiě hǎo le	2176
+歇好了	xiē hǎo le	322
 写好呢	xiě hǎo ne	356
 写好字	xiě hǎo zì	630
 卸荷阀	xiè hé fá	162
@@ -722660,6 +722666,7 @@ sort: by_weight
 药师奴	yào shī nú	279
 钥匙牌	yào shi pái	315
 钥匙盘	yào shi pán	25
+要适配	yào shì pèi	311
 钥匙胚	yào shi pēi	32
 钥匙坯	yào shi pī	32
 钥匙片	yào shi piàn	32
@@ -962400,7 +962407,6 @@ sort: by_weight
 还在打嗝	hái zài dǎ gé	207
 还在等待	hái zài děng dài	214
 还在等她	hái zài děng tā	6
-还在调查	hái zài diào chá	25
 还在吊水	hái zài diào shuǐ	76
 还在封控	hái zài fēng kòng	4
 还在干活	hái zài gàn huó	369
@@ -962437,6 +962443,7 @@ sort: by_weight
 还在使用	hái zài shǐ yòng	706
 还在睡觉	hái zài shuì jiào	270
 还在探索	hái zài tàn suǒ	308
+还在调查	hái zài tiáo chá	25
 还在吐沙	hái zài tǔ shā	25
 还在途中	hái zài tú zhōng	374
 还在外面	hái zài wài miàn	327
@@ -1177895,7 +1177902,7 @@ sort: by_weight
 世纪华阳	shì jì huá yáng	194
 世纪华园	shì jì huá yuán	75
 市级环保	shì jí huán bǎo	464
-世纪环境	shì jì huán jìng	225
+实际环境	shí jì huán jìng	225
 世纪皇朝	shì jì huáng cháo	45
 世纪皇冠	shì jì huáng guān	315
 世纪皇家	shì jì huáng jiā	279
@@ -1518934,6 +1518941,7 @@ sort: by_weight
 耐化学药品性	nài huà xué yào pǐn xìng	10
 耐火的防燃剂	nài huǒ de fáng rán jì	12
 乃甲切木石窟	nǎi jiǎ qiè mù shí kū	10
+奈奎斯特极限	nài kuí sī tè jí xiàn	10
 奈奎斯特频率	nài kuí sī tè pín lǜ	12
 奈奎斯特曲线	nài kuí sī tè qū xiàn	10
 奈奎斯特速率	nài kuí sī tè sù lǜ	10
@@ -1550890,7 +1550898,6 @@ sort: by_weight
 个体工商户注册	gè tǐ gōng shāng hù zhù cè	10
 个体劳动者协会	gè tǐ láo dòng zhě xié huì	10
 歌舞大王齐格飞	gē wǔ dà wáng qí gé fēi	10
-歌舞大王齐格菲	gē wǔ dà wáng qí gé fēi	10
 各项社会保险费	gè xiàng shè huì bǎo xiǎn fèi	10
 各乡镇党委书记	gè xiāng zhèn dǎng wěi shū jì	10
 各乡镇人民政府	gè xiāng zhèn rén mín zhèng fǔ	10
@@ -1553121,7 +1553128,6 @@ sort: by_weight
 两栖装甲侦察车	liǎng qī zhuāng jiǎ zhēn chá chē	10
 两情若是久长时	liǎng qíng ruò shì jiǔ cháng shí	10
 两人对酌山花开	liǎng rén duì zhuó shān huā kāi	10
-两三星火是瓜州	liǎng sān xīng huǒ shì guā zhōu	10
 两三星火是瓜洲	liǎng sān xīng huǒ shì guā zhōu	10
 两山排闼送青来	liǎng shān pái tà sòng qīng lái	10
 良药苦口利于病	liáng yào kǔ kǒu lì yú bìng	10
